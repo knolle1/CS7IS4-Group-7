@@ -1,0 +1,41 @@
+qs_ranking,institution,focus,Pdf_name_or_link,location ,continent,year_estabished,private_public,type,strategy_start,strategy_end,pdf
+102,University of Wisconsin-Madison ,FC,1.txt,United States,North America,1848,Public,all streams,2023,2028,1
+103,The Pontifical Catholic University of Chile,FC,2.txt,Chile,South America,1888,Private,all streams,2020,2025,1
+104,The University of Sheffield,FC,3.txt,United Kingdom,Europe,1905,Public,all streams,2021,2025,1
+105,Uppsala University,FC,4.txt,Sweden,Europe,1477,Public,all streams,2019,,1
+107,University of Copenhagen,FC,5.txt,Denmark,Europe,1479,Public,all streams,2023,2030,1
+118,University of California Davis,FC,6.txt,United States,North America,1905,Public,all streams,2022,2032,1
+114,Western University,FC,7.txt,Canada,North America,1878,Public,research,2021,2028,1
+115,University of Helsinki,CO,8.txt,Finland,Europe,1640,Public,all streams,2021,2030,0
+119,"KIT,Karlsruhe Institute of Technology",CO,9.txt,Germany,Europe,1825,Public,research,,2025,0
+123,The Polytechnic University of Milan,FO,10.txt,Italy,Europe,1863,Public,technological,2023,2025,1
+124,Eindhoven University of Technology,FO,11.txt,Netherlands,Europe,1956,Public,technological,2018,2030,1
+130,Macquarie University ,FC,12.txt,Australia,Australia,1964,Public,research,2020,2024,1
+134,Texas A&M University,FC,13.txt,United States,North America,1876,Public,research,2022,2027,1
+134,Sapienza University of Rome,FC,14.txt,Italy,Europe,1303,Public,all streams,2016,2021,1
+143,King Abdulaziz University ,FC,15.txt,Saudi Arabia,Asia,1967,Public,all streams,2022,2027,1
+148,University of Bath ,CO,16.txt,United Kingdom,Europe,1966,Public,research,2021,2026,1
+140,RMIT University,CO,17.txt,Australia,Australia,1887,Public,all streams,2022,2031,1
+141,Nanjing University,FC,18.txt,China,Asia,1902,Public ,all streams,2024,2026,1
+143,Aarhus University,FC,19.txt,Denmark,Europe,1928,Public,all streams,2020,2025,1
+145,Rice University ,FC,20.txt,United States,North America,1912,Private,all streams,2017,2027,1
+158,University of Putra Malaysia ,FC,21.txt,Malaysia,Asia,1931,Public,research,2021,2025,0
+149,Indian Institute of Technology Bombay,CO,22.txt,India,Asia,1958,Public,technological,2017,2022,1
+154,Cardiff University,FC,23.txt,United Kingdom,Europe,1883,Public,all streams,2022,2030,1
+159,Ghent University,FC,24.txt,Belgium,Europe,1817,Public,research,,,1
+162,University of  Wollongong,FC,25.txt,Australia,Australia,1951,Public,all streams,2020,2025,1
+151,The Ohio State University,FC,26.txt,United States,North America,1870,Public,all streams,2016,2020,1
+164,Kyushu University,FC,27.txt,Japan,Asia,1911,Public,all streams,2021,2030,1
+169,University of Maryland,FC,28.txt,United States,North America,1856,Public,all streams,2022,,1
+173,Qatar University ,FC,29.txt,Qatar,Asia,1973,Public,research,2018,2023,1
+173,University of Cape Town,FC,30.txt,South Africa,Africa,1829,Public,all streams,2021,2030,1
+176,Nagoya University ,FC,31.txt,Japan,Asia,1939,Public,all streams,,2020,1
+180,King Fahd University of Petroleum & Minerals,FC,32.txt,Saudi Arabia,Asia,1963,Public,all streams,2021,2030,0
+189,McMaster University,FC,33.txt,Canada,North America,1887,Public,all streams,2021,2024,1
+192,Ecole des Ponts ParisTech,FO,34.txt,France,Europe,1747,Public,technological,,,0
+171,University College Dublin,FC,35.txt,Ireland,Europe,1854,Public,all streams,2021,2024,1
+195,University of Minnesota Twin Cities,FC,36.txt,United States,North America,1851,Public,all streams,2021,2025,1
+197,Indian Institute of Technology Delhi,CO,37.txt,India,Asia,1961,Public,technological,2020,2030,1
+198,University of the Andes Colombia,FC,38.txt,United States,North America,1948,Private,all streams,2021,2025,1
+196,Hokkaido University,FC,39.txt,Japan,Asia,1876,Public,all streams,2021,2040,1
+199,Waseda University ,CO,40.txt,Japan,Asia,1882,Private,research,2012,2032,0

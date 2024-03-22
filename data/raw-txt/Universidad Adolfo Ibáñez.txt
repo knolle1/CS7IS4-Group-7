@@ -1,0 +1,1211 @@
+Liderar la construcción
+de un mundo sostenible
+Liderar la construcción
+de un mundo sostenible
+0103
+04 0205
+06
+UNIVERSIDAD ADOLFO IBÁÑEZPRÓLOGO
+INTRODUCCIÓN
+EJES ESTRATÉGICOSINICIATIVAS
+EMBLEMÁTICAS
+NUESTROS 
+COMPROMISOSVISIÓN Y MISIÓN
+FOREWORD
+INTRODUCTION
+STRATEGIC PILLARSSIGNATURE INITIATIVES
+OUR COMMITMENTS VISION AND MISSION P. 04
+P. 06
+P. 14P. 40
+P. 44P. 13
+
+1
+5FACULTAD DE INGENIERÍA Y CIENCIAS UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+4PRÓLOGO
+_ FOREWORD
+Al momento de redactar este documento, Chile y el mundo 
+buscan frenéticamente encontrar respuestas a inmensos 
+desafíos que afectan de manera crucial a la humanidad 
+y a toda forma de vida en el planeta. Tanto así, que los 
+modelos de crecimiento económico y social establecidos 
+parecen estar perdiendo legitimidad, cuestionándose 
+los equilibrios y acuerdos previamente alcanzados e 
+impulsándonos, a pasos acelerados, a hacernos cargo 
+de diseñar activamente nuestro futuro.
+Afortunadamente, la irrupción de tecnologías computa -
+cionales de alto desempeño, distribuidas y en la nube, 
+junto a la creciente capacidad de captura, procesamiento 
+y análisis de datos, nos permiten hoy estudiar virtual -
+mente múltiples escenarios y prototipar sus posibles 
+soluciones, proveyéndonos así de mejores respuestas 
+(¡o quizás de más preguntas!). Así, la digitalización en sí 
+constituye la piedra angular para conceptualizar, diseñar, 
+implementar y operar cualquier sistema inteligente con 
+miras a garantizar su propia sostenibilidad.
+Todo lo anterior hace extremadamente complejo, y 
+al mismo tiempo fascinante, el ejercicio de imaginar 
+estrategias que conlleven a nuevos y mejores modelos 
+de convivencia social. Para esto necesitaremos generar 
+oportunidades respetando nuestro entorno enmarcados 
+en un contexto global; en un mundo que es, al mismo 
+tiempo, diverso, incierto y dinámico. Un mejor aprove -
+chamiento de nuestros recursos humanos y naturales, 
+sin comprometer aquellos que futuras generaciones 
+necesitarán, requiere de un pensamiento interdisciplinario, 
+sistémico y vanguardista. → 01
+Desde esa perspectiva, y con una mirada hacia el 2030, 
+nuestra Facultad asume con optimismo y responsabili -
+dad el desafío de contribuir activamente al desarrollo 
+sostenible. Inspirados por este propósito y entendiendo 
+que instaurar una cultura digital que incorpore Data 
+Science en todo nuestro quehacer es fundamental para 
+generar la sostenibilidad deseada, hemos sintetizado 
+nuestro plan estratégico para los próximos cinco años 
+en la fórmula Smart+Sustainable. 
+En las páginas que siguen presentamos cómo esta fórmula 
+guiará la dirección que daremos a nuestra formación de 
+pregrado y postgrado; cómo inﬂuirá en el impacto y alcance 
+de la investigación; cómo permeará en la transferencia 
+de conocimiento e innovación y ﬁnalmente, cómo nos 
+permitirá catalizar cambios en nuestros ecosistemas. 
+Así, invitamos a toda nuestra comunidad a llevar adelante 
+este Plan Estratégico, resultado de un ejercicio colaborativo, 
+para que en conjunto alcancemos las ambiciosas metas 
+que nos hemos propuesto. Todos los aportes, miradas 
+y talentos, desde el más pequeño al más grande, nos 
+permitirán construir un mundo sostenible. CARLOS JEREZ HANCKES
+Decano_ At the time of writing this document, Chile and the World 
+frantically seek to ﬁnd answers to immense challenges 
+that crucially aﬀect humanity and all life on the planet. 
+So much so, that the established economic and social 
+growth models seem to be losing legitimacy, questioning 
+the equilibriums and agreements previously reached and 
+driving us, at accelerated steps, to take charge of actively 
+designing our future.
+Fortunately, the emergence of high-performance, distributed 
+and cloud computing technologies, along with increasing 
+capacity for data collection, processing and analysis, 
+today allow us to virtually study multiple scenarios 
+and prototype their possible solutions, thus providing 
+us with better responses (or maybe more questions!). 
+Digitalization itself is therefore the cornerstone for the 
+conceptualization, design, implementation and operation 
+of any smart system with a view to guaranteeing its 
+own sustainability.
+All of the above makes the exercise of imagining strategies 
+that lead to new and better models of social coexistence 
+extremely complex and fascinating at the same time. To 
+do this, we will need to generate opportunities that respect 
+our environment and are framed in a global context; in 
+a world that is also diverse, uncertain and dynamic. A 
+better use of our human and natural resources, without 
+compromising those that future generations will need, 
+requires interdisciplinary, systemic and avant-garde thinking.From this perspective, and with a view towards 2030, our 
+faculty assumes the challenge of actively contributing to 
+sustainable development with optimism and responsibility. 
+Inspired by this purpose, and understanding that establishing 
+a digital culture that incorporates Data Science into all of 
+our work is essential to achieving the desired sustainability, 
+we have synthesized our strategic plan for the next ﬁve 
+years in the Smart+Sustainable formula.
+On the following pages we present how this formula will 
+set the direction we will give to our undergraduate and 
+graduate training; how it will inﬂuence the impact and 
+scope of our research; how it will permeate the transfer of 
+knowledge and innovation, and ﬁnally, how it will allow 
+us to catalyze changes in our ecosystems.
+We therefore invite our entire community to implement 
+and carry out this Strategic Plan, the result of a collaborative 
+exercise, so that together we can reach the ambitious goals 
+that we have set for ourselves. All contributions, points 
+of view and talents, from the smallest to the largest, will 
+allow us to build a sustainable world.“NECESITAREMOS GENERAR 
+OPORTUNIDADES RESPETANDO 
+NUESTRO ENTORNO”. 
+_ “We will need to generate opportunities that respect
+our environment and are framed in a global context”.
+_Dean
+
+2 SPACE EXPLORATION
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+7UNIVERSIDAD ADOLFO IBÁÑEZ FACULTAD DE INGENIERÍA Y CIENCIAS6En este contexto las nuevas tecnologías tienen un rol 
+protagónico, la ingeniería y las ciencias tienen la oportuni -
+dad de liderar las grandes transformaciones y soluciones 
+a desafíos que serán cada vez más complejos y críticos. 
+¿Cómo no inspirarse ante las inﬁnitas oportunidades que 
+abren los avances cientíﬁco-tecnológicos y la forma en 
+la que pueden integrarse a nuestra sociedad? ¿Cómo no 
+sentir curiosidad ante aquellas oportunidades que aún 
+ni hemos imaginado, pero que esperan ser abordadas? 
+Estos cambios generan incertidumbre respecto a sus 
+impactos: ¿los avances cientíﬁcos y tecnológicos traerán 
+consigo el bienestar esperado? Lo cierto es que el futuro 
+es un blanco móvil y está determinado por cómo lo imagi -
+nemos y por las acciones que emprendamos para avanzar 
+en una determinada dirección. ¿Cómo podemos avanzar 
+hacia una minería verde? ¿Cómo abordamos la gestión 
+eﬁciente de nuestros recursos hídricos para enfrentar la 
+crisis del agua y la situación mundial de sequía?  ¿Qué se 
+requiere para lograr que la producción de alimentos se 
+realice de manera sostenible? ¿Hasta dónde es posible 
+avanzar en la creación de nuevos materiales que nos 
+permitan modiﬁcar radicalmente las tecnologías? El futuro es ahora; la ingeniería y las ciencias nos dan la 
+libertad para elegir la dirección que queremos tomar. 
+Abordar los desafíos de nuestra sociedad, plasmados 
+en el conjunto de Objetivos de Desarrollo Sostenible 
+de la Organización de las Naciones Unidas, es la tarea 
+que ha deﬁnido la hoja de ruta de nuestra Facultad en 
+los próximos años. Solo así podremos contribuir con 
+nuestro quehacer al bienestar de nuestro planeta e im -
+pactar positivamente a las futuras generaciones. Desde 
+la academia podemos contribuir a esta tarea a través de 
+la excelencia en la formación de ingenieras e ingenieros 
+que puedan contar con las herramientas y habilidades 
+necesarias para adaptarse de manera creativa y oportuna 
+a estos cambios vertiginosos. Nuestro compromiso es 
+avanzar en la generación de nuevo conocimiento que 
+nos permita transitar decididamente hacia el futuro que 
+hemos imaginado. Queremos que desde la diversidad 
+de las ideas, habilidades y experiencias de toda nuestra 
+comunidad seamos capaces de agregar valor social y 
+económico a nuestro país, aportando con soluciones 
+innovadoras que permitan contribuir a la construcción 
+de un mundo sostenible.INTRODUCCIÓN
+_ INTRODUCTION
+LA SOCIEDAD SE ENFRENTA HOY
+A CAMBIOS VERTIGINOSOS QUE NOS OBLIGAN 
+A ESTAR ALERTA Y A ANTICIPARNOS.
+REACCIONAR NO ES OPCIÓN._ In this context, new technologies play a leading role: 
+Engineering and Science have the opportunity to lead 
+the major transformations and solutions to challenges 
+that are becoming increasingly complex and critical. How 
+can we not be inspired by the endless opportunities that 
+scientiﬁc and technological advances open up and by 
+the ways these can be integrated into our society? How 
+can we not be curious about those possibilities not even 
+imagined, but waiting to be addressed?
+These changes create uncertainty regarding their impact: 
+Will scientiﬁc and technological advances bring about 
+the expected well-being? The truth is that the future is 
+a moving target and is determined by how we imagine 
+it and by the actions we undertake to move forward in 
+a  particular direction. How can we shift towards green 
+mining? How do we deal with the eﬃcient management of 
+our water resources to face the water crisis and the global 
+drought situation? What is required to ensure that food 
+production is carried out in a sustainable way? How far 
+is it possible to advance in the creation of new materials that allow us to radically modify technologies? The future 
+is here; engineering and science give us the freedom to 
+choose the direction we want to take.
+Addressing the challenges of our society, embodied in 
+the set of Sustainable Development Goals of the United 
+Nations, is the task that has defined the roadmap of 
+our faculty in the coming years. Only in this way can we 
+contribute to the well-being of our planet and positively 
+impact future generations with our work. In academia, we 
+can contribute to these goals through excellence in the 
+training of engineers who can count on the tools and skills 
+required to adapt to these fast changes in a creative and 
+timely way. We are committed to driving the generation 
+of new knowledge that enables us to move decisively into 
+the future we have envisioned. We require the diversity of 
+the ideas, skills and experiences of our entire community 
+to add social and economic value to our country, and to 
+contribute to building a sustainable world through the 
+development of innovative solutions._ Society today faces dizzying changes that force us to be alert 
+and foresighted. Reacting is not an option. → 02
+
+URBAN & BUILT ENVIROMENT
+9UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+81. Fin de la pobreza
+2. Hambre cero
+3. Salud y bienestar
+4. Educación de calidad
+5. Igualdad de género
+6. Agua limpia y saneamiento
+7. Energía asequible y no contaminante
+8. Trabajo decente y crecimiento económico
+9. Industria, innovación e infraestructura10. Reducción de las desigualdades
+11. Ciudades y comunidades sostenibles
+12. Producción y consumo responsable
+13. Acción por el clima
+14. Vida submarina
+15. Vida de ecosistemas terrestres
+16. Paz, justicia e instituciones sólidas
+17. Alianzas para lograr los objetivos
+
+11FACULTAD DE INGENIERÍA Y CIENCIAS UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+10
+MATERIALS & 
+MANUFACTURING
+WATER & NATURAL 
+RESOURCES
+FOOD
+URBAN & BUILT 
+ENVIROMENT
+SPACE EXPLORATION
+ENERGY
+MINING
+HEALTH &
+WELLBEINGSTEAM
+SCIENCE  /  TECHNOLOGY  /  ENGINEERING  /  ARTS  /  MATHEMATICS
+SUSTAINABLEGRACIAS A LAS INTERACCIONES QUE
+GENERAREMOS EN LAS DISTINTAS ÁREAS STEAM,
+HABILITAMOS LA FÓRMULA SMART+SUSTAINABLE
+EN CADA DOMINIO DE IMPACTO SEÑALADO.
+_ Thanks to the interactions fostered among diﬀerent STEAM areas, we 
+enable the Smart+Sustainble formula in each domain of impact described.Nuestra Facultad busca potenciar los talentos de cada 
+miembro de nuestra comunidad - como estudiantes, 
+académicos, colaboradores, exalumnos y empresas - 
+sabiendo que aquello que buscamos solo se consigue 
+a través de la sinergia entre actores diversos. A través 
+de una sólida formación en disciplinas vinculadas a las 
+ciencias, tecnología, ingeniería, artes y matemáticas 
+(STEAM por sus siglas en inglés), una investigación 
+rigurosa y coherente con las necesidades cambiantes de 
+nuestro mundo, así como de la revolución digital, junto 
+una mentalidad innovadora y emprendedora buscamos 
+generar un círculo virtuoso que potencie el alcance 
+de nuestro impacto. Son estas interacciones las que 
+precisamente habilitan la fórmula Smart+Sustainable. 
+En los próximos años buscamos traspasar fronteras, de 
+manera insospechada, en áreas como la minería, energía, 
+manejo sostenible del agua y otros recursos naturales, 
+salud, manufactura y nuevos materiales, alimentación 
+y, por qué no, en exploración espacial._ Our Faculty seeks to enhance the talents of each member 
+of our community – such as students, academics, staﬀ, 
+alumni and companies – because we are certain that 
+what we pursue can only be achieved through the synergy 
+between these diﬀerent stakeholders. Through a solid 
+training in disciplines related to Science, Technology, 
+Engineering, Arts and Mathematics (STEAM), a rigorous 
+research in line with the changing needs of our world, 
+as well as with the digital revolution, along with an 
+innovative and entrepreneurial mentality, we seek to 
+generate a virtuous circle that enhances the scope of 
+our impact. It is precisely these interactions that render 
+the Smart+Sustainable formula feasible.
+In the coming years, we want to cross borders – in 
+unexpected way – in areas such as mining, energy, 
+sustainable management of water and other natural 
+resources, health, manufacturing and new materials, 
+food and, why not, also in space exploration.SMART→ 02
+EDUCATION
+
+3
+13UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+12Ser un referente nacional e internacional en la formación 
+de las futuros ingenieros e ingenieras a través de una 
+educación de excelencia y de vanguardia que, junto a la 
+generación de conocimiento de frontera, trascienda al 
+ámbito público y privado impactando positivamente en 
+el desarrollo integral y sostenible de nuestra sociedad. 
+_ To be a national and international reference in the training 
+of future engineers, through an education of excellence 
+and avant-garde that, together with the generation of 
+frontier knowledge, transcends the public and private 
+sphere, positively impacting the integral and sustainable 
+development of our society.
+Liderar la construcción de un mundo sostenible a través del 
+desarrollo y la transferencia de conocimiento cientíﬁco y 
+tecnológico que impacte y contribuya a la sociedad en un 
+contexto de cambios vertiginosos y nuevos desafíos. Para 
+ello será necesario tomar riesgos y mirar hacia el futuro 
+con una visión innovadora y una actitud perseverante.
+_ To lead the construction of a sustainable world by 
+developing and transferring scientiﬁc and technological 
+knowledge that impacts and contributes to society in the 
+face of dizzying changes and new challenges. This will 
+require taking risks and looking into the future with an 
+innovative vision and a persevering attitude.VISIÓN Y MISIÓN
+_ VISION AND MISSION 
+VISIÓN
+_ VISION
+_ MISSIONMISIÓN→ 03
+
+4PARA LIDERAR LA CONSTRUCCIÓN
+DE UN MUNDO SOSTENIBLE SE REQUIERE 
+DE LA INTERACCIÓN VIRTUOSA
+DE DIVERSAS INICIATIVAS ENMARCADAS 
+EN CUATRO EJES ESTRATÉGICOS.
+_ In order to advance the construction of a sustainable world, 
+the virtuous interaction of various initiatives is required. These 
+are grouped into four strategic pillars.
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+15UNIVERSIDAD ADOLFO IBÁÑEZ14Estos ejes en conjunto posibilitarán que desde STEAM 
+podamos generar ecosistemas que impacten nuestro 
+entorno con un espíritu Smart+Sustainable. Asimismo, 
+el apoyo sistemático de las áreas de gestión, comunica -
+ciones e internacionalización son fundamentales para 
+potenciar la agilidad, visibilidad y alcance de las inicia -
+tivas que conforman este Plan Estratégico 2020-2024.
+_ These four strategic pillars will allow us to inﬂuence our 
+environment with a Smart+Sustainable spirit based on 
+STEAM. Likewise, the systematic support from the areas of 
+management, communications and internationalization 
+is fundamental to enhancing the agility, visibility and 
+scope of the initiatives that make up this 2020-2024 
+Strategic Plan.INNOVACIÓN Y EMPRENDIMIENTOOFERTA DE POSTGRADOS DIVERSA
+ALCANCE E IMPACTONUEVOS INGENIEROS E
+ECOSISTEMA VIRTUOSO DEY DE VANGUARDIA
+INVESTIGACIÓN DE MAYORINGENIERAS PARA EL 2030EJES ESTRATÉGICOS
+_ STRATEGIC PILLARS→ 04
+1. New engineers for 2030
+2. Diverse and cutting-edge postgraduate education oﬀer
+3. Research of greater scope and impact
+4. Virtuous ecosystem of innovation and entrepreneurship
+
+17UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+FACULTAD DE INGENIERÍA Y CIENCIAS16→ 04
+Requerimos de ingenieros e ingenieras que miren hacia el futuro, sean protagonistas 
+de su proceso formativo pensando en cómo quieren contribuir a la sociedad. Queremos 
+formar profesionales de primer nivel, íntegros y conscientes de la heterogeneidad 
+del mundo que les rodea y con una formación sólida en la lógica Smart+Sustainable. 
+Aspiramos a que la comunidad estudiantil desarrolle un nuevo mindset que estimule 
+su creatividad, les permita anticiparse y adaptarse rápidamente a un entorno dinámico, 
+y posibilite su transformación en agentes de cambio que contribuyan activamente 
+a crear nuevas realidades.NUEVOS INGENIEROS
+E INGENIERAS PARA EL 2030
+We need engineers who look into the future, who are protagonists in their own education 
+and are concerned about how to contribute to society. We want to train ﬁrst level 
+professionals who are honest and aware of the heterogeneity of the world around 
+them, and have a solid training in the Smart+Sustainable logic. We want the student 
+community to develop a new mindset that stimulates their creativity, that enables them 
+to anticipate and quickly adapt to a dynamic environment, and that transforms them 
+into agents of change actively contributing to the creation of new realities._ NEW ENGINEERS FOR 2030
+Buscamos que el todo sea mayor a la suma de las partes. Para ello requerimos de una 
+comunidad diversa y de un entorno que propicie el desarrollo de una mentalidad 
+innovadora y emprendedora. La vinculación virtuosa con el medio y entre cada 
+miembro de nuestra comunidad, contribuirá a generar un impacto aún más amplio 
+en nuestro entorno.ECOSISTEMA VIRTUOSO DE
+INNOVACIÓN Y EMPRENDIMIENTO_ VIRTUOUS ECOSYSTEM OF INNOVATION
+AND ENTREPRENEURSHIP
+Our aim is for the whole to be greater than the sum of the parts. For this, we require a 
+diverse community and an environment that fosters the development of an innovative 
+and entrepreneurial mindset. The virtuous connection between each member of our 
+community, will contribute to making an even greater impact on our environment.Necesitamos de una mayor dotación de capital humano avanzado y especializado en 
+disciplinas relevantes para el cumplimiento de los objetivos de desarrollo sostenible. 
+Nuestra fuerza laboral debe actualizarse permanentemente para responder a la 
+creciente demanda de nuevas habilidades. Para ello, la educación de postgrado, tanto 
+académica como ejecutiva, debe convertirse en un motor que empuje el desarrollo 
+tanto analógico como digital de nuestra sociedad.OFERTA DE POSTGRADOS DIVERSA
+Y DE VANGUARDIA
+In order to achieve the sustainable development goals, we need to increase and enhance 
+our human capital in relevant disciplines. Our workforce needs to undergo continuous 
+training in order to respond to the growing demand for new skills. For this purpose, 
+academic and executive graduate education must become an engine that drives the 
+analog and digital development of our society._ DIVERSE AND CUTTING-EDGE
+GRADUATE EDUCATION OFFER
+Desde la rigurosidad cientíﬁca que nos caracteriza, nuestra comunidad en investigación 
+está comprometida con aportar a cimentar el camino que nos lleve hacia el futuro 
+que hemos imaginado en aquellas áreas de nuestro entorno en las que podemos 
+generar un impacto positivo bajo la fórmula Smart+Sustainable.INVESTIGACIÓN DE MAYOR
+ALCANCE E IMPACTO_ RESEARCH OF GREATER SCOPE AND IMPACT
+Based on the scientiﬁc rigor that characterizes us, our research community is committed 
+to consolidating the path that leads us into the future that we have envisioned in 
+those areas of our environment where we can generate a positive impact under the 
+Smart+Sustainable formula.
+
+19UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+18NUEVOS PARADIGMAS
+Junto al pensamiento crítico impulsado por una formación 
+en artes liberales, nuestros ingenieros e ingenieras requieren 
+desarrollar una visión del mundo desde nuevos paradigmas 
+vinculados a la revolución digital y la sostenibilidad. Esta 
+nueva forma de pensar les permitirá adaptarse a un entorno 
+cambiante que requiere de soluciones efectivas a problemas 
+cada vez más complejos.NEW PARADIGMS
+Along with the critical thinking driven by our liberal arts 
+training, our engineers have to develop a world view from 
+new paradigms that are associated with the digital revolution 
+and sustainability. This new way of thinking will enable them 
+to adapt to a changing environment that requires eﬀective 
+solutions to increasingly complex problems.
+→ ADN SMART+SUSTAINABLE
+Independiente de las especializaciones que sigan, los 
+nuevos ingenieros e ingenieras, requerirán ser compe -
+tentes en el uso de las herramientas de Data Science, 
+entendiendo sus limitaciones y ventajas. Al mismo 
+tiempo, nuestro modelo educativo debe incorporar 
+activamente elementos que permitan entregar una 
+mirada articulada de sostenibilidad con bases sólidas 
+y experiencias concretas.
+→ DESARROLLO TEMPRANO DE INTERESES
+Los escenarios inciertos que enfrentan nuestras alumnas 
+y alumnos requieren de una formación que considere la 
+aplicación práctica del conocimiento que van adquirien -
+do a lo largo de sus estudios. Para ello es fundamental 
+potenciar su interés en las áreas de investigación, in -
+novación y emprendimiento mediante iniciativas como 
+talleres de emprendimiento y de investigación dirigida.
+→ PERSPECTIVA GLOBAL
+El mundo en el que estamos insertos requiere de estu -
+diantes pensando más allá de las fronteras de Chile.  Para 
+ello es necesario estimular su comprensión del mundo 
+y sus conexiones internacionales a través de una amplia 
+oferta de programas de intercambio, de colaboración con 
+estudiantes extranjeros y de pasantías fuera del país.  → SMART+SUSTAINABLE DNA
+Regardless of their future specialization, the new engineers 
+must be competent in the use of Data Science tools while 
+understanding  their limitations and advantages. At the 
+same time, our educational model must actively incorporate 
+elements that enable us to provide an articulated view 
+of sustainability with solid foundations and concrete 
+experiences.
+→ EARLY INTEREST DEVELOPMENT
+The uncertain scenarios faced by our students require 
+training that takes into account the practical application 
+of knowledge acquired during their studies. For this, it is 
+essential to enhance their interest in the areas of research, 
+innovation and entrepreneurship through initiatives such 
+as hands on workshops and guided research.
+→ GLOBAL PERSPECTIVE
+The world in which we currently live requires students 
+thinking beyond the borders of Chile. For this, it is necessary 
+to promote their understanding of the world and their 
+international connections through a wide range of 
+exchange programs, collaboration with foreign students 
+and internships abroad. Estudiantes desempeñándose en: / Students pursuing:
+La construcción de un mundo sostenible requiere de 
+profesionales capaces de pensar críticamente y cuestionarse, 
+así como anticiparse y adaptarse rápidamente a cambios 
+tecnológicos y sociales, creando nuevas realidades y 
+vinculándose responsablemente con su entorno.
+_ Building a sustainable world requires professionals who are able to 
+think critically and question themselves, as well as anticipate and adapt 
+quickly to technological and social changes, creating new realities and 
+responsibly connect with their surroundings._ NEW ENGINEERS BY 2030NUEVOS INGENIEROS
+E INGENIERAS PARA EL 2030
+METAS 2024
+_ GOALS 2024
+ÁMBITO PROFESIONAL
+Professional career
+INVESTIGACIÓN
+Research
+EMPRENDIMIENTO
+Entrepreneurship
+
+WATER & NATURAL RESOURCESMETODOLOGÍAS Y CONTENIDOS 
+DE VANGUARDIA
+Nuestra Facultad está comprometida con la incorporación 
+de nuevos contenidos y metodologías de enseñanza que 
+potencien el desarrollo de nuevas habilidades en la comunidad 
+estudiantil; así como con la implementación de tecnologías 
+y herramientas digitales que potencien el aprendizaje 
+efectivo durante todas las etapas de la carrera estudiantil.STATE-OF-THE ART 
+METHODOLOGIES AND CONTENTS
+Our faculty strives to incorporate novel contents and teaching 
+methodologies that promote the development of new skills in 
+the student community as well as to implement technologies 
+and digital tools that enhance eﬀective learning during all 
+stages of our educational programs.
+FACULTAD DE INGENIERÍA Y CIENCIAS→ APRENDIZAJE BASADO EN DESAFÍOS
+Comprometidos con una formación de primer nivel y 
+alineada con estándares internacionales en educación, 
+nuestra Facultad implementará un nuevo marco de 
+aprendizaje que potencie el pensamiento crítico y au -
+tónomo, junto con el trabajo colaborativo, que permita 
+abordar desafíos cuyas soluciones no son conocidas y 
+en donde el proceso mismo es a veces más relevante 
+que el resultado.
+→ EDUCACIÓN DIGITAL
+La incorporación de tecnologías y herramientas digitales 
+en los procesos de aprendizaje es clave para potenciar 
+la formación de nuestros estudiantes durante todas las 
+etapas de su carrera. Es por ello que avanzaremos hacia 
+nuevas modalidades de enseñanza que utilicen lo análogo 
+y lo digital de manera mixta, interactiva y productiva.→ CHALLENGE-BASED LEARNING
+Our faculty is committed to conduct top level training 
+programs aligned with international standards in education. 
+We will implement a new learning framework that 
+promotes critical and autonomous thinking together with 
+collaborative work, which allows addressing challenges 
+whose solutions are not known and in which the process 
+itself is sometimes more relevant than the result.
+→ DIGITAL EDUCATION
+The inclusion of digital technologies and tools in the 
+learning processes is key to improving the training of our 
+students in all stages of their career. Therefore, we will 
+turn to new teaching methods that mix analogue and 
+digital in an interactive and productive way.
+
+MATERIALS & MANUFACTURINGEDUCACIÓN FLEXIBLE
+Y DE CALIDAD
+La capacidad de adaptar nuestros procesos educativos a 
+las nuevas generaciones de alumnos y alumnas nos ha 
+permitido situarnos entre los líderes nacionales en educación 
+en ingeniería. Debemos continuar en esta dirección y aspirar 
+a traspasar fronteras para consolidar el reconocimiento 
+internacional de nuestro modelo educacional.FLEXIBLE AND QUALITY 
+EDUCATION
+The ability to adapt our educational processes to the new 
+generation of students has allowed us to position ourselves 
+among the national leaders in engineering education. We 
+must continue in this direction and strive to cross borders 
+so as to consolidate the international recognition of our 
+educational model.
+23UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+22→ CUERPO ACADÉMICO DIVERSO Y DE EXCELENCIA
+Una planta académica diversa y de excelencia que 
+inspire, guíe y motive a la comunidad estudiantil a lo 
+largo de su experiencia universitaria. Esto requiere de 
+un plan de contratación estratégico que incorpore lla -
+mados inclusivos para el fortalecimiento de una planta 
+académica más diversa.
+→ NIVELACIÓN TEMPRANA Y ADAPTATIVA
+Queremos potenciar las capacidades de cada estudiante 
+a un ritmo que potencie sus propios talentos. Para ello 
+reforzaremos e innovaremos en mecanismos de nivela -
+ción temprana, así como en herramientas que permitan 
+ir un paso más allá a quienes lo deseen.
+→ VINCULACIÓN TEMPRANA CON LA CIENCIA
+Y LAS INGENIERÍAS
+Para desarrollar el interés de estudiantes en etapa es -
+colar en las áreas STEAM, se implementará un plan de 
+acción orientado a generar experiencias co-diseñadas 
+de divulgación cientíﬁca y tecnológica a través de ferias, 
+bootcamps, cursos y encuentros entre la comunidad 
+escolar y universitaria.→ DIVERSE AND EXCELLENCE ACADEMIC BODY
+A diverse and world-class academic staﬀ that inspires, 
+guides and motivates the student community throughout 
+their university experience. This requires a strategic hiring 
+plan that incorporates inclusive calls to strengthen a 
+more diverse academic institution.
+→ EARLY AND ADAPTIVE LEVELING
+We want to develop each student’s skillset at a pace that 
+promotes their own talents. To this end, we will reinforce 
+and innovate in early leveling mechanisms as well on 
+those tools that will allow students go that extra mile.
+→ EARLY CONNECTION WITH SCIENCE
+AND ENGINEERING
+In order to develop the students’ interest at the school 
+stage in STEAM areas, an action plan will be implemented 
+aimed at generating co-designed experiences of scientiﬁc 
+and technological dissemination through fairs, bootcamps, 
+courses and meetings between schools and university.
+
+MINING
+
+27UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+26
+En un mundo de cambios vertiginosos, la educación de 
+postgrado es fundamental para el crecimiento y transformación 
+profesional de nuestro capital humano, constituyéndose como 
+un motor para la innovación y el desarrollo sostenible.
+_ In a world of dizzying changes, graduate education is essential for 
+professional growth and the transformation of our human capital, 
+becoming a driver of innovation and sustainable development._ DIVERSE AND CUTTING-EDGE
+GRADUATE EDUCATION OFFEROFERTA DE POSTGRADOS DIVERSA
+Y DE VANGUARDIA
+METAS 2024
+_ GOALS 2024
+ESTUDIANTES DE POSTGRADO
+Graduate students
+ESTUDIANTES DE POSTGRADO INTERNACIONALES
+International graduate studentsFORTALECIMIENTO Y
+POSICIONAMIENTO DE POSTGRADOS
+La acelerada velocidad de los cambios tecnológicos, eco -
+nómicos y culturales nos obliga a responder a demandas 
+cada vez más soﬁsticadas del mercado laboral. A través de 
+una oferta dinámica y atractiva de programas de educación 
+de postgrado, de carácter académico como profesional, de 
+continuidad o para ejecutivos, nos permitirá consolidar a 
+nuestra Facultad dentro de las primeras opciones de estu -
+diantes nacionales y extranjeros.GRADUATE EDUCATION 
+STRENGTHENING AND POSITIONING
+The accelerated pace of technological, economic and cultural 
+change is forcing us to respond to increasingly sophisticated 
+labor market demands. A dynamic and attractive range of 
+graduate education programs that are academic as well 
+as professional, ongoing or for executives, will allow us to 
+position our faculty within the ﬁrst options for national and 
+foreign students.
+→ FORMACIÓN DE PROFESIONALES DE EXCELENCIA
+El liderazgo de nuestra facultad en la formación a nivel 
+de postgrado, se logra mediante la oferta de una amplia 
+gama de programas de alta calidad y prestigio, que agre -
+guen valor a la educación de cada persona, asegurando 
+un retorno económico a la inversión realizada. Por otro 
+lado, apuntamos a promover el interés de estudiantes 
+internos y externos a la Facultad a continuar por el 
+camino de la investigación de excelencia, escogiendo 
+alguno de los programas de magíster y doctorado; o 
+bien por el camino del aprendizaje continuo y de per -
+feccionamiento profesional, seleccionando alguno de 
+los programas de educación ejecutiva.
+→ OFERTA ATRACTIVA A NIVEL INTERNACIONAL
+La calidad y prestigio de nuestros programas de post -
+grado deben traspasar las fronteras de nuestro país 
+y convertirnos en un destino atractivo para quienes 
+busquen una especialización y/o perfeccionamiento 
+de su educación. Para consolidar el posicionamiento de 
+nuestros programas de postgrado nivel internacional 
+se fomentarán las actividades académicas, el apoyo 
+estudiantil y la difusión efectiva.→ TRAINING OF PROFESSIONALS OF EXCELLENCE
+Our faculty’s leadership in graduate training is achieved 
+by oﬀering a wide range of high quality and prestigious 
+programs that add value to the education of each person 
+and ensure an economic return on the investment made. 
+On the other hand, we aim to promote the interest of 
+internal and external students to continue the path of 
+executing top research by choosing one of our master’s 
+and doctoral programs; or the path of continuous learning 
+and professional development by selecting one of the 
+executive education programs.
+→ INTERNATIONALLY ATTRACTIVE OFFER
+The quality and prestige of our graduate programs must cross 
+our country’s borders and make us an attractive destination 
+for those seeking specialization and/or improvement of 
+their education. Academic activities, student support and 
+eﬀective dissemination are encouraged to help position 
+our graduate programs internationally. 
+
+EDUCATION
+29UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+28OFERTA DIVERSA DE POSTGRADOS
+Nuestra excelente planta académica, con su reconocida 
+experiencia y prestigio en las áreas de sostenibilidad y 
+digitalización, nos permite aproximarnos y adelantarnos a 
+las necesidades reales de la sociedad y la industria mediante 
+una oferta de posgrados de alta calidad y de vanguardia. 
+Adicionalmente, el conocimiento de frontera que se genera 
+en nuestras diversas áreas de investigación y desarrollo, se 
+traduce en programas de postgrado que buscan cumplir 
+con los más altos estándares académicos. DIVERSE GRADUATE OFFER
+Our excellent academic staﬀ, with their recognized experience 
+and reputation in the areas of sustainability and digitalization, 
+enable us to address and anticipate the real needs of society 
+and the industry through a graduate oﬀer of high quality and 
+avant-garde. Additionally, the state-of-art knowledge generated 
+in our various research and development areas leads to graduate 
+programs that meet the highest academic standards.
+→ NUEVOS PROGRAMAS CON FOCO EN
+ÁREAS ESTRATÉGICAS
+Las nuevas tendencias y necesidades del mercado la -
+boral exigen programas de postgrado cada vez más 
+especializados. Nuestra Facultad se adelanta a estas 
+necesidades mediante el desarrollo de programas de 
+excelencia académica en distintas áreas de investigación 
+y posicionamiento de programas ejecutivos con foco en 
+la sostenibilidad y la transformación digital.
+→ PLATAFORMA ON-LINE ATRACTIVA Y COMPETITIVA
+Los cambios laborales junto a los nuevos hábitos de 
+aprendizaje a los que nos enfrentamos requieren de 
+innovación en la forma de educar. Para responder a esta 
+necesidad, se fortalecerá la oferta de programas on-line 
+mediante la incorporación de las últimas tecnologías 
+en educación virtual. Nuestro objetivo es posicionarnos 
+como líderes en el área de educación ejecutiva on-line , 
+tanto en Chile como en Latinoamérica.→ NEW PROGRAMS WITH A FOCUS ON
+STRATEGIC AREAS
+The new trends and requirements of the labor market 
+require increasingly specialized graduate programs. Our 
+faculty is ahead of these needs by developing programs 
+of academic excellence in diﬀerent areas of research 
+and positioning of executive programs with focus on 
+sustainability and digital transformation.
+→ ATTRACTIVE AND COMPETITIVE ONLINE PLATFORM
+The labor changes along with the new learning habits that 
+we are facing require  innovative ways of educating. In 
+order to meet this need, the range of online programs will 
+be strengthened by incorporating the latest technologies 
+in virtual education. Our goal is to position ourselves as 
+leaders in the area of online executive education, both 
+in Chile and in Latin America.
+
+31UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+Investigación de excelencia motivada por curiosidad y misión, 
+que expanda la frontera del conocimiento permitiendo abordar 
+los objetivos de desarrollo sostenible, ser agentes de cambio y 
+transformarnos en un referente internacional.
+_ Pioneering curiosity-driven and mission-oriented research that 
+pushes the boundaries of knowledge and allows us to address the 
+sustainable development goals to become agents of change and 
+international reference._ RESEARCH OF GREATER SCOPE AND IMPACTINVESTIGACIÓN DE MAYOR
+ALCANCE E IMPACTO
+METAS 2024
+_ GOALS 2024
+PUBLICACIONES
+Papers
+30INVESTIGACIÓN DE FRONTERA
+La generación de nuevo conocimiento es una condición 
+necesaria para abordar efectivamente los objetivos de desa -
+rrollo sostenible. La investigación fundamental y desarrollo 
+experimental (I+D) generada en una facultad de ingeniería 
+y ciencias como la nuestra, es un insumo fundamental para 
+identificar y comprender problemas no resueltos; para 
+aplicar el conocimiento científico y nuevas tecnologías 
+al desarrollo de soluciones innovadoras que provoquen 
+cambios de paradigma; así como para iluminar ese futuro 
+que soñamos crear. FRONTIER RESEARCH
+The generation of new knowledge is a necessary prerequisite 
+to eﬀectively address the sustainable development goals. 
+Fundamental research and experimental development (R&D) 
+generated in a faculty of engineering and science like ours, is 
+a key input to identify and understand unsolved problems; to 
+the application of scientiﬁc knowledge and new technologies 
+in the development of innovative solutions that provoke 
+paradigm shifts; and to illuminate the future that we dream of.
+→ PUBLICACIONES DE ALTO IMPACTO
+Para consolidar nuestro liderazgo en investigación en 
+áreas estratégicas, continuaremos generando condicio -
+nes habilitantes por medio de la formación de nuevas 
+redes de colaboración internacional, la atracción de 
+estudiantes con talento a nuestros programas de pre y 
+postgrado, el apoyo al levantamiento de fondos públicos 
+y privados, además de entregar mayores recursos para 
+potenciar la investigación de nuestro cuerpo académico.
+→ PLANTA ACADÉMICA DE EXCELENCIA
+Los momentos de serendipia en la investigación son un 
+insumo clave para mover la frontera de conocimiento. 
+Para incrementar estos momentos requerimos de una 
+comunidad académica de excelencia y diversa que 
+tenga plena libertad para pensar y crear; que tenga un 
+balance adecuado entre los diversos roles que cumplen 
+investigadores según su jerarquía académica; y que 
+vean potenciadas de manera efectiva sus habilidades 
+especíﬁcas, maximizando así su productividad cientíﬁca. 
+→ INFRAESTRUCTURA PARA LA INVESTIGACIÓN
+La investigación de excelencia de nuestra Facultad 
+requiere de laboratorios y equipamiento cientíﬁco y 
+tecnológico de última generación, los que permitan estu -
+diar desde microbiomas hasta exoplanetas. La inversión 
+en infraestructura es fundamental para acompañar el 
+proceso de formación en I+D junto a la generación de 
+investigación de frontera y de alto impacto. → HIGH IMPACT PUBLICATIONS
+In order to consolidate our research leadership in strategic 
+areas, we will continue to create favorable structural 
+conditions by building new international collaboration 
+networks, attracting talented students to our undergraduate 
+and graduate programs, supporting the application to 
+public and private funding, in addition to providing 
+more resources to the improvement of our academic 
+body’s research.
+→ AN ACADEMIC FACULTY OF EXCELLENCE
+Moments of serendipity in research oﬀer a key input to 
+expand the frontiers of knowledge. To increase these 
+moments, we require an academic community of excellence 
+that is diverse and has complete freedom to think and 
+create; that faces an appropriate balance between the 
+diverse roles fulﬁlled by researchers according to their 
+academic hierarchy; and that is permanently and eﬀectively 
+improving their speciﬁc abilities, thus maximizing their 
+scientiﬁc productivity.
+→ RESEARCH INFRASTRUCTURE
+Our faculty’s research of excellence requires laboratories 
+along with the latest scientiﬁc and technological equipment 
+that make it possible to study microbiomes up to exoplanets. 
+Investments in infrastructure is essential to accompany 
+the R&D training process of our students, together with 
+the creation of cross-border and high impact research.
+
+HEALTH & WELLBEINGFACULTAD DE INGENIERÍA Y CIENCIASUN REFERENTE INTERNACIONAL 
+EN INVESTIGACIÓN
+Nuestra Facultad genera investigación de primer nivel que 
+ha cruzado las fronteras de nuestro país, posicionándose 
+como un referente internacional. Desde la rigurosidad de 
+la investigación que genera nuestro cuerpo académico de 
+excelencia, junto a las nuevas contrataciones venideras en 
+áreas estratégicas, aspiramos a expandir nuestro alcance 
+e impacto en la comunidad internacional.AN INTERNATIONAL REFERENCE 
+IN RESEARCH
+Our faculty generates ﬁrst-class research that has crossed the 
+borders of our country and positioned itself as an international 
+benchmark. Based on the rigor of the research generated 
+by our top academic body, together with the new hires in 
+strategic areas, we strive to expand our reach and impact in 
+the international community.
+→ COLABORACIONES INTERNACIONALES ESTRATÉGICAS
+Queremos formar nuevas alianzas altamente produc -
+tivas con universidades y centros de investigación de 
+alto prestigio, fomentando el intercambio continuo de 
+estudiantes de pregrado y postgrado; promoviendo el 
+desarrollo de proyectos conjuntos de investigación; y 
+generando interacciones virtuosas que nos permitan 
+mejorar a través de la incorporación de buenas prácticas 
+internacionales.
+→ FOMENTO A LA INVESTIGACIÓN COLABORATIVA
+Para potenciar la investigación colaborativa e interdis -
+ciplinaria en áreas estratégicas se implementará un 
+plan de ﬁnanciamiento que incluirá fondos para iniciar 
+relaciones a largo plazo con instituciones relevantes 
+(matching funds), postdoctorados, profesores visitantes, 
+así como sabáticos en el exterior, entre otras iniciativas.
+→ POSICIONAMIENTO E IMPACTO DE
+NUESTRA INVESTIGACIÓN
+Para lograr el impacto que nuestro trabajo busca  generar, 
+nuestra investigación de excelencia debe ser comunicada 
+a la sociedad de manera más activa y estratégica a nivel 
+local, nacional e internacional.→ STRATEGIC INTERNATIONAL COLLABORATIONS
+We want to enter into new, highly productive alliances 
+with renowned universities and research centers; promote 
+the continuous exchange of undergraduate and graduate 
+students; encourage the development of joint research 
+labs; and generate virtuous interactions that enable us 
+to continuously improve through the incorporation of 
+international best practices.
+→ PROMOTION OF COLLABORATIVE RESEARCH
+To strengthen collaborative and interdisciplinary research 
+in strategic areas, a ﬁnancing plan will be implemented to 
+establish long-term relationships with relevant institutions 
+(matching funds), postdocs, visiting professors, as well as 
+research abroad, among other initiatives.
+→ POSITIONING AND IMPACT OF OUR RESEARCH
+In order to achieve the impact we seek, our faculty’s 
+research of excellence must be communicated actively 
+and strategically to society at local, national and 
+international levels. 
+
+35UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+Una facultad con una mirada distinta que potencia la vinculación 
+sinérgica entre actores heterogéneos para abordar desafíos de 
+escala global desde la innovación y el emprendimiento.
+_ A faculty with a diﬀerent perspective that strengthens the synergistic 
+connection between heterogeneous actors to address global challenges 
+through innovation and entrepreneurship._ A VIRTUOUS ECOSYSTEM OF INNOVATION
+AND ENTREPRENEURSHIPECOSISTEMA VIRTUOSO DE INNOVACIÓN 
+Y EMPRENDIMIENTO 
+METAS 2024
+_ GOALS 2024
+START-UPS
+MUJERES EN ADMISIÓN DE PREGRADO
+Women in undergraduate enrollment
+34* TRL, Technology Readiness Level por sus siglas en inglés, corresponde a la escala tradicional de medición de la madurez de una tecnología, la cual consta de 9 
+niveles; que abarcan desde los principios básicos de una nueva tecnología (TRL1) hasta aquellas que cuentan con pruebas exitosas en entornos reales (TRL9).
+*TRL, Technology Readiness Level corresponds to the traditional measurement scale of technology maturity that has 9 levels including the basic principles of 
+a new technology (TRL1) to the once that are proven successfully in real environments.MENTALIDAD INNOVADORA
+Y EMPRENDEDORA
+Para formar estudiantes que se conviertan en verdaderos 
+agentes de cambio debemos potenciar el desarrollo de una 
+mentalidad innovadora y emprendedora que les permita 
+reconocer oportunidades, actuar sobre ellas y lidiar con la 
+incertidumbre y riesgo inherente a cualquier proceso de 
+innovación y emprendimiento de base tecnológica. Desa -
+rrollar una mentalidad emprendedora es fundamental para 
+que cualquier ingeniero o ingeniera, donde sea que decida 
+desempeñarse luego de su egreso sea capaz de adaptarse 
+a un mundo en permanente cambio, convirtiéndose así, en 
+agentes transformadores donde sea que vayan. INNOVATIVE AND 
+ENTREPRENEURIAL MINDSET
+To train students to become true agents of change, we need to 
+promote the development of an innovative and entrepreneurial 
+mindset that enables them to identify opportunities, respond to 
+them and deal with the uncertainties and risks associated with 
+innovation processes and technology-based entrepreneurship. 
+Developing an entrepreneurial mindset is essential for any 
+engineer – wherever they choose to go after graduation – so 
+that they can adapt to a constantly changing world and thus 
+become actors of transformation wherever they go.
+→ START UP SCHOOL
+El emprendimiento sí se puede enseñar. El Start Up 
+School incorpora las mejores metodologías de ense -
+ñanza para entrenar a nuestras alumnas y alumnos a 
+“vivir el proceso de emprendimiento”. Esta, junto a otras 
+iniciativas complementarias, abren un nuevo camino 
+de titulación vía la creación de emprendimientos de 
+base tecnológica estudiantiles.  
+→ RUTA DE LA INNOVACIÓN Y EMPRENDIMIENTO
+Nuestra Facultad apoyará a la comunidad estudiantil 
+y académica en las necesidades asociadas a cada una 
+de las etapas del proceso no lineal de innovación y 
+emprendimiento. Se crearán, por ejemplo, programas de 
+mentoría e iniciativas que potenciarán la maduración de 
+tecnologías (desde estados TRL3 a TRL5)* que permitan 
+luego empaquetarse y ser transferidas exitosamente 
+al mercado, aumentando el impacto de nuestra inves -
+tigación de primer nivel.→ START UP SCHOOL
+Entrepreneurship can be taught. The Start-Up School 
+incorporates the best teaching methodologies to train 
+our students to “experience the entrepreneurship process”. 
+This, along with other complementary initiatives, open a 
+new graduation scheme for students through the creation 
+of a technology-based startup.
+→ PATH OF INNOVATION AND ENTREPRENEURSHIP 
+Our faculty will support the student and academic 
+community in the needs associated with each stage of 
+the nonlinear process of innovation and entrepreneurship. 
+For example, we will implement a mentoring program, and 
+an initiative aimed at promoting technology readiness 
+(from TRL3 to TRL5 states), which will then be packaged 
+and successfully transferred to the market, increasing 
+the impact of our ﬁrst level research.
+
+FOODFACULTAD DE INGENIERÍA Y CIENCIASVINCULACIÓN PRODUCTIVA
+CON LA INDUSTRIA
+La innovación no ocurre de manera aislada; por el contrario, se 
+requiere de la interacción virtuosa entre los distintos actores 
+que componen un sistema de innovación. La vinculación y 
+colaboración universidad-empresa es fundamental para la 
+identiﬁcación de problemas reales que conduzcan al desa -
+rrollo conjunto de soluciones innovadoras que promuevan 
+cambios de paradigma en el sector industrial, incidiendo en 
+la productividad de nuestra economía.PRODUCTIVE TIES WITH
+INDUSTRY
+Innovation does not happen in isolation; on the contrary, virtuous 
+interactions between the diﬀerent actors that make up an 
+innovation system is required. University-business partnerships 
+and collaborations are fundamental for the identiﬁcation of 
+real problems that lead to the joint development of innovative 
+solutions that promote paradigm changes in the industrial 
+sector, and inﬂuence the productivity of our economy.
+→ PROGRAMA DESAFÍOS EMPRESARIALES
+El levantamiento de desafíos en colaboración con la 
+industria es un insumo fundamental para identiﬁcar 
+oportunidades de innovación, donde la investigación de 
+primer nivel que realiza nuestra Facultad puede aplicarse 
+efectivamente al desarrollo de soluciones innovadoras 
+a problemáticas que tendrán un impacto real tanto en 
+la industria como en la sociedad en general.
+→ DIFUSIÓN INTERNACIONAL EN I+D+i+e
+Tanto los resultados de los proyectos de Investigación y 
+Desarrollo (I+D), así como las innovaciones y emprendi -
+mientos que emergen dentro del ecosistema de nuestra 
+Facultad, deben traspasar todo tipo de fronteras con 
+el objetivo de que el impacto que se logre deje de ser 
+“potencial” y se convierta en una realidad. Para ello, 
+estamos formando alianzas con actores internacionales 
+de alto prestigio a través de las cuales podamos catalizar, 
+mediante proyectos conjuntos, el impacto de nuestros 
+proyectos de I+D+i+e.→ BUSINESS CHALLENGES PROGRAM
+Identifying challenges in collaboration with industry 
+provides a fundamental contribution to identifying 
+opportunities for innovation, in which the cutting-edge 
+research carried out by our faculty can be eﬀectively 
+applied to the development of innovative solutions to 
+problems that aﬀect both industry and society in general.
+→ INTERNATIONAL DISSEMINATION IN R+D+ i+e
+Both the results of Research and Development (R+D) 
+projects, as well as innovations (i) and entrepreneurial 
+ventures (e) that emerge within the ecosystem of our 
+Faculty, must cross all types of borders such that our 
+impact ceases to be “potential” and becomes a reality. To 
+achieve this, we are forming alliances with high-proﬁle 
+international actors through which we can catalyze, 
+through joint projects, the impact of our R+D+i+e projects.
+
+ENERGY
+39UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+38CULTURA DIVERSA Y LIBRE 
+DE ESTEREOTIPOS
+Una comunidad diversa y libre de estereotipos es condición 
+necesaria para convertir a nuestra Facultad en un verdadero 
+motor de cambio. Las perspectivas y experiencias individuales 
+que aportan personas diferentes potencian la creatividad 
+dentro de los equipos, y con ello se incentiva una aproxima -
+ción innovadora a la solución de problemas. Sin embargo, 
+la baja participación de mujeres en STEAM requiere de 
+acciones concretas que permitan avanzar decididamente 
+en cerrar estas brechas, pues la contribución por parte 
+de las mujeres a la investigación de calidad, innovación y 
+emprendimiento es fundamental para atacar los desafíos 
+de desarrollo sostenible a nivel mundial.DIVERSE AND STEREOTYPE
+FREE CULTURE
+A diverse and stereotype-free community is a necessary 
+condition to make our faculty a true engine of change. The 
+individual perspectives and experiences that diﬀerent people 
+contribute strengthen creativity within teams, and thus 
+encourage an innovative approach to problem solving. However, 
+the low participation of women in STEAM requires concrete 
+actions to make decisive progress in closing these gaps, as 
+women’s contribution to quality research, innovation and 
+entrepreneurship is essential to addressing the sustainable 
+development challenges worldwide.
+→ PROGRAMA DE MENTORÍAS
+Diseñaremos un programa de mentorías adaptado a las 
+necesidades que enfrentan nuestras alumnas en cada 
+paso de su carrera. Incluirá iniciativas que potencien su 
+vocación como ingenieras; que despierten su interés por 
+las distintas ramas de la ingeniería, la investigación y el 
+emprendimiento; y les entregaremos las herramientas 
+necesarias para desenvolverse exitosamente en un 
+mundo en permanente cambio.
+→ COMUNIDAD DIVERSA
+Para aumentar la diversidad en la Facultad necesitamos 
+tomar acciones concretas. Por ejemplo, el programa 
+de Admisión Especial de Mujeres en Ingenierías busca 
+promover un mayor ingreso de mujeres a la carrera de 
+ingeniería civil. Por otra parte, el programa Espíritu UAI 
+busca atraer estudiantes con habilidades y talentos di -
+versos que agreguen valor a la comunidad. Finalmente, 
+a nivel de cuerpo académico, se realizarán llamados a 
+concursos inclusivos, mientras que, al momento de la 
+contratación, ante igualdad de desempeño académico, 
+se privilegie una mujer.→ MENTORING PROGRAM
+We will design a mentoring program that is tailored to 
+the needs of our students in every step of their career. It 
+will include initiatives that strengthen their vocation as 
+engineers; arouse their interest in the diﬀerent branches 
+of engineering, research and entrepreneurship; and we 
+will give them the necessary tools to function successfully 
+in a constantly changing world.
+→ DIVERSE COMMUNITY
+In order to increase the diversity in the faculty we have 
+to take concrete measures. For example, the Special 
+Admission Program for Women in Engineering seeks to 
+promote a greater entry of women to the civil engineering 
+career. On the other hand, the UAI Spirit Program seeks 
+to attract students with diverse skills and talents that 
+add value to the community. 
+
+5041UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+FACULTAD DE INGENIERÍA Y CIENCIASCon miras a impulsar la misión que tenemos como Facultad 
+y lograr los objetivos que nos hemos propuesto para los 
+próximos años, hemos avanzado en la implementación 
+y/o participación en nuevas iniciativas y en dar un nuevo 
+impulso a otras ya existentes. A continuación, queremos 
+visibilizar algunas de ellas, que corresponden solo a 
+un subconjunto de las muchas iniciativas que le dan 
+el sello de excelencia y dinamismo a nuestra facultad. 
+_ With a view to promoting the mission we have as a faculty 
+and achieving the objectives we have set for the next years, 
+we have made progress in the implementation of and/or 
+participation in new initiatives and in giving new impetus 
+to existing ones. In the following, we want to make some 
+of them visible, which are only part of the many initiatives 
+that give our faculty the seal of excellence and dynamism.INICIATIVAS EMBLEMÁTICAS
+_ SIGNATURE INITIATIVES→ 05
+40
+Data Observatory es una colaboración público-privada, sin ﬁnes de lucro, que tiene como miembros 
+fundadores al Ministerio de Economía, al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, 
+Amazon Web Services y la Universidad Adolfo Ibáñez. Su misión es adquirir, procesar, almacenar y 
+disponibilizar conjuntos de datos de valor global para contribuir al desarrollo de la ciencia, tecnología, 
+innovación, conocimiento y desarrollo económico debido a su volumen, naturaleza y complejidad. El rol 
+privilegiado de Chile como centro mundial de la astronomía, genera un campo de entrenamiento ideal 
+dadas las características del big data que genera la observación de los cielos, tanto en volumen como 
+en calidad, velocidad y diversidad de los datos; pero estos mismos mecanismos debemos enfocarlos 
+en la tierra para contribuir con soluciones que apunten hacia problemas como el calentamiento 
+global y la escasez hídrica.
+_ The Data Observatory is a public-private, non-proﬁt collaboration founded by the Ministry of Economy, 
+the Ministry of Science, Technology, Knowledge and Innovation, Amazon Web Services and Universidad 
+Adolfo Ibáñez. Its mission is to acquire, process, store and make available data sets of global value in 
+order to contribute to the development of science, technology, innovation, knowledge and economic 
+development due to its volume, nature and complexity. The privileged role of Chile as a world center 
+of astronomy, creates an ideal training ﬁeld in view of the characteristics of big data that enables 
+the observation of the sky, both in volume and in quality, speed and diversity of data; but these same 
+mechanisms must focus on Earth to contribute to solutions that address problems such as global 
+warming and water scarcity. DATA
+OBSERVATORY
+
+43FACULTAD DE INGENIERÍA Y CIENCIAS UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+La mentalidad emprendedora juega un papel muy importante a la hora de entrenar a los ingenieros 
+e ingenieras del futuro. Para dar forma  a los próximos diez años necesitamos que más estudiantes 
+se vinculen con el mundo emprendedor, ya sea formando parte de empresas emprendedoras y/o 
+start-ups, o bien fundando sus propias start-ups que se conviertan en los nuevos Google que cambien 
+Latinoamérica para siempre. La Facultad, a través de iniciativas como Start-up School tiene por objetivo 
+estimular el desarrollo de esta mentalidad emprendedora de manera que al menos un tercio de 
+START-UP
+SCHOOL→ 05
+ESCUELA MINA
+PLANTA CHANCÓN
+_ MINA PLANTA CHANCÓN SCHOOL
+La Facultad de Ingeniería y Ciencias dispone de un espacio natural y técnicamente adecuado para que 
+estudiantes que cursan carreras mineras puedan realizar sus prácticas de formación y cuenten con las 
+herramientas necesarias para desarrollarse profesionalmente. La Escuela Mina Planta está ubicada en 
+el distrito minero de Chancón, Región del Libertador Bernardo O´Higgins, y es un proyecto impulsado 
+por el gobierno regional que vincula a nuestra universidad con la comunidad y tiene como beneﬁciarios 
+a alumnos y alumnas de liceos técnicos de esta zona del país. El recinto cuenta con laboratorios y 
+salas de clases para conocer a fondo los procesos y las técnicas de la metalurgia extractiva. En 2019 se 
+inauguró el túnel minero, correspondiente a la segunda fase del proyecto Escuela Mina Planta. Hacia 
+el futuro queremos transformar este lugar en laboratorio para promover investigación aplicada que 
+permita testear soluciones innovadoras relevantes para la industria minera.
+_ The Faculty of Engineering and Sciences oﬀers a natural and technically adequate space for students 
+who study mining careers to carry out their training practices, and provides the necessary tools for their 
+professional development. The Mina Planta School is located in the mining district of Chancón, Libertador 
+Bernardo O’Higgins region, and is a project promoted by the regional government that connects our 
+university with the community and whose beneﬁciaries are students of technical schools of this area 
+of the country. The enclosure has laboratories and classrooms in which the processes and techniques 
+of extractive metallurgy are explained in detail. In 2019, the mining tunnel was inaugurated, which 
+corresponds to the second phase of the Mina Planta School project. In the next years, we will transform 
+this place into a laboratory to promote applied research that enables testing of innovative solutions 
+relevant to the mining industry.
+42El 2019 se crea en la Facultad de Ingeniería y Ciencias el primer Comité de Equidad de Género en 
+la Universidad Adolfo Ibáñez. Conformado por representantes del cuerpo académico, estudiantil y 
+administrativo, tiene por objetivo fomentar el desarrollo de una comunidad estudiantil y académica 
+comprometida con la diversidad como valor social fundamental y motor de cambio de cara al futuro. 
+El compromiso del Comité es potenciar el talento femenino al máximo, pues su contribución a la 
+investigación de calidad, innovación y emprendimiento, es esencial para abordar los objetivos de 
+desarrollo sostenible a nivel mundial.
+_ In 2019, the ﬁrst Gender Equality Committee of Universidad Adolfo Ibáñez was created at our Faculty.  
+Formed by representatives of the academic, student and administrative body, it aims to encourage the 
+development of a student and academic community committed to diversity as a fundamental social 
+value and engine of change for the future. The Committee’s mission is to boost female talent, since its 
+contribution to quality research, innovation and entrepreneurship is essential to achieving the sustainable 
+development goals worldwide.COMITÉ DE EQUIDAD
+DE GÉNERO
+_ GENDER EQUALITY COMMITTEEnuestros ingenieros e ingenieras se vinculen a nuevas start-ups tecnológicas. Este programa se orienta 
+a estudiantes que estén cursando los últimos años de su carrera y constituye un medio conducente a 
+la titulación de nuestros ingenieros e ingenieras a través de un emprendimiento de base tecnológica. 
+_The entrepreneurial mindset plays a very important role in training the future engineers. To shape 
+the next ten years, we need more students to connect with the entrepreneurial world, either as part 
+of entrepreneurial companies and/or start-ups, or by founding their own start-ups which will become 
+the new Googles to change Latin America forever. Our faculty aims to stimulate the development of 
+this entrepreneurial mindset through initiatives like the Start-up School, so that at least one third of 
+our engineers become associated with new technological start-ups. This full-time semester program 
+is aimed at students who are studying the last years of their career and is a medium conducive to the 
+qualiﬁcation of our engineers through a technology-based venture.
+
+6045UNIVERSIDAD ADOLFO IBÁÑEZ
+PLAN ESTRATÉGICO / STRATEGIC PLAN 2024
+FACULTAD DE INGENIERÍA Y CIENCIASTenemos grandes aspiraciones para nuestra facultad 
+en los próximos años y conﬁamos que con el aporte 
+de cada uno de los miembros de nuestra comunidad 
+podemos cumplirlos. Sabemos que nuestras metas son 
+ambiciosas, pero no imposibles. Queremos que nuestra 
+prestigiosa Facultad de Ingeniería y Ciencias se consolide 
+como un referente a nivel nacional e internacional.
+_ We have great aspirations for our faculty in the coming 
+years and we trust that we can fulﬁll them with the 
+contribution of every single member of our community. 
+We know that our goals are ambitious, but not impossible. 
+We want the Faculty of Engineering and Science to be 
+considered a national and international benchmark.NUESTROS COMPROMISOS
+_ OUR COMMITMENTS→ 06
+442019 2024 IncreaseAUMENTO
+ESTUDIANTES DE PREGRADO
+Undergraduate students3 400 3 900 ↑ 15%
+RETENCIÓN DE ESTUDIANTES
+DE PREGRADO (PRIMER AÑO)
+Retention of undergraduate students 
+(ﬁrst year)86% 90% ↑ 4%
+MATRÍCULA ALUMNAS PREGRADO
+Women undergradute enrollment24% 35% ↑ 11%
+ESTUDIANTES INTERNACIONALES
+International students7% 20% 3x
+ESTUDIANTES DE INVESTIGACIÓN 
+EN POSTGRADOS ACADÉMICOS
+Research students in academic 
+graduate programs105 580 6x
+MATRÍCULA EN
+EDUCACIÓN EJECUTIVA
+Enrollment in executive education416 1 600 4x
+ACADÉMICAS Y ACADÉMICOS
+Academic faculty94 160 ↑ 70%
+PUBLICACIONES W oS
+WoS Publications100 300 3x
+COLABORACIONES 
+INTERNACIONALES
+International collaborations60 120 2x
+
+Impreso en: OGRAMA
+INGENIERIA.UAI.CL
+INGENIERIA@UAI.CL
+Síguenos en:SANTIAGO
+Diagonal Las Torres 2700, Peñalolén
+(56 2) 2331 1000
+VIÑA DEL MAR
+Padre Hurtado 750, Viña del Mar
+(56 32) 250 3500

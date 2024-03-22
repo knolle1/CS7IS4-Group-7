@@ -1,0 +1,41 @@
+qs_ranking,institution,focus,location,continent,year_established,private_public,type,strategy_start,strategy_end,filename,PDF
+202,Queen's University Belfast,FC,United Kingdom,Europe,1845,public,all,2021,2030,202 Queen's University Belfast.txt,yes
+203,King Saud University,FC,Saudi Arabia,Asia,1957,public,all,2022,2027,203 King Saud University.txt,yes
+203,University of Ottawa,FC,Canada,North America,1848,public,all,2020,2030,203 University of Ottawa.txt,yes
+205,Universit�t Hamburg,FC,Germany,Europe,1919,public,all,2023,2027,205 Universit�t Hamburg.txt,yes
+206,University of Otago,FC,New Zealand,Oceania,1869,public,all,2022,2030,206 University of Otago.txt,yes
+209,Queen's University at Kingston,FC,Canada,North America,1841,public,all,2018,2023,209 Queen's University at Kingston.txt,yes
+211,Chulalongkorn University,FC,Thailand,Asia,1917,public,all,2021,2024,211 Chulalongkorn University.txt,no
+212,Loughborough University,CO,United Kingdom,Euroope,1909,public,"engineering, arts,science",2020,2040,212 Loughborough University,yes
+214,Keio University,FC,Japan,Asia,1858,private,all,2014,2024,214 Keio University.txt,yes
+215,Tel Aviv University,FC,Israel,Asia,1956,public,all,2021,2022,215 Tel Aviv University.txt,no
+218,University of Sussex,FC,United Kingdom,Europe,1961,public,all,2024,2025,218 University of Sussex.txt,no
+220,University of Lausanne,FO,Switzerland,Europe,1537,public,all,2021,2024,220 University of Lausanne.txt,yes
+222,Radboud University ,FC,Netherlands,Europe,1923,public,all,2019,2019,222 Radboud University .txt,no
+225,Indian Institute of Science,SP,India,Asia,1909,public,science,2024,2024,225 Indian Institute of Science.txt,no
+226,American University of Beirut (AUB),FC,Lebanon,Asia,1866,private,all,2020,2030,226 American University of Beirut.txt,yes
+232,University of Göttingen,FC,Germany,Europe,1734,public,all,2014,2024,232 University of Gttingen.txt,yes
+235,Heriot-Watt University,CO,United Kingdom,Europe,1821,public,all,2019,2025,235 Heriot-Watt University.txt,yes
+236,Université de Paris-Cité,FO,France,Europe,12th Century,public,all,2021,2024,236 University de Paris.txt,yes
+241,Victoria University of Wellington,CO,New Zealand,Oceania,1897,public,"engineering, arts,science",2020,2024,241 Victoria University of Wellington,yes
+242,La Trobe University,CO,Australia,Oceania,1964,public,all,2020,2030,242 La Trobe University.txt,yes
+243,Griffith University,FC,Australia,Oceania,1971,public,all,2020,2025,243 Griffith University.txt,yes
+246,Technical University of Darmstadt,FO,Germany,Europe,1877,public,"engineering,science",2022,2025,246 Technical University of Darmstadt.txt,yes
+248,Charles University,FC,Czech Republic,Europe,1348,public,all,2021,2025,248 Charles University.txt,yes
+248,University of Antwerp,FC,Belgium,Europe,1852,public,all,2021,2025,248 University of Antwerp.txt,yes
+252,Politecnico di Torino,FO,Italy,Europe,1859,public,engineering,2018,2024,252 Politecnico di Torino.txt,yes
+254,University of Macau,FO,Macau SAR,Asia,1981,public,all,2021,2025,254 University of Macau.txt,yes
+256,University of Canterbury | Te Whare Wānanga o Waitaha,CO,New Zealand,Oceania,1873,public,all,2020,2030,256 University of Canterbury.txt,yes
+256,Maastricht University ,FO,Netherlands,Europe,1976,public,all,2022,2026,256 Maastricht University .txt,yes
+262,University of Warsaw ,CO,Poland,Europe,1816,public,all,2023,2032,262 University of Warsaw .txt,yes
+264,University of Colorado Boulder,CO,United States,North America,1876,public,"engineering, arts,science",2021,2026,274 University of Colorado Boulder,yes
+266,Deakin University,FC,Australia,Oceania,1974,public,all,2021,2030,266 Deakin University.txt,yes
+274,North Carolina State University,CO,United States,North America,1887,public,"engineering, arts,science",2021,2030,274 North Carolina State University,yes
+276,University of Milan,FC,Italy,Europe,1924,public,all,2022,2024,276 University of Milan.txt,yes
+278,Indian Institute of Technology Kanpur (IITK),CO,India,Asia,1959,public,"engineering, arts,science",2018,2022,278 Indian Institute of Technology Kanpur.txt,yes
+283,Stellenbosch University,FC,South Africa,Africa,1918,public,all,2019,2040,283 Stellenbosch University.txt,yes
+284,Taylor's University,FO,Malaysia,Asia,1969,private,all,2023,2024,284 Taylor's University.txt,yes
+292,University College Cork,FC,Ireland,Europe,1845,public,all,2023,2028,292 University College Cork.txt,yes
+294,Université Grenoble Alpes,FC,France,Europe,2016,public,all,2021,2024,294 University Grenoble Alpes.txt,yes
+295,University of East Anglia,FC,United Kingdom,Europe,1963,public,all,2021,2030,295 University of East Anglia.txt,yes
+300,UCSI University,CO,Malaysia,Asia,1986,private,all,2022,2025,300 UCSI University.txt,yes

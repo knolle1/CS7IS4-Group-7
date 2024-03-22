@@ -1,0 +1,352 @@
+
+Table of Contents
+ACRONYMS                 1
+STATEMENT BY THE CHAIRMAN OF COUNCIL             2
+STATEMENT BY THE VICE-CHANCELLOR             3
+1.0 INTRODUCTION                4
+2.0 VISION, MISSION AND V ALUE STATEMENTS            4
+2.1 VISION                 4
+2.2 MISSION                 4
+2.3 V ALUE STATEMENTS               4
+2.4 MOTTO                 5
+3.0 ENVIRONMENTAL/EXTERNAL ANALYSIS (PESTLEE)           5
+4.0 STAKEHOLDER ANALYSIS               7
+5.0 INTERNAL ANALYSIS              10
+6.0 SWOT ANALYSIS               11
+7.0 GROWTH STRATEGIES              13
+8.0 THE FIVE KEY STRATEGIC DIRECTIONS            15
+9.0 MONITORING AND EV ALUATION             27NUST STRATEGIC PLAN 2019-2023 
+i
+ACRONYMS
+ARIPO  - African Regional Intellectual Property Organisation
+EMA   - Environmental Management Agency
+HPC   - High Performance Computer
+HR   - Human Resources
+IBD  - Innovation and Business Development
+ICT  -  Information and Communication Technology
+ICTS  - Information and Communication Technology Services
+IP   - Intellectual Property
+ISO  - International Standards Organisation
+JVC  - Joint Venture Capital
+KPI  - Key Performance Indicator
+MG  - Ministry Goals
+MHTESTD  -  Ministry of Higher and Tertiary Education, Science and Technology Development
+MOU  - Memorandum of Understanding
+NUST   -  National University of Science and Technology
+NUSTPRESS - National University of Science and Technology Press
+PESTLEE  - Political, Economic, Social, Technology, Legal, Environment, Ethical
+PhD  - Doctor of Philosophy
+PPP  - Public Private Partnerships
+PVC  - Pro Vice-Chancellor
+SBU  - Strategic Business Unit
+SDG  - Sustainable Development Goal
+STEM  - Science, Technology, Engineering and Mathematics
+TSP  - Transitional Stabilisation Programme
+VC   - Vice-Chancellor
+WIPO  - World Intellectual Property Organisation
+ZIMCHE  - Zimbabwe Council for Higher Education
+ZIMDEF  - Zimbabwe Development Fund
+ZIPO  - Zimbabwe Intellectual Property OrganisationNUST STRATEGIC PLAN 2019-2023 
+1
+It is my pleasure to present the Strategic Plan 2019-2023 of the National University 
+of Science and Technology (NUST), which is the foundation for living our vision, 
+mission and values as spelt out in this document. Our value statements are very 
+important to us as an institution. We fully understand that we must live these values to 
+realise our vision and future.
+The NUST Strategic Plan is based on five key Strategic Directions (Key Result Areas), 
+namely: Infrastructure Development; Business Development; Technology, Innovation 
+and Intellectual Property; Research, Teaching and Learning and Community Scholarly 
+Engagement and Organisational Effectiveness.  These five Strategic Directions will 
+support our ambition and they will be supported by specific Goals, Strategic Objectives and 
+Strategic Actions. The Strategic Goals and Objectives set out in the Plan are underpinned by 
+national policy initiatives and the parent Ministry’s Strategic Plan 2019-2023.
+The NUST Strategic Plan 2019-2023 plots a new trajectory for the University in securing 
+and advancing the University’s position within the higher and tertiary education landscape 
+in Zimbabwe. In crafting this plan, we have reflected on the achievements and challenges of 
+the past as we now look forward to a brighter future.
+The crafting of this Plan has been an all-inclusive team process involving all levels of 
+employees, students and Council. As such, the NUST Council will ensure that the University 
+is managed in a sound manner that fosters efficient and effective academic and management 
+accountability within an environment characterised by good corporate governance. 
+The Council will supervise the business and affairs of the University to foster long-term 
+success and to maximize shareholder value in a manner that recognises the interests of all 
+stakeholders identified in the Plan’s Stakeholder Analysis.
+Finally, I would like to extend my profound and warm gratitude to the government, our 
+parent Ministry, my colleagues in the NUST Council, the University management, staff and 
+students, stakeholders and partners, employers and the wider community for their valuable 
+contributions to the University in the past and in the future. May the spirit of teamwork and 
+cooperation continue as the University embarks on its transformational path as set out in this 
+Strategic Plan.
+Thank you
+Signed................................................................. Date.............................................................
+STATEMENT BY THE CHAIRMAN OF COUNCIL
+2019 
+Council 
+Members
+Amb. Zenzo W. Nsimbi
+ Chairman
+Mrs. Nomathemba Ndlovu
+        Vice-Chairperson
+Rev. Dr. Jefferety Sibanda
+Mr. Israel Ndlovu
+Ms. Sithembinkosi Nyathi
+Mrs. Kezinet Ndhlovu
+Mr. Japhet G. Ndabeni-Ncube
+Mr. Obert Z. Sibanda
+Mrs. Elizabeth Chikwanda
+Mr. Job Sibanda
+Mr. Casper Ronney
+Mrs. Mildred Mkandla
+Mr. Stephen Nyambuya
+Rev. Dr. Rudo Lois Moyo
+Mr. Godfrey Zarura 
+Manyonganise
+Eng. Simela Dube
+Eng. Josephine Makuvara
+Eng. Gratitude Charis
+Mr. Chrispen Mugova
+Eng. Todd Garfield Nkiwane
+Ms. Fiona Gandiwa Magaya
+Ms. Bridget Chipungu
+Eng. Edwin Gwaze
+Dr. Mbongeni Ndlovu
+Mr. Alois MuzuweNUST STRATEGIC PLAN 2019-2023 
+2
+The NUST Strategic Plan 2019-2023 is set within the larger national framework, 
+Vision 2030, which seeks to transform Zimbabwe into an upper middle-income 
+economy by 2030. Through this Plan, NUST would like to transform the 
+way its family thinks and works towards the University being recognised as 
+an institution of choice in academic research, teaching, learning, innovation, 
+business development and industrialisation of Zimbabwe.
+In the next five years, NUST will pursue a growth strategy focusing on the following five 
+Strategic Directions: 
+• Infrastructure Development;
+• Business Development;
+• Technology, Innovation and Intellectual Property;
+• Research, Teaching and Learning and Community Scholarly engagement;   
+ and
+• Organisational Effectiveness. 
+The University will further embark on the journey towards becoming a thriving university 
+city.
+The Plan will be disseminated to every member of the NUST community. Every member of 
+staff shall be familiar with the contents of this Plan, especially those targets that pertain to 
+their line of work, for effective implementation.
+I would like to acknowledge the contributions made by our parent Ministry, University 
+Council, management, staff, and students. 
+Signed................................................................. Date.............................................................
+STATEMENT BY THE VICE-CHANCELLOR
+2019 
+Principal
+Officers
+Prof. Eng. Mqhele Dlodlo
+      Vice-Chancellor
+Dr. Gatsha Mazithulela
+Pro-Vice Chancellor - IBD
+Dr. Nduduzo Phuthi
+      Acting Pro-Vice Chancellor 
+- ARC
+Mr. Fidelis Mhlanga
+Registrar
+Dr. Fortune S. Nkomo
+Bursar
+Ms. Katherine Matsika   
+  LibrarianNUST STRATEGIC PLAN 2019-2023 
+3
+1.0 INTRODUCTION
+This document sets out the Strategic Plan for the National University of Science and Technology (NUST) for the period 
+2019-2023.  In developing the document, the University took into cognisance changes in the general environment 
+and the current state of Higher Education as stipulated in the Ministry of Higher and Tertiary Education, Science and 
+Technology Development’s (MHTESTD) Strategic Plan, 2019-2023. The Ministry’s plan clearly shows the shift from 
+Education 3.0, which emphasised teaching, research and community engagement, to Education 5.0, which now also 
+emphasizes innovation and industrialisation.
+The Strategic Plan defines ‘who we are, where we are going, how we hope to get there and how we will know when we are there,’ in 
+line with the Ministry’s Strategic Plan. It has been developed against the backdrop of government initiatives, such as the Transitional 
+Stabilization Programme (TSP), the Sustainable Development Goals (SDGs) and Education 5.0. These initiatives will provide 
+significant opportunities to be exploited and challenges to be addressed by NUST .
+The Plan outlines five Key Strategic Directions that NUST will concentrate on in the next five years, namely: 
+1.  Infrastructure Development, 
+2.  Business Development, 
+3.  Innovation and Intellectual Property, 
+4.  Research, Teaching and Learning, and Community Scholarly Engagement and 
+5. Organisational Effectiveness. 
+These five directions are derived from the aspirations of the Ministry, Sustainable Development Goals and National Skills Imperatives 
+as encapsulated in the results of the 2018 National Skills Audit.  Like all Strategic Plans, this document also specifies the University's 
+strategic goals, objectives, responsibilities, resources, key performance indicators and time frames within which results must be 
+achieved.
+For the purposes of monitoring and evaluation, the Operational Plans of this Strategic Plan shall be reviewed quarterly, and the 
+Strategy itself, annually.  The Plan covers the following sections:
+(i) The context provides the overview of the external and internal environments within which NUST operates,
+(ii) The approach used in developing the Strategic Plan,
+(iii) The Vision, Mission and Value Statements,
+(iv) The Key Strategic Directions, Goals and Objectives (with tables for each) outlining the strategies,   
+ targets (timelines) and resources, and
+(v)  The Monitoring and Evaluation Plan.
+This Strategic Plan will guide and focus the attention and efforts of all stakeholders towards the realisation of the NUST mandate, 
+which is to develop human capital with a bias towards Science, Technology, Engineering and Mathematics disciplines. 
+The Strategic Plan was developed through a series of workshops that involved Councillors, Senior Managers, Heads of Departments 
+as well as different Departmental representatives. Facilitated by members of the University community and an external consultant, 
+the aim of the workshops was to foster a complete understanding of the envisaged University plan that is aligned to the Ministry’s 
+own Strategic Plan 2019-2023 for the modernisation and industrialisation of Zimbabwe through  relevant education that is able to 
+provide goods and services. The participants at these workshops were also expected to cascade the planning process to the lowest 
+levels of the University community, thus facilitating an across-the-board buy-in for effective implementation. 
+2.0 VISION, MISSION AND V ALUE STATEMENTS
+This section was developed with hindsight of the Vision, Mission and Value Statements of the MHTESTD as well as the University 
+mandate. Contributing to ‘a heritage-based Higher and Tertiary Education, Science and Technology Development for a competitive 
+industrialised and modernised Zimbabwe by 2030’, the University will be guided by the following Vision, Mission, Value Statements 
+and Motto.
+2.1 VISION
+To be a world class University in science, technology, innovation, entrepreneurship and business development, spearheading 
+industrialisation locally and beyond.
+2.2 MISSION
+To lead in human capital development for industrial and socio-economic transformation, with a bias towards science, technology, 
+engineering and mathematics (STEM) based solutions.
+2.3 V ALUE STATEMENTS
+2.3.1 In the delivery of value to our clients, we pursue academic excellence with integrity, honesty and ethical behaviour.
+2.3.2 We are committed to responsible research and innovation that drives commercialisation and industrialisation.NUST STRATEGIC PLAN 2019-2023 
+4
+2.3.3 We thrive on mutual respect, teamwork and effective partnerships.
+2.3.4 We are driven by a passion to fulfil your dream.
+2.4 MOTTO
+Think in Other Terms
+3.0 ENVIRONMENTAL/EXTERNAL ANALYSIS (PESTLEE)
+There is a mismatch in higher education in Zimbabwe, characterised by high literacy levels (96%) and very low skills levels (38%), 
+with business and commerce exhibiting a skills surplus of 121%. As a University, NUST is challenged to contribute towards a 
+reduction in the 58% gap between the literacy and skills levels. In addition, Zimbabwean universities are characterised by low 
+international rankings and NUST, through this Strategic Plan, seeks to improve its ranking. 
+An analysis of the macro environmental forces that could impact on NUST’s strategic initiatives and operational plans was 
+undertaken using Political, Economic, Social, Technological, Legal, Environmental and Ethical (PESTLEE)factors. There was a 
+thorough assessment of the country’s macro-economic, socio-cultural, political, technological, legal, ethical and environmental 
+factors and their effect on NUST now and in the foreseeable future. These factors will affect the University’s attempt to develop and 
+deliver a knowledgeable and skilled human capital base for the production of quality goods and services as outlined in the Mission 
+of the parent Ministry. A summary of the PESTLEE analysis is presented in Table 1.
+Table 1: PESTLEE Analysis
+NUST STRATEGIC PLAN 2019-2023 
+5
+NUST STRATEGIC PLAN 2019-2023 
+6
+Each factor in Table 1 is analysed in terms of whether it is an opportunity or a threat to NUST and its impact on the University is 
+rated as high, medium or low. A consideration is also made on whether the factor is in the short, medium or long-term plan. The 
+majority of the factors identified were threats rated in the high category, indicating that the macro-environment provides strong 
+challenges for NUST. In this regard, the University will contribute towards ensuring an affordable, competitive and accessible 
+education: thereby helping raise employment levels and reducing poverty.
+4.0 STAKEHOLDER ANALYSIS
+The planning process included a stakeholder analysis to identify key stakeholders that are of importance to NUST and the impact 
+that these stakeholders have on the University’s ability to achieve its vision, mission and objectives. The analysis looked at the needs 
+of the stakeholders as compared to the needs of the University, the ability of the stakeholders to block the University’s efforts and 
+the level of power held by each stakeholder. Table 2 shows the results of the stakeholder analysis.
+Table 2: Stakeholder Analysis
+NUST STRATEGIC PLAN 2019-2023 
+7
+NUST STRATEGIC PLAN 2019-2023 
+8
+NUST STRATEGIC PLAN 2019-2023 
+9
+5.0 INTERNAL ANALYSIS
+An internal analysis aims to identify internal strategic factors which are commonly referred to as organisational strengths and 
+weaknesses by assessing the internal engines driving the University. The McKinsey 7-S Framework and the resource appraisal 
+techniques can be combined to form the basis of the analysis. Figure 1 illustrates the McKinsey Framework and the elements that 
+form the basis for an internal analysis of the University. 
+Figure 1:  McKinsey 7-S Framework: Source: McKinsey Quarterly, 2008
+Using the above framework as the basis of the University’s internal analysis, a number of issues and possible 
+actions were identified as shown in Table 3.
+Table 3: NUST Internal Analysis Summary
+NUST STRATEGIC PLAN 2019-2023 
+10
+6.0 SWOT ANALYSIS
+The internal and external analyses conducted above culminated in a SWOT analysis. SWOT is an acronym that stands for Strengths 
+and Weaknesses (as internal strategic factors) and Opportunities and Threats (as external strategic factors). The SWOT analysis 
+was undertaken not only to identify NUST’s distinctive competencies, the particular capabilities and resources it possesses, and the 
+superior way in which they are used, but also to identify opportunities that the University is not currently able to take advantage of 
+due to the prevailing macroeconomic conditions. The results of the SWOT Analysis are shown in Table 4 where each SWOT factor 
+is rated in terms of its importance or impact as major, moderate  or minor.NUST STRATEGIC PLAN 2019-2023 
+11
+Table 4: Summary of NUST SWOT analysis
+NUST STRATEGIC PLAN 2019-2023 
+12
+7.0 GROWTH STRATEGIES
+In weighing the strategic options available, the University decided to adopt a growth strategy driven by the Ansoff’s Product Matrix 
+Expansion Grid as well as the Blue Ocean approach. This growth will involve an increase in the students’ population through the 
+identification of new markets and development of new programmes in the Faculties, from the current 10706 to 21000 by 2023. New 
+business development projects will also be established through diversification. Through the Ansoff’s matrix and the Blue Ocean 
+strategy approach, the University identified areas that needed to be streamlined and improved on as indicated in Tables 5 and 6.
+7.1 Current market and products
+The University currently draws 99% of its students from Zimbabwe, with the remainder coming from the rest of the continent. 
+Within Zimbabwe the University is currently focusing on the cities of Bulawayo and Harare. The current mode of delivery for most 
+post-graduate programmes is evening, fulltime and block release. At present the University offers a wide range of undergraduate 
+and postgraduate programmes across its seven faculties as shown in Appendix 1 . As part of its growth strategy the University will 
+introduce additional programmes.Presently the University is receiving applications in the region of 6000, yet capacity is limited to 
+admission of only 2000 new students per year.NUST STRATEGIC PLAN 2019-2023 
+13
+Table 5: The NUST Growth Matrix
+Table 6: The NUST Growth and Differentiation Strategies Using the 
+Blue Ocean ApproachNUST STRATEGIC PLAN 2019-2023 
+14
+Table 5: The NUST Growth Matrix8.0 THE FIVE KEY STRATEGIC DIRECTIONS
+The University’s Strategic Directions were formulated in light of the prevailing socio-economic and political environment, the SWOT 
+analysis and the Ministry’s strategic goals. The five strategic directions are: infrastructure development; business development; 
+innovation and intellectual property; research, teaching and learning and community scholarly engagement support as well as 
+organisational effectiveness. Each of the Strategic Directions will be accompanied by a number of strategic initiatives that will be 
+developed at Faculty and Departmental level.
+The Ministry’s 5 strategic goals are (MG1) - a higher education system that provides goods and services; (MG2) - strong educational 
+programmes supported by modern physical and financial infrastructure; (MG3) - heritage-based higher and tertiary education science 
+and technology development, that provides quality goods and services; (MG4) industrialised economy that provides quality goods 
+and services and (MG5) robust governance structures for the modernisation and industrialisation of Zimbabwe. These are captured 
+in each of  NUST’s five Strategic Directions as shown in Table 7.
+Table 7: Strategic Directions, Key enablers and Performance 
+indicatorsNUST STRATEGIC PLAN 2019-2023 
+15
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+16
+NUST STRATEGIC PLAN 2019-2023 
+Table 8: Strategic Directions
+Person responsible: Vice-Chancellor 
+NUST STRATEGIC PLAN 2019-2023 
+17
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+18THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+19THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+20THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+Table 9: Strategic Direction 2: Business Development
+Person responsible: Vice-Chancellor NUST STRATEGIC PLAN 2019-2023 
+21THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+Table 10: Strategic Direction 3 – Innovation and Intellectual Property
+Person Responsible: Vice-ChancellorNUST STRATEGIC PLAN 2019-2023 
+22THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+Table 11 Strategic Direction 4: Research, teaching and learning and 
+community scholarly engagement
+Person Responsible: Vice-ChancellorNUST STRATEGIC PLAN 2019-2023 
+23THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+24THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+Table 12 Strategic Direction 5: Organizational EffectivenessNUST STRATEGIC PLAN 2019-2023 
+25THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+NUST STRATEGIC PLAN 2019-2023 
+26THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+9.0 MONITORING AND EV ALUATION
+Monitoring and evaluation will be undertaken using the tool in Table 8 and performance review meetings. These can be 
+supplemented by graphical representation.
+Table 13: Monitoring and Evaluation PlanNUST STRATEGIC PLAN 2019-2023 
+27THINK IN OTHER TERMS
+NUST STRATEGIC PLAN 2019-2023 
+Appendix 1: Vice-Chancellor’ Office Proposed Organogram 
+Appendix 2: PVC IBD and Pro-VC ARC Strategic OrganogramNUST STRATEGIC PLAN 2019-2023 
+28THINK IN OTHER TERMS
+
+NUST STRATEGIC PLAN 2019-2023 NUST STRATEGIC PLAN 2019-2023 
+29THINK IN OTHER TERMS
+
+NUST STRATEGIC PLAN 2019-2023 
+

@@ -1,0 +1,2374 @@
+Strategy and 
+Development Plan 
+2021–2024
+
+Table of contents
+7 Charter
+13 Context
+19 Strategic areas of action
+ 21 Data and information
+ 25 Health and medicine
+ 28 Materials and manufacturing
+ 29 Responsibility and sustainability
+35 The next generations
+39 Pioneering research
+ 43  Knowledge exchange, technology transfer and  
+promoting innovation
+47 Enabling strategies
+ETH Zurich’s Strategy and Development Plan provides a roadmap 
+for the next four years: it is a tool to help the ETH community and the 
+institution as a whole chart its course when it comes to education, 
+research, and knowledge and technology transfer. Just like science 
+itself, this process is not linear, but rather more akin to a constant 
+search for solutions and a willingness to critically examine what has 
+already been achieved. 
+This means that our roadmap must remain flexible to adapt 
+quickly to changing circumstances, to let go of what has become 
+obsolete, and to seize new opportunities. The coronavirus pandemic 
+has shown the world just how quickly the best laid plans and 
+intentions can turn to dust. The crisis is not an argument against 
+far-sighted planning, but it has shown us that we need to put even 
+more emphasis on scientific expertise.
+Expanding this expertise and passing it on to the next generation  
+is, after all, the raison d’être of our university. The Strategy and 
+Development Plan ties into the strategic priorities of the previous 
+four-year period and sets out four strategic action areas: data and 
+information, health and medicine, materials and manufacturing,  
+and responsibility and sustainability.
+At the end of the day, it is people who drive ETH Zurich forward 
+and make it so successful. This is why living out our values is so 
+ crucial: values like responsibility, openness, diversity, team spirit and  
+excellence should be guiding our actions. In order to live up to these 
+principles, we still have to make improvements in some areas: for 
+instance, when it comes to raising female representation throughout 
+the university, or transferring the spirit of solidarity shown during 
+the corona crisis back into the “new normal” state of affairs. 
+ETH has a distinct culture of quality. By culture of quality, we 
+primarily mean a culture of learning that adapts to the ever-changing  
+demands and expectations of society, students, professors and  
+employees. By laying out ETH Zurich’s qualitative goals and the 
+measures it will take to achieve them, this Strategy and Development  
+Plan is also part of the university’s quality strategy. 
+This Strategy and Development Plan outlines ETH’s mission of 
+contributing to prosperity and well-being in Switzerland and  4   A word from the President
+advocating for the preservation of the country’s vital resources.  
+ The scale and complexity of the global challenges we face require 
+an interdisciplinary approach and the will to cooperate with stake-
+holders from every part of society. We have recalibrated our compass  
+and are ready to take the next steps. The next four years offer many 
+opportunities for ETH to develop as an educational institution and  
+to raise its profile on the national and international stage.5   A word from the President
+
+
+Charter7
+
+
+Paving the way in a complex world.9   Vision
+10   Mission
+By educating the next generation of critical and creative thinkers,  
+we make a significant contribution to the common good and  
+the preservation of societal well-being, natural resources and  
+the environment. Analysing, developing solutions, making  
+decisions and creative thinking: these are the key skills of our 
+graduates and staff. Our research generates new knowledge  
+and technologies for the future. Together with our partners, we  
+find answers to the important questions of our time – and in  
+doing so, we advance our society, strengthen the economy, and 
+protect nature and the environment.
+11   Values
+Excellence
+We strive for excellence in everything that we do. Our students,  
+researchers and employees shape our university and society with 
+the high quality of their contributions.
+Responsibility
+Integrity, mutual respect, and respect for people and the environ -
+ment form the foundation of our actions and reflect our freedom in 
+ research and teaching. We are tackling the great challenges of  
+our time and use a culture of critical thinking and the constant search  
+for sustainable solutions as our basis.
+Diversity
+Our success is based on the wide array of talented people in the  
+ETH community who creatively develop bold ideas and put solutions 
+into practice. We see all aspects of diversity as an opportunity. 
+Our international orientation and our intense dialogue with society 
+and across disciplines are factors that contribute majorly to 
+ developing new research questions and teaching our students.
+Openness
+We are open to new ideas, new talent and new partnerships. As part  
+of this openness, we attach importance to internal and external 
+transparency. Participation and involvement are important features 
+of our decision-making process and have an identity-forming  
+effect. Students, researchers and employees are on equal footing 
+in this regard. We are known as a place where people can freely 
+express opinions and engage in open debate.
+Team spirit
+We solve complex issues in complementary teams that cut across 
+disciplines and job functions. We are committed to ETH and maintain 
+a culture of togetherness, mutual appreciation and mutual learning.
+
+Context13
+14   Context
+Paving the way
+ETH is characterised by its curiosity-driven 
+approach to science, proximity to research, in -
+novative teaching, strong partnerships and entre -
+preneurial spirit. Our staff and students create an 
+inspiring environment that st imulates dialogue 
+and puts talent development in the spotlight. 
+ETH is exploring long-term societal and en  viron -
+mental developments in-depth and is strategical -
+ly working towards maintaining its position as 
+one of Europe’s  –  and the world’s  –  leading 
+ universities.
+Innovative teaching.  ETH’s main focus areas from 
+the previous four-year period  (2017–2020) – medi -
+cine, data, sustainability and manufacturing – 
+brought about not only numerous new research 
+projects, but also new degree programmes. The 
+new Bachelor’s programme in Human Medicine 
+teaches students the fundamentals of molecu -
+lar biology and medical technology alongside 
+traditional medical knowledge. EPFL (Swiss 
+ Federal Institute of Technology in Lau sanne) 
+and ETH Zurich launched a joint Mast er’s degree 
+programme in Cyber Security. A new Ma ster’s 
+degree programme in Quantum Engineering, 
+which includes a strong emphasis on project-  
+oriented learning, allows students to implement 
+their knowledge in a modern engineering train -
+ing programme. From 2017–2020, ETH almost 
+doubled the amount of innovative continuing 
+education programmes on offer. One ex  ample 
+is the new Certificate of Advanced  Studies 
+(CAS) in Advanced Materials and Processes, in 
+which industry specialists complete a hands-on 
+con tinuing education programme as part of a 
+ sabbatical at ETH.
+Successful research.  The people at a university 
+are what drives its success. Our researchers’ 
+success rate with regard to European Research 
+Council (ERC) grants regularly exceeds  –  by 
+far – the European average in every category. The 
+same applies to being the home institution for 
+the Swiss National Science Foundation’s (SNF) 
+National Centres of Competence in Research 
+(NCCRs). Our researchers regularly receive 
+the highest international honours, such as the 
+Fields Medal in 2018. These are just a few select 
+examples of our exceptional achievements. ETH 
+has also made significant investments in new 
+platforms and technologies, thereby creating an 
+excellent environment for researching the key 
+issues of the future. 
+Participation and innovation.  Interdisciplinary 
+collaboration is especially successful when 
+ people work together to devise solutions that they otherwise would not have achieved  without 
+the knowledge, methodology and experience 
+of all partners. Open ETH ( formerly known as 
+ETH+) allows all members of the ETH com -
+munity to shape the future of the university. 
+Since 2017, this initiative has seen around 
+CHF 130 million invest ed in 15 new professor -
+ships, technology platforms, and the establish -
+ment of networks and interdisciplinary centres. 
+Knowledge and technology transfer are part 
+of our core mission. We are seeing positive 
+trends when it comes to technology transfer: 
+in 2020, 34 new companies were founded as 
+ETH spinoffs. ETH Transfer was also the fir st 
+non-Anglo-Saxon institution to be honoured by 
+the Global University Venturing Award as “Tech 
+Transfer Unit of the Year” .
+Societal developments and  
+global  challenges
+In 2015, the member states of the United 
+Nations agreed on the Sustainable Develop -
+ment Goals (SDGs) as part of their 2030 Agenda. 
+All countries are called on to work together 
+to solve the urgent problems confronting the 
+global community and to fost er sustainable 
+development. As platforms for research, teach -
+ing and knowledge transfer, universities have 
+a special role to play in this undertaking. ETH 
+has accepted the challenge and takes the SDGs 
+into consideration as part of the university’s 
+mission. Below we will look at several import -
+ant societal trends and global challenges that 
+heavily influenced the formulation of ETH’s 
+four strategic action areas.
+Digitalisation is shaping all sectors of the econ -
+omy and numerous facets of our lives.  Many 
+ people fear the job losses that will occur as a result 
+of automation – a process that is also threaten -
+ing careers in the knowledge economy. On the 
+other hand, the automation process is bringing 
+about new opportunities that will put completely 
+different demands on how employees need to 
+be trained and the types of tasks they have to 
+perform. Modern, personalised products and 
+services based on data have the potential to funda -
+mentally change entire sectors in short periods of 
+time – and to bring about entirely new models of 
+doing business. The need to find solutions to the 
+challenges of data protection, privacy and cyber 
+security is becoming more urgent, and calls for 
+transparency and personal sovereignty over data 
+are growing louder. Research and teaching will 
+not only have to take these trends into account 
+but also influence them, generating stimuli for 
+innovation.
+15   Context
+Climate change is proceeding apace.  The growing 
+threat to the ability of the world to su stain a grow -
+ing population can only be countered through 
+joint global action towards behavioural change 
+and more environmentally friendly technologies. 
+The impact of climate change  –  temperature 
+increases, natural disast ers, thawing permafrost, 
+rising sea levels – will not only be felt by coastal 
+cities. Consequences such as droughts, famines 
+and biodiversity loss pose a threat to global food 
+systems and food security in both poor and pros-
+perous regions alike – developments that jeop -
+ardise peace and security. We are witnessing the 
+development of new technologies for  renewable 
+energy production and st orage and energy-  
+efficient sy stems for both household and indus -
+trial use. These technologies will provide a bridge 
+to a low-emission or emission-free future. It is 
+only possible to achieve a sustainable resource 
+economy – one that also takes the growth and 
+well  -being of developing and emerging econ -
+omies into account  –  through internationally 
+recognised cooperation in research and training 
+that cuts across borders.
+The population is ageing.  Birth rates are low in 
+many industrialised nations, while many people 
+born in baby-boom years are reaching retirement 
+age. The resulting imbalance is jeopardising 
+the long-term stability of healthcare and social 
+welfare sy stems. Meanwhile, life expectancy is 
+increasing thanks to the progress of modern 
+medi cine. In order for people to live longer lives 
+while remaining healthy, society is looking to the 
+scientific community for solutions: prevention 
+and treatment that is affordable and can be sus -
+tained across generations.
+Urbanisation is creating megacities.  All across 
+the world, there has been an increase in mobil -
+ity and migration from rural regions. The driv -
+ers are population growth, coupled with a lack 
+of economic perspectives and the impact of 
+climate change. Growing urbanisation requires 
+expanding the sustainable infrastructure of new 
+megacities in a way that considers people’s needs. 
+These areas will influence a large part of global 
+economic growth in the future.
+Society is orienting itself towards a multipolar 
+world in which education, technology and inno -
+vation will play a central role. ETH, as part of 
+a network with partners in education and the 
+ private sector, now has a greater chance than 
+ever before to contribute to under standing and 
+solving all of these challenges. We are taking 
+developments in academia and higher educa -
+tion on board and working to shape them actively 
+going forward. Developments in academia and  
+higher education
+ETH operates in a competitive environment and 
+measures its performance in research and teach -
+ing against the best universities and research 
+institutions in the world. We want to be an 
+attractive institution of higher education for our 
+students and an excellent employer for our staff. 
+Certain developments are particularly relevant 
+to the international university landscape and will 
+have a significant impact on our strategic devel -
+opment in the future. We will take a closer look 
+at these topics in the chapters “The next gen -
+erations” , “Pioneering research” , “Knowledge 
+exchange, technology transfer and promoting 
+innovation” , and “Enabling strategies” .
+The higher education landscape around the world 
+is in a state of flux.  Universities are engaged in 
+a global competition for talent, research results 
+and funding, and strive to strengthen the national 
+economies of their home countries. Countries 
+like China are investing considerable resources 
+in educational and research in stitutions and 
+are currently in direct competition with tradi -
+tional research centres in the United States and 
+Europe. What we consider to be universal  values 
+are weighted differently in different cultures, 
+which leads to different interpretations of scien -
+tific ethics and different opportunities when it 
+comes to developing and using technology. This 
+can have implications for our competitiveness 
+going  f orward. 
+Increasing the transparency of the university 
+and research landscape. The public is turning 
+a critical eye towards scientific findings that 
+significantly impact the future of the environ -
+ment and society. At the same time, higher 
+education budgets are coming under political 
+pressure. There is an increasing expectation 
+from the general public that universities should 
+tackle issues such as good governance and social 
+responsibility. Good scientific practice, transpar -
+ency, better scientific communication, dialogue 
+with policymakers and society at large, and an 
+exchange between researchers and the general 
+public – all of these help to explain research find -
+ings and to under stand their practical implica -
+tions, strengthening mutual trust on both sides. 
+Scientific achievements require this kind of 
+intellectual engagement in order for their soci -
+etal relevance to be better under stood, accepted 
+and supported.
+Open access and open data are making 
+research results accessible to the general pub -
+lic and are changing the established sy stem of 
+verifying and disseminating these findings.  
+16   Context
+Gatekeepers such as prestigious academic jour -
+nals and peer review processes are being que s-
+tioned, and alternative models are being discussed. 
+However, these alternative models must preserve 
+basic requirements for scientific publications: 
+accuracy, replicability and reproducibility.
+In the future, the value that education brings 
+to a certain location will be assessed on a global 
+level. Universities should develop shared con -
+cepts for overcoming the language and cultural 
+barriers that arise when working across bor -
+ders – and for turning these experiences into 
+mutual learning opportunities.
+Technological change shapes research and 
+teaching.  Modern technology has fundamentally 
+changed the way we communicate. It influences 
+how we work together, how we share data, and 
+how we make use of media. The ability to effi -
+ciently process large amounts of data has changed 
+processes and methodologies in many areas of 
+research. Established methods are now com -
+plemented by the use of machine learning, and 
+new analytical processes are making large data 
+sets more accessible and easier to analyse. The 
+growing digitalisation of research requires the 
+constant development of research infrastructure.
+New technology-based formats are being 
+experimented with as education and training 
+tools. Around the world, billions are being 
+inve sted in educational technology, and the 
+online education sector is growing. There are 
+two main questions that arise from this state of 
+affairs: Who is checking the information that is 
+available, determining its accuracy, and making 
+it available? And who is teaching the skills and 
+methods needed to put theory into practice, to 
+assess knowledge critically, and to advance it to 
+the next level? These questions are relevant to 
+all phases of learning and teaching: secondary 
+school, higher education and continuing edu -
+cation. Universities that conduct pioneering 
+research and research-based teaching have the 
+expertise needed to stake out a clear position 
+in this environment and to integrate modern 
+technologies into their operations. However, 
+personal interaction will remain an important 
+part of education in the future, which means 
+that a modern infrastructure with auditoriums 
+and flexible spaces is needed.
+Tech companies are investing in basic research 
+and competing for talent.  Four of the five US com -
+panies with the biggest market capital isation are 
+technology companies. China is pursuing a strat -
+egy of promoting the global reach of its tech firms. 
+These companies are investing billions in research 
+and development, with particular emphasis on 
+basic research. They are now  competing directly with universities – more so than at any time over 
+the past few decades – to recruit the best and 
+brightest minds. 
+Investing in life-long learning. The next gener -
+ations will be characterised by their pursuit of 
+multiple careers – sometimes simultaneously. 
+The type and amount of available knowledge 
+is changing ever more rapidly due to digitalisa -
+tion and improved algorithms. This means that 
+life-long learning – in particular, learning new 
+methods for using knowledge for specific appli -
+cations – will continue to grow in importance. 
+Universities will need to work with stakeholders 
+from the private sector and society at large to 
+develop new models that extend beyond conven -
+tional continuing education programmes.
+The ETH environment
+Open and international. The openness and inter -
+national outlook of Switzerland as a location 
+for education and research is central to ETH’s 
+ability to attract excellent students, early- career 
+and established researchers, professors and staff. 
+Switzerland’s international orientation also 
+makes it easier for us to shape and take part in 
+international research networks. 
+European universities are characterised by 
+their intense cross-border cooperation, which 
+forms the basis of their joint efforts to find 
+knowledge-based solutions to the most urgent 
+challenges currently facing society. Horizon 
+Europe is a research and innovation programme 
+launched by the European Union and is the 
+ large st such programme in the world. Switzer -
+land’s participation in Horizon Europe is essen -
+tial to the country’s development and importance 
+as a location for research and innovation.
+Last but not least, the quality of life offered by 
+Switzerland is very attractive to the large inter -
+national companies (and their staff ) who open 
+research centres here. This strengthens the eco-
+nomic power of the region and the Swiss research 
+community.
+Autonomy and governance.  The ETH Act, which 
+grants us academic and financial autonomy, plays 
+a significant role in our successful development. 
+The active participation of the entire ETH 
+community in shaping the development of the 
+university is an important factor in our success 
+and sets us apart internationally. The rETHink 
+initative, which was launched in 2020 with the 
+aim of setting the course for the university’s 
+future development, is a good example of our 
+ability to consolidate our strengths and engage 
+with the ETH community.
+17   Context
+ETH’s autonomy guarantees efficiency and 
+academic freedom, thanks to a structure consist -
+ing of autonomous departments and independent 
+research groups along with the freedom to set 
+and implement our own strategic action areas in 
+research and teaching.
+Stable and reliable funding. Stable and reliable 
+funding from the Swiss federal government is 
+essential for fulfilling our core mission and for 
+our future organisational development. This 
+funding allows us to build excellent infrastruc -
+ture and cutting-edge technology platforms. It 
+also ensures suitable infrastructure for our profes -
+sors, enabling them to submit successful research 
+proposals at home and abroad and to conduct 
+exploratory basic research. Furthermore, gener -
+ous public funding is an important pre requisite 
+for successfully acquiring third-party funds and 
+is connected with sustainable financial manage -
+ment – essential preconditions for our ability to 
+remain competitive on an international level.
+
+Strategic areas  
+of action19
+We are continually developing the diversity of 
+our research and teaching activities while at the 
+same time keeping our focus on a few core areas 
+that are of particular importance for the future of 
+Switzer  land. Bolst ered by the individual strategies 
+of our academic departments, we have defined the 
+following strategic action areas for the 2021–2024 
+period: data and information, health and medi cine, 
+materials and manufacturing, and respon sibility 
+and sustainability. 
+All four st rategic action areas open up equal 
+possibilities for exploratory basic research, applied  
+research, and new teaching programmes. Basic 
+research is the foundation for the success of ETH 
+as a whole and particularly for mission- oriented 
+research targeted at solving global challenges. 
+Interdisciplinary collaboration will be strength -
+ened in all strategic action areas, thereby promot -
+ing the translation of research results into real-
+world applications and education and training 
+programmes. Our research and teaching activ -
+ities acknowledge and respect the diverse range 
+of individual and group characteristics. All four 
+strategic action areas will facilitate new degree 
+programmes, innovative continuing education 
+programmes, stronger networking within inter -
+disciplinary degree programmes, and project 
+work with practical applications.20   Strategic areas of action
+Data and information
+Our society has been permeated by digitalisation, 
+social networks, artificial intelligence and other 
+IT-based innovations. The consequences of 
+these disruptions – for instance, changes in the 
+working world, or issues surrounding  security 
+and privacy  –  are fundamental in nature and 
+closely linked to technological developments. 
+Issues surrounding digitalisation are reflected 
+in all strategic action areas, and we are trans -
+lating these issues into concrete objectives and 
+measures.
+Data science and artificial intelligence
+Over the course of 2021–2024, we want to create 
+more capacity in data science while strengthen -
+ing the connection between the core subjects 
+of computer science, mathematics, electrical 
+engineering and information technology, and all 
+other disciplines represented at ETH. The ten -
+sion between the broad interest in data and the 
+right to privacy has given risen to new interdiscip-
+linary research topics that go beyond technical 
+issues and require close cooperation with the 
+social sciences and humanities.
+Working together with Swiss and interna -
+tional partners, we will continue to engage in 
+important collaborative research. Data Science is 
+one of the ETH Domain’s Strategic Focus Areas, 
+and it is under this umbrella that we created the 
+Swiss Data Science Center together with EPFL. 
+The centre provides advice to Swiss businesses 
+and research institutions relating to the use of 
+appropriate models and methods for machine 
+learning. The Center for Learning Sy stems is 
+a joint research centre of ETH Zurich and the 
+Max Planck Society and is dedicated to machine 
+learning. 
+We educate computer scientists, giving them 
+profound expertise and fost ering their critical 
+thinking skills when it comes to digital technol -
+ogies. We teach the fundamentals of computer 
+science and data science in all our study pro -
+grammes. Beyond the walls of ETH, we are con -
+tinuing to work with Swiss high schools to recruit 
+students for our computer science programme, 
+with an emphasis on encouraging female students 
+to take an interest in the field. We support schools 
+in their goal of comprehensively integrating com -
+puter science into their curricula and continuing 
+education programmes.
+The Greater Zurich Area and other Swiss 
+ cities are increasingly becoming IT hubs. This is 21   Strategic areas of action
+Objectives
+1 We aim to secure our role as a leading research institution in 
+data science, cyber security, artificial intelligence and machine 
+learning. We seek to promote understanding of the opportun-
+ities and risks posed by new technologies while grappling with 
+the associated ethical issues.
+2 We are strengthening our computer science and data science 
+instruction by integrating these topics into all disciplines, 
+thereby contributing to the upskilling of society.
+3 We foster exchange and cooperation with the Swiss private 
+sector and start-ups and act as an expert partner regarding 
+issues of digital transformation.
+4 We create conditions that attract the world’s best minds in the 
+fields of data science, cyber security and artificial intelligence 
+and provide them with a challenging and inspiring environ -
+ment with attractive conditions for conducting research.
+5 We are increasing our involvement in digitalisation initiatives 
+in Switzerland and abroad and take a leading role in these 
+projects.
+Measures and initiatives
+  We are in the process of building up the ETH AI Center in order 
+to strengthen research on artificial research and related dis -
+ciplines. The ETH AI Center will promote interdisciplinary col -
+laboration and drive the adoption of new AI developments in 
+the natural sciences, health sciences, environmental sciences 
+and robotics. An important component of this will be the ETH+ 
+initiative Foundations of Data Science.
+  A new National Centre of Competence in Research – NCCR 
+Automation – is being created to fortify our research and edu-
+cation activities in the fields of cyber-physical systems, the 
+Internet of Things, autonomous mobility and machine learning. 
+Together with our research partners at EPFL, Swiss Federal 
+Laboratories for Materials Science and Technology (Empa) and 
+the University of Applied Sciences Northwestern Switzerland, 
+we will advance the methodological and technological founda-
+tions of AI. The aim is to make the broad-scale implementation 
+of complex automated systems possible.
+  Thanks to new kinds of partnerships with private sector stake -
+holders – with large tech firms in particular, but also with 
+SMEs and large medical, energy and environmental firms – we 
+are securing access to data that is crucial for research. We are 
+also advocating to ease access to public sector data.
+  ETH is solidifying its position as a hub for research and educa-
+tion on security and privacy issues, for instance through the 
+ETH+ Security and Privacy in the Digital Society initiative. We 
+hope to meet the growing demand for expertise in information 
+security and data protection with the new Swiss Support 
+Center for Cybersecurity, which builds on existing initiatives 
+such as the Zurich Information Security and Privacy Center, the 
+SCION project for a secure internet, and the Cyber-Defense 
+Campus. We run the centre in cooperation with EPFL and offer 
+critical expertise to our partners in the Swiss government, pri -
+vate sector and civil society.
+  The ETH+ initiative Digital Transformation and Society expands 
+ETH’s capacity for interdisciplinary research, teaching, know -
+ledge transfer and outreach on the societal dimension of 
+ digital transformation. Operating at the interface of social 
+sciences, computer science and humanities, the initiative also 
+engages with the general public.a development that we want to support, and we 
+are increasingly working together with companies 
+in the area.
+Information security and cyber security are 
+topics that enjoy high priority on an economic, 
+societal, political and military level. The digi -
+talised knowledge economy is critically linked 
+with the ability to securely transfer, process and 
+store information – while protecting privacy. In 
+order to strengthen our expertise in information 
+security, we will continue to invest primarily in 
+the following areas:
+Secure hardware: The security of the entire 
+hardware chain must be guaranteed via con -
+trolled, secure processes. This requires the 
+development of new hardware concepts and 
+security standards for connected devices. 
+Notably, new computer architectures will 
+become necessary to make security by design 
+possible.
+Secure software: Software security – specif -
+ically, the ability to verify authenticity and 
+protect against manipulation – requires new 
+programming concepts and innovative proto -
+cols that work in tandem with secure hardware.
+Secure sy stems: The combination of secure 
+hardware and reliable software delivers indis -
+pensable sy stem security for robotics, net -
+worked sy stems and the Internet of Things. 
+This has an impact on areas such as the future 
+of mobility: self-driving vehicles must be 
+secured against unauthorised interventions. 
+Automated production, military sy stems, and 
+critical infrastructure for energy, water and gas 
+supply rely on these novel concepts for secure 
+systems.22   Strategic areas of action Data and information
+———
+—
+
+Quantum engineering and computing
+Our strategic involvement in quantum engineer -
+ing and computing allows us to shape the devel -
+opment of new quantum hardware and software 
+and to lay the foundation for future applications.
+Quantum technology is revolutionising the 
+methodology of how specific numerical problems 
+are solved, how data is transferred, and how tiny 
+signals can be measured. New findings in quan -
+tum physics allow us to tackle problems that were 
+previously difficult to solve and to revamp how 
+data transfers are safeguarded.
+ETH has been at the forefront of shaping quan -
+tum information science and quantum technology 
+since the advent of these fields. Our strengths lie 
+in conducting basic research: we are inve stigating 
+various potential platforms and paying particular 
+attention to superconducting and semiconducting 
+systems, but also to configurations of atoms, ions 
+and photons. Over the next few years, we want to 
+work across disciplines with physicists, electrical 
+engineers, material scientists and computer sci -
+entists in order to translate established research 
+findings into applied technologies.
+Thanks to our cooperation with the Paul 
+Scherrer In stitute (PSI) and the private sector, we 
+will be able to build the infrastructure required 
+for a countrywide quantum ecosy stem. Objectives
+1We are educating Switzerland’s first generations of quantum 
+engineers.
+2We are expanding our capacity in quantum technology at the 
+interface between basic research and engineering.
+Measures and initiatives
+Based on the successes of the Quantum Science and Technol -
+ogy (QSIT) NCCR, the Quantum Engineering Initiative, and the 
+EU Quantum Flagship, we aim to build a Swiss hub for quan -
+tum research over the 2021–2024 period. This ETH Centre 
+for Quantum Science and Technology will cover the following 
+areas:
+  Research: Working at the intersection between physics, com-
+puter science and electrical engineering, we will translate 
+fundamental findings from the quantum sciences into technol -
+ogies and applications. We will expand our capacity at the 
+interface of basic research and engineering.
+  Education: We will continue to run the new Master’s degree 
+programme in Quantum Engineering, which was launched as 
+a pilot project in 2019.
+  Cooperation: We will work with the PSI and partners from the 
+private sector to build a countrywide quantum ecosystem, 
+ taking research cooperation in Switzerland and Europe to the 
+next level.24   Strategic areas of action Data and information
+Health and medicine
+Ageing societies in industrialised countries 
+require technological solutions for prevention, 
+diagnostics, treatment and rehabilitation. These 
+solutions must be affordable and sustainable 
+across generations. Similar solutions can and 
+should be used to open up access to medical ser -
+vices for all. New medical approaches are being 
+developed with the help of data science, digi -
+talisation, and new technologies in engineering 
+and the life sciences. We under stand health to 
+be more than the result of medical processes: 
+it is also the result of external influences such 
+as nutrition, pollution and individual lifestyles. 
+In today’s society, living longer, healthier lives 
+is a goal that challenges both medicine and the 
+social sy stem and also requires solutions for facil -
+itating people’s largely unrestricted participation 
+in social life as they age. 
+Healthcare research must take a number of 
+structural and financial challenges into consid -
+eration such as the shortage of highly skilled 
+medical researchers as well as the high costs and 
+stringent requirements of clinical trials. Partner -
+ships between healthcare providers, industry and 
+academia are needed to support high-quality med -
+ical research and its translation into real-world 
+applications. 
+We aim to strengthen our contribution to 
+the Swiss healthcare sy stem by building on 
+our involvement in existing national initiatives 
+such as the Swiss Personalized Health Network 
+and the ETH Domain’s Strategic Focus Area 
+Personalized Health and Related Technologies. 
+We will continue to invest in partnerships with 
+universities, hospitals and companies, thereby 
+promoting the translation of research findings 
+into real-world medical applications. University 
+Medicine Zurich, a partnership between ETH, 
+the University of Zurich and the University of 
+Zurich’s four hospitals, will play an important role 
+in this process. 
+Education and training.  We successfully launched 
+the Bachelor’s degree programme in Human 
+Medicine as a pilot project in 2017. We will con -
+tinue to run the programme and expand our 
+cooperation with partner universities. Working 
+alongside various Swiss universities, university 
+hospitals and cantonal hospitals, we are treading 
+new ground in educating and training doctors 
+and other healthcare specialists. This is our con -
+tribution to training more doctors in  Switzerland 
+and is also our way of reacting to rapid devel -
+opments in the medical field. New technologies 25   Strategic areas of action
+Objectives
+1 We are committed to teaching and training a new generation 
+of doctors and healthcare experts at the interface of medicine, 
+technology and basic research. We support innovators who 
+work in the healthcare industry.
+2 We foster interdisciplinary collaboration between hospitals, 
+researchers and other stakeholders in the healthcare sector.
+3 We support digital transformation in medicine by intensifying 
+cooperation with computer science.
+4 We are developing new solutions for healthcare provision in 
+Switzerland, with a focus on prevention, diagnostics and re-
+habilitation. These solutions also help to improve healthcare 
+in developing countries and conflict zones.
+
+Measures and initiatives
+  Developing clinical research centres together with hospitals 
+in Zurich (e.  g. The Loop Zurich), Basel and other locations. Cre -
+ating additional capacity via professorships that have access 
+to clinical research infrastructure, e.  g. ETHeart, which aims 
+to develop new therapies for cardiovascular diseases.
+  Researching and developing digital/mobile healthcare solu -
+tions by establishing research partnerships with the private 
+sector. We are paying particular attention to data science and 
+personalised medicine: for instance, our tumour profiler pro-
+ject (a new diagnostic tool being developed with Hoffmann-  
+La Roche, the university hospitals in Zurich and Basel, and the 
+University of Zurich) and the Future Health Technologies pro-
+gramme at the Singapore-ETH Centre.
+  At the Wyss Zurich centre, ETH and the University of Zurich are 
+working together with the Wyss Zurich Foundation to translate 
+findings from basic research into practical applications for the 
+healthcare sector.
+  Intensifying research, teaching and knowledge transfer in the 
+field of rehabilitation technology and science via the Rehab 
+Initiative and the Rehabilitation Engineering and Science 
+Center, a centre of excellence that was founded in 2020. We 
+will also continue our dialogue with the public by continuing 
+our Cybathlon events.
+  The Botnar Research Centre for Child Health is a research 
+ centre run by ETH and the University of Basel. The centre is 
+dedicated to paediatric research, overcoming healthcare chal -
+lenges in developing countries, and developing digital and 
+mobile healthcare solutions as well as cell-based therapies.
+  Launching the Microbiomes NCCR in order to study micro-
+organism interaction in various systems (human, animal, plant 
+and environmental). A joint initiative by the University of Lau-
+sanne, ETH, EPFL, Lausanne University Hospital, the Swiss 
+Federal Institute of Aquatic Science and Technology (Eawag), 
+the University of Bern, and the University of Zurich, the Micro-
+biomes NCCR brings together the life sciences, medicine, 
+bioinformatics, nutrition and environmental science.
+  SKINTEGRITY is an ETH+ initiative that brings together experts 
+from basic research, clinical research, bioengineering and 
+bioinformatics at ETH, the University of Zurich and the Univer -
+sity Hospital Zurich. SKINTEGRITY is improving our under -
+standing of and ability to diagnose and treat skin defects and 
+severe dermatological illnesses.
+  Thanks to the establishment of the MAS programme in Digital 
+Clinical Research and the expansion of the MedLAB, we are 
+creating an excellent foundation for doctors to familiarise 
+themselves with the latest state of research at ETH, either 
+during their specialist medical training or later when they are 
+practicing physicians.27   Strategic areas of action
+are making earlier prediction, reliable diagnos -
+tics and effective treatments easier and better. 
+These developments, which are also due to 
+ digitalisation, require a rethinking and partial 
+reorientation of what medical careers look like. 
+They also require an increase in interprofessional 
+cooperation between hospitals, researchers and 
+other stakeholders in the healthcare sector.
+Access to medical research and translation into 
+real-world applications.  We are opening up 
+access to medical research and its translation 
+into real-world applications. Approximately 
+one-third of our professors in nine different 
+departments – from the natural sciences to engin -
+eering – are directly or indirectly involved in 
+medical research. Their activities include con -
+ducting basic research, developing new materials, 
+medical technologies, pharmaceutical products 
+and other bioactive substances, and creating 
+novel approaches for prediction and diagnostics.  
+Many of these activities are led by individual 
+researchers who often do not have the access to 
+patients, patient data or infrastructure that would 
+allow them to translate preclinical findings into 
+ clinical practice. On the other side of the equation, 
+healthcare professionals who work directly on the 
+ground often lack access to research infrastruc -
+ture and the knowledge of how to turn patient 
+data into relevant insights. Closer working rela -
+tionships with hospitals and new joint platforms 
+for clinical research are improving the translation 
+of new research findings into medically relevant 
+applications.
+Strengthening capacity for medical research. 
+In order to promote cutting edge-research, we 
+are creating new professorships that will be 
+able to develop and lead new kinds of clinical 
+studies. Their job consist s of conducting basic 
+and applied research and delivering fir st-class 
+teaching to students without providing  clinical 
+services. We will work together with clinical 
+partners to provide the infrastructure that is 
+needed for independent medical research. Tech -
+nological solutions can be used in tandem to con -
+duct expensive, time-consuming clinical studies 
+in a more efficient manner.
+Engagement in developing countries and conflict  
+zones. We are developing solutions and processes 
+that allow for outpatient treatment and location  -
+independent monitoring, thereby reducing costs. 
+Intelligent algorithms can help to develop reliable 
+and affordable models for diagno stics and pre -
+vention. By working together with international 
+organisations, we are demonstrating our commit -
+ment to efficient solutions for crisis zones and 
+developing regions.Health and medicine
+Materials and manufacturing
+Objectives
+1 We are consolidating our position as a leading research and 
+education centre for new materials and pioneering manufac -
+turing processes. New findings in these areas will be applied 
+in construction, the mechanical, electrical and metal industry, 
+medical technology, the pharmaceutical industry and the food 
+industry.
+2 We are creating networks between the fields of material sci -
+ence and manufacturing and process technology to generate 
+new applications for industrial use in Switzerland and abroad. 
+By bringing together computer science, artificial intelligence, 
+and information and communication technology, we are 
+exploring possibilities for digitalising and optimising entire 
+production processes.
+2 By working closely with large companies and SMEs, we create 
+added value via active knowledge and technology transfer and 
+innovations in materials and manufacturing.
+Measures and initiatives
+  The Centre for Computationally Augmented Design in Archi -
+tecture and Construction (Design++) is an ETH+ initiative that 
+is opening up new possibilities in digital design. In the robotics 
+space, the RobotX Center brings together intelligent machines, 
+infrastructure, education and research, while the Robotic 
+Materials initiative is linking new paths in material develop -
+ment with the latest advances in robotics, human-robot inter -
+action and artificial intelligence.
+  The newly launched Laboratory for Multiscale Materials Syn -
+thesis is promoting investments in the development of new 
+intelligent materials. Suitable models and machine learning 
+allow scientists to design new metallic and semiconductive 
+materials and to engage in their experimental production and 
+characterisation.
+  Bringing Materials to Life is an ETH+ initiative that uses an 
+interdisciplinary approach to investigate how living organisms 
+adjust and produce certain material characteristics in a 
+ targeted manner. 
+  We are developing a cross-departmental initiative called 
+Engin eering with Living Materials, which is dedicated to 
+researching material systems that are adaptive, self-healing 
+and organic. The goal is also to research temporary materials 
+that break down in the body after fulfilling their function.
+  Knowledge and technology transfer is supported by inspire AG, 
+a national centre of excellence for technology transfer to the 
+mechanical, electrical and metal industries.
+  AdditivETH is a platform that supports capacity building and 
+collaboration in the field of 3D printing and the scaling of 
+ additive manufacturing processes for personalised medicine 
+and robotics.New su stainable, resource-saving materials and 
+production technologies are of great importance 
+to the economy and the prosperity of Switzer -
+land and the world. Digitalisation is fundamen -
+tally transforming the landscape when it comes 
+to material development, constructive design 
+and manufacturing technologies, and the reuse 
+and recycling of materials. These developments 
+are leading to more flexibility, productivity and 
+quality. Innovative materials and digital manu -
+facturing processes such as additive technologies 
+and robotics are opening up new possibilities in 
+the production of new shapes and combinations 
+of materials.
+Developing new materials and under standing 
+them on all levels – from their atomic structure to 
+their use as components – is of great importance 
+to future manufacturing processes, which span 
+a range that includes nanotechnology, surface 
+technology, additive manufacturing, indust rial 
+processes and the construction industry. Take 
+information and quantum technology as an ex -
+ample: progress in these fields depends on the 
+ability to integrate new materials into semicon -
+ductor manufacturing. In medical technology and 
+new industrial production processes, the proper -
+ties of materials are decisive for both quality and 
+reliability, for instance when it comes to  metallic 
+materials, ceramics, plastics, biomaterials and 
+construction materials.
+ETH helped to build up the ETH Domain’s 
+Strategic Focus Area in Advanced Manufactur -
+ing over the course of 2017–2020. Manufacturing 
+technology was a main focus area of ETH Zurich 
+during this time, and we will continue to actively 
+promote and develop this field. ETH’s inter -
+disciplinary Competence Center for Materials 
+and Processes has been successful in bundling 
+the university’s general expertise in innovative 
+mater ials and its special expertise in soft mater -
+ials and metals. The centre is helping to continue 
+expanding this expertise by running joint cross-  
+departmental projects. We also initiated innova -
+tive research projects on additive manufacturing 
+and engaged with external partners through 
+the ETH Domain’s Strategic Focus Area in 
+Advanced Manufacturing. We also strengthened 
+research and teaching in digital fabrication and 
+ robotics with National Centres of Competence in 
+Research by the same names: the NCCR Digital 
+Fabrication and the NCCR Robotics. 28   Strategic areas of action
+Responsibility and sustainability
+The scope and complexity of the urgent challenges 
+of our time require a holistic, interdisciplinary 
+approach that calls for open cooperation between 
+people who think and act critically. According to 
+the ETH Act, teaching and research are guided 
+by respect for human dignity, responsibility in 
+the use of natural resources and the environment 
+together with an evaluation of the consequences 
+of technological applications. In order to live up to 
+these principles, we integrate sustainability into 
+our research activities and our daily actions. We 
+promote responsibility, cooperation, and a cul -
+ture of critical and constructive thinking, and we 
+engage in dialogue with the general public.Objectives
+1 We promote the responsible use of natural resources through 
+research, teaching and innovation.
+2 We aim to be carbon neutral by 2030 by reducing our green -
+house gas emissions by at least 50 percent compared to 2006 
+and covering the remaining emissions via carbon offsets. To 
+help achieve this goal, we undertake research and teaching 
+projects as part of our Living Labs programme.
+3 We take on a leading role in society and the scientific commu-
+nity when it comes to assessing the opportunities, risks and 
+consequences of technological change. We are strengthening 
+our research in this area, which enables us to answer complex 
+ethical questions and propose solutions.
+4 We are creating structures and instruments to anticipate and 
+develop solutions for future technological developments and 
+societal challenges long before they happen.
+5 We are internationally renowned as an interdisciplinary centre 
+of excellence for integrative solutions that cut across discip-
+lines, and we foster cooperation on a national and international 
+level.
+6 We maintain a dialogue with the general public, build new part -
+nerships and perform our role as a provider of knowledge for 
+evidence-based policy. 
+7 We foster the analytical abilities of our students and staff, 
+encourage them to reflect on their own actions as well as those 
+of others, and urge them to consider various perspectives 
+when developing solutions. This allows them to act  responsibly 
+on behalf of ETH and society as a whole.29   Strategic areas of action
+Sustainability
+We want to contribute to global efforts towards 
+the sustainable development of all countries 
+and the maintenance of our natural resources. 
+We have consciously decided to take a holistic 
+approach that combines the economic, social and 
+ecological dimensions of sustainability. For this 
+reason, we are actively committed to the sustain -
+able use of resources in our research, teaching 
+and innovation activities.
+Sustainability is part of the culture at ETH 
+and has played a central role in research, teach -
+ing and knowledge transfer for many years. Su s-
+tainability was one of our five main focus areas 
+during the 2017–2020 period. Our research and 
+teaching are aimed at better under standing the 
+scientific underpinnings of the natural world 
+and at bringing more sustainable practices to the 
+fields responsible for the bulk of environmental 
+pollution. We want to ensure that future gener -
+ations can live more sustainably. For this reason, 
+our sustainability efforts focus on protecting the 
+environment, natural resources and biodiversity 
+as well as finding sustainable solutions for con -
+struction, housing, energy, mobility and nutrition. 
+Furthermore, we live up to sustainable values on 
+our own campus and promote the idea of using 
+ETH as a living lab.Measures and initiatives
+  Urbanisation is a global trend that ETH has been researching 
+at the Future Cities Laboratory at the Singapore-ETH Centre. 
+The Future Cities Laboratory (FCL) – Global initiative will build 
+on these efforts in order to research and design the cities of 
+the future on a broader scale. Additionally, we are launching 
+a new Master’s degree programme in Landscape Architecture 
+to teach the next generation about understanding, maintaining 
+and developing public spaces and landscapes in a time of 
+rapid change.
+   We have partnered with the other ETH Domain institutions, 
+private sector partners and additional universities to take part 
+in SWEET (SWiss Energy research for the Energy Transition), 
+a new funding programme of the Swiss Federal Office of 
+Energy. The Energy Science Center has launched the Renew -
+able Management and Real-Time Control Platform project as 
+a test environment for researching future energy supply sys-
+tems. The SCCER Mobility supported the development of 
+expertise and networks within the research community as well 
+as with the private sector and public authorities. We will build 
+on the momentum generated by the SCCER Mobility and our 
+mobility initiative to establish the Competence Centre on Sus-
+tainable Future Mobility.
+  NCCR Catalysis, a new National Centre of Competence in 
+Research, has begun and is being conducted jointly with EPFL, 
+the University of Basel, the University of Bern, the University of 
+Zurich, the School of Engineering and Architecture of Fribourg, 
+and the Zurich University of Applied Sciences. Researchers are 
+working to lay the basis for sustainable chemistry in order to 
+create a CO₂-neutral chemical industry.
+  We are breaking new ground in researching and developing 
+safe and healthy nutrition. The Future Food Initiative was 
+jointly launched by ETH’s World Food System Center and 
+EPFL’s Integrative Food Science and Nutrition Center. The ini-
+tiative supports up-and-coming researchers on the postdoc 
+level, brings academic and industrial research closer together, 
+and strengthens efforts to translate academic findings in the 
+field of nutrition into real-world applications. The Plant Hub 
+Eschikon research station will create a comprehensive infra-
+structure for the next generation of plant science.
+  By 2024, we aim to reduce our CO₂ emissions by a further 20 
+percent compared to 2018, and we will see a substantial reduc-
+tion in emissions from air travel. ETH will also continue to 
+decarbonise its energy supply by implementing the energy 
+master plan for the central campus and developing the Anergie 
+grid on the Hönggerberg campus. This will allow ETH to achieve 
+the targets set by the Swiss federal government.
+  We are strengthening the ETH for Development initiative in 
+order to combat poverty sustainably through collaborative 
+research between the natural sciences, engineering and social 
+sciences. Working together with EPFL, the International Com-
+mittee of the Red Cross and other potential partners, we are 
+strategically developing technologies and approaches that can 
+be used in humanitarian relief work. 
+  Along with MeteoSwiss, Empa, the Swiss Federal Institute for 
+Forest, Snow and Landscape Research (WSL), and Agroscope, 
+we are jointly investing in the cross-institutional Center for 
+Climate Systems Modeling and the ETH+ initiative EXCLAIM. 
+These investments will create a state-of-the-art infrastructure 
+that allows for weather and climate modelling, the develop -
+ment of new climate change scenarios for Switzerland, and an 
+open conversation with the general public. 30   Strategic areas of action Responsibility and sustainability
+
+Measures and initiatives
+  An ethics centre will be established in order to address the 
+mounting ethical challenges arising at the intersection of 
+research, real-world applications and society. The focus is on 
+technoethics, bioethics and scientific ethics.
+  In order to understand the opportunities and risks posed by 
+technological change and to share this expertise with the 
+ public and decision-makers, ETH researchers are joining the 
+conversation on the development of new technologies and 
+their real-world applications. We are integrating these issues 
+into our curricula. 
+  We are creating a structure at ETH that allows us to anticipate 
+technological and social change and to define strategic areas 
+of action with international relevance at an early stage 
+( strategic foresight).
+Measures and initiatives
+  We are creating additional incentives and infrastructure for 
+interdisciplinary collaboration. The ETH+ initiative, launched 
+in late 2017, promotes capacity building and interdisciplinary 
+collaboration between academic departments. Open ETH 
+arose from the ETH+ initiative and goes one step further by 
+promoting interdisciplinary collaboration beyond ETH, thereby 
+lending support to long-term research initiatives.
+  Collegium Helveticum has established itself as a transdisciplin-
+ary laboratory for creative partnerships and as a location for 
+promoting selected up-and-coming talent in the arts and 
+sciences.32   Strategic areas of action
+Technological change:  
+opportunities and risks
+New technologies act as the driver of societal 
+progress. At the same time, they have great con -
+sequences – both positive and negative – for the 
+environment and society. These consequences 
+are often unexpected and only become visible 
+once the technology is at a further stage of devel -
+opment. We are examining this issue from two 
+angles. Fir stly, how can we use research to iden -
+tify the opportunities and risks of technological 
+change early on, enhancing its utility for business 
+and society while at the same time limiting its 
+downsides? Secondly, how can we identify pio -
+neering developments early on in order to help 
+ETH maintain its position as a leading technical 
+and scientific university with national and inter -
+national reach?
+Interdisciplinary cooperation
+The complexity of scientific and sociopolitical 
+issues has increased and often goes beyond the 
+scope of a single discipline. Working together 
+across different fields will better the odds of find -
+ing innovative solutions.
+ETH+, an initiative launched in late 2017, 
+began a process of promoting interdisciplinary 
+issues that cut across departmental lines and 
+building up the capacity needed to address them.Responsibility and sustainability
+Measures and initiatives
+  We are intensifying our dialogue with society at large when it 
+comes to issues from our strategic action areas, employing 
+innovative formats and contemporary forms of science com -
+munication. We will continue to increase our capacity to engage 
+in an open, proactive dialogue with the public, building on suc-
+cessfully established outreach programmes such as Treff -
+punkt Science City, Scientifica, ETH Meets You and the ETH 
+Digital Platform.
+  We engage with policymakers and inform policy through dia -
+logue and new platforms, bringing the scientific community 
+and decision-makers together. 
+  We are developing new exhibition formats and platforms for 
+dialogue that fuse science and art and help to present complex 
+topics in an attractive, accessible way. By moving art and 
+ science closer to one another, we are acting in the spirit of 
+ Gottfried Semper’s motto: “Science shall be pervaded by art 
+and art by science.”
+  We bring ETH to life in an interactive visitors’ centre. Our 
+diverse collections are being made more accessible thanks to 
+digitalisation. Engaging with the public
+As a leading European scientific and technical 
+university and one of the best universities in 
+the world, we have a responsibility to constantly 
+promote and cultivate knowledge exchange in 
+a spirit of partnership with the scientific com -
+munity, the private sector, policymakers and the 
+general public.
+We serve society by educating graduates with 
+a sense of responsibility and sending them into 
+the world equipped to think and act in a global, 
+sustainable context. We use our research find -
+ings to provide an empirical basis for political 
+and economic decision-making and to cultivate 
+a dialogue with the public on equal footing. 
+The COVID-19 crisis has once again confirmed 
+how important scientific findings are to govern -
+ments and societies. Although most research had 
+to be conducted remotely, new research activities 
+quickly arose and contributed to our under stand -
+ing of the pandemic and how to deal with and 
+contain it. Researchers pushed ahead with new 
+projects at breakneck speed, ranging from basic 
+research in biology, chemistry, health science and 
+medicine to engineering new types of ventilators. 
+The helfpfulETH platform was created to bring 
+hospitals and other healthcare institutions closer 
+to the research community so that researchers 
+could react quickly to concrete needs and develop 
+solutions.
+The social, economic and political implica -
+tions of the pandemic are also important research 
+questions, including the impact on our behaviour, 
+the working world and management. Two areas 
+of research have enjoyed particular prominence: 
+inve stigations of how the virus spreads, both 
+within Switzerland and globally, and the devel -
+opment of the SwissCovid app, a tool for contact 
+tracing that was created in cooperation with EPFL 
+and the Federal Office of Public Health. Several 
+ETH professors serve on the Swiss National 
+COVID-19 Science Task Force and provide their 
+expertise to the federal authorities. 33   Strategic areas of action Responsibility and sustainability
+
+35
+ The next   
+generations
+36   The next  generations
+We are training our students to become independ -
+ent and creative thinkers who can act as respon -
+sible citizens and help shape the future. Education 
+at ETH is interdisciplinary and research-based; 
+it trains students to identify problems and find 
+solutions in our complex, quickly changing world.
+Our degree programmes provide a solid 
+metho dological foundation and technical expert -
+ise, interdisciplinary and sy stemic thinking, and 
+social skills. We fost er a culture of independent 
+learning that boosts students’ individual strengths 
+and allows them flexibility in designing their 
+study programme. Our study programmes and 
+curricula are competitive and oriented towards 
+the needs of the next generations and the work -
+ing world. Our graduates are in high demand in 
+society, the scientific community and the private 
+sector in Switzerland and abroad.
+Students are active agents in their education 
+and help shape courses through their participa -
+tion. They are motivated, committed to acquiring 
+social and technical skills, and open to innovative 
+forms of teaching.
+Research-based teaching
+Research and teaching must be closely linked. 
+We therefore continually develop the content 
+of our degree programmes based on the latest  
+developments in science and technology. The 
+challenge lies in developing new content that 
+simultaneously teaches and solidifies the basics 
+of the field while taking cutting-edge develop -
+ments into equal consideration. Integrating all 
+ETH researchers into our teaching activities is 
+the best way to achieve this. Our close working 
+relationship with the private sector allows us 
+to hold courses that give students real-world 
+insights and encourage entrepreneurial thinking.
+Our curricula are sy stematically developed 
+in order to fost er flexibility and personal initia -
+tive. We give students more freedom of choice 
+within their degree programmes by offering more 
+specialisations and electives. Students are sup -
+ported by tutors when designing their studies. 
+Our Mast er’s degree programmes are designed 
+to give st udents direct entry into cutting-edge 
+research or the ability to launch a career in the 
+private or public sector.
+Creativity and soft skills
+Teaching skills outside of the subject immediately 
+at hand is an important component of all courses. 
+Students and staff develop and practice the  ability 
+to differentiate between different positions, 
+points of view and behaviours, to critically – and 
+self-critically – examine them, and to identify 
+appropriate courses of action. Critical thinking 
+thus forms the foundation of a comprehensive 
+vision of university education and  organisational Objectives
+1 We promote the acquisition of soft skills (e.  g. entrepreneurial 
+thinking), social skills, leadership abilities, computational 
+competencies, and the ability to analyse complex issues. 
+2 We are intensifying our efforts to create space for curiosity, 
+creativity and flexibility in our degree programmes, thereby 
+laying the foundations for lifelong learning.
+3 We use modern technology in our teaching activities, integrate 
+scientific findings into our lessons, and conduct pedagogical 
+research.
+4 Our courses for future teachers place heavy emphasis on 
+teaching critical thinking skills to ensure that this fundamental 
+concept is already taught in early education. 
+37   The next  generations
+culture that teaches additional soft skills. These 
+skills make it possible to solve complex prob -
+lems and shape our transformation towards a 
+ sustainable society. 
+Soft skills also include the ability to openly 
+reflect on and maintain one’s own physical and 
+mental health. We support students by giving 
+them appropriate workloads. We live up to our 
+leadership responsibilities and offer support and 
+advice to students and staff.
+We motivate students and staff to think cre-
+atively beyond cultural and field-specific borders, 
+to assess complex problems holistically, to adopt 
+stances based on ethics and to act in a responsible 
+manner. They should also recognise how stereo-
+types and unconscious bias work and under stand 
+why awareness of equal opportunity and  diversity 
+form an important component of responsible 
+conduct.
+The Science in Perspective programme teaches 
+students to recognise connections between scien -
+tific findings, technical innov  ations, cultural 
+contexts, individuals and soci eties and to assess 
+them in a critical manner. This improves students’ 
+reflection skills and prepares them for the societal 
+developments and global challenges that they will 
+later face. This kind of thinking is being increas-
+ingly integrated into all degree programmes.
+We are particularly committed to project-based 
+learning, which is being strengthened and pro -
+moted in all departments. Projects are an import -
+ant tool for increasing students’ motivation and 
+curiosity via interdisciplinary collaborative work. 
+They also serve to promote the development of 
+students’ social skills and ability to think holisti -
+cally. Experiential and problem-oriented learning, 
+comprehensive skill development and construct -
+ive feedback are all central components of this 
+process.
+Quality through innovation
+Quality assurance for teaching and curriculum 
+development needs to be viewed through the lens 
+of ETH’s growing student population, the growing 
+heterogeneity of the st udent body and the addition 
+of new degree programmes and technologies.
+This growth, particularly on the Mast er’s 
+degree level, is a challenge because of the level of 
+individual supervision required for each student. 
+For this reason, we need to develop instruments 
+that allow for moderate growth without losing 
+sight of quality, to significantly increase our 
+teaching capacity both in terms of infrastructure 
+and staff, and to develop new teaching formats 
+and techniques that increase the efficiency of 
+teaching without reducing its quality.
+New technologies have had a major impact 
+on teaching over the past two decades, making 
+it possible to host remote lectures and easier Measures and initiatives
+  We are launching new initiatives and developing existing pro-
+grammes such as ETH Week in order to meet the urgent need 
+for soft skills and critical thinking abilities. The ETH Talent 
+project aims to emphasise the importance of soft skills, to 
+boost the visibility of interdisciplinary training, and to provide 
+lecturers with easy-to-implement didactic models. PRISMA is 
+a student project that integrates interdisciplinary project work 
+into the ETH curriculum. As part of PRISMA, students work  
+in small interdisciplinary teams to tackle important social  
+and scientific questions and to develop answers to challenges 
+ facing societies across the globe. 
+  The Student Project House promotes the development of soft 
+skills and entrepreneurial thinking. The Social Innovation Lab, 
+which is part of the Student Project House, offers students the 
+opportunity to tackle unsolved societal problems of global sig -
+nificance by working together in interdisciplinary teams. The 
+ETH Singapore Month programme pursues a similar goal. The 
+four-week summer school at the Singapore-ETH Centre is run 
+together with CREATE and local partners. 
+  The new Future Learning Initiative is supported by twenty  -
+three professors from nine departments. The aim is to make 
+ETH a leading centre for the science of learning, with research 
+that can be immediately applied to teaching practice. ETH sup -
+ports innovative adjustments to teaching in its academic 
+departments as well as student initiatives. 
+  ETH supports student initiatives. One example is the establish -
+ment of the new Interdisciplinary Engineering degree pro -
+gramme, which provides students with the opportunity to 
+combine the fundamentals of engineering with content from 
+all engineering fields, business and management, and the 
+social sciences and humanities. The programme promotes a 
+holistic interdisciplinary education and meets the demands of 
+the job market by expanding the methodological skills of our 
+graduates. 
+  Our Youth Academy promotes STEM subjects and specialisa -
+tions to high school students, recruits suitable students to 
+study at ETH, and prepares them for their degree programmes. 
+The initiative is based on ETH’s strong relationships with high 
+schools in German- and Italian-speaking Switzerland. It offers 
+exciting courses that are scientifically evaluated for effective-
+ness and continually improved.
+38   The next  generations
+to study on a flexible timetable. By combining 
+these formats with mentoring and interdisciplin -
+ary project work, it becomes possible to take 
+students’ individual learning styles more into 
+account. Teaching concepts based on this kind 
+of new technology require that students have the 
+skills and ability to deal with flexible, changing 
+and individualised forms of learning – skills that 
+are becoming increasingly important in the work -
+ing world as we move into the future.
+The COVID-19 crisis was a great challenge for 
+lecturers, students and staff at ETH. At the same 
+time, however, the crisis provided an impetus for 
+innovative teaching ideas. Driven by the special 
+circum stances of the lockdown, di stance learning 
+became a widespread form of instruction within 
+just a short period of time. While it is clear that 
+direct interaction between lecturers and students 
+will remain a core component of excellent teach -
+ing, our experiences with remote teaching during 
+the lockdown have advanced our under standing 
+of how to best combine classroom teaching with 
+new online methods in the future. 
+The changes in education accelerated by the 
+corona crisis have boost ed the importance of 
+research into teaching and learning. Our goal 
+is to continue improving teaching and learning 
+outcomes on the university level and to take on a 
+leading role in the science of teaching and in  nova -
+tive teaching methods. We want to under stand 
+the nature of formal and informal learning on 
+a neural, cognitive, social and cultural level and 
+to drive the implementation of these findings in 
+real-world teaching activities.
+We fo ster innovation in teaching via strategic 
+programmes, funding instruments, prizes and 
+curriculum development experts. We give the 
+Golden Owl and KITE awards to teaching staff 
+who exhibit excellence in teaching and enrich 
+their lessons in innovative ways. We will continue 
+expanding virtual reality and online platforms 
+that enable new kinds of interactions. While 
+regular interaction between teaching staff and 
+students should take place in person wherever 
+possible, digital technologies can complement 
+personal contact and allow for independent learn -
+ing, subject specialisation and flexibility. There 
+will be expanded options for participation, and 
+the personal supervision of large groups of stu-
+dents will become easier, even when the students 
+are scattered across the globe.
+Findings from research in teaching and 
+learning and the development and application 
+of new technologies help us to develop strat-
+egies for dealing with the growth of the student 
+body. During the last planning period, the aca -
+demic departments and the Educational Devel -
+opment and Technology office launched several 
+ initiatives such as the Center for Active Learning and  sabbatical opportunities for lecturers in the 
+private sector (and vice versa). We will build on 
+these initiatives in order to continue shaping the 
+development of teaching, particularly with regard 
+to introducing new technological tools and in  -
+novative teaching methods.
+A significant portion of math, computer sci -
+ence and natural science teachers in advanced 
+high schools in Switzerland are graduates of 
+ETH  Zurich. By training these future STEM 
+teachers, we support high school students’ inter -
+est in science and mathematics and fost er the 
+skills they need to succeed in these subjects. We 
+therefore consider the education and training of 
+high school teachers to be one of our core activ -
+ities and an important contribution to knowledge 
+transfer in Switzerland. We also run learning cen -
+tres at EducETH, where we support instruction 
+in STEM subjects at the primary and second -
+ary level by working together with teachers to 
+develop and implement new teaching concepts.
+39
+Pioneering   
+research
+40   Pioneering  research
+Objectives
+1 We will continue to create space for exploratory research and 
+provide optimal conditions for using the great innovative 
+potential of basic research.
+2 Building on their strengths and expertise, our academic 
+departments work together closely with the aim of strategic-
+ally establishing interdisciplinary research expertise and 
+research centres.
+3 We will maintain, consolidate and construct top-notch scien -
+tific infrastructure and make our technology platforms avail -
+able to the research community and the private sector.
+4 We create structures to ensure that our scientists respect 
+ ethical principles and good scientific practice in their research 
+and day-to-day interactions.Research is the primary source of innovation in 
+knowledge-based societies. It forms the founda -
+tion for higher education at ETH. Our outstand -
+ing research achievements are made possible by 
+generous federal funding, competitive research 
+grants (particularly those from the Swiss National 
+Science Foundation, Innosuisse, numerous 
+foundations, and European research funding 
+programmes), and collaboration with the private 
+sector. This helps us ensure that our research 
+findings can make long-term contributions to the 
+wellbeing of society, to economic development, 
+and to solving the complex problems facing our 
+planet.
+Our current strategic challenge is balancing 
+the need to advance new fields of research while 
+further developing our expertise in core fields. 
+Our goal is to add new research areas by continu -
+ally expanding capacity, particularly by appoint -
+ing new professors, and to open up important 
+new areas of interdisciplinary investigation.
+Investment in curiosity-driven research 
+We ensure that researchers have optimal con -
+ditions and financial resources for conducting 
+ cutting-edge basic research. We promote research 
+into new issues through bottom-up research initi -
+atives while respecting the principles of subsidi -
+arity and autonomy.
+Research networks
+We are continuing to promote bottom-up inter -
+disciplinary projects within ETH and will take part 
+in national research networks such as NCCRs. 
+Furthermore, we make significant contributions 
+to the Strategic Focus Areas of the ETH Domain: 
+Data Science, Personalised Health and Related 
+Technologies, and Advanced Manufacturing. We 
+are also intensifying bilateral cooperation with 
+institutions within the ETH Domain, with the 
+University of Zurich, and with other players.
+The digitalisation of research
+The ability to efficiently collect, st ore and process 
+vast amounts of data is changing the way we do 
+research and making a big impact on scientific 
+methodology in many fields. Examples include 
+using computer-assist ed machine learning to 
+complement model-based approaches, and the 
+extraction of information and knowledge using 
+new types of analytical processes. In order to stay 
+on top of these trends, we are building our expert -
+ise and resources in statistics, data science, infor -
+mation theory, modelling and machine learning 
+in several departments. At the same time, we 
+are intensifying the links between mathematics, 
+computer science, information technology and 
+other disciplines in order to develop new research 
+areas at the intersection of these disciplines.
+41   Pioneering  research
+Measures and initiatives
+  We promote basic research and interdisciplinary research by 
+operating and expanding existing structures and initiatives 
+such as the Institute for Theoretical Studies and National 
+ Centres of Competence in Research. 
+  We are launching the Origin and Prevalence of Life initiative to 
+explore the origin and diversity of life on this planet and 
+beyond. The main elements of the initiative are an interdiscip-
+linary centre and the creation of new professorships to build 
+an important bridge between existing professorships and 
+activities in biology, chemistry, physics, earth science and 
+environmental science. There are also plans for courses with 
+a stronger interdisciplinary focus in this area.
+  We are launching the Filming Electrons in Action initiative in 
+collaboration with the PSI. The latest advances in ultra-fast 
+laser technology combined with XFEL technology allow us to 
+better understand the swift movements of electrons over very 
+short distances. 
+  The development and university-wide implementation of a soft -
+ware system for evaluating and funding projects in teaching 
+and research (eResearch) will make it possible to manage fund -
+ing more efficiently and advance digitalisation at ETH.
+  We are planning a significant development of the Swiss 
+National Supercomputing Centre, with the upcoming upgrade 
+of the Sustained Scientific User Lab for Simulation Based Sci-
+ence deserving special mention. There are also plans for new 
+research infrastructure. ETH will continue to provide dedi -
+cated data processing infrastructure, expanding it based on 
+the needs of researchers.
+  We are working together with EPFL to establish the Swiss 
+Catalysis Hub, a new research infrastructure within the ETH 
+Domain. Various other ETH Domain institutions are involved in 
+establishing the hub, which will advance the development of 
+new kinds of catalytic processes and the use of renewable 
+energy sources such as hydroelectric, solar and wind energy 
+to power chemical reactors. The hub is a central element of 
+the NCCR Catalysis.1 
+  We will continue to develop guidelines and processes with 
+regard to scientific integrity, good scientific practice and deal -
+ing with scientific misconduct.
+  We are developing university-wide guidelines for handling 
+research data. These guidelines will take the principles of 
+open data, open code and open innovation into account. In the 
+long term, we are striving towards a comprehensive open 
+ science policy that will serve as the basis for further concrete 
+measures.The digitalisation of research also requires con -
+stant infrastructure development. This requires 
+an expansion of our existing data processing and 
+storage infrastructure – and related programming 
+support – in strategically important areas.
+Research infrastructure and  
+technology platforms
+Today’s research is, to a large extent, based on 
+technology. This means that we can only main -
+tain our top position by operating and constantly 
+updating our cutting-edge research infrastruc -
+ture and by strengthening collaborative research 
+through our technology platforms.
+National and international consortia are 
+increasingly needed to tackle this challenge due 
+to the complexity and the rising costs for plann -
+ing, building and operating this kind of infra -
+structure. For this reason, we operate large-scale 
+national research infrastructure and take part in 
+inter national consortia and cross-border funding 
+for international research organisations such as 
+CERN. 
+Good scientific practice
+Our structures and processes ensure that eth -
+ical principles and good scientific practice are 
+respected and adhered to, both in our research 
+and in our daily interactions with one another. 
+The Commission for Good Scientific Practice 
+promotes the development of a common under -
+standing on issues surrounding ethical principles 
+and scientific integrity in research.
+Open science
+Increasing the quality and speed of research 
+requires fast er, more comprehensive access to 
+research findings as well as a higher degree of 
+transparency in research processes. These are 
+values currently at the heart of a global debate 
+on what is referred to as “open science” . Both 
+the scientific community and society at large 
+are putting more pressure on institutions to take 
+action in this regard. We recognise the strategic 
+importance of open science and provide clear 
+guidelines on this topic, chiefly for areas that 
+aim to improve research collaboration. ETH will 
+continue to develop its excellent open access 
+and open data services and will expand them to 
+include the closely related areas of open code and 
+open innovation.
+1  Please refer to the section entitled “Responsibility and 
+ sustainability”. 
+
+43
+Knowledge exchange, 
+technology transfer  
+and promoting 
+ innovation
+44   Knowledge exchange, technology transfer and promoting innovation
+Sharing knowledge and translating research results 
+into commercial products are two activities that 
+build an important bridge between academia and 
+society. We have a responsibility to make original 
+insights and new findings available to the public 
+via education and knowledge exchange.
+We actively contribute to progress and pros -
+perity in our digitalised world by translating our 
+research results into concrete applications, by 
+educating graduates who go on to work in  private 
+companies and government, and by founding 
+innovative spin-off companies. Educating our 
+students is our most important contribution to 
+knowledge exchange and building Switzerland’s 
+innovative strength. We complement this through 
+a broad spectrum of knowledge exchange activi -
+ties such as joint research projects with business 
+and licensing new technologies. Additionally, we 
+are increasingly committed to continuing educa -
+tion, which meets society’s growing demand for 
+lifelong learning.
+Collaboration with the private sector
+One important feature of ETH as a scientific and 
+technical university is its close collaboration with 
+business partners in Switzerland and abroad. In 
+addition to joint projects, these partnerships 
+also lead to the establishment of new professor -
+ships. Many departments have economic advisory 
+committees that help shape the development of 
+teaching and research and serve as an important 
+barometer for the needs of the economy. Mem -
+bers of these committees provide mentoring to 
+students and junior researchers. On the other 
+side of the equation, our researchers play impor -
+tant roles as leaders and advisors in national and 
+international companies and organisations.
+Promoting the innovation ecosy stem
+In addition to direct collaboration with the pri -
+vate sector, ETH Zurich shapes society and the 
+economy through its start-ups. We promote 
+entrepreneurial activities throughout the ETH 
+community, with a special emphasis on bring -
+ing our research findings to market by patenting 
+promising technologies and founding spin-off 
+companies. Diverse programmes such as the 
+ETH Zurich Pioneer Fellowship support young 
+researchers as they transition from research to 
+start-up life. Official ETH spin-offs receive sup -
+port during their founding and the fir st few years 
+of their exist ence, including receiving profes -
+sional advice, access to essential infrastructure 
+and networking with key players in the private 
+sector. More than 100 new ETH spin-offs have 
+been founded over the past four years.
+We view engagement with industry and 
+knowledge and technology transfer as a  long-term 
+commitment and our way of contributing to Objectives
+1 We promote partnership-based exchange and collaboration 
+with Swiss companies, which contributes to the prosperity and 
+innovative strength of the country.
+2 By working closely together with businesses and public 
+authorities, we enable society to benefit from our research 
+findings, and we support the swift translation of new ideas into 
+real-world applications through our spin-off companies. We 
+aim to sustain the positive trend of the last few years. 
+3 We are developing new models for lifelong learning and con -
+tinuing education and tapping into new target groups, thereby 
+strengthening the employability of the Swiss workforce and 
+the competitive advantage of the country.
+45   Knowledge exchange, technology transfer and promoting innovation
+ innovation and prosperity in the Canton of 
+Zurich as well as Switzerland as a whole. For 
+this reason, we work together with public and 
+private sector partners to develop the innova -
+tion  ecosy stem in the greater Zurich region and 
+throughout Switzerland. We take an active role 
+in shaping knowledge and technology transfer 
+thanks to our strong collaboration with business 
+incubators and venture capital funds and our par -
+ticipation in innovation parks. We work closely 
+together with the city, canton, federal govern -
+ment and private businesses to make this happen.
+In order to develop and strengthen our know -
+ledge transfer activities and private sector engage -
+ment, the ETH Executive Board will have its 
+own Vice President for Knowledge Transfer and 
+ Corporate Relations starting in 2021.
+Lifelong learning:  
+new models of continuing  education
+Digitalisation is rapidly changing the world of 
+work. This development is closely linked to the 
+changing, increasingly individualised learning 
+behaviour of today’s and tomorrow’s generation.
+Continuing education gives people the oppor -
+tunity to secure their livelihoods by adapting 
+to the needs of the labour market, and it helps 
+maintain Switzerland’s innovative strength and 
+competitive advantage. We promote continu -
+ing education primarily by expanding our con -
+tinuing education programmes, an effort that is 
+supported by the School for Continuing Edu -
+cation. Our continuing education programmes 
+are closely linked to our research activities and 
+geared towards the needs of the labour market, 
+both in terms of content and format.Measures and initiatives
+  We are expanding the innovation ecosystem in the Zurich 
+region and accelerating knowledge and technology transfer by 
+building on existing initiatives such as Technopark and the 
+Innovation Park in Dübendorf.
+  The construction of the ultra-modern Good Manufacturing 
+Practice technology platform at the Department of Biosystems 
+Science in Basel is advancing the knowledge translation pro -
+cess and progress in personalised medicine. This technology 
+platform is creating strong synergies between the University 
+of Basel, the University Hospital Basel and ETH.
+  A new building for student and business projects is being built 
+on Hönggerberg campus. It will house existing initiatives such 
+as the Student Project House and offer space for new projects 
+that promote entrepreneurialism and collaboration with the 
+private sector.
+  Our new Certificate of Advanced Studies (CAS) programme in 
+Entrepreneurial Leadership in Technology Ventures offers 
+participants with backgrounds in the natural sciences or engin-
+eering essential skills in business administration, strategy and 
+leadership.
+  We offer continuing education programmes so that the Swiss 
+workforce can meet the challenges of digital transformation. 
+To this end, we will continue developing the School for Con -
+tinuing Education and its research-related, market-oriented 
+ curriculum. 
+  Novel concepts and formats for lifelong learning provide sup-
+port to graduates throughout their entire careers and also get 
+them involved with ETH by providing a platform to contribute 
+their knowledge and experience.
+
+Enabling   
+strategies47
+48   Enabling  strategies
+Our staff is key to the success of ETH. Thanks to 
+them, we achieve excellence in research, teach -
+ing, knowledge exchange and technology  transfer. 
+They are highly educated, engaged in lifelong 
+learning and development, and participate in 
+the success of our institution. Recruiting and 
+appointing new professors plays an essential role 
+in the continued development of our teaching 
+and research activities. In addition, we maintain 
+modern infrastructure and technologies and offer 
+efficient, cust omer-oriented internal services. 
+We anticipate and adapt to the requirements of 
+digitalisation on an ongoing basis. 
+Quality assurance enjoys the highest priority 
+in all areas at ETH. All members of the ETH com -
+munity, whether they work as academics or in 
+support or administrative roles, strive to achieve 
+top quality in everything they do. By laying out 
+ETH Zurich’s qualitative goals and the measures 
+it will take to achieve them, this Strategy and 
+Development Plan is also part of the universi -
+ty’s quality strategy. Our quality assurance prin -
+ciples, processes and responsibilities for teaching, 
+ research and knowledge transfer are outlined in 
+a separate report entitled “Guidelines for the 
+intern al quality assurance sy stem at ETH” (avail -
+able in German only).
+We are a socially responsible employer that 
+creates attractive conditions for our employees. 
+We support our st aff in all job functions and at 
+every level of responsibility. During the  2021–2024 
+period, we will place special emphasis on develop -
+ing our management’s leadership skills, increasing 
+diversity and promoting equal opportunity.
+49   Enabling  strategies
+Diversity and equal opportunity
+ Objectives
+1 We foster a culture of appreciation, respect and inclusion that 
+allows all members of the ETH community to productively 
+interact on equal footing.
+2 We ensure equal opportunities and are working to increase  
+the percentage of women in research and teaching at all  
+levels, with emphasis on leadership positions and committee 
+memberships.
+3 We are increasing the proportion of female professors by striv -
+ing to fill 40 percent of new professorships with women. 
+4 We define inclusion as a task shared by all organisational units 
+at ETH. In doing so, we follow the principles of accessibility and 
+participation.
+Measures and initiatives
+  In order to increase the percentage of women at all levels – and 
+especially as professors – we have set aside part of the budget 
+to create ten additional professorships by 2024, on top of the 
+professorships that were already planned.
+  We address and avoid prejudice of all kinds and raise the ETH 
+community’s awareness of unconscious biases – for instance, 
+by including the topic in teaching evaluations and as part of the 
+professorial appointment process. We also train professors 
+and other managers to be aware of bias in recruitment, pro -
+motion, supervision and conflict management.
+  The Barrier-Free ETH Zurich project, which was launched in 
+late 2018, is currently underway. This accessibility project 
+aims to eliminate as many barriers as possible to improve 
+access to ETH for everyone, regardless of impairment. This 
+extends to students, staff and visitors. “Design for all” is the 
+guiding principle, meaning that ETH is aiming for a general 
+improvement in quality for everyone without erecting new 
+ barriers. 
+  We are strengthening work-life balance. We offer family-  
+friendly conditions to members of the ETH community and 
+work to continually develop these conditions.
+  We pursue a variety of measures to strengthen communication 
+and togetherness in order to promote multilingualism and the 
+integration of all ETH members into the community. We offer 
+new forums for exchange and interaction and encourage 
+ETH Zurich members from Switzerland and abroad to take our 
+language courses, which also helps to improve their skills for 
+the labour market.Diversity is a source of intellectual creativity, 
+especially now that scientific work is increas -
+ingly collaborative in nature. We want to ensure 
+the success of scientific work that is conducted 
+by large interdisciplinary teams from across the 
+world. This is why diversity is an important factor 
+to our success.
+We want to create an environment for working 
+and studying in which all participants experience 
+the same level of appreciation and support. We 
+perceive diversity as an opportunity. This also 
+includes making sure that women are involved in 
+a variety of roles on all levels: whether as students, 
+doctoral students, professors, or scientific, tech -
+nical or administrative staff, having more women 
+means having more diverse perspectives – which 
+is key to remaining innovative and successful in 
+the future. Just like at many other leading scien -
+tific and technical universities, women are under -
+represented at all academic career levels at ETH. 
+For this reason, promoting women is one of our 
+top priorities on every level. We will ensure that 
+women can realise their potential at ETH.
+In 1992, we established the Equal Opportun -
+ities Office, which now goes by the name Equal!. 
+The Equal! office issues an annual Equality Mon -
+itoring Report and hosts a variety of events every 
+semest er. We will continue pursuing the meas -
+ures outlined in the Gender Action Plan, which 
+was launched in 2014. We are placing special 
+emphasis on the Fix the Leaky Pipeline career 
+development programme, which supports doc -
+toral candidates and other young female scientists 
+over the course of their academic careers.
+Objectives
+1 We train early-career researchers and prepare them for 
+a career in academia or the private sector in a competitive 
+global environment.
+2 We aim to systematically expand recruitment, training and 
+supervision of early-career researchers. In doing so, we will 
+also expand and support the optimal development of our 
+career ecosystem. 
+3 We foster permeability and mobility between academic and 
+private sector careers and equip early-career researchers 
+with the skills and knowledge they need for different positions 
+in the labour market, both inside and outside academia. 
+4 We offer our administrative and technical staff a variety of 
+development opportunities, enabling them to maintain their 
+performance and skill development throughout their careers.
+5 We create an inspiring environment that allows for exchange 
+and interaction among colleagues, academic freedom, and 
+secure access to top-notch infrastructure.Our international positioning is contingent on 
+our ability to recruit the most  talented people 
+from around the globe, no matter their gender 
+or sociocultural background. Our students’ and 
+employees’ different perspectives and experi -
+ences are a significant source of our school’s 
+strength as well as a source of enrichment for the 
+ETH community. These perspectives and experi -
+ences also create added value when it comes to 
+the global competition for talented people. Our 
+goal is creating a working environment that can 
+make use of this potential.
+International mobility is a prerequisite for 
+academic careers: as academia is international in 
+nature, this allows us to acquire new expertise 
+and create new collaborative partnerships.
+For this reason, it is crucial to recruit, develop 
+and build relationships with talented academic 
+and non-academic st aff. While recruiting inter -
+national top talent is of central importance, we 
+must also create excellent conditions to develop 
+talented researchers from our own degree pro -
+grammes, doctoral programmes and post -doc 
+programmes.
+Doctoral studies at ETH Zurich
+The doctorate is the fir st step in a scientific 
+career in academia or business and lays the 
+foundation for a successful management career. 
+Doctoral programmes are our most import -
+ant contribution to promoting early-career 
+researchers. This is why supervising and men -
+toring doctoral candidates enjoys the highest  
+priority. We provide holistic doctoral education 
+that spans research, technical knowledge, soft 
+skills and integration into the scientific commu -
+nity. Using these principles as a guide, we are 
+expanding our doctoral education programmes 
+based on scientific findings, international best  
+practices, and a dialogue with doctoral student 
+organisations. 
+Our doctoral students are selected based on 
+their proven performance and academic poten -
+tial. We give them the chance to join the sci -
+entific community by conducting  independent 
+research and to gain experience in teaching. 
+This provides them with valuable qualifica -
+tions for working in different areas later in their 
+careers.
+Experienced researchers act as supervisors to 
+doctoral students, which plays a decisive role for 
+success in their doctoral studies. We are expand -
+ing our training and support in this area for both 
+professors as well as doctoral students.50   Enabling  strategies
+ Talent and early-career researchers
+Measures and initiatives
+  For doctoral programmes, we are introducing new measures 
+in order to improve the supervision of doctoral students. For 
+instance, we are developing an orientation programme for 
+professors and providing doctoral students with a second 
+mentor/supervisor (in addition to their thesis supervisor) in 
+the early stages of their doctorate. In parallel, we are also 
+implementing strategic measures to support collaboration 
+between doctoral students and supervisors.
+  We are intensifying our support for early-career researchers, 
+with particular emphasis on diversifying internal research 
+funding instruments and providing sufficient funding for the 
+ETH Postdoctoral Fellowship programme. These funding 
+instruments help us recruit outstanding postdoctoral talent.
+  We are improving the onboarding of new postdocs through 
+various events and training courses and are expanding our 
+supervising and mentoring initiatives. We are paying special 
+attention to promoting career development via events that are 
+tailored to postdocs. We train supervisors and raise their 
+awareness of the challenges that are common for academics 
+on the postdoc level.
+  We are encouraging and devising concepts for mobility within 
+ETH as a development opportunity for interested members of 
+staff.Postdoctoral researchers
+Early-career researchers can take several paths: 
+they can pursue academic careers with the goal of 
+becoming a professor, aim for permanent employ -
+ment within a research group, or take on demand -
+ing positions outside of academia. Early-career 
+researchers in many disciplines decide on their 
+future path during their time as post docs.
+Because the post doc phase is a major bottleneck 
+in the academic career trajectory, it is a time of 
+great uncertainty for many early-career research -
+ers. At the same time, employment opportunities 
+outside academia are limited for post docs. Bearing 
+in mind the heterogeneity of post docs as a group, 
+we are sy stematically expanding our mentoring 
+and development efforts for young scientists in 
+this phase of their career. We are providing stra -
+tegic continuing education and advice to support 
+postdocs in choosing the right career path at an 
+early stage: either quickly working to carve out the 
+kind of academic independence required for an 
+academic career or trying to establish themselves 
+in the job market outside of the university. Here 
+we will also need to raise awareness of alterna -
+tive career paths and to support post docs during 
+transition phases.
+Administrative and technical staff
+Having qualified administrative and technical 
+staff with extensive specialised knowledge is key 
+to ETH’s success. Our staff contributes greatly 
+to achieving excellence in research and teaching.
+We are also an important training centre 
+for vocational and professional education. ETH 
+trains over 170 apprentices in a wide variety of 
+professions, which helps Switzerland maintain its 
+ability to compete as an attractive place to work.51   Enabling  strategies
+52   Enabling  strategies
+Leadership and good governance
+Objectives
+1 We are developing the leadership skills of our managers and 
+academic departments. Leadership skills are systematically 
+taken into account as part of the appointment process for new 
+professors and as part of the tenure process.
+2 We are strengthening our career development system in order 
+to identify suitable candidates for managerial posts and stra-
+tegically develop them via training and mentoring programmes.
+3 With regard to corporate governance, we are adjusting struc-
+tures, planning processes and decision-making processes in 
+order to establish leadership as a pillar of ETH Zurich and its 
+culture.
+Measures and initiatives
+  Leadership skills and social skills are evaluation criteria con-
+sidered by professorial appointment committees. They shape 
+the committee’s recommendation to the President, along with 
+consideration of the candidate’s excellence in teaching and 
+research. When interviewing candidates, we also conduct sep -
+arate panels with students and lecturers.
+  After professors are appointed, we have various measures in 
+place to introduce them to the ETH culture and their new man-
+agement responsibilities. These measures are complemented 
+by coaching and training programmes.
+  Leadership skills and behaviour are aspects that are also 
+increasingly taken into account during the tenure process. We 
+offer leadership workshops to professors to help them with 
+recruiting, supervising and mentoring doctoral students. 
+  We identify potential managers at an early stage. We are 
+strengthening our training and mentoring courses and offering 
+them to all managers commensurate with their level. 
+  We are expanding our contact and advice services for inappro-
+priate behaviour by hiring more staff and bringing internal and 
+external experts on board where necessary.Employees at all levels of our university are 
+skilled and responsible. They deliver top perform -
+ance in teaching, research, knowledge transfer 
+and administrative functions. Students, staff and 
+managers interact on a basis of tru st, openness 
+and respect. Our managers sustain and promote 
+their employees’ motivation and allow them to 
+achieve top performance in their fields by giving 
+them trust and autonomy on the job.
+We cultivate a culture of empowerment and 
+trust and make space for curiosity and creativity. 
+This is our way of promoting critical thinking and 
+empowering students and staff to develop and 
+implement innovative ideas that arise at the fore-
+front of current knowledge. Leadership respon -
+sibilities also include teaching good  scientific 
+practice.
+This is why we provide targeted training and 
+support to staff and researchers in leadership 
+positions. We are extending the Executive Board 
+by creating a new Vice President for Personnel 
+Development and Leadership in order to cement 
+leadership as an institutional value. 
+ETH has a code of conduct that guides how 
+members of the ETH community should inter -
+act and sets out the values that the university 
+stands for. 
+53   Enabling  strategies
+International networks, partnerships and alumni
+Objectives
+1 We are strengthening our international networks and visibility 
+through a collaborative approach to research. We are mem -
+bers of selected alliances and partnerships that generate 
+added value for the entire university.
+2 We promote top performance in research by working together 
+with other researchers with complementary abilities. This 
+ primarily occurs through interactions among researchers 
+themselves, thanks to their efforts to continually develop 
+research collaborations with global partners.
+3 We enter into partnerships with leading universities and 
+up-and-coming institutions in order to provide mutually bene-
+ficial student exchange opportunities. We ensure that our 
+ students gain experience in a variety of cultural environments 
+while also receiving an excellent education in their chosen 
+field.
+4 We are increasing our involvement in Asia, with a special focus 
+on China, and are using our strong established presence in 
+Singapore as a springboard. 
+5 We are expanding our international alumni network and 
+strengthening their impact as ambassadors and supporters 
+for ETH on a global stage.
+Measures and initiatives
+  We aim to advance our international collaboration activities by 
+developing and strengthening our networks – particularly 
+those in Europe, North America and Asia, while also looking 
+towards developments in Africa. By expanding and consolidat -
+ing the Singapore-ETH Centre, we will solidify our hub for 
+research and innovation in Asia.
+  We work with organisations and platforms that have strong 
+international networks with the aim of boosting ETH’s visibility 
+on the international stage, recruiting talented people, and 
+securing access to funding.
+  Switzerland’s neighbouring countries and the rest of Europe 
+remain our most important partners for collaborative research 
+and for recruiting students, researchers and professors.
+  In North America, we are focusing on building and developing 
+relationships with universities, businesses in the tech and 
+start-up space, and philanthropists.
+  We are raising our profile in Asia in order to recruit the best 
+minds. In parallel, we are strengthening our intercultural 
+knowledge and skills in order to facilitate our work with Asian 
+partners. Thanks to selected partnerships and our role as the 
+leading house for Switzerland’s bilateral cooperation with the 
+Asia-Pacific region (on behalf of SERI, the State Secretariat for 
+Education, Research and Innovation), we are enjoying 
+increased access to data, infrastructure and funding in Asia 
+for our research and education activities.
+  We will further develop our global alumni chapters and mobil -
+ise our alumni to build new relationships in research and 
+ private industry, intensify exchange, and create opportunities 
+for our students.Our international involvement permeates all our 
+activities, ranging from training and research to 
+collaboration with alumni and partners all around 
+the globe. We are in a position to support indi -
+vidual faculty members’ initiatives thanks to our 
+established presence in Singapore and other stra -
+tegic partnerships and alliances. Our researchers 
+and students work with partners across national 
+borders, and the impact of our research enjoys 
+international visibility. Our global network con -
+sists of universities and research centres, busi -
+ness partners, international organisations, NGOs 
+and the media and includes thousands of people 
+all around the world. Our alumni, scientists and 
+friends use their personal and professional net -
+works on behalf of ETH, expanding our visibility 
+and reach on a global level.
+From a national perspective, one of 
+ETH Zurich’s key tasks is strengthening Switzer -
+land’s international reputation in education, sci -
+ence and technology. As a leading member of the 
+international academic community, we are in an 
+excellent position to do so. We are  internationally 
+recognised for innovative, original research and 
+excellent education with global reach. We define 
+our goals and measures in the context of the glo-
+balisation of science, economics, politics and 
+society.
+Our current collaboration with universities 
+in Asia is wide-ranging and successful but suf -
+fers from being rather fragmented. Cooperation 
+with traditional partner countries such as Japan 
+and Singapore – along with our st eadily growing 
+cooperation with Chinese partners – is greatly 
+important to us. It is therefore necessary to have 
+a strategic long-term approach in order to build 
+effective and mutually beneficial relationships 
+with our partners in Asia.
+54   Enabling  strategies
+Infrastructure and resources 
+ Objectives
+1 We offer modern, cost-effective, needs-based, coordinated 
+assistance for teaching, research, and knowledge exchange 
+and technology transfer.
+2 We aim to maintain and expand our excellent and flexible 
+infrastructure and manage growth via the use of modern 
+technologies.
+3 We adhere to the principles of sustainable development by 
+using our financial resources responsibly and by taking the 
+environment and resource use into consideration when con -
+structing, using and operating buildings.
+4 We are advancing the digital transformation of the university 
+and are actively accompanying all members of the ETH com -
+munity on this journey.
+5 We live by the principles of a responsible culture of health and 
+safety.Credibility requires us to live up to our principles. 
+For this reason, we fost er a general culture of sus -
+tainability at ETH and apply these principles to 
+sustainable construction on our campuses. We 
+offer our university as a living lab to test the tech -
+nical, social and economic aspects of sustainable 
+development and integrate them into our daily 
+lives. This extends to the entirety of research, 
+teaching and employment operations at ETH. By 
+constructing and operating su stainable buildings, 
+we are able to promote the health, performance 
+and satisfaction of our students and staff. Infra -
+structure that is planned, built and maintained 
+according to these principles is a form of valuable 
+capital over the longer term. With the help of 
+innovative modern technology, we are creating 
+an efficient, flexible and secure working environ -
+ment to meet the needs of everyone at ETH.
+Our real estate is a flexible strategic resource 
+that allows us to fulfil our core missions in teach -
+ing, research, knowledge exchange and technol -
+ogy transfer. We expand our real est ate based 
+on future academic development, the principles 
+of sustainability, and the maintenance of our 
+ inve stments.
+ETH’s space needs are growing and constantly 
+changing. Drivers of this trend include the grow -
+ing number of students and staff, along with 
+academic planning needs. There is mounting 
+pressure on infrastructure, spatial development 
+and services. This pressure is due to internal 
+and societal needs with regard to teaching and 
+research with new technologies, new research 
+priorities, and new research locations.
+The digitalisation of all research areas is 
+ creating more demand for computing power and 
+requires the ongoing expansion of our data infra -
+structure in order to remain globally competi -
+tive. The advent of digital technologies has also 
+transformed teaching. New teaching and learn -
+ing methods require an innovative and attract -
+ive learning infrastructure as well as access to 
+ cutting-edge information technology. The learn -
+ing spaces of the future must therefore be flex -
+ible enough to adapt to changing needs and new 
+technologies.
+As digitalisation increasingly penetrates our 
+society and research becomes more and more 
+interdisciplinary, it is more important than ever 
+to have a lively real-life community. For this rea -
+son, we see our campuses as a place of formal and 
+informal exchange between various disciplines 
+and the public. We invite stakeholders from soci -
+ety at large to participate in an active dialogue 
+55   Enabling  strategies
+Measures and initiatives
+  We will continue expanding teaching infrastructure and ser -
+vices with a particular emphasis on online exams, modern 
+lecture hall infrastructure, rooms for project-based teaching, 
+and support for interdisciplinary collaboration.
+  As part of our real estate strategy, we will continue developing 
+our portfolio, especially on the Zentrum and Hönggerberg cam -
+puses at our main Zurich site. Our strategy is to maximise 
+building density at our current locations before expanding to 
+new sites. We are accommodating our rapid growth by enter -
+ing into short-term rental arrangements, which gives us the 
+flexibility to react quickly to unforeseen developments. We are 
+developing ways to ensure that there is enough office space 
+even in the face of limited financial resources. Our real estate 
+planners are working to define space requirements, maximise 
+density within buildings, and draw up plans such as desk 
+ sharing and multi-space concepts along with other forms of 
+agile working (mix of teleworking and on-site presence). This 
+type of planning also applies to the academic departments.
+  We are making advances in digital transformation, data sci -
+ence, research data management, open access and open data 
+with IT infrastructure that is stable, scalable and operates 
+under reasonable security conditions. We are increasing our 
+computing power to meet demand in a cost-effective way. 
+A harmonised approach to hardware and software helps our 
+employees get the job done.
+  When it comes to our library’s large, valuable holdings and 
+collections, we adhere to open science principles and are using 
+the opportunities presented by digital transformation in order 
+to create added value for research, teaching and dialogue with 
+the public. One example is the development of new innovative 
+models of information management at the ETH Library Lab. We 
+efficiently tailor what our library and collections offer based 
+on the needs of our clients. For this reason, we are focusing on 
+the following three priorities: consistent client focus, holistic 
+client support, and the establishment of an integrated platform 
+for information, communication, services and tools.
+  We offer tailored, future-oriented courses and consulting ser -
+vices on safety and security issues in order to help people take 
+a conscious approach to risks in their teaching, research and 
+work activities. We are developing evidence-based risk reduc-
+tion measures with regard to accident prevention and health 
+protection.with the ETH community and support these con -
+versations as an integral part of our real estate and 
+service strategy. We initiate a broad spectrum of 
+social and cultural activities and strive to involve 
+the broader population in ETH’s campuses and 
+services through active communication, tours, 
+events, and other information and discussion 
+sessions.
+Safety and security are fundamental parts of 
+the ETH Zurich culture. All members of the ETH 
+community identify with a culture of safety and 
+security that spans the spectrum from legal com -
+pliance to workplace safety. 
+
+57   ETH Zurich: more than the sum of its parts
+In the spirit of the adage “the whole is more than just the sum of  
+its parts”, ETH Zurich bundles and leverages its individual strengths 
+in order to face the global challenges of the future. Thanks to our 
+combination of basic research and interdisciplinary collaboration  
+in strategic action areas, we are able to drive research forward  
+in service of society. We also follow this principle when it comes to 
+teaching, combining knowledge from various disciplines in order 
+to provide our students with a well-rounded education. This is an 
+important contribution to helping society meet the growing need for 
+qualified graduates. 
+Even this strategy document was created in the tradition of  
+ETH Zurich’s participative culture: it is the result of a broad, bottom-up  
+process that involved the Strategy Commission, the four university 
+groups (faculty, non-professorial scientific staff, students, and tech-
+nical and administrative staff), and the academic departments.  
+ The process of drafting our strategy for the 2021–2024 period helped  
+us analyse the landscape in which ETH is embedded along with the 
+opportunities and challenges that the future will bring. This involved 
+critical discussion between all stakeholders throughout the univer  -
+sity as well as an internal consultation process. Thanks to the reflection   
+and participation of the entire ETH community, we were able to 
+develop a strategy that reflects the true complexity and diversity of 
+our institution – showing that ETH Zurich is indeed more than just  
+the sum of its parts.
+Publisher:  ETH Zurich
+Design and collages:  Vollkorn Kollektiv
+Content and concept:  Joël Mesot, 
+Sarah Springman, Detlef Günther, 
+Robert Perich, Ueli Weidmann
+Strategy Commission:  Micha Bigler, 
+Johann Blatter, Joachim Buhmann,  
+Adrienne Grêt-Regamey,  
+Andreas Hierlemann, Zoe Marie Jonassen, 
+Georg von Krogh, Ulrike Kutay,  
+Sacha Menz, Lukas Novotny,  
+Frank Schimmelfennig,  
+Effy Vayena, Angelika Wittek
+Authors: Julie Cantalou, Christ ofer Hierold, 
+Anita Buchli, Roman Klinger
+With contributions from: Silvio Bonaccio, 
+Christine Bratrich, Jürg Brunnschweiler, 
+Simone Bucher, Katharina Hagenauer, 
+Anders Hagström, Johannes Heck, 
+Fiona Könz, Gertrud Lindner, Daniel Müller, 
+Sonja Negovetic, Christ oph Niedermann, 
+Katharina Poiger, Adrian Rohner, 
+Robert Schikowski, Stephan Zimmermann, 
+Marc Zürcher
+Editing: Sabine Goldhahn
+English translation: Gena Olson
+Printing: Kromer Print AG
+Binding:  Buchbinderei Grollimund AG
+Circulation: 1,200
+This report has been produced in German  
+and translated into English.  
+Only the German version is binding.
+Images for the collages: ETH Zurich, 
+iStock, Alamy, depositphotos, gettyimages, 
+sketchfab (3dmast er_bg); 3D renderings on 
+pages 34 and 46: Vollkorn Kollektiv
+© ETH Zurich, January 2021
+To order copies: ETH Zurich,  
+office-president@ethz.ch
+Contact: ETH Zurich, President’s Office,  
+office-president@ethz.ch
+
+

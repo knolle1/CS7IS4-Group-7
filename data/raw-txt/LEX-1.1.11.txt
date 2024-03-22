@@ -1,0 +1,4798 @@
+ École  
+polytechnique  
+fédérale  
+de Lausanne
+ École  
+polytechnique  
+fédérale  
+de Lausanne
+EPFL 2021–2024 
+Strategic Plan 
+© Jamani Caillet / EPFL
+1
+EPFL 2021–2024 Strategic Plan TABLE OF CONTENTS
+PRESIDENT’S MESSAGE 3
+1.  EXECUTIVE SUMMARY 4
+2.  OUR VISION 5
+3.  BROAD OBJECTIVES 7
+3.1. Adapting our education portfolio to meet society’s needs 7
+3.2. Promoting the next generation of scientists, engineers and architects 8
+3.3. Bolstering our research excellence in key scientific areas 8
+3.4. Promoting a culture of open science 9
+3.5. Deepening our relationship with the Swiss community 10
+3.6. Developing a sustainable campus and dynamic community 11
+3.7 . Further enhancing the sustainability and stability of our funding 11
+4.  STRATEGIC INITIATIVES 13
+4.1. Energy and sustainability 13
+4.2. The fundamental sciences 15
+4.3. Health Science and Technology 17
+4.4. Imaging 18
+4.5. Privacy and intelligent systems 20
+4.6. Neurotechnology 22
+4.7 . Doctoral School 2.0 24
+4.8. Positive campus culture 25
+4.9. Equal opportunity 27
+5.  DIGITALIZATION 29
+5.1. Digital skills 29
+5.2. Digital trust 32
+6.  SUSTAINABILITY 33
+7 .  STRATEGIC FOCUS AREAS  OF THE ETH DOMAIN 35
+7 .1.  Swiss Data Science Center 35
+7 .2.  Personalized health and related technology 36
+7 .3.  Advanced manufacturing 37
+7 .4.  Energy 37
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne8.  RESEARCH INFRASTRUCTURES 39
+8.1. Catalysis Process Discovery Hub  39
+8.2. Blue Brain Project 40
+8.3. Swiss Plasma Center 41
+9.  SCHOOLS AND COLLEGES 43
+9.1.  ENAC - School of Architecture, Civil and Environmental Engineering 43
+9.2.  IC - School of Computer and Communication Sciences 48
+9.3.  FSB - School of Basic Sciences 52
+9.4.  STI - School of Engineering 55
+9.5.  SV - School of Life Sciences 59
+9.6.  CDH - College of Humanities 63
+9.7 .  CDM - College of Management of Technology 65
+9.8. EPFL Middle East 67
+3
+EPFL 2021–2024 Strategic Plan PRESIDENT’S MESSAGE
+Martin Vetterli, 
+EPFL President
+I’m delighted to present you with our EPFL 
+2021–2024 Strategic Plan. This document 
+outlines a set of ambitious priorities that 
+will guide us over the next four years as we 
+strive to achieve our vision and serve all 
+sectors of our society.
+This strategy lays out a number of broad 
+objectives and initiatives that cut across 
+boundaries and will transform EPFL. Our 
+goals are threefold: to offer robust academic 
+programs that are strategically important 
+for EPFL, to promote excellence within 
+these programs and to forge stronger ties 
+among our schools and colleges. 
+The strategy was developed through a 
+fully collaborative approach involving more 
+than a hundred members of the EPFL 
+community. We initiated the process over 
+a year ago, in autumn 2018, when the 
+EPFL leadership team – comprising EPFL’s 
+management and deans – held a series 
+of planning sessions to pinpoint strategic 
+initiatives that could enhance excellence 
+within our School’s core disciplines. The 
+outcome of those sessions was presented 
+for feedback at a meeting between EPFL’s 
+management and faculty in December 
+2018 and alongside my New Year’s address 
+to the EPFL community in January 2019.
+Earlier this year, we set up nine working 
+groups made up of EPFL stakeholders 
+across all disciplines and levels to 
+identify action items for implementing our 
+initiatives. The working groups presented 
+their ideas at the Journées Scientifiques 
+et Pédagogiques in October 2019. The 
+feedback gathered during this event has 
+been incorporated into the nine strategic initiatives you will find in Section 3 of this 
+document. These initiatives are part of our 
+broader strategy discussed in the other 
+sections, which cover topics ranging from 
+digitalization, sustainability and research 
+facilities to the strategic focus areas of the 
+ETH Board and the strategies of our various 
+schools and colleges.
+I would like to thank all those who helped 
+us prepare this important document for 
+their hard work and dedication. The lively 
+discussions we had with our various 
+stakeholders were enlightening, and I look 
+forward to our continued collaboration. I 
+have no doubt that with the support of our 
+talented faculty, staff and students, our 
+vision for EPFL will become a reality – with 
+achievements that we can all be proud of.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne1.  EXECUTIVE SUMMARY
+Last year EPFL celebrated its 50th 
+anniversary. This was an occasion for us 
+to not only take stock of how far we have 
+come, but also outline a clear vision for the 
+path ahead. Under our 2021–2024 strategy, 
+we intend to anchor EPFL as a driving force 
+for education and innovation in Switzerland 
+and as a major contributor to leading-edge 
+research internationally. We will leverage the 
+skills and intellectual curiosity of our faculty, 
+staff and students to develop technology that 
+delivers tangible benefits to society. And we 
+will continue to work closely with business and 
+industry in order to foster entrepreneurship, 
+support the economy, and transfer our 
+knowledge across our community.
+For the 2021–2024 period, we have 
+identified seven broad objectives essential 
+to the success of our School: adapting our 
+educational programs to meet society’s 
+needs; promoting the next generation of 
+scientists and engineers; bolstering our 
+research excellence in key scientific areas; 
+promoting a culture of open science; 
+deepening our relationship with the Swiss 
+community; developing a sustainable 
+campus and dynamic community; and 
+further enhancing the sustainability and 
+stability of our funding.
+We have also identified six academic and 
+three institutional strategic initiatives that span 
+our various schools and disciplines and that 
+will enhance our impact over the coming years. 
+The six academic initiatives relate to energy 
+and sustainability, the fundamental sciences, 
+health science and technology, imaging, 
+intelligent systems and neurotechnology. 
+Our goal is to expand EPFL’s research and 
+teaching capabilities in these areas, create 
+synergies through joint research and shared 
+platforms, and strengthen our partnerships 
+with businesses, other universities and 
+university hospitals. The three institutional initiatives relate to our PhD programs, campus 
+culture and equal opportunity efforts, and will 
+directly benefit the EPFL community. These 
+strategic initiatives will be supported and 
+complemented by the strategies of our five 
+schools and three colleges.
+Digitalization and sustainability will remain 
+important focus areas under our 2021–2024 
+strategy. We will strengthen our leadership 
+role in digitalization and help drive the digital 
+transformation on several fronts, not just 
+at EPFL but also at primary and secondary 
+schools, high schools, vocational schools, 
+continuing education programs, Swiss 
+government agencies and local businesses. 
+As regards sustainability, we aim to position 
+EPFL as a benchmark university in integrated 
+sustainability by embedding this topic into 
+all aspects of our School – governance, 
+education, research, innovation, our 
+community and our operations. To this end, 
+we will develop an EPFL-wide action plan with 
+specific targets in all the areas mentioned 
+above, along with deadlines for reaching 
+those targets.
+Last but not least, we will continue to 
+play an important role in supporting the 
+implementation of the ETH Domain’s priority 
+initiatives. We will work with ETH Zurich to 
+further expand the scope of the Swiss Data 
+Science Center, and our researchers will spur 
+further advancements in each of the three 
+other Strategic Focus Areas – Personalized 
+healthcare & related technology, Advanced 
+manufacturing and Energy – by providing 
+their skills and know-how in education, 
+research and innovation. In addition, we 
+will leverage the expertise of the EPFL 
+community to develop and operate our 
+leading-edge research facilities, such as the 
+Catalysis Hub (together with ETH Zurich), the 
+Blue Brain Project platform and the Swiss 
+Plasma Center.
+5
+EPFL 2021–2024 Strategic Plan 
+2. OUR VISION 
+Science, technology and innovation are key drivers 
+of change in today’s society. EPFL, as a public 
+university, will play a crucial role by:
+•  educating the next generation of responsible 
+leaders
+• contributing to the advancement of knowledge 
+in critical areas
+• effectively transferring knowledge to the 
+society and the economy.Studying for 
+exams in the 
+Rolex Learning 
+Center library
+© Olivier 
+Christinat / EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne
+© Olivier Christinat / EPFL
+7
+EPFL 2021–2024 Strategic Plan 3.  BROAD OBJECTIVES
+To achieve our vision by 2024, we will focus on seven broad objectives over the next four 
+years.
+3.1.  ADAPTING OUR EDUCATION PORTFOLIO TO MEET SOCIETY’S 
+NEEDS
+At the Bachelor’s level, we will continue to provide a polytechnic education and 
+instill the fundamentals of engineering. At the Master’s level, this will be coupled 
+with the skills required for a variety of careers in line with our society’s needs. We will 
+also further our efforts to encourage women to embark on careers in science and 
+engineering and expand the Extension School offers.
+Building on our achievements over the 
+previous period (2017–2020), we will use 
+an evidence-based approach to continue 
+enhancing the scientific, engineering and 
+architectural education we provide, and 
+anchoring basic knowledge while preparing 
+future graduates to face the challenges 
+ahead in terms of lifelong learning and 
+responding to societal issues.
+Our Bachelor’s curriculum will focus 
+on giving students a solid polytechnic 
+foundation that establishes a basis for 
+continuous learning. Cross-disciplinary 
+projects and courses on societal issues 
+will be strengthened in order to equip 
+students with ethical, management and 
+teamwork skills. At the Master’s level, we 
+will emphasize hands-on projects and in-
+company internships to give students the 
+practical skills and fundamental knowledge 
+needed for the job market.
+Studies at EPFL can be challenging, 
+especially in polytechnic subjects. For 
+students who require help in these subjects, 
+we will reopen the Cours de mathématiques 
+spéciales (CMS) to students with a Swiss 
+high-school diploma, better preparing 
+them for Bachelor’s studies at EPFL.
+For scientists, engineers and architects 
+who want to further develop their skills after 
+obtaining a Bachelor’s or Master’s degree, we offer a range of continuing education 
+programs, mainly through our Extension 
+School. For instance, the Extension School 
+runs Certificate of Open Studies (COS) 
+programs that are open to participants of 
+all backgrounds with no previous degree 
+required (a first for an EPFL-certified 
+program). The EPFL Extension School will 
+continue to develop its curriculum offering 
+to reflect in-demand, applied subjects, and 
+to expand its individual training offers and 
+enterprise training partnerships in order to 
+reach a wide audience in Switzerland and 
+beyond.
+Under this new strategy, we will continue our 
+efforts to encourage the young generation 
+to embark on careers in science and 
+engineering. Their skills and contribution 
+will be essential for future research as well 
+as for our economy and society as a whole. 
+Our Education and Science Outreach 
+Department will reinforce its efforts to get 
+secondary-school students (and especially 
+girls) interested in scientific and engineering 
+fields, showing them the key role that 
+scientists, engineers and architects can 
+play in responding to global societal 
+challenges. We started offering a series of 
+Global Issues courses a few years ago that 
+addresses these topics in particular. We are 
+also working to incorporate these topics into 
+all our degree programs, such as through 
+semester or Master’s research projects.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne3.2. PROMOTING THE NEXT GENERATION OF SCIENTISTS, 
+ENGINEERS AND ARCHITECTS
+We will further promote the careers of young scientists, engineers and architects via 
+doctoral programs and the tenure-track system.  
+The training and promotion of young 
+academics is one of the core responsibilities 
+of universities. EPFL’s Doctoral School and 
+our commitment to recruiting professors 
+and helping them advance in their careers 
+through a tenure-track system are major 
+assets in fulfilling this mission.
+Our customized doctoral programs are 
+essential in attracting the best young 
+graduates to EPFL and providing them 
+with a skill set that makes them widely 
+employable. We will continue to regularly 
+review and improve our portfolio of 
+doctoral programs and our PhD students’ 
+learning environment. Two specific areas 
+of focus under our 2021–2024 strategy 
+will be improving our conflict mitigation 
+procedures and promoting a culture of 
+responsible PhD supervision across our 
+organization.At the faculty level, we will further strive 
+to offer our young, talented professors 
+academic independence and the chance 
+to take on managerial responsibilities 
+that will enhance their long-term career 
+prospects as early as possible. To this 
+end, we will remain firmly committed to a 
+flat hierarchical structure and a tenure-
+track system, which have become key 
+elements of our organizational culture. 
+To support young professors in their new 
+responsibilities, we will offer them regular 
+management training courses.
+Finally, we believe that effective mentoring 
+is of great importance to our young 
+academics’ success and advancement. 
+As a result, we will reinforce our mentoring 
+system for PhD students and for tenure-
+track assistant professors under our 2021–
+2024 strategy.
+3.3. BOLSTERING OUR RESEARCH EXCELLENCE IN KEY 
+SCIENTIFIC AREAS
+We will strengthen EPFL’s research excellence by promoting cross-disciplinary 
+approaches that go beyond the traditional boundaries of disciplines. The range of 
+disciplines we cover will remain broad, yet we will continually adapt this range to new 
+developments in science and technology. 
+One key to EPFL’s research success is 
+our ability to explore fields of knowledge 
+that exist at the crossroads of various 
+traditional disciplines, such as between 
+the life sciences and engineering or 
+between materials science, chemistry and 
+physics. These interactions are largely 
+born of initiatives at the institutional level. 
+Under our new four-year strategy, we will 
+launch several other such initiatives in 
+the areas of imaging, intelligent systems, 
+neurotechnology and sustainability.At the same time, we will further strengthen 
+our core fields such as chemistry, 
+mathematics, physics, or computer 
+science. Our strengths in each of these 
+fields are of paramount importance for two 
+reasons. First, this is where the excellence 
+of universities is often measured on an 
+international scale. Second, each of these 
+fields is responsible for one of the core 
+programs offered by EPFL and the basis 
+upon which young professors build their 
+reputation. 
+9
+EPFL 2021–2024 Strategic Plan We will also continue to enhance 
+collaboration in targeted areas within 
+EPFL, within the ETH Domain and with 
+other institutions – not only in the Lake 
+Geneva region but also nationally and 
+internationally.
+3.4. PROMOTING A CULTURE OF OPEN SCIENCE
+We will remain a leader in the promotion of open and reproducible research, 
+supporting the bottom-up adoption of best practices as well as the top-down 
+development of research equipment and services.
+The World Wide Web and digital technology 
+are fundamentally changing how scientific 
+knowledge is being produced and 
+disseminated. Open science initiatives 
+leverage this opportunity to make the 
+research endeavor more transparent, 
+reproducible, collaborative and inclusive – 
+thereby further increasing its impact.
+At EPFL, we are aware of the cultural 
+change and leadership required to make 
+open, reproducible research the norm. 
+We stress our researchers’ responsibility 
+for excellence in managing research and 
+disseminating results. We are committed 
+to making open science a core tenet of 
+our culture and to giving the students and 
+researchers who join our organization the 
+appropriate information and skills. Our 
+priorities in this area include adopting best 
+practices and providing the necessary 
+support, tools and training opportunities 
+through our library, our IT systems (including 
+our high-performance computing facilities) 
+and the other entities on our campuses. Global research communities are best-
+placed to foster cross-disciplinary 
+practices and standards. To support them, 
+we are further expanding our facilities 
+and services to facilitate the adoption 
+of accepted practices for open science 
+and to reinforce our role as a global hub 
+for experimenting with new ones. We 
+will address at an institutional level any 
+contradictions between the benefits of 
+open science and the criteria (perceived 
+or real) used in research evaluation and 
+career promotion.
+We believe that researchers – not the 
+facilities or service providers they use – 
+must shape the future of open science. 
+Our campus provides a forum where peers 
+can discuss the different ways they view 
+open science, and this dialogue will inform 
+the strategic decisions we make and the 
+services provided by our administrative 
+and research staff.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne3.5. DEEPENING OUR RELATIONSHIP WITH THE SWISS 
+COMMUNITY
+Through our scientific and technological capabilities, we will remain a key player in 
+Swiss society, supporting its well-being, economy and security and helping deliver 
+solutions to global issues.
+We will continue EPFL’s long tradition of 
+carrying out joint research and innovation 
+projects with industry and society and of 
+supporting the entrepreneurial activities of 
+our students and researchers. In promoting 
+technology transfer and the uptake of the 
+School’s scientific discoveries by the public 
+and private sectors, we are meeting our 
+responsibility to make our research findings 
+available to society, thereby ensuring our 
+country’s continued prosperity.
+Under our 2021–2024 strategy, we will keep 
+building strong national and international 
+bridges with industry through bespoke 
+partnerships with corporations and small 
+and medium-sized enterprises (SMEs), 
+as well as through our various cross-
+disciplinary R&D centers. Our satellite 
+campuses in Neuchâtel, Geneva, Valais 
+and Fribourg will play an important role 
+in this objective. These campuses are 
+closely linked to our teaching, research and 
+innovation initiatives and have given rise to 
+several R&D partnerships and synergies 
+with other Swiss universities (such as the 
+universities of applied sciences), cantons 
+and local businesses. 
+We also intend to further expand the scope 
+of our activities at EPFL Innovation Park, 
+with a particular emphasis on diversity. 
+Our Innovation Park has been highly 
+successful and currently comprises 25 
+large companies and 120 startups. Now our 
+aims are to further strengthen ties between Innovation Park and our satellite campuses 
+in western Switzerland and to advance 
+collaboration within Switzerland Innovation 
+Park Network West.
+We will also pursue our ambitious strategy 
+of establishing Lausanne as the center of 
+a world-class startup ecosystem. If we are 
+successful, the economic, technological 
+and societal impact will be felt in Switzerland 
+and beyond. We will keep promoting new 
+startup initiatives designed to encourage 
+innovation and facilitate technology transfer 
+from our labs to society as a whole. So far, 
+our School has spun off 293 startups – 
+some of which have developed technology 
+we use on a daily basis. 
+Furthermore, in line with our overall strategy 
+to use our scientific and technological 
+capabilities to address the major 
+challenges of our time, our Enterprise for 
+Society Center (E4S) and Tech4Impact 
+initiative will seek to strategically expand 
+our School’s sustainability activities. 
+By virtue of our location, EPFL is in a 
+unique position to establish an open, 
+inspiring platform that brings together a 
+wide range of stakeholders – including 
+students, researchers, NGOs, international 
+organizations, politicians, corporations, 
+entrepreneurs and the general public 
+– to work together on innovative and 
+entrepreneurial solutions with a scalable 
+impact.
+11
+EPFL 2021–2024 Strategic Plan 3.6. DEVELOPING A SUSTAINABLE CAMPUS AND DYNAMIC 
+COMMUNITY
+We will further expand our efforts to create a sustainable campus and an open, 
+vibrant, and attractive community spread over several closely linked sites, each one 
+rooted in its own ecosystem.
+Part of EPFL’s appeal is our dynamic 
+campus and diverse community. We will 
+continue to offer a stimulating working 
+and learning environment, highlighting 
+individual and collective contributions. We 
+will invest in skills development through 
+education and mentoring and continue to 
+offer attractive employment conditions. We 
+will strengthen our School’s governance 
+in accordance with our quality objectives 
+and streamline our organizational structure 
+where appropriate, while tapping into the 
+constructive energy of the entire EPFL 
+community.
+We will further improve our campus 
+infrastructure by renovating existing 
+facilities and building new ones – like the 
+Advanced Science Building, Discovery Learning Labs (DLL) and other collaborative 
+working spaces – in order to keep pace 
+with growing needs and technological 
+advancements.
+At EPFL, we are also deeply concerned by 
+the climate crisis and are firmly committed 
+to developing an impactful sustainability 
+program. We want our School to serve as 
+a model both in Switzerland and abroad 
+in the field of integrated sustainability, 
+encompassing our entire community, our 
+missions and our organizational structure. 
+As a true Sustainable Living Laboratory for 
+our own research and innovation activities, 
+we will quickly adopt the social and 
+technological innovations necessary for 
+our campus to support the environmental 
+transition in an exemplary manner.
+3.7 . FURTHER ENHANCING THE SUSTAINABILITY AND STABILITY 
+OF OUR FUNDING
+We intend to reach critical size through controlled growth and sustainable finances.
+After growing rapidly over the past 15 
+years and expanding our considerable 
+international reach, we are now pursuing a 
+strategy of reconciling growth, excellence 
+and stable finances. As we seek a share of 
+federal funding that is better aligned with 
+our size and achievements, we will also 
+continue our efforts to develop a variety of 
+third-party funding sources for some of our 
+chairs and strategic priorities. Maintaining 
+and modernizing our research facilities will 
+require major investments under our next 
+two four-year strategies.Cantonal partnerships, especially through 
+our satellite campuses, represent key 
+funding opportunities that we will pursue 
+in the coming years. Another of our 
+objectives is to step up our fundraising 
+efforts, in part by continuing to engage 
+our alumni network, in order to diversify 
+our financial base. By strengthening our 
+financial-planning, cash-management and 
+budget-oversight processes, we will further 
+enhance the sustainability and stability of 
+our funding.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne
+© Olivier Christinat / EPFL
+13
+EPFL 2021–2024 Strategic Plan 4.  STRATEGIC INITIATIVES
+To enhance our impact over the coming years, we will focus on the following nine academic 
+and institutional strategic initiatives. 
+4.1. ENERGY AND SUSTAINABILITY
+For Switzerland to be able to reach its 2050 energy strategy targets, scientists and 
+engineers need to take a cross-disciplinary approach to developing new socio-
+ecological-technical systems (SETS). This will be one of the main goals of our strategy 
+for the next four years, with targeted measures to position EPFL as a leading skills 
+center for research and education on energy and sustainability. Our efforts are 
+cross-cutting and innovative, and take into account not only energy systems and 
+technology, but also infrastructure, businesses, governance, societal needs and 
+acceptance. 
+Clean, affordable energy will be a key driver 
+for a sustainable future and affect other UN 
+Sustainable Development Goals (SDGs), 
+such as: reducing inequality in general 
+– and gender inequality in particular – in 
+developing countries, improving citizens’ 
+health and well-being, promoting economic 
+growth, building sustainable cities and 
+communities and acting as responsible 
+consumers and producers. As far as global 
+warming is concerned, the most important 
+step our society can take is to effect an 
+energy transition. Major efforts are needed 
+to switch our fossil-fuel-based economies 
+to 100% renewable energy on a worldwide 
+scale, across nations and industries, to 
+prevent the global average temperature 
+from rising more than 1.5°C.
+Technological progress and innovation 
+alone will not be enough for Switzerland to 
+reach its 2050 energy strategy targets or its 
+CO2 reduction targets. We need to take a 
+cross-disciplinary approach to developing 
+socio-ecological-technical systems (SETS) 
+if we want to address the deeply interlinked 
+issues of energy, climate change and 
+sustainability. Robust, cross-disciplinary 
+research will be key to finding impactful energy and sustainability solutions. This 
+research should be cross-cutting and 
+innovative and take into account not only 
+energy systems and technology, but also 
+infrastructure, businesses, governance, 
+societal needs and acceptance.
+To meet these new challenges, three 
+types of opportunities lie before us: 
+technological, SETS-driven and educational. 
+The technological opportunities relate to (i) 
+energy efficiency and materials usage (e.g., 
+chemical processes, a circular economy, 
+building technology and urban mining); (ii) 
+energy harvesting, conversion, and use (e.g., 
+waste-to-energy conversion via catalysis, 
+solar energy conversion, and solar fuels); 
+(iii) energy storage (e.g., liquid hydrogen 
+batteries); (iv) carbon sequestration and 
+valorization; and (v) integrating renewable 
+energy into power grids through AI, IoT 
+and/or blockchain technology. The SETS-
+driven opportunities relate to (i) behavioral 
+change among producers and consumers; 
+(ii) human-centered approaches and 
+incentives to shaping individual choices, 
+which are linked to large-scale automation 
+processes; (iii) new methods for improving 
+the acceptability and adoption of renewable 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneenergy; and (iv) governance mechanisms 
+for modular and decentralized “off-the-grid” 
+energy systems, which are linked to power 
+infrastructure and energy security. Additional 
+opportunities can be found in the marketing 
+and dissemination of new technology.
+The educational opportunities relate to (i) 
+incorporating sustainability into degree 
+programs across all disciplines, so as to 
+develop this core skill in future leaders; (ii) 
+developing innovative, cross-disciplinary 
+teaching methods that combine 
+engineering and the social sciences and 
+encourage critical thinking about global 
+sustainability challenges; and (iii) improving 
+students’ ability to leverage technological 
+innovation by fostering student-led 
+cross-disciplinary projects, with the 
+goals of making EPFL the world’s most 
+energy-efficient university campus and of 
+producing zero waste.
+Energy and sustainability are cross-
+disciplinary research topics at EPFL. Over 
+190 of our labs are performing research 
+that addresses more than one SDG, 
+and energy is a central research topic 
+for about 25% of our research groups. 
+Our main areas of expertise include 
+renewable energy, energy conversion and 
+storage, energy efficiency, smart grids, 
+catalysis, sustainable mobility, housing, 
+and the energy transition. Moreover, our 
+School supports research and technology 
+implementation (through initiatives such 
+as Tech4Impact, EPFL Sustainability and 
+EssentialTech).
+Regarding our degree programs, we have 
+introduced a new Master’s program in 
+Energy Science & Technology, which 
+provides an excellent avenue for teaching 
+tomorrow’s energy engineers. However, 
+our current range of sustainability-oriented 
+courses is not enough to meet the growing 
+demand for sustainability education. We 
+need to roll out course modules of various 
+formats for both students and teachers so that we can offer courses specifically 
+on sustainability and incorporate core 
+sustainability concepts into curricula at all 
+our schools.
+To further position EPFL as a leading 
+skills center for integrated research and 
+education on energy and sustainability, 
+we will (i) improve coordination, visibility 
+and outreach, and leverage our research 
+capabilities and ongoing achievements, 
+(ii) forge closer ties among our research 
+institutes and colleges and among the 
+social sciences and engineering, (iii) 
+improve our skills in experimental social 
+science and crowd sourcing and (iv) 
+strengthen the ties between energy and 
+other sustainability fields. To that end, some 
+of the measures we have planned include:
+•  using our main campus and satellite 
+campuses as “living labs” to develop 
+and implement sustainability-oriented 
+initiatives in education, research, 
+innovation and the energy transition.
+• creating a long-term energy and 
+sustainability platform where EPFL 
+scientists and engineers can share 
+research facilities, models and data, 
+leverage existing competencies, 
+bolster their competitiveness and 
+respond to calls for proposals more 
+quickly.
+•  establishing cross-cutting research 
+hubs on specific topics to encourage 
+cross-disciplinary research projects, 
+and introducing seminar series on 
+societal problems related to energy 
+and sustainability (e.g., decentralized 
+power grids, the circular economy and 
+carbon-neutral manufacturing).
+•  improving our School’s visibility, 
+outreach and collaboration through 
+practice; this will enable us to leverage 
+the knowledge developed in our 
+research hubs, work more closely 
+15
+EPFL 2021–2024 Strategic Plan with (and obtain funding from) key 
+businesses, support the marketing of 
+new technology (such as for the circular 
+economy) and promote the application 
+of research insights (such as through 
+startups).
+•  further orienting education at EPFL 
+towards sustainability by incorporating this topic into new and existing courses, 
+developing modules for lecturers and 
+encouraging project-based learning 
+through “living labs” (see above). We 
+will also develop tailored sustainability 
+modules for EPFL faculty, enabling 
+lecturers to include sustainability 
+concepts in their curricula.
+4.2.  THE FUNDAMENTAL SCIENCES
+Any leading university that wants to have a lasting impact on science and innovation 
+must cultivate substantial strengths in mathematics, physics and chemistry. The 
+fundamental sciences were strengthened at EPFL 20 years ago, when they were 
+transferred from UNIL, and we now plan to further increase and strengthen our 
+activities in these areas. We will facilitate collaboration and knowledge advancement 
+in these overarching research topics by supporting long-term programs that bring 
+together several EPFL schools and by building the infrastructure that a cutting-edge 
+university needs to conduct experimental research in the 21st century. 
+Any leading university today must have core 
+strengths in the fundamental sciences. But 
+if you try to pinpoint exactly what makes a 
+science “fundamental”, you quickly end up 
+with diverging viewpoints. For some, the 
+fundamental sciences are characterized 
+by curiosity-driven research that is fueled 
+by scientists’ imagination and creativity. 
+But it is also true that much groundbreaking 
+research in the fundamental sciences is 
+inspired by a desire to develop important 
+applications, to better understand the 
+world around us, or to find answers to the 
+challenges of modern society.
+Research in the fundamental sciences 
+often shows its value on a much longer 
+time scale than that for the applied 
+sciences and engineering. Therefore, 
+to advance the fundamental sciences 
+at EPFL, we should focus not on current 
+topics or trends, but rather on priorities and 
+initiatives that attract the most creative, 
+innovative researchers. This includes 
+offering conditions and opportunities that 
+allow them to pursue long-term research efforts across a variety of fields as part of a 
+collaborative organizational culture.
+Breakthroughs in fundamental sciences 
+often occur at the crossroads of two or 
+more traditional fields or by combining 
+traditionally disparate methods within the 
+same field. Therefore, we must prioritize 
+the hiring of individuals who adhere to such 
+a collaborative, dynamic approach, and we 
+should facilitate their efforts by creating 
+an environment that provides the right 
+intellectual support and research facilities.
+EPFL is well-placed to do this in many 
+ways, as we have numerous local hubs of 
+outstanding research in the fundamental 
+sciences across all our schools. To better 
+seize these opportunities and leverage the 
+resulting synergies, we have a number of 
+initiatives planned to expand our intellectual 
+capacity by promoting new modes of 
+collaboration and enhancing the quality of 
+our facilities, making them ideally suited for 
+performing cutting-edge research in the 
+fundamental sciences.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneIntellectual capacity: We have identified 
+several overarching research topics that are 
+anchored in the fundamental sciences and 
+have the potential to catalyze collaborative, 
+interdisciplinary research projects. These 
+topics include: Theoretical Sciences, 
+Fundamentals of Complex Systems, 
+Theoretical Foundations of AI, Quantum 
+Science and Engineering, and Global 
+Change. They span the research areas of 
+at least two EPFL schools, with substantial 
+existing but often disconnected research 
+activities, and can bring clearly identifiable 
+benefits to enhance collaboration across 
+EPFL.
+We plan to facilitate collaboration and 
+knowledge advancement in some of 
+these topics by supporting long-term, 
+interdisciplinary research programs 
+that involve several EPFL schools. Such 
+programs will be anchored in the schools’ 
+fields of research and will aim to create 
+forums and academic incentives for EPFL 
+researchers to engage in activities in 
+one or more of these topics. We will invite 
+internationally renowned scholars to EPFL to 
+take part in the programs and spend time at 
+EPFL as visiting resident scientists, so they 
+can actively participate in and enhance the 
+programs’ activities. This approach will seek 
+to balance the benefits of short-term visiting 
+scholar programs with those of permanent 
+positions at research institutions. In addition, 
+because these programs will be long term 
+in nature, they will be well-aligned with the timeline inherent to fundamental science. 
+We will review the programs periodically 
+so as to ensure dynamic, timely research 
+opportunities.
+Research facilities
+While these proposed long-term research 
+programs should expand our activities 
+across the fundamental sciences and 
+spur new collaborative initiatives, they 
+must be accompanied by investments 
+in the requisite equipment and facilities, 
+including:
+• An advanced sciences building: To 
+enable research in a number of fields 
+critical to EPFL’s continued growth and 
+excellence in the fundamental sciences, 
+we need a new building dedicated to 
+advanced experimental research. This 
+building should meet the specifications 
+for high-quality research facilities.
+• Laboratories for conducting research 
+under the new collaborative programs 
+in fundamental sciences: For the new 
+research programs to be successful, 
+scientists from several schools will 
+need suitably designed meeting 
+rooms and laboratories where they can 
+conduct joint experiments. International 
+experience confirms that this is an 
+essential component of successful 
+collaborative research involving several 
+disciplines.
+17
+EPFL 2021–2024 Strategic Plan 4.3. HEALTH SCIENCE AND TECHNOLOGY
+The increasingly technical nature of evidence-based and precision medicine is 
+creating an opportunity for well-trained scientists, engineers and digital specialists 
+to work with doctors to develop technology that improves patients’ lives. At EPFL, 
+we intend to train the next generation of cross-disciplinary healthcare scientists and 
+engineers and build additional bridges with medical degree programs. Through our 
+state-of-the-art research programs and research centers, we will bring together the 
+different areas of expertise at our School and leverage the synergies among them. 
+Healthcare has become increasingly 
+specialized with the introduction of 
+evidence-based medicine, which is now 
+evolving into precision medicine. This 
+change is being driven by scientific, 
+technological and digital breakthroughs. 
+New “-omics” technology (such as 
+genomics, proteomics and metabolomics), 
+as well as advancements in multimodal 
+imaging, robotics, digital health and 
+artificial intelligence, has left many 
+doctors ill-prepared to embrace the 
+latest medical solutions. As a result, 
+specialized engineers, scientists, public-
+health workers and IT specialists have 
+become the experts in these fields, and 
+they often assist doctors. However, even 
+these experts find it hard to keep up with 
+the rapid pace of technological change. 
+Furthermore, the healthcare industry will 
+soon have to cope with major societal 
+trends in the areas of demographics, 
+sustainability, inequality, environmental 
+change and digitalization. Doctors and 
+scientists alike should therefore become 
+more familiar not only with the technological 
+aspects of healthcare, but also with new 
+developments that have an impact on 
+these societal issues.
+This is where EPFL can make a major 
+contribution by educating the next 
+generation of physician-scientists and 
+healthcare technology experts. This will 
+entail, first, bringing together competent 
+scientists and engineers from across 
+the School to work on healthcare-related 
+research; and second, creating a research 
+center for healthcare science and technology, a platform where scientists, 
+engineers, IT specialists, AI specialists, 
+healthcare economists and clinicians can 
+perform joint R&D.
+EPFL’s current approach to healthcare 
+science and technology is not fully 
+coherent. The School of Life Sciences 
+does not cover all aspects of this field; it 
+has only four healthcare-related institutes, 
+which are focused on cancer research 
+(ISREC), infectious diseases (GHI), the brain 
+and mind (BMI) and bioengineering (IBI). 
+Other EPFL schools also have excellent 
+programs, but they are not sufficiently 
+integrated across our organization. 
+Many large fields for healthcare research 
+remain uncovered: biochemistry, cardio-
+metabolism, inflammation, immune 
+systems, pharmacology, human genetics, 
+medical technology, digital opportunities for 
+public health and healthcare economics. 
+Building this expertise at EPFL will be 
+difficult, but our partnerships with local 
+experts can help fill those voids.
+All this means there are major opportunities 
+to be explored. As mentioned above, 
+we initially plan to create a center for 
+research in healthcare science, technology 
+and economics, where basic scientists 
+from our different schools will work with 
+clinicians, public-health specialists from 
+Lake Geneva-area hospitals and the WHO, 
+and biotech and medtech engineers. More 
+specifically, the center will:
+• leverage EPFL’s broad scientific know-
+how, with the support of all our schools
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne• strengthen partnerships with the 
+region’s main hospitals such as CHUV, 
+HUG and Inselspital
+• train the next generation of cross-
+disciplinary healthcare scientists and 
+engineers
+• build additional bridges with medical 
+degree programs so that our students 
+can seamlessly transition into 
+medical programs, giving the next 
+generation of physician-scientists the 
+necessary knowledge to implement 
+new technology for the benefit of their 
+patients
+• strengthen ties with the biopharma and 
+medtech industries• engage with public health officials and 
+organizations (like the WHO) and health 
+economists.
+Ideally, the center will be the first step 
+towards opening an institute for healthcare 
+science and technology. This institute 
+will bring together researchers, state-of-
+the-art technology platforms and local 
+businesses, and have enough lab space 
+for those businesses (which will range 
+from big pharma companies to biotech, 
+medtech and AI startups) to perform joint 
+R&D. Our center will not be intended to 
+replace medical schools, but rather to 
+supplement their teaching and research 
+with technology-oriented programs. These 
+programs would not entail launching a full 
+medical degree program at EPFL, since we 
+can already draw on our partnerships with 
+CHUV and HUG. 
+4.4.  IMAGING
+Imaging plays a central – and expanding – role in science and engineering, all the 
+way from the nano to the macro level. We believe that future progress in this field will 
+stem largely from joint research and cross-fertilization among various disciplines, 
+and that machine intelligence will become increasingly prominent. We therefore 
+plan to promote cross-disciplinary imaging research and encourage shared tools, 
+facilities and resources. We will also build new research capabilities and facilities for 
+the development of increasingly advanced technology and methods.
+The role of imaging in science and 
+engineering is fundamental and set to grow 
+further. It lets researchers view and quantify 
+physical processes and see the internal 
+3D structures of objects and biological 
+samples with unprecedented resolution 
+in both space and time. Advanced 
+imaging technology usually draws on 
+several disciplines since it requires 
+careful sample preparation, sophisticated 
+instruments (involving physics and 
+sensors) and elaborate data processing 
+for reconstruction and analysis. The 
+payoff in terms of scientific discovery can 
+be huge, as demonstrated by the recent Nobel prizes awarded for advancements 
+in super-resolution microscopy (2014) and 
+cryo-electron tomography (2017 , with a 
+major contribution from a Lausanne-based 
+scientist). Today the main trends in imaging 
+include developing increasingly powerful 
+instruments; generating imaging data in 
+space (often 3D) and time, which requires 
+advanced data storage and analysis 
+capabilities; and improving the interaction 
+and interdependence between physical 
+instruments and computer algorithms. 
+This latter trend has given rise to the 
+field of computational imaging, where 
+software forms an integral part of imaging 
+19
+EPFL 2021–2024 Strategic Plan instruments. Computational imaging is 
+being incorporated into most imaging 
+methods today (including X-ray, magnetic 
+resonance, acoustical imaging and optical 
+imaging).
+Due to the widespread use of imaging 
+and its reliance on many different kinds of 
+technology, it harbors great potential for 
+new developments across all disciplines. 
+The most pressing needs are related 
+to incorporating machine learning into 
+imaging paradigms, so as to generate 
+better reconstructions and make it easier to 
+run quantitative analyses; performing faster 
+and higher-resolution imaging; producing 
+images while taking fewer measurements 
+(or using a lower radiation dosage); 
+performing adaptive imaging with on-the-
+fly data processing; and using imaging data 
+for personalized medicine. Another priority 
+area is applications-oriented development, 
+such as for digital healthcare and vision-
+based manufacturing, which can also be 
+a vector for technology transfer to Swiss 
+businesses.
+At EPFL, we have a large, diversified 
+population of scientists (biologists, 
+physicists and computer scientists) and 
+engineers who are involved in imaging 
+technology – all the way from the nano 
+to the astronomical scale – for a broad 
+range of applications (e.g., remote sensing, 
+medical imaging, cellular and structural 
+biology, computer vision and AR/VR). 
+Many of our scientists and engineers 
+have made renowned contributions to the 
+advancement of imaging methods and 
+instrumentation – such as by developing 
+better imaging sensors (e.g., CCDs, SPADs 
+and PET scanners), next-generation 
+microscopes and advanced algorithms 
+for reconstruction and analysis – and have 
+conducted pioneering work in machine 
+learning. Our School is equipped with 
+advanced imaging facilities (BIOP , CIME, 
+CIBM and PIXE) that support researchers in many fields by providing assistance with 
+and access to cutting-edge technology. 
+We also offer a range of imaging-related 
+courses that include hands-on training (on 
+biomicroscopy and image processing, for 
+example).
+Although our research disciplines 
+boast many strengths and have much 
+in common, there is still considerable 
+scope for improving collaboration and 
+cross-fertilization. Imaging technology 
+is progressing rapidly, meaning we must 
+regularly update our research facilities, 
+which can be rather costly. Our imaging 
+facilities (except for the CIBM) are purely 
+service-oriented, which is not ideal for 
+staying at the top of our field and for enabling 
+consistent use of the latest technology. 
+Imaging hardware alone is not enough to 
+obtain reliable quantitative information; 
+we also need image-processing and 
+data-processing software – two fields that 
+often lie outside the areas of expertise of 
+the scientists who use our instruments. 
+In addition, not everyone has access to 
+long term data-storage platforms that are 
+compatible with open-science standards. 
+And in terms of imaging-related courses at 
+EPFL, they tend to be scattered across our 
+different schools.
+We therefore plan to consolidate our imaging 
+activities at EPFL with two complementary 
+aims: (i) speed scientific discovery by 
+enabling faculty to work together and by 
+promoting cross-disciplinary research 
+projects, and (ii) upgrade our shared imaging 
+infrastructure, including both software and 
+data storage platforms, so as to enhance 
+our core facilities.
+The cornerstone of these efforts will be 
+our existing imaging facilities, which will be 
+given a greater role in supporting research. 
+They will act as hubs for cross-disciplinary 
+projects and as vectors for advancing 
+imaging research at EPFL.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneSpecific measures we plan to take include:
+• hiring world-class faculty members 
+specialized in imaging science, whose 
+expertise closely matches our existing 
+imaging facilities (the goal here will be to 
+extend our current activities beyond the 
+state of the art)
+• getting our faculty more closely involved 
+in core facility operations (this will 
+include setting up a steering committee 
+to oversee operations, introducing 
+mechanisms to facilitate the transfer of 
+new developments across our facilities 
+and building up our network of users)
+• upgrading our imaging equipment and 
+forging closer ties with the imaging 
+industry (through test sites and 
+technology transfer)• setting up the Dubochet Center for 
+Imaging – a joint initiative with the 
+universities of Lausanne and Geneva – 
+to house state-of-the-art equipment
+• providing additional assistance with 
+image analysis and data management 
+so as to help researchers using our 
+equipment (in particular with large-scale 
+data generation, quantification methods 
+and open science)
+• introducing mechanisms (e.g. seed 
+funding and calls for proposals) for 
+fostering collaboration and cross-
+fertilization
+• developing an imaging technology 
+curriculum, and supporting joint 
+Master’s projects with co-supervisors.
+4.5. PRIVACY AND INTELLIGENT SYSTEMS
+One transformation driving major research and innovation today is the merging 
+of the virtual and physical worlds through the development of autonomous and 
+intelligent systems. To help further this transition, EPFL has created a new center 
+bringing together researchers working on various aspects of intelligent systems.
+A key driver of change today is the fading 
+border between the virtual and physical 
+worlds, thanks to the development of 
+autonomous and intelligent systems such 
+as wearable technology, robotic coworkers 
+and assistants, smart devices, drones, 
+augmented reality, smart infrastructure, 
+smart transportation systems and 
+many other artificial-intelligence based 
+applications. Such systems are having 
+a growing impact on the way we live and 
+work, and they will likely have far-reaching 
+implications for societal issues – including 
+employment, education, safety, and privacy 
+– as well as ethical and legal ramifications. 
+As intelligent systems become increasingly 
+widespread, they will give rise to at least 
+four challenges:•  They will bring about radical change in 
+many areas including manufacturing, 
+transportation, retail, employment, 
+healthcare, government, legislation, 
+security, privacy and education.
+•  They will require new design paradigms, 
+given that intelligent machines and 
+humans must work together to 
+accomplish goals and, possibly, share 
+the same physical space. Issues 
+related to safety, reliability, control, 
+explainability, accountability and 
+responsiveness will thus become 
+paramount.
+•  They will give rise to a new layer 
+of interconnected and intelligent 
+21
+EPFL 2021–2024 Strategic Plan systems. Scientists and engineers will 
+need to address a whole new set of 
+challenges in order to design complex 
+interconnected systems with a ‘mind’ 
+of their own. We are already seeing 
+rudimentary elements of that in cyber-
+physical systems. However, much 
+more will be needed to account for the 
+intelligence factor, which will become 
+pervasive.
+•  Due to their increased level of 
+interconnectedness and autonomy, 
+intelligent systems will give rise to an 
+array of new ethical and legal issues 
+that will require careful consideration.
+Unlike automated systems, which are 
+programmed to perform repetitive tasks 
+within well-defined boundaries and control 
+procedures, autonomous and intelligent 
+systems can learn from experience 
+and from humans. They can actively 
+search for information, make decisions 
+in complicated situations they have 
+never encountered before, move out of 
+geographically restricted areas, repair and 
+sustain themselves and, eventually, work 
+with humans and share the same physical 
+space. In the future, manufacturing, 
+healthcare, environmental monitoring, 
+energy and transportation systems, not to 
+mention large-scale research facilities, will 
+rely heavily on autonomous robots capable 
+of operating in complex environments 
+alongside humans, responding to changing 
+constraints, and working in new frontiers 
+(as in space and extreme environment 
+exploration).
+Building such systems requires drawing on 
+competencies from many different fields 
+that are sometimes grouped under the term 
+AI: data science, machine learning, vision 
+and speech technology, audio processing, 
+natural language processing, integrative 
+intelligent systems, cyberphysical systems, human-AI collaboration and planning. 
+Mathematics, statistics and theoretical 
+computer science are also critical to the 
+foundations of AI, whose underpinnings are 
+still shaky.
+EPFL is currently a major, but not sufficiently 
+visible, player in this field. We recently set up 
+a Center for Intelligent Systems that brings 
+together researchers working on different 
+aspects of “smart” technology. This center 
+will undoubtedly help build awareness of 
+intelligent-system research on campus, 
+leading to greater cross-fertilization among 
+scientists and engineers and more fruitful 
+collaboration. Under our 2021–2024 
+strategy, EPFL’s various schools will work 
+together through the center to:
+• create additional, targeted faculty 
+positions in the emerging discipline 
+of applying computational intelligence 
+to technological, engineering and 
+societal challenges and to building 
+human-machine systems. A focus on 
+building such systems is essential for 
+an engineering school like EPFL and 
+will provide a framework for cross-
+disciplinary collaboration.
+• establish a common, shared platform 
+for research.
+• develop courses to teach various 
+aspects of intelligent systems across 
+our degree programs and schools.
+• perform outreach activities to make 
+our efforts better known elsewhere in 
+Europe and beyond.
+• develop close, productive ties with 
+Swiss industry.
+• support Switzerland’s digitalization 
+initiatives.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne4.6. NEUROTECHNOLOGY
+The convergence of neuroscience, engineering, and artificial intelligence is creating 
+a unique opportunity to address 21st-century challenges related to the study of the 
+brain and the development of advanced therapies so that people can live better, 
+healthier lives. 
+Our upcoming EPFL-wide initiative called Neuro-X will strengthen our position as 
+a leader in all neuro-related fields and create a unique ecosystem for basic and 
+translational research, providing a broad, leading-edge education in neurotechnology 
+and promoting innovation and technology transfer.
+Neurotechnology – one of the most 
+dynamic and promising research areas 
+of the 21st century – draws on all critical, 
+fundamental disciplines of science and 
+technology to develop methods for better 
+understanding, regulating and repairing 
+the human nervous system. Organizations 
+around the world, including governments, 
+major institutions, research agencies 
+and businesses (both medical and non-
+medical), have launched research and 
+education initiatives in this field.
+EPFL has a unique, diversified 
+neurotechnology ecosystem involving 
+faculty members and state-of-the-art 
+research facilities, giving us considerable 
+potential for innovation. Neurotechnology 
+research at EPFL is focused on two main 
+areas that feed into each other: technology-
+driven neuroscience and neurotechnology 
+for medicine and society. The first uses 
+fundamental science and scientific 
+discovery to obtain a better understanding 
+of the nervous system – from genes and 
+molecules to motor and sensory circuits 
+and cognition – while the second is 
+engineering-driven and develops systems 
+for translational research and improved 
+health and well-being. Both areas benefit 
+from mutual knowledge-sharing.
+We currently have over 50 faculty 
+members performing neurotech research 
+at our schools of life science, engineering, 
+computer science and basic science. 
+Our expertise ranges from applied mathematics and cognitive neuroscience 
+to neurophysiology, gene therapy, robotics, 
+biomaterials, machine learning, imaging 
+and advanced manufacturing. One of our 
+main research goals is to better understand 
+the motor and sensorimotor systems so 
+that we can design effective therapeutic 
+interventions.
+We also provide the local scientific 
+community with state-of-the-art research 
+facilities that cover advanced computing, 
+simulation, imaging, animal research, 
+manufacturing and characterization. Our 
+Campus Biotech is emerging as a catalyst 
+for neurotech research at EPFL and the 
+broader Lake Geneva region, in applications 
+such as simulating the human brain 
+(through the BBP), conducting translational 
+research (through the CNP) and promoting 
+innovation, with the Wyss Center serving 
+as a translational accelerator.
+EPFL is part of a regional neuroscience 
+network (through NeuroLeman) and 
+contributes to joint initiatives for carrying 
+out translational and clinical research in the 
+Swiss Health Valley (through HUG, CHUV 
+and Clinique Romande de Réhabilitation-
+SUVA). Our international network includes 
+organizations and universities such as 
+Harvard Medical School, and our faculty 
+members play an active role in transferring 
+technology to startups and interacting 
+with the local medtech and neurotech 
+industries.
+23
+EPFL 2021–2024 Strategic Plan To unlock the full potential of our unique 
+ecosystem, we will launch an EPFL-wide 
+initiative called Neuro-X with the unifying 
+goal of using research and education 
+to address 21st-century challenges 
+related to neuroscience. By improving 
+cohesion and collaboration across our 
+dynamic, multidisciplinary community, 
+Neuro-X will advance our understanding 
+of the human brain, harness biological and 
+artificial intelligence, drive technological 
+breakthroughs, and translate those 
+breakthroughs into scalable diagnostic 
+and therapeutic systems for people 
+with neurological disorders and mental 
+illnesses. Proposed measures under the 
+initiative include:
+• creating an overarching EPFL Neuro-X 
+Council. The Council will oversee 
+neurotech communication and 
+branding for our School, hold joint 
+events and develop and coordinate 
+large, cross-disciplinary research 
+projects. It will also serve as a bridge 
+between EPFL, our clinical partners 
+and the Wyss Center.
+• identifying the main neurotech 
+challenges our School can address. 
+The Neuro-X Council will promote 
+knowledge sharing and communication 
+across disciplines and groups to 
+identify priority areas of cross-
+disciplinary research that build on, and 
+expand, EPFL’s strengths. The Neuro-X 
+initiative will in particular build on the 
+accomplishments of the Blue Brain 
+Project to further enhance, by osmosis 
+with other theoretical and experimental 
+neuroscience approaches, our 
+fundamental understanding of the 
+healthy and sick brain and design new therapeutic interventions to diagnose, 
+prevent and treat neurological and 
+mental illnesses. Support funding for 
+new professorships and collaborative 
+research projects will be needed to 
+implement these concrete measures.
+• improving cohesion on our campus 
+and beyond. Neuro-X will help 
+improve communication and research 
+partnerships among Campus Biotech, 
+EPFL’s main campus, EPFL satellite 
+campuses and local organizations. 
+The Council will outline a strategy for 
+performing translational research, 
+including research on non-human 
+primates, and set up a framework for 
+facilitating joint efforts between our 
+faculty and leading clinical scientists, 
+physicians and therapists. 
+• reviewing the neurotech-related 
+courses offered at our School. We 
+will perform an in-depth assessment 
+of upcoming business and research 
+needs in neurocomputation, 
+neuroscience, and neuroengineering 
+and, based on our findings, develop a 
+proposal for an extended educational 
+offer in neurotechnology.
+• delivering responsible innovations to 
+improve neurological care. To that end, 
+Neuro-X will implement measures to 
+enhance our school’s legal and ethical 
+expertise in this field; educate project 
+leaders, researchers, and students; 
+develop educational tools; and hold 
+scientific conferences to address the 
+potential technological impact of our 
+research and the societal issues that 
+could arise.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne4.7 . DOCTORAL SCHOOL 2.0
+We have around 2,200 PhD students enrolled in our 21 doctoral programs. While a 
+recent survey showed high satisfaction levels among doctoral students, it also 
+identified three areas of improvement that will be addressed under our 2021–2024 
+strategy: helping PhD students build more effective relationships with their advisors 
+and mentors; reducing depression and stress levels among PhD students; and 
+providing additional career development skills and prospects for doctoral program 
+graduates. 
+Our approximately 2,200 PhD students 
+are all registered and supervised in our 
+21 doctoral programs. Each PhD student 
+has an EPFL thesis director, and many 
+have a co-director, i.e., someone from the 
+academic or non-academic sector who 
+holds a PhD. These thesis directors guide 
+PhD students academically and help them 
+develop and advance their career plans. 
+Our doctoral programs offer both scientific 
+and technical courses and facilitate PhD 
+students’ academic and social integration. 
+For instance, our programs include 
+mentoring by academic staff members 
+and keep tabs on students’ progress 
+yearly. Our Doctoral School oversees the 
+various programs’ operations, coordinates 
+courses on transferable skills, and holds 
+social events for the scientific community 
+(such as international summer schools).
+During the 2018–2019 school year, we 
+carried out a comprehensive survey of 
+PhD students and obtained more than 
+1,000 responses. The survey results were 
+favorable compared with several well-
+known foreign universities, with EPFL 
+students reporting high satisfaction levels. 
+However, the survey results also revealed 
+that we need to make some improvements. 
+Respondents cited gaps, for example, 
+in student-advisor relationships, support 
+for handling stress and depression, and 
+career preparation. What’s more, they said 
+that the balance they must strike between 
+being employee-subordinates on the one 
+hand and student-researchers on the other 
+has been shifting too much towards the 
+former.In order to remain at the forefront of doctoral 
+education and supervision, we will take the 
+following targeted measures to address 
+these areas of improvement:
+•  PhD student-advisor (and mentor) 
+relationships:  We will improve the 
+onboarding of professors and PhD 
+students. Tenure-track professors 
+should be given additional support 
+and EPFL-specific management 
+training (such a program has already 
+begun). Our PhD welcome event will 
+be reviewed and possibly updated, 
+and it will be made compulsory for all 
+incoming PhD students. In order to 
+effectively manage expectations, we 
+will create a guide for PhD students 
+and advisors covering the main 
+academic and HR-related rules as 
+well as guidelines for supervising PhD 
+research. It will take the form of a short, 
+easily readable online booklet that will 
+be regularly updated. Our aim will be to 
+strengthen our PhD communities and 
+hold more doctoral-program events 
+giving PhD students an opportunity to 
+meet and talk with program directors, 
+thesis advisors and mentors, thereby 
+improving supervisory relationships.
+• Depression and stress levels 
+among PhD students:  The measures 
+mentioned above for improving PhD 
+student-advisor relationships should 
+help in this area as well. However, 
+another important measure we 
+plan to introduce is mandatory exit 
+interviews with all PhD students who 
+25
+EPFL 2021–2024 Strategic Plan leave their program before graduating; 
+these interviews will be conducted by 
+doctoral program directors. We will 
+also further develop and communicate 
+procedures and contact points 
+for avoiding and handling difficult 
+situations between PhD students and 
+their advisors. EPFL’s Respect Unit 
+will be positioned as the main contact 
+point for reporting the more serious and 
+problematic situations. PhD students 
+will be given more freedom to choose 
+courses (scientific, technical and 
+transferable) as well as more courses 
+to choose from, in order to better align 
+their curricula with their research and 
+career plans. We will make the core 
+values of taking initiative, exploring new 
+ideas, critical thinking and independent 
+decision-making a part of each PhD 
+student’s education. And we will 
+start sending out a newsletter every 
+two months for all PhD students and 
+advisors, with regular highlights such as PolyDoc events, alumni and career 
+events, and reminders of certain rules 
+and regulations.
+•  Career preparation for PhD students: 
+PhD students need to be able to make 
+better-informed decisions about their 
+career goals (and, in fact, our society 
+needs more high-level scientists 
+to become leaders). We will aim to 
+improve our PhD students’ ability to 
+communicate to broad audiences, lead 
+teams and manage projects. An EPFL 
+PhD program should take four years 
+to complete (extensions should be 
+exceptional). We will start holding an 
+annual PhD career event and require 
+that PhD students include a section 
+on their career plans in their third-
+year reports. Another measure we are 
+considering is a fund for international 
+academic or non-academic exchange 
+programs of several months each that 
+PhD students could apply for.
+4.8.  POSITIVE CAMPUS CULTURE
+While we already offer attractive employment opportunities and working conditions 
+at EPFL, more can be done to support professional development, employability and 
+mobility throughout our organization and across the ETH Domain. Steps we will take 
+in this area include providing additional training on leadership and management 
+skills, introducing an EPFL-wide HR policy and prioritizing equal opportunity in hiring. 
+A critical issue for our School’s continued 
+development is being able to attract and 
+retain top talent, whether in administrative, 
+technical or scientific positions. More 
+specifically, we need to foster an 
+environment conducive to employees’ 
+personal and professional development. 
+Most quality employers (in Switzerland and 
+internationally) offer appealing professional 
+development and career prospects along 
+with a commitment to equal opportunity, 
+and these factors are becoming 
+increasingly important differentiators in the 
+job market.The paradigm for leadership and 
+management has changed considerably. 
+Employees now expect their managers, 
+including professors, to provide them 
+with a stimulating environment in which 
+they can work efficiently and develop 
+professionally. Leaders are faced with 
+similar expectations, but with the additional 
+challenge of navigating their organizations 
+through highly complicated, demanding 
+environments. This requires leadership 
+and management skills commensurate to 
+the task.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneAt EPFL, we offer attractive employment 
+opportunities and working conditions, 
+including a stimulating work environment. 
+Whereas the career path for professors is 
+clear and well-defined, more can be done 
+to support staff members – academic and 
+otherwise. By facilitating their professional 
+development, we will benefit the entire 
+EPFL community. This is even more 
+important given that our staff work in a fast-
+changing environment requiring flexibility, 
+the capacity to embrace change and the 
+skills to communicate effectively. Our 
+employees must continually acquire new 
+competencies, be it to meet new demands, 
+take on new responsibilities or maintain 
+employability. 
+We first identified the need to strengthen 
+our management skills in 2017 , and this 
+was added to our HR strategy as a priority 
+focus area. Our HR department accordingly 
+developed a management training program 
+specifically for new tenure-track assistant 
+professors, which was introduced in 
+February 2019 as a mandatory part of their 
+new employee orientation program. A first 
+cohort of 20 such professors is currently 
+completing the program and has given us 
+positive feedback regarding its relevance 
+and effectiveness. We also ran a pilot 
+management course for non-academic 
+managers; the course proved successful 
+and will now be scaled up to address the 
+needs of a larger target group. 
+The high retention rates across our 
+organization, along with the high degree of 
+specialization required in some professions (like for scientists and technicians), mean 
+that employee mobility has long been 
+a priority at EPFL. Our HR department 
+provides in-placement or out-placement 
+support to employees when their research 
+unit or laboratory closes or restructures, as 
+well as training in transferable skills such 
+as project management. Yet we can still do 
+more to support professional development, 
+employability and mobility throughout our 
+organization. 
+We therefore plan to introduce the following 
+key measures to enhance our existing staff 
+management efforts:
+• develop the next generation of 
+leaders, which will entail identifying 
+and preparing tomorrow’s academic 
+and non-academic leaders through a 
+tailored joint program
+• give managers the skills they need to 
+manage effectively by extending our 
+management training courses to all 
+professors and managers at our School
+• develop a clear EPFL-wide HR policy 
+for junior faculty members who have 
+been hired on open-ended contracts
+• develop a program to identify high-
+potential administrative and technical 
+staff and support their professional 
+development, based on an assessment 
+of priority needs (we will also look into 
+options for better supporting these staff 
+at our various schools and research 
+centers).
+27
+EPFL 2021–2024 Strategic Plan 4.9. EQUAL OPPORTUNITY
+We will step up efforts to hire and retain female professors, increase our intake of 
+female students, foster an educational and working environment conducive to equal 
+opportunity and increase the percentage of women in managerial and leadership 
+positions. 
+Promoting equal opportunity and instilling 
+respect for diversity are core elements 
+of our organizational culture and will be 
+cornerstones of our 2021–2024 strategy. 
+The concrete measures we plan to take in 
+this area consist of:
+• Stepping up efforts to hire and 
+retain female professors.  We plan 
+to significantly increase the number 
+of female professors we hire, with 
+a target of at least 40% of new job 
+offers being made to women. This 
+will entail proactively searching for 
+and engaging with a diverse pool of 
+excellent candidates, continuing our 
+efforts to reinforce awareness of the 
+implicit biases we often hold – and how 
+we can mitigate their impact on our 
+hiring procedures – and improving the 
+accountability and monitoring of our 
+results in this area. These measures 
+are outlined in our guidelines on equal 
+opportunity in faculty hiring and in our 
+dual-career policy. We have carried out 
+a study of the status of women faculty 
+members at EPFL; the findings will help 
+us develop additional measures for 
+ensuring that EPFL remains capable of 
+hiring and retaining top professors and 
+supporting them in their tasks. 
+• Increasing our intake of female 
+students and achieving greater gender 
+balance in our degree programs 
+(Bachelor’s, Master’s and PhD).  This 
+is already a core objective of four of our 
+units (Science Outreach Department, 
+Education Outreach Department, 
+Science Promotion Department and 
+LEARN center), but under our 2021–2024 strategy, we will mainstream their 
+efforts across our organization and work 
+with policymakers and other schools 
+and stakeholders to outline specific 
+actions we can take jointly.
+• Fostering an educational and working 
+environment conducive to equal 
+opportunity .  Efforts made under our 
+2021–2024 strategy will focus on:  
+ > Promoting respectful, supportive 
+conduct and a diverse community: 
+we will build upon existing measures 
+such as our Respect Unit to 
+implement targeted communication 
+and awareness-building campaigns 
+addressing our entire School. 
+The focus will be on early-stage 
+prevention and conflict resolution. 
+These activities will be carried out by 
+dedicated EPFL units in association 
+with other EPFL community 
+stakeholders. 
+ >Enhancing measures to support staff 
+and students seeking a better work-
+life balance: we already introduced a 
+series of measures under our 2017–
+2020 strategy to help our staff and 
+students achieve a better work-life 
+balance; these include expanding 
+our campus daycare services, 
+providing emergency child care, 
+introducing a Stop-the-Clock policy 
+for PhD students and postdocs, and 
+launching the Robert Gnehm Grant 
+for postdocs with young children. 
+Under our new strategy, we will further 
+these measures, assess them on an 
+ongoing basis, and supplement them 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausannewith targeted improvements based 
+on the needs of the EPFL community. 
+We will place particular emphasis on 
+providing adequate information and 
+support to students and staff (including 
+unit heads and lab directors).  
+•  Providing more attractive career 
+prospects and professional development 
+opportunities. Until now, our efforts for 
+promoting career development and 
+gender equality have mainly addressed 
+PhD students and postdocs. Under our 
+2021–2024 strategy, we intend to pursue 
+these efforts, continually assessing 
+them and supplementing them where 
+needed with actions focused on 
+promoting equal opportunity. In addition, 
+we will introduce measures to enhance 
+the career prospects of administrative 
+and technical staff, improve the gender 
+balance in all professions at EPFL and 
+increase the percentage of women in 
+managerial and leadership positions.  
+Our new policies for promoting equal 
+opportunity will build on our existing 
+framework, although we will implement 
+additional targeted measures that will be 
+described in more detail in our 2021–2024 
+action plan.
+
+29
+EPFL 2021–2024 Strategic Plan 5. DIGITALIZATION
+5.1. DIGITAL SKILLS
+The advent of digital technology and its 
+implications for society are forcing us 
+to consider how we can leverage these 
+advancements to improve our way of life. 
+As a public university, EPFL has a leading 
+role to play in preparing current and 
+future generations to navigate the digital 
+transition. 
+In terms of education, digitalization is 
+having three broad impacts:
+1. Impact 1:  digitalization is changing 
+the content we need to cover in our 
+courses, and more specifically the skills we should impart to students, 
+such as programming, computational 
+thinking and critical thinking (e.g., to 
+spot fake news).
+2. Impact 2: digitalization is requiring us 
+to adopt new teaching methods and 
+tools.
+3. Impact 3: digitalization is requiring 
+us to update how we manage 
+educational institutions, especially in 
+light of recent advancements in data 
+science.
+© Catherine 
+Leutenegger / 
+EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneOur School has emerged as a leader 
+in these issues thanks to the specific 
+research centers and other resources we 
+have set up. We have set the following 
+strategic orientations for responding to 
+the digital transition, broken down by 
+educational level.
+At the university level
+We have substantially increased the 
+number of courses that cover elements of 
+computer science (and especially artificial 
+intelligence) in recent years. This increase 
+was implemented quickly and in a targeted 
+manner to meet the needs of students 
+and their future employers. To address 
+impact 1 above, we need to ensure that 
+digitalization concepts are taught in each of 
+our degree programs so that our students 
+receive appropriate training in this field, 
+are well-prepared for their careers, and are 
+equipped to adapt to future transformations. 
+Our Master’s programs in Data Science, 
+Cybersecurity, and Digital Humanities serve 
+this purpose particularly well.
+In 2013, we opened the Center for Digital 
+Education (CEDE), which manages a fund 
+for developing digital tools for learning and 
+teaching, in order to address impact 2. So 
+far these tools have been aimed primarily 
+at giving students basic knowledge 
+during their first years of study. Going 
+forward, the focus will be on creating tools 
+specifically for teaching the fundamental 
+concepts of science and engineering. The 
+CEDE – together with the LEARN center 
+opened in 2018 - also provide services for 
+encouraging the use of digital resources 
+and conducting experiments on a broader 
+scale. One example of these digital 
+resources is our Learning Companion 
+app, which helps students adopt good 
+learning habits. Other resources will be 
+developed to provide more – and more 
+personalized – feedback to students (such 
+as through automatic correction and skills 
+diagnoses). Finally, to address impact 3, the CEDE 
+rolled out the Campus Analytics project 
+to help implement and evaluate a data-
+based educational system. The goals are 
+to assess the latest innovations in teaching 
+and create decision-support tools for 
+the various stakeholders in educational 
+systems. The Center is currently putting 
+together an anonymous educational 
+dataset that will be made available to 
+researchers in order to promote the use of 
+machine learning and artificial intelligence 
+for educational applications.
+At the high-school level
+We draw our student base from graduates 
+of Swiss high schools. In October 2017 , 
+the Swiss government decided to make 
+computer science a mandatory subject in 
+all the country’s high schools starting in 
+2022. At EPFL, we are helping high schools 
+implement this decision by working with 
+them to draft new curricula (to address 
+impact 1), develop new teaching tools 
+(impact 2) and train new teachers (impact 
+3). In these efforts, we will work jointly with 
+other cantons whenever possible.
+At the primary- and  
+secondary-school level
+EPFL has long been involved in educational 
+robotics, which includes training teachers 
+on how to use robots in the classroom, 
+especially in primary and secondary 
+schools. The LEARN center helps these 
+schools and the educational departments 
+of different cantons to incorporate digital 
+skills and technology into their official 
+curricula. Our approach is based on applying 
+the technology developed in research 
+labs to improve daily teaching practice. 
+The aim is to use experimental research 
+findings to enhance modern teaching 
+methods (i.e., evidence-based innovation 
+in education). LEARN addresses all three of 
+the digitalization impacts discussed above. 
+For impact 1, the center identifies which 
+computer science concepts (especially 
+computational thinking) can be taught at 
+31
+EPFL 2021–2024 Strategic Plan an early age (kindergarten) with the help of 
+adapted teaching methods. For impact 2, 
+LEARN researchers are developing digital 
+tools that can provide concrete help to 
+teachers. And for impact 3, the center is 
+coming up with ways to better manage 
+teacher communities and educational 
+projects that support the digital transition 
+at the institutional level.
+At the vocational training level
+We are conducting research on educational 
+technology that can be used specifically 
+for vocational training programs, such as 
+augmented reality and social platforms that 
+bridge the gap between theory and practice. 
+This is being done through numerous 
+partnerships with industry associations, 
+schools and Swiss government agencies 
+(cantonal and federal) that run vocational 
+training programs. EPFL has set up a 
+collaborative platform on this issue, with 
+funding from the Swiss State Secretariat for 
+Education, Research and Innovation (SERI). 
+Over the next eight years, the platform will 
+conduct research on the digital transition 
+in education and bring together all 
+stakeholders: schools, the Swiss Federal 
+Institute for Vocational Education and 
+Training (SFIVET), the Swiss Universities 
+of Teacher Education (HEP), the Swiss 
+Conference of Cantonal Ministers of 
+Education (EDK), and industry professionals. 
+This collaborative effort will focus on the 
+three impacts mentioned above, with 
+the aims of (i) identifying the skills now 
+expected by companies wishing to adapt 
+to the digital era; (ii) collecting experimental 
+data on the effectiveness of educational 
+technology specific to vocational training; 
+and (iii) showing decision-makers how 
+data-science methods can help them 
+manage their institutions more effectively. 
+To translate this research into practice, the 
+platform will work closely with the Swiss 
+EdTech Collider, which is an innovation hub 
+on the EPFL campus involving more than 
+80 edtech-industry startups.At the continuing education level
+As the modern workplace becomes 
+increasingly digital, half of all employees will 
+have to update their digital skills at some 
+point in the near future. Our EPFL Extension 
+School, launched in 2017 , aims to help 
+workers adapt to the digital era and seize 
+the many opportunities it offers, through 
+a variety of courses for participants of all 
+ages and educational backgrounds. The 
+courses cover not only digital technologies 
+but also programming and data science. 
+We believe that with the appropriate 
+training and support, anyone can speak 
+“digital,” “code” and “data” – and the wide 
+range of profiles of individuals successfully 
+learning with the EPFL Extension School 
+strongly confirms this belief.
+EPFL Extension School courses are given 
+entirely online, and include personalized 
+feedback for participants and one-on-one 
+video sessions with instructors. Knowledge 
+acquisition is assessed through practical, 
+applied project work that learners must 
+complete and present to teachers by video 
+conference. This fully online approach, 
+combining individual work with one-on-
+one support and concrete outcomes 
+demonstrating learner mastery, has 
+already enabled our Extension School to 
+enhance the digital skills of hundreds of 
+professionals across Switzerland.
+Going forward, the EPFL Extension School 
+will continue to develop its curriculum 
+offering to reflect in-demand, applied 
+subjects, and to expand its individual 
+training offers and enterprise training 
+partnerships in order to reach a wide 
+audience in Switzerland and beyond.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne5.2.  DIGITAL TRUST
+For millennia, humans have been 
+developing trust-building mechanisms 
+among people, businesses and 
+governments for society to function. These 
+mechanisms include languages, social 
+norms, legislation, diplomacy, authoritative 
+bodies and institutions. Today, those trust 
+mechanisms need to be transposed into 
+the digital world; otherwise, low levels of 
+trust – caused perhaps by data breaches 
+or malicious usage – could hinder the 
+deployment of digital technology. If we 
+want modern society to benefit from 
+the opportunities being offered by the 
+digital transition, we need to create a 
+technological, legal and ethical framework 
+that provides strong guarantees, can be 
+applied universally and reduces the cost of 
+earning digital trust.
+A crucial factor in achieving these goals 
+will be making sure that digital technology 
+is rolled out in a safe, secure way (with 
+high levels of transparency and personal 
+data protection), both in Switzerland 
+and internationally. In Switzerland, 
+the government has introduced four 
+strategic initiatives: a digital action plan, 
+a cybersecurity strategy, a cyberdefense 
+strategy and a Swiss data-security network. 
+Other recent developments – such as the 
+Swiss Digital Initiative, the CyberPeace 
+Institute, and the Libra Association (all 
+based in Geneva), along with Microsoft’s 
+Defending Democracy Program on 
+electronic voting – are giving us a clear 
+opportunity to scale up the four strategic 
+initiatives to an international level and position EPFL at the center of a dynamic, 
+growing ecosystem.
+Our School is home to the Center for Digital 
+Trust (C4DT), an alliance of businesses and 
+universities that aims to facilitate innovation 
+in digital-trust-enhancing products and 
+services. C4DT has international reach, 
+bringing together businesses, EPFL 
+laboratories, members of the general 
+public and policymakers to collaborate, 
+share insight and obtain early access to the 
+trust-building technology being developed 
+at EPFL and elsewhere.
+C4DT will have two key priorities under the 
+2021–2024 strategy. First, it will facilitate 
+technology transfer and make sure that 
+Switzerland remains competitive on the 
+issue of digital trust by giving stakeholders 
+access to EPFL-developed software, 
+raising awareness among decision-makers 
+and building a community around the topic. 
+Second, it will advocate effective policies 
+at the national and international levels, 
+positioning EPFL as a global benchmark. 
+To that end, we will work closely with Swiss 
+government agencies (cantonal and federal) 
+on the four strategic initiatives mentioned 
+above (in part through a joint cybersecurity 
+support center in Bern operated together 
+with ETH Zurich), contribute to international 
+initiatives and foundations (such as the 
+CyberPeace Institute in Geneva) and 
+foster collaboration with other universities 
+in Switzerland (such as UNIGE, UNIL and 
+HEID) and abroad.
+33
+EPFL 2021–2024 Strategic Plan 6. SUSTAINABILITY
+Transitioning from the current modus 
+operandi to a sustainable one is probably 
+the greatest challenge facing the global 
+community in the 21st century. Universities 
+– and schools of science and engineering in 
+particular – should serve as natural catalysts 
+in this transition owing to their unique role 
+in generating the skills, knowledge and 
+entrepreneurship needed to address this 
+challenge. However, fulfilling this role will 
+entail expanding their scope: in addition to 
+their longstanding missions of education, 
+research and innovation, universities 
+must seek cross-sector partnerships 
+with the general public, policymakers and 
+businesses to jointly develop sustainable 
+solutions that respond to societal needs. At EPFL, we have long recognized our 
+responsibility towards the global community, 
+especially with regards to the environment. 
+We have expanded our research and 
+teaching capabilities in fields such as 
+renewable energy, green chemistry and 
+sustainable living, and we actively promote 
+sustainability at our campuses – primarily 
+through the Sustainable Campus initiative we 
+rolled out in 2007 . Projects under this initiative 
+include building the largest urban solar power 
+plant in Switzerland, with a surface area of 
+15,500 m2; upgrading our heating system to 
+use only lake water for heating and cooling (it 
+will be fully operational in 2021); encouraging 
+green transportation, with the result that 
+today over 80% of EPFL commuters use 
+© Catherine 
+Leutenegger / 
+EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausannelow-carbon or public transportation; running 
+a pilot project to reduce air travel by EPFL 
+employees and establish a set of travel 
+guidelines; and launching a sustainable 
+food strategy that entails using more locally 
+produced food and washable dishes for all 
+take-away lunches on campus. Recently, 
+the farmland owned by UNIL and EPFL was 
+made available to a young collective in order 
+to grow fruit, vegetables and trees and breed 
+farm animals through a sustainable, closed-
+loop system. The farm’s products will be sold 
+directly on site and on the EPFL and UNIL 
+campuses. These are just a few of the many 
+steps we are taking as a responsible steward 
+of our environment.
+Given the scale and complexity of the 
+sustainability challenge facing our society, 
+we intend to step up our efforts over the 
+next few years and position our School 
+as a benchmark university in integrated 
+sustainability. By serving as an example 
+both within Switzerland and internationally, 
+we will not only uphold our mission as a 
+public-sector university but also enhance 
+our own organization. The goal is to 
+embed sustainability in all aspects of our 
+School: governance, education, research, 
+innovation, our community and our 
+operations. More specifically, we will:
+• set up the right systems and processes 
+to foster a sustainability-oriented culture
+•  incorporate sustainability topics into the 
+curricula of all our degree programs, so 
+that students have the skills they need 
+to be responsible leaders and address 
+key environmental and societal issues
+• leverage the expertise of our scientists and 
+engineers to accelerate the development 
+of innovative technology with concrete 
+applications, primarily through cross-
+disciplinary research projects
+•  promote mechanisms for spurring technological innovation, particularly in 
+the field of environmental protection, 
+and for transferring that technology to 
+society either through the creation of 
+startups or by facilitating widespread 
+adoption
+•  enhance knowledge-sharing among 
+scientists, engineers, economists, the 
+general public and policymakers
+•  reduce and offset our CO2 emissions 
+in order to help meet the goals of the 
+Paris Climate Agreement and the Swiss 
+government’s climate strategy (i.e., a 
+50% reduction in CO2 emissions by 
+2030 relative to 2006 levels).
+In addition, we recently set up a task force 
+composed of faculty members, staff and 
+students who will work together to outline 
+a roadmap for making our campuses more 
+sustainable. This task force will develop 
+an EPFL-wide action plan with specific, 
+measurable targets in all the areas 
+mentioned above along with deadlines for 
+achieving those targets under the aegis of 
+the new vice-presidency for responsible 
+transformation.
+
+35
+EPFL 2021–2024 Strategic Plan 7.  STRATEGIC FOCUS AREAS  
+OF THE ETH DOMAIN
+7.1.  SWISS DATA SCIENCE CENTER
+Today we are seeing a growing need for 
+a national applied-research center – one 
+that would serve as a platform for providing 
+research services, encouraging joint 
+projects with organizations beyond the 
+ETH Domain and pooling the resources 
+of all Swiss universities. The goal would 
+be to provide data-science and artificial-
+intelligence facilities, tools and services 
+to university researchers as well as 
+businesses and the public sector. Such 
+a center would also foster excellence in 
+cross-disciplinary data-driven research, 
+disseminate best practices in FAIR 
+(findability, accessibility, interoperability 
+and reusability) data and in open science, 
+and promote open innovation. 
+EPFL’s Swiss Data Science Center (SDSC) 
+is ideally suited to play this role. It sits at 
+the crossroads of business and academia, drawing on a vast network and solid 
+reputation in Switzerland and beyond. 
+Under our 2021–2024 strategy, the SDSC 
+will step up its data-science and artificial-
+intelligence research collaborations 
+within the ETH Domain and form cross-
+disciplinary partnerships with other Swiss 
+universities. It will expand existing joint 
+research projects, initiate new discussions 
+with universities abroad and further extend 
+the use of its FAIR-data and open-science 
+platforms (including RENKU) to national and 
+international universities and businesses.
+In its partnerships with industry, the SDSC 
+will encourage the use of data science 
+by showing the beneficial impact it can 
+have in specific areas, while managing 
+expectations on both sides. It will jointly 
+hire and guide junior data scientists in 
+accordance with a full cost recovery model. 
+ © Vincent 
+Guignet  / EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneIt will also help disseminate knowledge 
+in data science by taking an increasingly 
+active role in continuing education, training, 
+and coaching programs for professionals 
+in industry and academia.
+To help reach its goals, the SDSC will issue 
+joint calls for proposals with other Swiss 
+organizations (such as swissuniversities 
+and the Swiss National Science 
+Foundation) for large-scale, data-driven, cross-disciplinary research projects that 
+adhere to FAIR data principles. It will also 
+further strengthen its ties with businesses 
+and university research labs across 
+Switzerland. One aim will be to turn existing 
+joint projects into long-term strategic 
+partnerships. Another will be to introduce 
+an executive education program, in order 
+to keep playing an important role in higher 
+education initiatives at the national level.
+7. 2 .  PERSONALIZED HEALTH AND RELATED TECHNOLOGY
+Healthcare is being revolutionized by 
+technological breakthroughs in life 
+science, engineering, computer science 
+and communications. While this presents 
+a number of formidable opportunities, it 
+also comes with a fair share of challenges. 
+At EPFL, we aim to help address these 
+challenges through our Health 2030 
+initiative, launched in conjunction with 
+the universities of Geneva, Lausanne and 
+Bern and their affiliated hospitals. The 
+initiative is a multicentric, cross-disciplinary 
+program designed to explore the 
+potential of new technology for delivering 
+personalized healthcare and precision 
+medicine. Health 2030 is part of the ETH 
+Domain’s Personalized Health and Related 
+Technologies (PHRT) initiative and the Swiss 
+Personalized Health Network (SPHN), which 
+was created to promote the development 
+of personalized healthcare systems in 
+Switzerland.
+Precision medicine entails generating, 
+interpreting and cross-comparing large data 
+sets obtained through “omics” analyses 
+(such as genomics, proteomics and 
+metabolomics). In 2017 , the ETH Domain 
+opened the Health 2030 Genome Center 
+as part of its PHRT initiative. The Center 
+serves as an international hub for clinical-
+grade genomic analyses and leverages 
+genetics- and genomics-related synergies among scientists, clinicians and the general 
+public. It is becoming a leading institute for 
+high-throughput sequencing in Switzerland, 
+making the best technology and analytics 
+systems available to all Swiss clinical and 
+research organizations.
+One clinical service provided by the Genome 
+Center is the fast-turnaround sequencing 
+of tumor samples, which is becoming 
+an essential tool for doctors to identify a 
+tumor’s molecular characteristics, establish 
+a prognosis and choose the best course of 
+treatment, whether drug- or immune-based. 
+It works closely with the Swiss Cancer Center 
+Leman (SCCL) to provide this service. 
+The Genome Center, in association with the 
+Clinical Proteotype Analysis Center (the PHRT 
+Proteomic Platform), based at ETH Zurich, has 
+created a Swiss “omics” research pipeline that 
+will help anchor our country at the forefront of 
+precision medicine. A pilot project has already 
+been completed where the combined PHRT 
+Platforms generated a multi-omics data set 
+in record time from a cohort of around 230 
+young patients with a rare kidney disorder.
+EPFL is involved in several other personalized 
+healthcare initiatives in Switzerland; we 
+are helping to develop national strategies, 
+carry out several joint research projects and 
+promote two other skills centers in precision 
+37
+EPFL 2021–2024 Strategic Plan medicine by hosting the Swiss Data 
+Science Center (SDSC) and the SCITAS 
+high-performance computing cluster.
+7 .3.  ADVANCED MANUFACTURING
+Under the ETH Board’s 2017–2020 
+strategy, we furthered our efforts to develop 
+a skills center in advanced manufacturing, 
+initially drawing on ETH Board funding for 
+this Strategic Focus Area. EPFL labs are 
+taking part in nine of the eleven advanced-
+manufacturing projects selected during 
+two calls for proposals (one in 2016 and 
+one in 2017), and lead three of them.
+The Strategic Focus Area funding we 
+received has been used for a variety of 
+objectives. They include setting up an 
+additive manufacturing platform; hiring an 
+engineer from the University of California, 
+Berkeley, to head the Advanced Fabrication 
+Technology Laboratory at EPFL; and hiring 
+a director in October 2018 to set up and 
+manage the Micro-Manufacturing Science 
+and Engineering Center (M2C). This center provides engineering and management 
+resources for businesses and universities 
+to conduct research in advanced micro-
+manufacturing, the miniaturization of high-
+precision components and integrated 
+systems with embedded intelligence. 
+Under the 2021–2024 strategy, M2C 
+will expand its partnerships and acquire 
+additional additive-manufacturing 
+equipment in order to expand its know-
+how and offer a broader range of services 
+to the microengineering industry. EPFL as 
+a whole will continue its efforts in advanced 
+manufacturing and actively participate in 
+joint R&D projects in this field. Regarding 
+our degree programs, the microengineering 
+section will develop a new study plan that 
+fully incorporates advanced manufacturing 
+concepts.
+7. 4 .  ENERGY
+The three factors driving today’s 
+energy transformation are digitalization, 
+decentralization and decarbonization. 
+Modern climate and energy policies require 
+the extensive use of renewable energy, often 
+with the additional constraint of securing 
+a country’s energy supply. This is further 
+complicated by the fluctuating nature of 
+renewable-energy generation systems and 
+of demand for power. That makes it difficult to 
+operate power grids efficiently and effectively. 
+On the positive side, the energy transition 
+is creating new opportunities in education, 
+research, and innovation, from both an 
+economic and academic perspective. In response, we will consolidate EPFL’s 
+world-class standing in this field, building 
+on our excellence in education, our 
+technological development capabilities and 
+our mechanisms for transferring knowledge 
+to industry and society through effective 
+pilot projects. We introduced a new Master’s 
+program in Energy Science and Technology 
+that teaches students how to tackle present 
+and future energy challenges, whether 
+they decide to pursue careers in industry 
+or academia. Students in the program can 
+choose from three specializations: energy 
+conversion devices, energy systems, and 
+energy management and sustainability. 
+The program includes lectures by EPFL’s 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneinternationally renowned professors as well as 
+hands-on lab experience at our state-of-the-
+art research facilities.
+Our school is home to several highly-ranked 
+scientists – in fields such as materials science, 
+plasma physics, computer science, data 
+science and energy systems – who conduct 
+advanced research on energy technology. 
+Their work covers next-generation energy 
+conversion and storage devices such as 
+heterojunction solar cells, solar-to-hydrogen 
+converters and nanoscale semiconductor 
+devices, as well as internet-inspired real-
+time grid monitoring and control algorithms. 
+The technology developed in our energy 
+innovation ecosystem is showcased through 
+demonstrators and pilot projects. Another 
+element of our strategy involves conducting 
+real-world socio-economic experiments in 
+order to identify possible catalysts of the 
+energy transition. 
+
+39
+EPFL 2021–2024 Strategic Plan 8. RESEARCH INFRASTRUCTURES
+8.1. CATAL YSIS PROCESS DISCOVERY HUB 
+Switzerland is a world leader in the 
+transformation of petrochemical-based 
+building blocks into high-added-value 
+specialty chemicals. Currently, more than 
+90% of all synthetic compounds (such as 
+agrochemicals and pharmaceuticals) are 
+produced using catalytic processes driven 
+mainly by fossil fuels. Discovering new 
+catalytic processes and new compounds 
+will be key to keeping Switzerland’s 
+chemical industry competitive and building 
+a sustainable economy. If we want to create a sustainable carbon cycle, free Switzerland 
+from its dependence on fossil fuels and 
+ultimately make the country carbon neutral, 
+then we will need to develop selective 
+conversion processes that generate lower 
+waste, use less energy and emit fewer 
+greenhouse gases. The key will be using 
+catalysis to reinvent existing processes for 
+producing specialty chemicals by shifting 
+those processes away from petrochemical 
+feedstocks and towards renewable raw 
+materials.
+© Olivier 
+Christinat / EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneTo help achieve this goal, we will create 
+a world-leading research center called 
+Catalysis Process Discovery Hub (Cat+) 
+that will be based jointly at ETH Zurich and 
+EPFL. Cat+ will leverage the two universities’ 
+combined excellence in chemistry and 
+chemical engineering to give Swiss 
+businesses and researchers open access 
+to state-of-the-art skills and equipment 
+for catalyst discovery, reaction discovery 
+and process optimization. The site at 
+ETH Zurich will focus on heterogeneous 
+catalysts, while the one at EPFL will study 
+molecular catalysts. The center as a whole 
+will provide the scientific community 
+with advanced facilities for the discovery, 
+characterization and large-scale testing 
+of new homogeneous and heterogeneous 
+catalysts and novel catalytic processes.
+The center will use a high-throughput, 
+machine-guided approach for the rapid 
+discovery and evaluation of leads and 
+parameter space. This will entail setting 
+up an integrated workflow with fully 
+automated processes for the synthesis, 
+characterization and evaluation of 
+molecular and solid catalysts, drawing 
+on methods in computational learning, machine learning and artificial intelligence. 
+The goal will be to provide best-in-class 
+facilities and expertise in:
+• evaluating and screening new, highly 
+efficient catalysts, processes and 
+methods for converting feedstocks 
+that are abundant today into high-
+added-value compounds
+• using artificial intelligence, machine 
+learning and high-throughput 
+experimental methods to accelerate 
+catalyst discovery and make other 
+unexpected discoveries
+• using spectroscopy instruments 
+with unprecedented resolution and 
+computing power to design new 
+and better catalysts that overcome 
+current obstacles like instability and 
+deactivation
+• supplying leading-edge know-how in 
+the development of new, sustainable 
+and efficient catalytic processes 
+for the synthesis of highly complex 
+compounds and smart materials.
+8.2.  BLUE BRAIN PROJECT
+The Blue Brain Project (BBP) aims to build 
+biologically faithful, digital reconstructions 
+of the rodent brain and ultimately the human 
+brain. BBP scientists run simulations to 
+better understand the chain of events 
+responsible for the brain’s behaviors at 
+different organizational levels up to and 
+including cognition. Under the 2017–2020 
+strategy, the BBP focused on developing 
+tools and methods for reconstructing 
+and simulating individual and multiple 
+interconnected brain regions, all the way 
+to the thalamo-neocortical system of the 
+mouse. The first BBP translational spin-
+off was created during this period and its discoveries were disseminated to the wider 
+scientific community. An independent 
+review conducted by renowned scientists 
+in 2018 commended the BBP’s unique 
+research capabilities and advancements. 
+Under the 2021–2024 strategy, the BBP’s 
+main research goals will be to develop (i) the 
+first cellular-level detailed reconstruction 
+and simulation of an entire mouse brain; 
+(ii) a neocortical microcircuit complete with 
+blood vessels, glial cells and molecular 
+interactions; and (iii) a second draft of the 
+neocortical microcircuit of the human 
+brain at the cellular level. These goals are 
+41
+EPFL 2021–2024 Strategic Plan within reach for the first time thanks to 
+general advancements in computing, new 
+pioneering methods for reconstructing and 
+simulating brain tissue and data that have 
+been made available by global initiatives 
+such as the Allen Institute for Brain Science. 
+Specifically, BBP scientists will work to 
+mathematically predict complex datasets 
+for less-studied brain regions, scale 
+up their processes and computational 
+capabilities to model the entire mouse 
+brain, and expand their international 
+research partnerships to study the human 
+neocortical microcircuit and coordinate 
+some of the most informative experiments 
+on human brain tissue. 
+As part of the BBP , we also plan to create 
+the Swiss Brain Observatory, an integrated 
+platform of software and processes to 
+provide “neuroscience simulation as a 
+service” for major brain-research initiatives 
+such as the EU Human Brain Project and 
+the US Brain Initiative. The Observatory 
+will be supported by joint R&D programs 
+between universities and businesses, 
+including programs for joint modeling and 
+simulation and for coordinated learning 
+opportunities for researchers and students 
+(such as through MOOCs and summer schools). The Observatory will also conduct 
+outreach activities for the general public. By 
+providing the capacity to integrate diverse 
+data sources across several scales, the 
+Observatory will be a strategic resource for 
+the Swiss neuroscientific, pharmaceutical 
+and medtech industries. One near-
+term goal will be to launch a spin-off for 
+developing virtual prototyping systems for 
+neurotech devices.
+To fully exploit synergies between BBP 
+and the other EPFL neuro partners and to 
+provide a national service in computational 
+neurosimulation, we will integrate BBP into 
+EPFL under the 2021–2024 strategy, so as to 
+i) continue the construction of an integrated 
+value chain from theoretical neuroscience 
+to neurobiology, neuroengineering, 
+clinical translation and tech transfer, and 
+to 2) provide and maintain a platform - 
+ideally together with CSCS and SDSC - of 
+outstanding and transformative simulation 
+of the brain. Our goal for BBP is that, at the 
+conclusion of its scientific journey, it will 
+not only have delivered to its full ability on 
+its ambitious goals, but also have nurtured 
+further and longer-lasting impact through a 
+cohesive community.
+8.3. SWISS PLASMA CENTER
+The Swiss Plasma Center’s main goals 
+under the 2021–2024 strategy will be to 
+contribute to the success of the ITER 
+program, establish the physics and 
+technology behind the DEMOnstration 
+power station and demonstrate the 
+feasibility of using fusion energy for 
+peaceful purposes and for supplying the 
+power grid. These goals are in line with 
+the European Research Roadmap to the 
+Realisation of Fusion Energy, which is 
+being implemented by Euratom through 
+the EUROfusion consortium (to which 
+EPFL belongs). Assuming that Switzerland remains a Euratom member under the 
+next European Framework Programme, 
+then EPFL – and more specifically, our 
+Swiss Plasma Center – will play a key 
+role in EUROfusion, in particular through 
+the variable configuration tokamak (TCV), 
+which is one of the few specific facilities 
+necessary for the implementation of the 
+Roadmap.
+In previous years, we conducted general 
+improvements to the Swiss Plasma 
+Center’s facilities, including targeted 
+upgrades to the TCV (which were funded by 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneEUROfusion and an ETH Board grant) and 
+adaptations to the associated equipment to 
+support the increasing fusion power of TCV 
+plasmas. Now that those improvements 
+have been completed, in 2021–2024 we 
+will fully exploit the enhanced capabilities 
+of both the TCV and smaller-scale plasma 
+devices to address key areas of the 
+Roadmap.
+Engineers at the Swiss Plasma Center will 
+combine plasma theory with computer 
+simulations and experiments on both 
+the TCV and basic plasma devices. 
+They will focus on issues where a lack 
+of understanding of the fundamental 
+mechanisms at work is hampering our 
+ability to model, operate and improve 
+reactors. The experimental findings will be 
+used to outline strategic priorities for further 
+research through projects necessitating 
+use of the TCV.
+Finally, the Swiss Plasma Center will work 
+to promote plasma technology transfer, 
+spin-offs and cross-disciplinary R&D. We 
+will study the environmental and societal 
+applications of plasma technology – such as 
+plasma-aided agriculture, sterilization and 
+plasma medicine – in association with local 
+businesses and life-science researchers. 
+We will also use low-temperature plasma 
+devices to optimize plasma sources, such 
+as for advanced particle accelerators.
+© Olivier 
+Christinat / EPFL
+43
+EPFL 2021–2024 Strategic Plan 
+9. SCHOOLS AND COLLEGES
+9.1.  ENAC - SCHOOL OF ARCHITECTURE, CIVIL AND 
+ENVIRONMENTAL ENGINEERING
+MISSION
+ENAC is EPFL’s school focuses specifically 
+on sustainability in the natural and built 
+environments, with activities spanning 
+all three of EPFL’s missions: research, 
+education and innovation. As a school 
+of architecture, civil engineering and 
+environmental engineering, ENAC 
+leverages EPFL’s status as a cutting-edge engineering school to develop scientific 
+responses to today’s environmental and 
+societal challenges. We aim to design 
+innovative, sustainable processes and 
+methods and equip engineers with the 
+knowledge, skills and tools they will need 
+to spearhead future developments.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneMAJOR CHALLENGES
+Rapid changes to our planet’s environment 
+– driven by urban population growth, 
+resource scarcity and climate change – are 
+giving rise to an array of challenges whose 
+ramifications will become increasingly 
+evident in the upcoming decades. To 
+address the threats caused by the climate 
+crisis, urbanization and our increasingly 
+fragile ecosystems, universities need 
+to give architects, civil engineers and 
+environmental engineers insight into 
+the role they can play in transforming 
+disciplines and developing cross-cutting, 
+inclusive visions and solutions, operating 
+as catalysts for the “socio-ecological 
+transition” that must happen to sustain life 
+on earth.
+ENAC is well-positioned to address 
+these challenges. Through our solid 
+technological background, we showcase 
+how technology can serve as a mediator 
+between humanity and the built and 
+natural environments. Importantly, this 
+gives our students and faculty myriad 
+opportunities to explore the scientific, 
+cultural and human aspects of our 
+relationship with these environments.  
+STRATEGIC RESEARCH AREAS 
+A. Climate-change anticipation, 
+mitigation and adaptation
+• Spearheading EPFL’s climate research: 
+In association with the Faculty of 
+Geosciences and Environment at the 
+University of Lausanne (UNIL), we have 
+started to set up a joint EPFL-UNIL 
+research center for action on climate 
+change, called CLIMACT. The goal is 
+to promote knowledge sharing and 
+innovation for the evidence-based 
+transformation of the ways in which 
+our society functions and consumes 
+resources in today’s rapidly changing world. ENAC will contribute to leading 
+the center jointly with UNIL, embarking 
+colleagues from the other faculties 
+and colleges, thus, drawing on EPFL’s 
+broad skills in climate change and 
+technology and pooling them with 
+UNIL’s complementary expertise. 
+•  Providing a testbed for research and 
+development: We will develop a testbed 
+for systems designed to model, 
+mitigate and counter the causes and 
+impacts of climate change. The testbed 
+will allow engineers to transition from 
+the simulation to the proof-of-concept 
+stage of their projects through iterative 
+feedback loops. The testing facilities 
+will include mountain environments 
+and urban areas and will provide a living 
+laboratory covering a wide range of 
+environmental conditions. The findings 
+will help engineers evaluate tradeoffs 
+among the critical factors of air, water, 
+energy, food and health. 
+• Modeling and adapting to climate 
+change: We will leverage our testing, 
+technological and modeling capabilities 
+to assess and predict changes to the 
+natural environment across a range of 
+climate and geographical conditions. 
+We will step up our work in developing 
+adaptation strategies for climate 
+change through cross-disciplinary 
+programs that cut across EPFL’s 
+schools and educational levels.
+• Developing climate change mitigation 
+technology: Negative Emission 
+Technology (NET) is technology that 
+directly removes and sequesters 
+CO2 from the atmosphere. ENAC in 
+collaboration with other faculties at 
+EPFL will explore potential applications 
+for NET in the areas of carbon 
+mineralization, enhanced weathering 
+and next-generation membranes (e.g., 
+new materials for separating CO2 from 
+air).
+45
+EPFL 2021–2024 Strategic Plan B. Digitalization of infrastructure and 
+cities 
+• Enhancing our computational and 
+integrative data-driven capabilities: 
+Professionals in all three ENAC fields 
+– architecture, civil engineering and 
+environmental engineering – are facing 
+an almost insatiable need for big-data 
+analysis capabilities. The challenge 
+they face is turning reams of data into 
+actionable knowledge. We plan to 
+shore up our strengths in data science 
+by hiring faculty with backgrounds in 
+specific fields as well as data science, 
+and by conducting cross-disciplinary 
+research with other EPFL schools. 
+• Developing sensing and actuation 
+technology for the optimized design 
+and use of infrastructure: We will make 
+next-generation sensor technology 
+available at several different spatial 
+and time scales, enabling engineers 
+to better design and build large sensor 
+networks that can generate data at 
+exponential growth rates. We will also 
+increase our ability to design, develop 
+and deploy multimodal sensor and 
+actuation systems at different scales, 
+so that they can be used to automate 
+and improve existing methods for 
+infrastructure design and use. 
+• Adding simulation layers to digital twins 
+for infrastructure design, operation 
+and maintenance: To help engineers 
+factor uncertainty and risk analyses 
+into their decision-support models, 
+we will assess and explore the utility 
+of analytical tools such as artificial 
+intelligence, optimization, data analysis 
+and mathematical modeling.
+• Designing with resource constraints 
+and radically rethinking existing 
+construction methods: In the 
+built environment, constraints on 
+resources require a radical rethinking of construction methods and the 
+associated skills. We will contribute 
+to these efforts by (i) assessing and 
+minimizing the ecological impact of 
+the built environment in terms of CO2-
+footprint and global environmental cost, 
+(ii) developing new concepts for the 
+use of recycled components through 
+advances in digital design and digital 
+fabrication, and (iii) employing new 
+materials with improved environmental 
+footprints and life cycles.
+C. Sustainable urban development 
+• Strengthening our expertise in 
+sustainable urban development: We 
+will build new laboratories to study 
+emerging horizons in the field of 
+sustainable urban development, with 
+a focus on modern concepts such as 
+the carbon-neutral circular economy, 
+sustainable urban metabolism, life-
+cycle and risk analyses, shared and 
+on-demand transportation systems, 
+and distributed energy systems and 
+networks. 
+• Supporting integrative, systemic urban 
+development: Using a systems-of-
+systems approach, we will develop 
+new, human-centric transportation and 
+housing paradigms for highly populated 
+urban areas and their suburbs. This 
+systems-driven approach will help 
+engineers manage small- and large-
+scale parallel networked systems using 
+a combination of flexibility, cooperation 
+and collaboration. 
+• Linking technology at different 
+scales through network analysis 
+and modeling: Sustainable urban 
+development requires efficiently 
+bringing together and acting on 
+knowledge collected across different 
+scales and fields. We will therefore 
+develop and promote multiscale, 
+multimodal views of urban systems and 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausannethe corresponding structures and flow 
+mechanisms (e.g., flows of microbes, 
+energy and humans), including 
+for large networks with numerous 
+interconnected infrastructure systems 
+and subsystems. 
+• Transforming regions by reshaping 
+the links between urban and rural 
+areas: The boundaries between urban 
+and rural areas are blurring, requiring 
+policymakers to reconsider existing 
+methods for producing food and 
+ensuring public health. We will help 
+policymakers navigate these changes 
+by developing new approaches and 
+strategies for implementing targeted, 
+well-informed and proactive measures. 
+This will entail modeling and analyzing 
+the effects of land-use changes on 
+factors such as urban heat, urban 
+ecology and urban agriculture. 
+D. Technology for basic utilities 
+• Leveraging synergies in technology 
+development: EPFL has extensive 
+technology-related expertise in areas 
+such as image and signal processing, 
+control systems, robotics, machine 
+learning, data analysis, energy systems 
+and large-scale computing under 
+uncertainty. At ENAC, we will explore 
+new research avenues and promote 
+translational research in a variety of 
+applications by partnering with other 
+EPFL schools in research projects and 
+cross-school professorships.
+• Driving the shift towards energy self-
+sufficiency and carbon-neutrality: 
+We will continue to lead efforts in 
+the development and evaluation of 
+distributed energy systems (using 
+hydro, wind, geothermal and solar power), as well as energy-efficient 
+systems for the construction and 
+operation of infrastructure. We will also 
+support the societal transformations 
+that are needed to shift to a balanced 
+urban metabolism and a circular, 
+zero-carbon society. Through our 
+involvement in EPFL’s Energy Center, 
+we will play an active role in achieving 
+EPFL’s energy and sustainability goals.
+• Developing improved systems for 
+sustainable water management: Many 
+water treatment plants in Switzerland 
+must be upgraded by 2040, requiring a 
+total investment of some CHF 1 billion. 
+We are working with Eawag to update 
+our degree programs (e.g., such as by 
+hiring joint ENAC-Eawag professors) 
+with the ultimate goal of helping 
+water treatment plants maximize their 
+return on investment. We will give 
+engineers advanced training in water 
+management systems, so that they 
+can develop new water treatment 
+technology and processes. Our efforts 
+will focus in particular on the utility and 
+innovation potential of emerging fields 
+such as sensors, big data and AI.
+• Anticipating new transportation 
+technology: Technological advances 
+in fields such as autonomous vehicles, 
+electrification and shared vehicle 
+platforms are profoundly changing the 
+structure of transportation services. 
+City officials would like to make 
+their transportation systems more 
+predictable and controllable through 
+the better use of existing capacity and 
+resources. We are supporting these 
+efforts by developing, modeling and 
+assessing new modes of transportation 
+and how they can be incorporated into 
+existing systems. 
+47
+EPFL 2021–2024 Strategic Plan EDUCATION
+We will review our existing degree programs 
+to make sure they are fully aligned with 
+future technological and societal needs. 
+Our goal is to train engineers and architects 
+who excel in their fields and are capable 
+of working effectively with professionals 
+from other fields to address sustainability 
+challenges. This capacity for cross-
+disciplinary collaboration will be essential 
+for ongoing innovation. Under the 2012–
+2024 strategy, our efforts to update our 
+degree programs will focus on:
+• New minors: We will look into creating 
+minors in three of our strategic research 
+areas: climate change anticipation, 
+mitigation, and adaptation; digitalization 
+of infrastructure and cities; and 
+sustainable urban development. The 
+minors will be housed within individual 
+ENAC sections and touch on all three 
+ENAC disciplines (and potentially other 
+fields as well). We plan to partner with 
+UNIL for the climate minor and with 
+other EPFL schools for classes in 
+digitalization and artificial intelligence.
+• The Design Together program: 
+we will enhance the curriculum for 
+this program by providing additional 
+opportunities for students from the 
+three ENAC disciplines to work together 
+in classes taught by professors from 
+several different fields (at both the 
+Bachelor’s and Master’s level).INNOVATION
+ENAC’s areas of research are intrinsically 
+relevant to today’s key societal challenges. 
+Our pioneering research gives rise to 
+innovative solutions for addressing 
+societal, environmental and technological 
+issues, helping to further progress on 
+sustainable development and climate-
+change mitigation. We will expand our 
+support for innovation and technology 
+transfer by giving researchers easier 
+access to the resources provided by the 
+Vice Presidency for Innovation, and by 
+fostering an entrepreneurial spirit across 
+our community. 
+By grouping our research projects into the 
+four strategic areas mentioned above, we 
+will provide clear entry points for businesses 
+and public-sector organizations. This will 
+help create a beneficial feedback loop 
+between the academic and business 
+worlds for technology transfer and private-
+sector funding. Innovation is a pillar of our 
+school and an essential component of our 
+research.
+© Olivier 
+Christinat / EPFL
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne9.2.  IC - SCHOOL OF COMPUTER AND COMMUNICATION 
+SCIENCES
+MISSION
+IC is a world-leading center for education, 
+research and innovation in the computer 
+and communication sciences. We teach 
+the fundamentals and details of an 
+exciting, disruptive field, perform research 
+that pushes the boundaries of knowledge, 
+develop commercial applications 
+for our technology and encourage 
+entrepreneurship by our faculty and 
+students.
+RESEARCH
+Computer science is a rapidly evolving field 
+that has revolutionized many aspects of 
+our daily lives. Apple’s iPhone came out just 
+12 years ago, WhatsApp just ten years ago, 
+and deep neural networks just seven years 
+ago. Data science has also developed 
+exponentially during this time. These 
+technological advances – which build on 
+many years of computer science research 
+– are milestones along a path, not the end 
+of a journey. Many challenging theoretical 
+and practical problems remain unsolved. 
+We still do not know, for example, how to 
+write foolproof software, build trustworthy 
+systems, learn from examples reliably 
+or optimize many other fundamental 
+mechanisms. At the same time, exciting 
+new research fields and applications are 
+emerging. Computer scientists in general, 
+and those at IC specifically, are having to 
+balance the competing demands of solving 
+known problems and directing their efforts 
+towards making new discoveries.
+We already have a good idea of what 
+the next step will be in the technology-
+driven revolution: building increasingly 
+sophisticated systems that draw on 
+artificial intelligence, data science and 
+machine learning. These systems will 
+bridge the physical and cyber worlds in new and diverse ways and be capable 
+of actions previously considered to be 
+exclusively human. They will be not just 
+robots, but smart robots and virtual agents 
+capable of learning new assignments while 
+autonomously and continually adapting 
+and improving; not just automated 
+manufacturing systems, but machines 
+that can continuously monitor, adapt 
+and learn while improving complicated 
+manufacturing processes for materials 
+and pharmaceuticals; not just self-driving 
+cars, but regional transport systems that 
+autonomously move people and goods 
+seamlessly through Switzerland; not just 
+the web, but “time machines” that integrate 
+and animate historical information. 
+None of these can be built with the current 
+state of the art, and all require advances in 
+computer science. EPFL has considerable 
+expertise in many of these areas. At IC, 
+we will work with other EPFL schools to 
+provide technological leadership in the 
+theory and practice of several fields, 
+including machine learning, computer 
+vision, audio-visual processing, speech, 
+natural language processing, artificial 
+intelligence, cyberphysical systems, 
+human-AI collaboration, agents, planning, 
+complex systems, programming models 
+and tools, software verification, security, 
+trustworthiness and privacy.
+At the same time, the foundations of 
+computer science are shifting. The most 
+evident change is that the 50-year reign of 
+Moore’s law is coming to end, with the rate of 
+increase in processing power slowing over 
+the past few years – at least for silicon-based 
+circuits. However, technology using new 
+materials, quantum physics and biological 
+mechanisms is being developed to solve 
+problems that cannot be solved with existing 
+silicon-based systems and architecture. 
+For instance, quantum computing – which 
+49
+EPFL 2021–2024 Strategic Plan employs a radically different computational 
+model – may yield solutions for important 
+but currently unsolvable problems in 
+optimization, materials design and other 
+areas, while simultaneously driving 
+fundamental changes in cryptography. At 
+the other end of the spectrum, biologically-
+inspired technology shows promise for 
+the design of energy-efficient, robust 
+and failure-tolerant devices, and has the 
+advantage of being able to draw on many 
+different biological mechanisms (such as 
+those used by neurons) as computational 
+models.
+Advances in computer science should also 
+be applied to correct some of the societal 
+problems caused by its past failings, such 
+as the abysmal security of computing 
+systems, pervasive software defects (bugs), 
+disregard for privacy and personal identity, 
+impaired trust in societal institutions and 
+the educational challenges of digitalization 
+and computational thinking. Effective 
+solutions to these problems will benefit 
+society as a whole and will provide a more 
+stable foundation for further discoveries in 
+the field of computing. Intelligent systems, 
+for instance, will face many societal barriers 
+to adoption amid well-founded concerns 
+about their trustworthiness.
+At IC, we are adapting our research to meet 
+these challenges. Our collective focus 
+has expanded beyond the core areas of 
+computer and communications science, 
+and we have formed partnerships with 
+scientists in other fields, colleagues at ETH 
+Zurich and governments and NGOs. In the 
+past five years, we have hired 13 faculty 
+members (including two joint members) 
+and opened four R&D centers: the Swiss 
+Data Science Center (SDSC), the Scala 
+Center, the Center for Digital Trust (C4DT) 
+and LEARN. We have just opened a fifth, 
+the Center for Intelligent Systems.
+But this is not enough: we need to expand 
+our school as a whole. At the end of 2018, we had 44 faculty members but only 39.75 
+FTEs (since two professors also serve as 
+full-time EPFL administrators). While this 
+is two FTEs more than we had in 2013, the 
+number of entering undergraduate students 
+rose by 51% over that same period, and 
+the total number students rose by 20%. 
+Top computer science departments in 
+the US grew far more rapidly as a result of 
+higher enrollment, and most are now 50% 
+larger than IC. At the same time, computer 
+science as a field is expanding to include 
+a variety of connected research areas. 
+Most salient of these are data science and 
+machine learning, which are emerging as 
+fundamental methods applicable to most 
+areas of research and to many industries. 
+It is hard for a school like IC to hire faculty 
+in these new areas because of competition 
+from other universities and industry. 
+However, we must step up our efforts to do 
+so – not just in machine learning and data 
+science, but also in closely linked fields 
+such as computer vision, natural language 
+processing, speech and robot planning.
+Some of our faculty positions will be 
+renewed through retirement. Eight 
+professors will reach retirement age 
+between 2021 and 2024, or around 20% 
+of our total faculty. While we will certainly 
+feel the loss of these colleagues, it also 
+means that we will be able to redirect 
+some of our resources to other disciplines, 
+for the benefit of both IC and EPFL. But 
+redirecting even half of those resources will 
+not be enough to build a strong, diversified 
+research group (3–4 professors) in more 
+than one fundamental area. Moreover, 
+renewing our faculty addresses only the 
+shift in research areas, it does not resolve 
+the issue of increased student enrollment.
+Another goal at IC will be to initiate larger, 
+more ambitious research programs. Our 
+research is currently performed mainly 
+through small projects, typically funded 
+and staffed by a single laboratory. This is a 
+proven approach to research and is in line 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausannewith many faculty members’ preferences. 
+However, large projects involving 
+researchers from several fields can address 
+more important, challenging and visible 
+problems – and consequently attract more 
+funding and increase our school’s visibility 
+and impact. IC projects that have played 
+this role in the past include NCCR Mobile 
+Information and Communication Systems 
+and Nano-Tera. Going forward, we need 
+to cultivate more ambitious projects at IC, 
+at scales all the way up to that of NCCR. 
+This will allow us to conduct more joint 
+research with other fields and increase our 
+visibility. One important vehicle for cross-
+disciplinary R&D is the new Center for 
+Intelligent Systems, but we also need to 
+take the lead in initiating programs in other 
+areas of importance to computer science.  
+EDUCATION
+Computer science is attracting a growing 
+number of undergraduate and Master’s 
+students. Undergraduate enrollment has 
+more than doubled in the past decade. 
+When our school was created, we had 25 
+students (all levels) per FTE faculty member. 
+That number is now 42 – the highest 
+at EPFL. We teach many of the largest 
+courses on campus as well. While we 
+have not significantly increased our faculty 
+over that period, we have introduced two 
+new Master’s programs (in data science 
+and cybersecurity) that address important 
+technological and societal issues and offer 
+excellent job prospects for students.
+Another challenge we face, in addition 
+to serving a growing number of students 
+with limited resources, is the need to forge 
+ties with other disciplines. Conceptual 
+methods and discoveries originating in 
+computer science, especially the method 
+of computational thinking, are increasingly 
+being adopted by other fields. We started 
+offering an introduction to computational 
+thinking class for all EPFL students over six years ago, and this class has been highly 
+popular. The next step will be to extend this 
+approach to equip students with robust 
+skills in not just data science, but the life 
+sciences as well (for example), so that they 
+acquire the field-specific knowledge and 
+analytical techniques necessary to solve 
+complex problems in industry.
+We are in the process of reviewing certain 
+aspects of our curriculum. For example, 
+our undergraduates currently take up to 
+eight classes per semester after their 
+first year. By contrast, their counterparts 
+in the US take fewer classes, but each 
+class covers the material in more detail. 
+We are also reviewing the way we divide 
+up our undergraduate sections – into 
+computer science and communication 
+systems – since communication systems 
+is not a field that high-school students are 
+familiar with. In our school, communication 
+systems cover the more theoretical and 
+mathematical subjects of computer 
+science, with a 75% overlap in course 
+requirements. Making this distinction more 
+explicit might simplify matters for students.
+Another priority is to create identifiable 
+minors for Master’s students so that they 
+can follow tailored study programs with 
+clear endpoints. The alternative – creating 
+new Master’s degrees in data science 
+and cybersecurity, for example – would 
+be administratively time-consuming and 
+problematic, especially in such a rapidly 
+changing field. In addition, students need 
+guidance in putting together coherent study 
+programs. We are therefore considering 
+the minors as a way to adapt our Master’s 
+programs and encourage specialization.
+Emerging fields such as intelligent 
+systems and education technology would 
+also benefit from distinct programs at 
+both the undergraduate and PhD level. We 
+recently opened the Center for Intelligent 
+Systems through a joint effort with other 
+EPFL schools; this Center will probably 
+51
+EPFL 2021–2024 Strategic Plan evolve into a research institute with its 
+own Master’s and PhD programs. We also 
+have other important initiatives under way, 
+such as in education technology, to attract 
+the resources we need to create satellite 
+programs. 
+IC is also heavily involved in educational 
+outreach programs for primary and 
+secondary schools. The programs are 
+designed to help these schools develop 
+intellectually stimulating computer science 
+classes for young students. The goal is to 
+give students more insight into the field and 
+help address the challenges of digitalization 
+in Switzerland. We are in talks with local 
+education officials about using our materials 
+to train teachers and develop guidelines 
+for primary and secondary schools so 
+that they can create age-appropriate 
+computer science classes. At EPFL, we 
+offer a computer science class to first-year 
+students that provides an intriguing yet 
+rigorous look at the underlying concepts.  
+INNOVATION
+Our school engages closely with the 
+global technology industry through an 
+array of joint research programs with 
+major multinationals including Google, 
+Microsoft, IBM and Intel. Swiss companies are generally consumers of technology 
+more than producers, and many of our 
+joint ventures with local companies are 
+either spin-offs or agreements to develop 
+and market technology resulting from IC 
+research.
+Our R&D centers – EcoCloud and the 
+more recent SDSC, Scala, and C4DT – 
+take a proactive role in collaborating with 
+both Swiss and international companies. 
+EcoCloud has broad industry support and 
+has transferred technology to many IT and 
+data-hosting companies. C4DT shares its 
+digital trust platform with more than a dozen 
+firms, developing new products that use 
+blockchain and data-security technology 
+developed by our engineers. Scala 
+supports the continued development of 
+the popular Scala programming language, 
+which was created at IC, in association 
+with the multinationals that use it. And our 
+EdTech Collider currently hosts 76 startups 
+in the field of educational technology.
+We believe that our school’s new research 
+orientations will give rise to innovative local 
+businesses that will market the technology 
+developed at our labs. These businesses 
+will provide further opportunities for joint 
+research and benefit Switzerland as a 
+whole.
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanne9.3.  FSB - SCHOOL OF BASIC SCIENCES
+MISSION
+FSB conducts cutting-edge research 
+and provides world-class educational 
+programs in chemistry, chemical 
+engineering, mathematics and physics. 
+We give students a strong foundation in 
+these fundamental sciences and prepare 
+them for fulfilling careers in business and 
+academia. The research performed at our 
+school is both collaborative and cross-
+disciplinary, and pushes the boundaries of 
+existing knowledge. 
+RESEARCH
+There is no leading university worldwide 
+without substantial strength in the 
+fundamental sciences. These sciences 
+are characterized by curiosity-driven 
+research that is fueled by scientists’ 
+imagination and creativity. At the same 
+time, much groundbreaking research in 
+the fundamental sciences is inspired by a 
+desire to develop important applications, 
+to better understand the world around us 
+and to find answers to the challenges of 
+modern society.
+Research in the fundamental sciences 
+often shows its value on a much longer 
+time scale than for the applied sciences 
+and engineering. Therefore, to advance the 
+fundamental sciences at EPFL, we should 
+focus not on current topics or trends, but 
+rather on areas of strength and initiatives 
+that attract the most creative, innovative 
+students and researchers. This includes 
+offering conditions and opportunities that 
+allow them to pursue long-term research 
+efforts in a strong collaborative and 
+interdisciplinary spirit.
+This focus on excellence permeates FSB, 
+which is consistently ranked as the best 
+school at EPFL. However, maintaining this position and further expanding our 
+capabilities will require growing our school 
+in different ways. Compared with most other 
+similar schools around the world, the three 
+institutes at FSB – Chemical Sciences and 
+Engineering (ISIC), Mathematics (MATH) 
+and Physics (IPHYS) – are small and have 
+experienced only limited growth during 
+this decade of substantial expansion at 
+EPFL as a whole. That is beginning to 
+affect our research and education and 
+should be addressed through targeted 
+growth initiatives in priority areas. One 
+opportunity to refocus our scientific efforts 
+will come with the retirement of more than 
+20 professors during the next five years. 
+However, this will not address the more 
+basic issue of how to better serve the 
+rapidly growing student population at EPFL 
+and how we can spearhead more large-
+scale, collaborative flagship projects.
+Breakthroughs in the fundamental sciences 
+often occur at the crossroads of two or 
+more traditional fields or by combining 
+traditionally disparate methods within the 
+same fields. Therefore, we must prioritize 
+the hiring of individuals who adhere to such 
+a collaborative, dynamic approach, and we 
+should facilitate their efforts by creating 
+an environment that provides the right 
+intellectual support and research facilities. 
+Our most pressing societal problems 
+cannot be solved within a single school or 
+research institute, but rather require broad 
+cross-disciplinary collaboration – and this 
+is where FSB can play an important role. 
+In addition to the EPFL-wide research 
+centers that we already participate in, such 
+as the Center for Intelligent Systems, we 
+also play a leading role in large national 
+and international projects like NCCR and 
+several EU Flagship programs. Historically, 
+both ISIC and IPHYS have been involved in 
+such efforts, but there is scope for greater 
+involvement, especially by MATH.
+53
+EPFL 2021–2024 Strategic Plan Chemistry
+There is a revolution underway in the field of 
+chemistry as science and technology move 
+to the atomic scale across applications – from 
+pharmaceuticals and computing to precision 
+manufacturing. This paradigm shift is fueling 
+demand for new types of compounds and 
+materials. At the same time, chemists are 
+applying some of the advanced methods 
+being developed in computer science to 
+chemical processes, resulting in completely 
+new approaches to understanding complex 
+systems. This has spurred the rapid 
+development of physical methods for atomic-
+level analyses, as well as the use of computer 
+modeling as an accurate, efficient method 
+for discovering new functional compounds 
+and materials. These tools are enabling 
+scientists to develop innovative solutions 
+to challenges in natural and synthetic 
+chemistry. Technological advances in high-
+level instrumentation, large-scale facilities 
+and high-performance computing – which 
+have traditionally been oriented towards 
+physics and structural biology – are now 
+also transforming chemistry, with the advent 
+of high-resolution electron microscopy, 
+ultra-high field NMR spectroscopy, second-
+generation synchrotrons, and X-Ray free 
+electron lasers.
+Applications in renewable energy and 
+storage, sustainable chemical production 
+and next-generation therapeutics are seeing 
+major societal demand for new chemical 
+compounds. Chemists are working to 
+address these challenges, especially in 
+emerging fields like atomic-level precision 
+engineering, atomic-level materials 
+science and new chemical functionalities. 
+Recent developments in computing power, 
+characterization, nanoscience and synthetic 
+biology have enhanced chemists’ ability 
+to observe, predict and control molecular-
+level structures in complex architectures. 
+Ongoing advances in computing speed and 
+machine learning will further transform the 
+fields of chemistry and chemical process 
+development.Under the 2021–2024 strategy, we will 
+aim to establish an EPFL-wide research 
+center on metal halide perovskites to build 
+on EPFL’s unique standing and recent 
+achievements.
+Mathematics
+The field of mathematics has always 
+been driven by both internal dynamics 
+and developments in the fields where it is 
+applied. However, the previous tendency 
+towards fragmentation in this field is being 
+replaced by a trend towards convergence. 
+Pure and applied mathematics are 
+converging to an increasing extent and 
+interfacing with new research areas. As 
+a result, when hiring new professors, our 
+school should focus on broad excellence 
+(as opposed to narrowly defined skill sets) 
+and seek candidates who can forge ties 
+both within and outside mathematics.
+Although MATH is smaller than most 
+universities’ mathematics departments, it 
+has a solid reputation internationally and 
+is well known in a number of areas, such 
+as computational mathematics, algebra, 
+algebraic/arithmetic aspects of geometry, 
+and probability. In addition, recent hires into 
+our faculty have bolstered our capabilities 
+in data science. However, MATH still has 
+minor weaknesses, primarily in three 
+areas: analysis and analytical aspects 
+of geometry, discrete mathematics and 
+statistics. These areas will be a priority for 
+hiring under the new strategy.
+MATH scientists are poised to establish 
+meaningful contacts in applications such 
+as quantum computing, big data, machine 
+learning, imaging, complex systems, 
+materials, physics and neuroscience. They 
+are also in talks to create joint positions to 
+strengthen ties across EPFL.
+We are working on plans to revamp our 
+statistics department with additional 
+research and education partnerships 
+across EPFL as well as a new statistical 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneconsulting platform for engineers involved 
+in statistical design, experimentation and 
+analysis. At the same time, we will increase 
+the Bernoulli Center’s visibility within EPFL. 
+The center is of notable strategic interest for 
+EPFL, as it is on par with its counterparts at 
+top mathematics departments elsewhere. 
+We intend to broaden the center’s scope 
+and capacity to include theoretical physics 
+and computer science.
+Physics
+Our physics department is at a turning 
+point since many professors will be retiring 
+in a short timeframe. This will give us an 
+opportunity to build up our strengths and 
+explore new, promising research directions 
+in association with EPFL professors outside 
+IPHYS and FSB.
+The field of quantum science and 
+technology is growing rapidly with 
+discoveries that will affect society in the 
+near future. And although we have several 
+outstanding faculty members in this field, 
+EPFL is not yet an established leader. 
+Therefore our top priority at IPHYS is to 
+increase our skills in this area, especially in 
+quantum sensing, to parallel the research 
+being done at ETH Zurich on quantum 
+computing and in Geneva on quantum 
+communications and cryptography. 
+A further goal is to develop strong biophysics 
+research capabilities at IPHYS, separate 
+from those at the School of Life Sciences, 
+that will study the fundamental laws 
+governing the behavior of living systems 
+at different levels. This aligns well with the 
+Imaging@EPFL and Health Sciences and 
+Technology strategic research areas.
+Another area where IPHYS is particularly 
+strong is condensed matter physics. In the 
+past, this type of physics has been used to 
+develop semiconductor heterostructures 
+and quantum photonics, but today the focus 
+is shifting towards new low-dimensional 
+materials, nano applications and magnetic systems. We will issue a call for proposals 
+in ultrafast X-ray technology for a project 
+involving SwissFEL (at the Paul Scherrer 
+Institute).
+As a founding member of the LHCb project 
+group at CERN, EPFL is playing an important 
+role in experimental high-energy physics. A 
+second phase of the LHCb project will begin 
+in 2021 with an upgraded testing program. To 
+maintain our leadership role in this field, we 
+will expand our capabilities in high-energy 
+physics with a particular focus on muons 
+and neutrons. In experimental astrophysics, 
+EPFL currently plays a minor role since we 
+have only one chair. However, we plan to 
+announce a new position in this field given 
+that ETH Zurich will probably scale back its 
+research in experimental astrophysics as 
+part of its restructuring. Depending on whom 
+we select to fill the position, there may be an 
+opportunity to build strong ties with image 
+processing and mathematics.
+Finally, our research efforts in nuclear fusion 
+(at the Swiss Plasma Center) and fission (in 
+association with the Paul Scherrer Institute) 
+are recognized internationally and are of 
+strategic importance in Switzerland. We 
+intend to continue these efforts with the 
+same number of researchers.
+EDUCATION
+The number of incoming students to FSB 
+has grown by nearly 50% over the past 
+ten years. These students are taught 
+in their first year mainly by physics and 
+mathematics professors. However, the 
+number of professors in these fields has not 
+grown in line with the student body; on the 
+contrary, it has remained largely constant. 
+This disparity is severely impacting our 
+professors’ ability to teach more advanced 
+courses. For example, MATH cannot give 
+teaching credits for PhD classes, which is 
+affecting the quality of our doctoral school. 
+In addition, the heavy teaching workload 
+55
+EPFL 2021–2024 Strategic Plan for PhD students makes it difficult to attract 
+the brightest candidates and is becoming 
+an issue during hiring (such as for joint 
+positions). Our doctoral school plans to 
+introduce a pure fellowship program for first-
+year students, similar to what the School of 
+Computer and Communication Sciences 
+and most leading schools in the US already 
+offer.INFRASTRUCTURE
+One of EPFL’s core strengths is our 
+cutting-edge research facilities, and this 
+is especially true for the experimental 
+sciences. However, FSB is located in the 
+oldest building on campus, and this is 
+starting to cause problems. For our School 
+to maintain its scientific excellence, we 
+need a new building designed to high 
+research-oriented specifications (such as 
+for temperature and vibration control). Not 
+having more modern facilities will hamper 
+our ability to grow and conduct advanced 
+research and educational activities, and 
+ultimately to reach our full potential.
+9.4. STI - SCHOOL OF ENGINEERING
+MISSION
+STI’s mission is well-aligned with the 
+core values of the ETH Domain. It entails 
+educating well-rounded students and 
+preparing them for careers in business 
+and academia, fueling new research 
+discoveries in engineering, promoting 
+technology transfer, adopting innovative 
+approaches to engineering education, and 
+developing engineering-based responses 
+to key societal challenges. 
+We are carrying out this mission in a 
+climate of rapid, even disruptive change 
+in all engineering disciplines. As a result, 
+we are continuously looking to enhance 
+how we perform our research, educate our 
+students, and interact with industry and 
+society at large. Our ambition is to position 
+STI among the top ten programs worldwide 
+in engineering prominence.Our strategy for achieving this goal is based 
+on three objectives: 
+1. Given the size of our school, we plan 
+to focus our efforts on excellence in 
+key strategic areas. We cannot afford 
+to spread our resources too thin and 
+become a marginal contributor to 
+engineering discoveries. 
+2. We should maintain our strengths in 
+core engineering fields. This is because 
+strong fundamentals are the real drivers 
+of confidence, creativity and innovation.
+3. Successful engineering schools are 
+those that make major contributions to 
+solving societal problems. STI should 
+therefore continue to play a leading role in 
+technology transfer, forge close ties with 
+industry and contribute to advances in 
+the life and social sciences, sustainability, 
+security and automation.  
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de LausanneSTRATEGIC RESEARCH AREAS
+Driven by the above considerations, and 
+building on the strengths of the EPFL 
+ecosystem, STI has identified six strategic 
+research areas where we can make an 
+impact in terms of research, education 
+and innovation: (i) Engineering in the Life 
+and Health Sciences; (ii) Engineering 
+for a Sustainable and Secure Society; 
+(iii) Engineering for a Data-Driven and 
+Networked Society; (iv) Engineering of 
+Complex and Intelligent Systems; (v) 
+Innovation in Engineering Education; and (vi) 
+Engineering Entrepreneurship, Ethics and 
+Societal Impact. They all aim to address the 
+transformational changes arising from the 
+accelerated convergence of electronics 
+and biology/medicine, the blending of the 
+physical and virtual worlds, the emergence 
+of data-driven and networked societies and 
+a shift towards smart automated systems 
+and renewable resources, energy and 
+materials. Our strategic research areas are 
+purposely stated in broad terms to pave 
+the way for joint programs with other EPFL 
+schools, as explained below, and with the 
+broader ETH Domain. . 
+Engineering and Life Sciences
+The fields of engineering and life science 
+are merging as researchers develop 
+increasingly miniaturized and invasive 
+devices for probing and interacting 
+with living cells. These technological 
+advancements will drive new scientific 
+discoveries and treatment possibilities. 
+As a result, there are ample opportunities 
+for STI to conduct joint research with the 
+School of Life Sciences. We are already 
+working with that school to expand our 
+two joint research centers: the Center 
+for Neuroprosthetics and the Institute of 
+Bioengineering. We are also coordinating 
+our research efforts in neuro-engineering 
+and neuro-technology.
+Going forward, we need to step up our 
+activities in key supporting areas such as brain-machine interfaces, biomedical 
+robotics, intelligent bio-instrumentation, 
+engineered living systems and integrated 
+biosensors and bioelectronics. The first 
+two areas involve developing assistive 
+technology so that patients can interact with 
+their surroundings, such as by using personal 
+rehabilitation devices. The third area looks at 
+building autonomous robotic microscopes 
+that combine physical methods, biological 
+models and machine intelligence to 
+maximize image quality. The fourth area 
+harnesses living organisms’ precision 
+synthesis and manufacturing capabilities 
+at different levels (molecular, cellular 
+and tissue) to construct sophisticated, 
+functional mini-tissues or mini-machines 
+outside the body. Discoveries in this area 
+could lead to new frontiers in medicine and 
+manufacturing. All these research areas are 
+highly interdisciplinary, drawing on skills from 
+bioengineering, biology, chemistry, materials 
+science, mechanical engineering, electrical 
+engineering and computer science.
+Engineering and Computer and Basic 
+Sciences
+The merging of the virtual and physical 
+worlds is driving the development of 
+wearable technology, smart devices, 
+augmented reality and intelligent systems. 
+Autonomous systems are a key enabler 
+for these developments, which are 
+expected to have profound implications on 
+transportation, commerce, employment, 
+healthcare and manufacturing. A new 
+paradigm will emerge of interconnected, 
+intelligent systems with a “mind” of 
+their own. This will require new forms 
+of engineering and therefore new 
+approaches to engineering education, 
+in order to design intelligent machines 
+that can share the same physical space 
+as humans. To that end, there are ample 
+opportunities for STI to conduct joint 
+research with the School of Computer 
+and Communication Sciences and the 
+School of Basic Sciences. For instance, 
+we already teamed up with these schools 
+57
+EPFL 2021–2024 Strategic Plan to create the Center for Intelligent 
+Systems in 2019. This center looks into 
+the foundations of intelligent systems as 
+well as the associated software, hardware 
+and ethical issues; it also studies cross-
+disciplinary applications in robotics, digital 
+twin systems, bio-inspired intelligent 
+systems and intelligent manufacturing. 
+Going forward, we need to step up our 
+activities in key supporting areas like 
+control and automation, secure hardware 
+design, micro- and nano-sensors, 
+autonomous embedded systems and 
+micro-mechatronic systems. The first area 
+addresses the fundamental technology 
+involved in the design of autonomous 
+and networked systems. The other areas 
+are essential to support the growing 
+importance of the Internet-of-Things (IoT) 
+and intelligent sensor technology for 
+tomorrow’s autonomous systems. These 
+trends are making it crucial for hardware 
+devices to be embedded with advanced 
+security features. By increasing our 
+research efforts in these areas, STI will 
+contribute directly to EPFL’s digital trust 
+initiative and to Swiss national priorities 
+such as cybersecurity. 
+Engineering and Data and Network 
+Sciences
+The rapid growth in data and network 
+sciences, along with advances in machine 
+learning and computing power, are having 
+a major impact on engineering design. 
+This is leading to smart new design tools 
+that exploit the design space more fully. 
+These tools will help engineers discover 
+new materials and processes, design 
+more responsive systems, run advanced 
+manufacturing systems, and perform 
+more sophisticated climate and space 
+analyses. As a result, there are ample 
+opportunities for STI to conduct joint 
+research with the School of Computer and 
+Communication Sciences, the School of 
+Basic Sciences, the Swiss Data Science 
+Center, the Paul Scherrer Institute, EMPA, and the IDIAP Research Institute. We 
+created a new faculty position in data-
+driven engineering design in the 2018–
+2019 school year. Obtaining sufficient 
+faculty expertise in this field is essential for 
+preparing students for impactful careers 
+in a data-driven society where issues like 
+data interpretation, privacy and ethics will 
+become paramount.
+Going forward, we need to step up our 
+activities in the analysis and design of 
+complex and networked engineering 
+systems, circuits and technology for 
+large-scale data processing and for 
+data-enabled materials discovery and 
+synthesis. The first two areas will support 
+the expected rapid development of 
+networked dynamic systems (such as 
+networked robotic systems) and sensor-
+based data collection systems. The third 
+area looks at data-driven approaches to 
+the design, discovery and synthesis of 
+new materials and at the creation of an 
+“internet of materials” that can lead to 
+more sustainable, efficient designs.
+Engineering and Sustainability
+The most imminent challenges currently 
+facing humanity relate to the sustainable 
+use of energy and materials, mitigating 
+climate change and greenhouse gas 
+emissions, reducing waste and pollution, 
+and managing population growth and 
+urban development. This will require 
+redesigning our entire socioeconomic 
+system, which is made up of independent 
+yet highly integrated circular flows of 
+energy, materials, natural resources, 
+products, waste and people. What’s more, 
+these flows are often linked with digital 
+data flows.
+Developing solutions to the aforementioned 
+challenges will require breakthroughs in 
+data science, data-enabled engineering, 
+robotics, machine vision, intelligent 
+and autonomous systems, advanced 
+manufacturing and telecommunications 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausannesystems. Engineers can start by promoting 
+sustainable product design through the 
+use of data analytics to conduct product 
+life-cycle assessments in the early stages 
+of development. Materials science can 
+also provide technological solutions 
+through the development of recyclable, 
+bio-sourced, and bio-degradable plastics, 
+sustainable construction materials (which 
+are otherwise a major source of CO2 
+emissions), materials for benign and 
+sustainable energy storage, photovoltaic 
+materials, gas separation membranes for 
+fuel cell and carbon capture technology, 
+and advanced materials for more fuel-
+efficient transportation systems. 
+Going forward, we need to step up our 
+activities in energy storage, energy 
+science and technology, structural and 
+engineering materials, data-enabled 
+materials discovery and synthesis, and 
+sustainable and circular manufacturing. 
+The first area reflects the growing use of 
+new wireless and autonomous devices 
+to manage energy storage systems. The 
+second and third areas involve designing 
+sustainable materials and processes 
+as well as adaptive and autonomous 
+materials. The fourth and fifth areas relate 
+to manufacturing cycles and sustainability.
+Engineering Education for the Future
+Engineering programs must adapt to the 
+transformations under way in their fields in 
+order to prepare students for successful 
+careers and for the environmental, ethical 
+and privacy issues that will come into 
+play as the world becomes increasingly 
+interconnected. While engineering 
+programs should always provide a strong 
+background in the fundamentals, they 
+will need to be enhanced with classes in 
+computational thinking, complex systems, 
+data and network science, energy, 
+design and the arts. At STI, we intend to 
+raise students’ awareness of the ethical 
+issues related to new technology and the 
+corresponding societal implications. This will be done, for example, through the team-
+oriented design course we give jointly with 
+the College of Management of Technology. 
+Our students’ educational experience 
+will be supplemented with interactive 
+online tools and virtual experimentation 
+and immersion, requiring new skills-
+assessment mechanisms. In parallel, 
+we will give students hands-on training 
+through basic lab classes and projects 
+as well as projects carried out in cross-
+disciplinary teams at the new prototyping 
+and “maker” spaces at the Discovery 
+Learning Laboratories. We will invest in 
+attracting talented students at all levels 
+and have recently introduced a summer 
+internship program for Master’s students 
+to bring highly motivated students to our 
+campus. We also plan to consolidate the 
+number of courses and PhD programs we 
+offer to make them more coherent and 
+attractive.
+Engineering Innovation
+STI is a powerhouse of innovation at EPFL, 
+accounting for close to 50% of all patents 
+submitted by EPFL and close to 50% 
+of all EPFL spin-offs. Our joint ventures 
+with Swiss and international companies 
+continue to thrive, and the size of direct and 
+indirect funding from joint R&D projects 
+has been rising steadily. Despite these 
+positive developments, we still see room 
+for expanding our technology transfer and 
+joint research efforts, given the vibrant 
+innovation ecosystem at EPFL and the 
+broader Lake Geneva region. To that end, 
+we recently created the new position of 
+Associate Dean for Industry and Innovation 
+and will begin systematically identifying 
+unique technology developed at our 
+labs that could either be of interest to an 
+existing business or lead to the creation of 
+a startup.
+We plan to set up mentoring programs with 
+our partner businesses and alumni. Our 
+alumni in particular constitute an important, 
+but largely unexplored resource for our 
+59
+EPFL 2021–2024 Strategic Plan school. We will work with the EPFL Alumni 
+Center to better engage with our alumni, 
+hold events to showcase our school’s 
+developments, and encourage alumni 
+to become involved in networking, fund raising and mentoring activities. We will 
+also hold workshops and special events 
+to promote entrepreneurship among our 
+students.
+ 
+9.5.  SV - SCHOOL OF LIFE SCIENCES
+MISSION
+Research at SV aims to understand 
+the fundamental mechanisms of living 
+organisms and use this knowledge to 
+improve healthcare and medicine and 
+serve society in an ethical manner. 
+Research, education and innovation at 
+our school take place at the crossroads 
+of biology, medicine, physics, chemistry, 
+engineering, computer science and 
+environmental science. We therefore serve 
+as a center of excellence for healthcare 
+and life science at EPFL. In addition, our 
+scientists use quantitative, computational 
+and engineering methods to generate, 
+interpret and use the vast amounts of 
+biological data they collect.  
+CHALLENGES
+One of the biggest challenges our school 
+currently faces is building up expertise 
+in three key areas: the analysis and 
+integration of large biological data sets; 
+the development of predictive models of 
+biological systems; and computational 
+biology in general. 
+In terms of addressing societal challenges, 
+we will further our efforts on the following 
+fronts: understanding brain function and 
+dysfunction linked to diseases and aging; 
+understanding the basic mechanisms of 
+cancer and metastasis; and understanding 
+the importance of metabolism and 
+inflammation in these complex diseases. 
+Research in these areas will build on our ongoing, blue-sky research on the basic 
+mechanisms of life.
+While our school has traditionally focused 
+on mammalian biology and diseases, 
+we plan to expand our research scope to 
+include synthetic biology on single-cell 
+organisms such as bacteria, yeast and 
+algae. This field is highly interesting from 
+an educational perspective, especially 
+for a school that trains engineers in life 
+science. Furthermore, this research could 
+help address major societal issues such 
+as water decontamination and energy 
+production. Finally, research in synthetic 
+biology would bring together scientists 
+from all EPFL schools, especially in the 
+disciplines of chemistry, environmental 
+science, engineering and computer 
+science.
+STRATEGIC RESEARCH AREAS
+Neuroscience and neurotechnology  
+This is a joint research area with the School 
+of Engineering and involves synergies 
+with the Blue Brain Project. One of our 
+key goals here is to develop a common 
+framework spanning neuroscience, 
+neurocomputation, neuroengineering 
+and neurotechnology. Research in this 
+strategic area focuses on the following 
+three applications:
+1. Motor function and dysfunction: This is 
+already an important research topic at 
+EPFL and should be expanded to include 
+the cerebellum, midbrain and brainstem 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneand oriented towards diseases such as 
+Parkinson’s, Huntington’s, spinal muscular 
+atrophy, amyotrophic lateral sclerosis and 
+other motor neuron diseases.
+2. Cellular and molecular neuroscience: 
+While this is likewise already an important 
+research topic at our school, it will be 
+expanded to include dendritic integration, 
+synaptic plasticity, neuromodulation and 
+the development of new genetic animal 
+models of brain disorders (including 
+motor disorders).
+3. New neuroscience technology: We are 
+working to develop new technology that 
+allows scientists to observe brain function 
+in greater detail. This technology could 
+include advanced methods for in vivo 
+imaging, genetically-encoded optical 
+sensors and controllers for neuronal 
+functions, and advanced computational 
+methods that use machine learning to 
+analyze experimental data. 
+Cancer
+EPFL holds a leading position in cancer 
+research among Swiss universities. It is 
+home to the ISREC Institute, which has 
+a long tradition of cancer research, and 
+the Institute of Bioengineering, which 
+also has cutting-edge capabilities in this 
+area. EPFL played an instrumental role in 
+setting up the Swiss Cancer Center Leman 
+(SCCL), alongside CHUV-UNIL and HUG-
+UniGE, and is involved in the new Agora 
+Translational Cancer Research Building 
+on the CHUV campus. Agora will bring 
+cancer scientists and engineers from EPFL 
+together with physician-scientists at CHUV 
+and enable them to use CHUV’s clinical 
+facilities. Under the 2021–2024 strategy, 
+our cancer research efforts will focus on 
+four objectives:
+1.  Deploying EPFL’s cross-disciplinary 
+skills and expertise to address cancer 
+challenges: We aim to create an 
+EPFL-wide research center in cancer science and engineering, which would 
+provide a forum for cross-disciplinary 
+communication, collaboration and 
+innovation in order to gain further insight 
+into disease mechanisms. Its research 
+would involve developing precision 
+diagnostic technology and traceable, 
+low-cost early-detection systems. 
+We hope to ultimately design new 
+protocols for improving the treatment 
+of cancer patients, ideally by disrupting 
+the adaptive resistance mechanisms 
+that limit the length of the therapeutic 
+benefits of most cancer drugs.
+2.  Anchoring the SCCL as a key player 
+in cancer research: We intend to 
+maintain EPFL’s important role in the 
+SCCL, contributing both leadership 
+and cross-disciplinary research 
+groups specialized in cancer and 
+bioengineering. The SCCL has all 
+the elements to be recognized 
+internationally as an integrated cancer 
+research center – the first ever in 
+Switzerland – and EPFL’s continued 
+involvement will be crucial to achieving 
+that goal. There are only a handful 
+of laboratories in the Lake Geneva 
+region that are devoted entirely to 
+cancer research. EPFL therefore 
+provides a strategic critical mass and 
+makes a unique contribution through 
+its quantitative, cross-disciplinary 
+approach to science and engineering.
+3.  Expanding our cancer research faculty: 
+Cancer research at our school can be 
+successful only if we continue to hire 
+world-class faculty, both at our main 
+campus and at Agora. This issue has 
+become particularly pressing following 
+the recent departure of four cancer-
+research faculty members whose 
+international reputation had been a key 
+benefit to our school. While ISREC’s 
+size is what allowed EPFL to play a 
+central role in founding the SCCL, its 
+diminishing status portends a decline 
+61
+EPFL 2021–2024 Strategic Plan in our impact at this exciting frontier 
+of human medicine. No new faculty 
+members have been hired into ISREC 
+since 2014, and the institute is facing 
+a shortage of tenure-track assistant 
+professors. It is therefore essential that 
+we hire more of these professors – the 
+lifeblood of top universities – in fields at 
+the forefront of cancer research, beyond 
+the fields already represented at EPFL. 
+4.  Introducing a minor in cancer research: 
+This minor would teach not only the 
+basics of cancer biology but also 
+essential concepts in immunology, 
+synthetic biology and bioengineering 
+in order to prepare students for careers 
+in universities, hospitals or the private 
+sector.
+Computational and Data-Intensive Life 
+Sciences (CompBio)
+Recent rapid advancements in data-
+processing technology are revolutionizing 
+all scientific fields. But no field is projected 
+to generate as much data as the life 
+sciences, surpassing even astronomy. 
+From entire genomes and quantitative 
+images of cells, organs and organisms, 
+to digital data on human diseases, 
+behaviors and epidemic spreading, these 
+new data bring entirely new challenges 
+and opportunities for inspiring, impactful 
+discoveries. They have the potential to 
+yield the next breakthroughs in all areas 
+of biology, including cancer, infectious 
+diseases, neuroscience, cell development 
+and regeneration, metabolism and 
+medicine more broadly. To realize this 
+potential, scientists must be able to share 
+large-scale confidential medical data, 
+and this implies developing effective trust 
+protocols. Individuals, institutions and 
+nations with the capacity to master these 
+data challenges will undeniably have a 
+competitive advantage.
+Crucially, mastering these challenges 
+will require a deep understanding of the scientific problems at hand as well as the 
+computational processes needed to solve 
+those problems. Cross-disciplinary project 
+teams will remain important but cannot 
+replace biologists trained in data-driven 
+computational analysis. An evaluation of 
+SV carried out in 2016 concluded that: 
+“Just IC [computer science] joint positions 
+are very unlikely to serve SV’s needs; 
+much of computational biology requires 
+considerable creativity in how to frame 
+and manipulate data to generate biological 
+insight, but there is little methodological/
+algorithm-based research, which is what 
+IC-related positions will need.”
+As a result, we plan to build up our skills 
+in CompBio and anchor this topic in both 
+education and research. We believe that 
+CompBio provides a framework for life-
+science research that is data-driven, 
+quantitative, theoretically sound, statistically 
+robust and highly innovative. Glimpses into 
+how CompBio is starting to shape the future 
+of life sciences can be found in the fields of 
+quantitative cell and developmental biology, 
+single cell biology and genomics, and 
+data-driven approaches to human health 
+such as digital epidemiology and human-
+microbial communities. Therefore we would 
+like to transform the EPFL status quo in 
+this field through the addition of new chairs 
+for emerging and established figures in 
+CompBio. At EPFL, we benefit from a crucial 
+and almost unique advantage: the close 
+physical proximity (i.e., on the same campus) 
+of world-class life-science, computer-
+science and basic-science facilities. As 
+such, we have all the ingredients to create 
+an interactive and stimulating environment 
+for excellence in CompBio through the 
+strategic hiring of key figures in this 
+emerging field.
+Regarding our degree programs, we intend 
+to incorporate CompBio subjects through 
+new classes and specific tracks at the 
+Bachelor’s, Master’s and PhD level. The goal 
+will be to train life scientists on all stages 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneof the data-science pipeline, from data 
+generation, collection and handling to data 
+analysis using new computational methods 
+such as those based on machine learning 
+and artificial intelligence. This will entail 
+building bridges between fundamental 
+engineering, in which EPFL excels, and 
+cutting-edge computational biology. Life-
+sciences graduates with strong skills in 
+computational methods and data-intensive 
+analyses are in high demand at universities, 
+businesses and startups, including many 
+of those in the Lake Geneva region. Our 
+region attracts more than 70% of the tech 
+investment in Switzerland – most of which 
+goes to the healthcare industry – and this 
+trend will only increase, especially given 
+how important life science industries are 
+to the Swiss economy. Our graduates 
+will thus be well-equipped not only to 
+leverage big data for the benefit of modern 
+life science, but also to meet the rapidly 
+growing demand from industry, helping to 
+secure Switzerland’s prominent position in 
+the life sciences. Importantly, jobs in biology 
+and healthcare attract high percentages of 
+female graduates. A strong commitment 
+by EPFL in these fields would not only 
+strengthen our school and our country’s 
+economy, but also help draw more women 
+to careers in science and engineering.
+In light of how rapidly the life sciences 
+are changing in response to big data and 
+leaps in computing power, we must act 
+swiftly and decisively if we are to prevent a 
+strategic weakness from forming at EPFL. 
+This was pointed out very clearly in the 2016 
+evaluation of SV, warning that: “In some 
+research areas the capacity falls short in 
+making a significant impact. To remedy this, 
+substantial expansion is required in the 
+area of computational biology. In the long 
+run, probably ten principal investigators will 
+be needed in this area.”
+Synthetic biology: The engineering of 
+living systems
+Living systems have an amazing capacity for precision synthesis, manufacturing, 
+decomposition and self-reorganization 
+into complex structures at different levels 
+(molecular, cellular and tissue). In addition, 
+biology has become increasingly easy 
+to engineer; for example, DNA synthesis, 
+even at a genome scale, is within reach. 
+There is almost no limit to the potential 
+applications of synthetic biology. Some of 
+the most promising ones are:
+• new frontiers in human medicine: 
+engineered cells or cellular assemblies 
+that can sense, diagnose, prevent and 
+treat diseases, and functional tissues 
+for drug discovery and regenerative 
+medicine
+• new frontiers in manufacturing: 
+biological manufacturing systems that 
+operate under normal environmental 
+conditions, are sustainable, require low 
+power and can generate high-value 
+products
+• bioremediation: engineered organisms 
+that can decontaminate water or soil 
+of toxic chemicals that cannot be 
+removed by existing means
+• information technology: data storage 
+and processing through DNA encoding 
+and protein manipulation.
+Synthetic biology is a cross-disciplinary 
+field drawing on skills from bioengineering, 
+biology, physics, chemistry, materials 
+engineering, mechanical engineering, 
+electrical engineering, computer science 
+and more. Under the 2021–2024 strategy, 
+we plan to build on our existing strengths 
+(both theoretical and experimental) 
+in molecular biology, biophysics and 
+quantitative biology to understand and 
+manipulate complex living systems. This 
+could be carried out through a joint venture 
+involving all EPFL schools and would 
+require hiring experts in synthetic biology, 
+especially for single cell organisms. As 
+63
+EPFL 2021–2024 Strategic Plan an engineering school, EPFL offers an 
+excellent environment for education, and the combination of engineering and life-
+science skills is in high demand in industry.
+9.6.  CDH - COLLEGE OF HUMANITIES
+Following the evaluation of our school in 
+2017 , we spelled out a new, compelling 
+vision for education, research and public 
+engagement in the 21st century. To 
+implement our vision, we suggested that 
+each of those three areas be addressed 
+using a holistic approach, called “POLY-
+perspectives,” based on the four 
+interconnected pillars of interdisciplinarity, 
+global awareness, responsible citizenship, 
+and creativity. Under the 2021–2024 
+strategy, we will further implement our 
+vision, and all our efforts – be they in 
+terms of education, research or public 
+engagement – will directly address at least 
+two of these pillars. The goal is to promote 
+a holistic view of today’s main societal and 
+technological challenges and facilitate 
+collaboration among the human and social 
+sciences, engineering, life science and 
+other fields to build a sustainable future.
+EDUCATION
+Our primary mission at CDH is to provide 
+leading-edge degree programs in the 
+human and social sciences at both the 
+Bachelor’s and Master’s level. We currently 
+offer around 150 courses on a wide range 
+of topics, which are taught by some 120 
+lecturers who mostly come from the 
+University of Lausanne, the University 
+of Art and Design Lausanne (ECAL) and 
+the Geneva University of Art and Design 
+(HEAD). 
+Our degree programs are designed to 
+help scientists and engineers incorporate 
+human and societal factors into their 
+work, give them a more comprehensive 
+understanding of today’s world, build their awareness about societal issues and add 
+leadership skills to their scientific know-
+how. 
+Under the 2021–2024 strategy, we will 
+develop additional Bachelor’s and Master’s 
+classes that take an interdisciplinary 
+approach to major global topics such 
+as big data and society, personalized 
+medicine, humans and technology, and 
+sustainable development. Some of these 
+classes will be taught jointly by professors 
+from both engineering and the human 
+and social sciences. The classes will also 
+impart knowledge and skills in project 
+management, legal affairs, research and 
+engineering ethics, teamwork and group 
+dynamics. This will prepare students to 
+address the ethical challenges stemming 
+from advancements in science and 
+technology and give them a heightened 
+sense of social responsibility. 
+We will develop prototype classes in the 
+human and social sciences through an 
+initiative inspired by the Fab Foundation, 
+an organization spun out of MIT’s Center 
+for Bits & Atoms Fab Lab Program in 
+2009. By testing out innovative teaching 
+methods, this initiative will allow our 
+school to promote the dissemination 
+of novel, effective teaching practices in 
+our degree programs as well as in other 
+interdisciplinary programs at EPFL. 
+Finally, we will enhance our Master’s and 
+PhD programs in digital humanities by 
+forming partnerships with other universities 
+in Switzerland and abroad (along the lines of 
+our existing partnership with the University 
+of Lausanne), taking a strategic approach 
+to hiring, offering internships at prestigious 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneinstitutions around the world and setting up 
+international summer school programs at 
+EPFL.
+RESEARCH
+The Digital Humanities Institute that we 
+created in 2015 has already become one 
+of the most famous research centers 
+of its kind in Europe, and its scientists 
+have obtained prestigious grants (e.g. 
+ERC, VolkswagenStiftung and H2020). 
+The institute is a good example of the 
+interdisciplinary approach taken at EPFL, 
+which combines a strong foundation in 
+engineering and the social sciences with 
+research that goes beyond traditional 
+boundaries. 
+Under the 2021–2024 strategy, our 
+research efforts will focus on:
+• exploring new programming languages 
+for audiovisual content that allow 
+information to be encoded effectively 
+and that compile data from different 
+types of sources. This research focus 
+comes in response to the ubiquity of 
+audiovisual media today, with 70% 
+of internet traffic made up of videos. 
+The research would be conducted in 
+association with other EPFL schools, 
+ArtLab and the RTS.
+• rolling out additional joint projects 
+between our two institutes: the Institute 
+for Area and Global Studies and the 
+Digital Humanities Institute.
+• furthering our collaboration with the new 
+dhCenter, an interdisciplinaryresearch 
+center in digital humanities and digital 
+scholarship set up by EPFL and the 
+University of Lausanne. In 2019, we 
+launched the Lausanne Time Machine 
+Project in collaboration with the 
+dhCenter. This research program aims at compiling different kinds of data about 
+Lausanne’s history – from population 
+statistics to maps of urban morphology 
+– and use digital technology to analyze 
+the data and generate a geo-historic 
+platform depicting our city’s growth. 
+This program will entail working closely 
+with the City of Lausanne and the 
+Canton of Vaud, especially with regards 
+to innovative methods for teaching 
+high-school students about the digital 
+humanities.
+PUBLIC ENGAGEMENT
+In terms of public engagement – which is 
+closely tied to our teaching and research 
+activities – our efforts will build on our 
+natural role at EPFL to lead citizen initiatives 
+such as action-research programs, citizen 
+science platforms and public debate on key 
+issues such as the impact of digitalization 
+on society. We will address two topics in 
+particular:
+• Philosophy and Technology: Growing 
+awareness about how social media 
+is affecting democracy, for example, 
+or about the importance of climate 
+action, reflect the increasingly 
+predominant role that technology and 
+automated processes are playing in 
+how consumers and policymakers get 
+their information and, crucially, make 
+decisions. At CDH, we intend to play a 
+central role in fostering public debate 
+on these types of philosophical issues 
+arising from recent advancements in 
+technology and neuroscience. We will 
+also promote teaching and research 
+on ethics in science and engineering 
+across EPFL. Over the coming 
+years, we intend to hire postdocs 
+conducting research at the crossroads 
+of philosophy and computer science. 
+We will also seek to create a new joint 
+faculty position in ethics between 
+65
+EPFL 2021–2024 Strategic Plan EPFL and the University of Lausanne in 
+response to the findings of an in-depth 
+report conducted in 2018 on ethics 
+education at the two universities.
+• Art-Sciences: We will promote an 
+academic vision of the arts that 
+combines education, research and 
+public engagement. Our ArtLab center 
+provides a platform for both EPFL and 
+the general public to engage in debate 
+about key issues affecting the arts, 
+humanities and science. It supports 
+the holistic perspective we are taking 
+at our school as well as EPFL’s broader 
+missions of education, research and 
+innovation. Under the 2021–2024 
+strategy, ArtLab will further its efforts 
+in data archiving, data exchange and 
+identity. The center has appointed 
+a Scientific Committee and an 
+International Advisory Board to ensure 
+its programs remain of relevance to 
+EPFL and continue to meet world-caliber standards. Two other strategic 
+priorities for ArtLab are audience-
+building and fundraising, the latter of 
+which is actively ongoing; the center 
+will also strengthen its brand image 
+through a revamped communications 
+strategy. ArtLab is involved in a variety 
+of joint programs with local and regional 
+stakeholders. For example, through its 
+seminal Montreux Jazz Archive project, 
+the center is showcasing EPFL’s leading 
+role in archiving science. ArtLab’s 
+Pavilion B serves as an experimental 
+platform for exhibitions and debates 
+in the humanities, sciences and arts 
+for the EPFL community and the public 
+at large. We plan to remodel Pavilion 
+A (DataSquare) to reflect the cutting-
+edge research being done on our 
+campus as a whole, while keeping 
+space available for timely debates 
+and temporary exhibits of important 
+innovation projects.
+9.7 .  CDM - COLLEGE OF MANAGEMENT OF TECHNOLOGY
+MISSION
+CDM offers degree programs and conducts 
+research in the fields of management, 
+economics and finance. Because we are 
+housed within EPFL – a school of science 
+and engineering – we are able to offer more 
+than a “standard” business school is able 
+to provide. We aim to position ourselves 
+for the future of management education 
+by combining the traditional disciplines of 
+a business school with the core subjects 
+taught at a leading technical university. Our 
+three main strategic objectives are to:
+•  train tomorrow’s business leaders by 
+giving students fundamental skills in 
+management, economics and finance 
+as well as an intellectual background 
+in engineering. This will help EPFL graduates access top management 
+positions.
+•  conduct fundamental and applied 
+research in our core fields, since CDM 
+is principally an academic institution 
+focused on specific disciplines (and is 
+assessed according to our contribution 
+to those disciplines).
+•  further expand our course offering and 
+research to include fields in science 
+and engineering. This will enable us to 
+fully leverage the opportunities at EPFL 
+for synergies and joint R&D. Specific 
+subjects we plan to address are 
+fintech, innovation analytics, business 
+and supply chain analytics, operations 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneresearch, social entrepreneurship, 
+sustainable technology management, 
+and policy. We will also help develop 
+innovative degree programs at the 
+crossroads of our core fields and 
+science and engineering, at both the 
+undergraduate and graduate level.
+CHALLENGES
+The biggest challenge our school currently 
+faces relates to our first objective: sharing 
+our knowledge and skills in management, 
+economics and finance across EPFL. Here 
+the main opportunities lie in revamping our 
+existing programs and offering a series of 
+Bachelor’s level introductory classes in 
+management, economics and finance. This 
+would entail only a handful of classes but 
+would be a major step forward in achieving 
+that objective, delivering benefits not only 
+to students wishing to pursue careers 
+in one of our fields, but also to all other 
+students, as they will gain exposure to 
+these important subjects. Setting up these 
+classes would require significant additional 
+resources.
+Another major challenge we face is stepping 
+up our research efforts in areas that 
+incorporate new technology. This includes 
+developing methods, tools and research 
+agendas combining computational social 
+science with economics – an emerging 
+field at the crossroads of data science and 
+our core fields.
+PRIORITIES
+As we strive to meet our objectives, 
+we must be careful not to spread our 
+resources too thin, which would prevent 
+us from delving deeply into any one given 
+subject. We should therefore concentrate 
+our efforts on our core fields, with programs 
+reflecting our many unique strengths – 
+finance, innovation, entrepreneurship, operations research, and policy – and how 
+they can be applied in response to today’s 
+societal and technological challenges. 
+More specifically, we intend to develop the 
+following areas:
+• fintech: conducting research and 
+leveraging applications that draw 
+on advancements in finance and 
+technology
+• innovation analytics: taking the 
+intellectual lead in developing “big 
+indicators” for innovation and studying 
+emerging economics and the strategic 
+management of artificial intelligence
+• business and supply chain analytics 
+and operations: developing tools and 
+methods that will provide a scientific 
+foundation for data-driven decision 
+processes, which are being adopted 
+rapidly in both the public and private 
+sectors
+• social entrepreneurship, development 
+and sustainable management: 
+conducting research and leveraging 
+applications that address the key 
+societal challenges of our time
+• policy: forming a research agenda that 
+looks at how technology can serve the 
+public interest, which is a central issue 
+at a school like EPFL.
+IMPLEMENTING THE STRATEGY
+Our 2021–2024 strategy will be 
+implemented in the following stages:
+1.  Setting up a series of Bachelor’s level 
+introductory classes: We have already 
+started outlining these classes and 
+determined the additional resources 
+that could be made available by better 
+coordinating and combining existing 
+programs. We are also restructuring our 
+67
+EPFL 2021–2024 Strategic Plan executive education program to make 
+it more flexible and proactive, and we 
+are improving our Master’s programs 
+through joint initiatives with the 
+School of Engineering and the School 
+of Computer and Communication 
+Sciences. 
+2.  Hiring additional faculty: We will hire 
+additional professors in operations 
+research, business analytics and 
+financial data science in the near 
+term, and in finance, innovation, policy, 
+development and sustainability later on. 
+This, combined with our participation in 
+a joint initiative with UNIL and IMD on 
+sustainable management, will make us 
+better able to carry out our educational 
+and research activities.
+3.  Further incorporating our research 
+into the other science and technology 
+research being conducted at EPFL: 
+This will include participating more fully in key strategic initiatives (like 
+C4DT and complex systems), creating 
+a fintech lab, working more closely 
+with experts in machine learning and 
+big data and consolidating EPFL’s 
+activities in social entrepreneurship 
+and development (these topics are 
+studied in different programs across 
+EPFL but without clear coordination or 
+academic leadership).
+Under the 2021–2024 strategy, we will 
+further our research efforts in our core 
+fields; begin offering a series of Bachelor’s 
+level introductory classes in management, 
+economics, and finance; and extend our 
+reach across EPFL through initiatives that 
+sit at the crossroads of our core fields 
+and science and engineering. In short, we 
+will continue to build a unique business 
+school, of average size but with exceptional 
+relevance and impact for a university like 
+EPFL. 
+9.8. EPFL MIDDLE EAST
+Between 2009 and 2020, EPFL Middle 
+East worked to establish a solid track 
+record of innovation and impact in the 
+United Arab Emirates (UAE) in various fields 
+pertaining to energy and sustainability. 
+The EPFL Middle East campus – entirely 
+funded by the local government (at no net 
+cost to EPFL or Switzerland) – exemplifies 
+the innovation potential of graduate-level 
+research and innovation. To date, the 
+campus has offered 150 Master’s level 
+internships and thesis projects in the UAE, 
+with several technology transfers to both 
+the public and private sectors. The impact 
+of EPFL Middle East can be summarized in 
+five key metrics:E
+• a ratio of economic return on 
+investment higher than 3:1, over less 
+than ten years•  over 100 new jobs created in the UAE 
+as a result of local technology transfers
+•  local carbon abatement that should 
+reach over 200,000 tCO2/year by 
+2021, in completed and validated or 
+pending pojects
+•  over 200 scientific peer-reviewed 
+publications and conference articles 
+(master and PhD level)
+•  the training of over 150 engineers in 
+energy management and sustainability, 
+half of them currently employed in 
+the energy sectors of Europe and 
+Switzerland.
+Under the 2021–2024 strategy (and 
+beyond), we will build on these foundations 
+EPFL 2021–2024 Strategic Plan  École  
+polytechnique  
+fédérale  
+de Lausanneand widen the scope of EPFL Middle East 
+by:
+• introducing a Master’s in Energy 
+Science and Technology program, 
+which will involve adding classes in 
+energy systems and energy conversion 
+devices to the energy management 
+and sustainability classes already on 
+offer. This program will also support 
+the energy transition underway in 
+Switzerland.
+• adding new research areas and 
+their applications in fields such 
+as applied digital technology (e.g., 
+data science, digital humanities 
+and civilian cybersecurity), the 
+fundamental sciences and other 
+scientific and engineering disciplines 
+(e.g., aerospace, infrastructure and 
+educational technology). 
+• setting up collaborations with the best 
+local universities offering Master’s 
+programs. We hope to attract many 
+of the qualified Emirati students who 
+are currently being sent to the US 
+or UK for graduate school. As part 
+of these efforts, we will expand our 
+local internships and Master’s thesis 
+projects, extending our impact beyond 
+education and into innovation. 
+• enhancing our executive education 
+programs and developing a regional 
+platform for MOOCs and other lifelong 
+learning programs, for both alumni and 
+other stakeholders.• creating an innovation support program 
+to share our know-how in technology 
+transfer and entrepreneurship and help 
+establish a local innovation ecosystem. 
+This ecosystem will in turn support 
+EPFL graduates as they transfer their 
+ideas to industry or use them to launch 
+new businesses. It could also provide 
+a gateway for Swiss startups looking to 
+penetrate Middle Eastern markets out 
+of the UAE.
+This strategy is designed to make EPFL 
+Middle East an expanded platform for 
+innovation and bridge the gap that currently 
+exists between local businesses and 
+universities. Our funding sources will not 
+change relative to 2009–2020, as our 
+essential base funding will continue to be 
+provided by the local government (Emirate 
+of Ras Al Khaimah and Federal UAE Ministry 
+of Education). However, as we implement 
+this strategy, the Emirati government could 
+become interested in further expanding our 
+relationship to include exchange programs 
+and local investment at the PhD level, such 
+as through local research facilities funded, 
+and owned by the local government – a 
+proposal that we may consider in due 
+course.
+69
+EPFL 2021–2024 Strategic Plan 

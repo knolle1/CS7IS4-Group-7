@@ -1,0 +1,829 @@
+Aarhus University
+Strategy 2025
+
+3TABLE OF CONTENTS
+Table of Contents
+6
+7
+8
+12
+16
+ 
+22
+28
+34
+40 
+ 
+46 
+52
+55PREFACE .... .... .................................................................................................................................
+AARHUS UNIVERSITY'S V ALUES  .......................................................................................
+AARHUS UNIVERSITY’S VISION  ........................................................................................
+AARHUS UNIVERSITY’S MISSION  .....................................................................................
+  Research of the highest international quality  .................................
+  Research-based degree programmes of the highest  
+  international quality  .......................................................................................
+  Contributing to society’s development and welfare  
+  through research  ..............................................................................................
+  Interdisciplinary research to address societal challenges  .......
+  Graduates for the labour market of the future ................................
+  Development of research talents and integration  
+  of research  into the degree programmes  .........................................  
+IMPLEMENT A TION AND FOLLOW-UP  .............................................................................
+STRA TEGY DIAGRAM   ..............................................................................................................
+core  [kɔː]
+the central part of a fleshy fruit, containing the seeds
+the central, innermost, or most essential part of anything
+of central importance; basic; fundamental
+origin of 'core'
+1275–1325; Middle English; origin uncertain;
+perhaps <Old French cors body> Latin corpus
+
+5 4STRATEGY 2025 AARHUS UNIVERSITY
+Faculty of Arts Danish School of Education (DPU) School of Communication 
+and Culture School of Culture and Society Aarhus BSS Department of Business 
+Development and Technology Department of Law Department of Psychology 
+and Behavioural Sciences Department of Political Science Department of 
+Management Department of Economics and Business Economics Faculty of 
+Health Department of Biomedicine Department of Public Health Department 
+of Clinical Medicine Department of Dentistry and Oral Health Department 
+of Forensic Medicine Faculty of Natural Sciences Department of Biology
+Department of Computer Science Department of Physics and Astronomy
+Department of Geoscience Department of Chemistry Department of 
+Mathematics Department of Molecular Biology and Genetics Interdisciplinary 
+Nanoscience Centre (iNANO) Faculty of Technical Sciences Department 
+of Agroecology Department of Bioscience Department of Food Science
+Department of Animal Science Department of Engineering Department 
+of Environmental Science Aarhus University School of Engineering (ASE)
+
+6PREFACEPREFACE
+Aarhus University is a strong university that is internationally recognised for the high quality of its 
+research, research-based degree programmes and public sector government consultancy, in ad -
+dition to value-creating collaboration with private businesses, public sector institutions and civil 
+society. The curiosity-driven creation of knowledge rooted in strong disciplines to the benefit of 
+society has been the university’s reason for existing since its founding in 1928. And this mission is 
+also the point of departure of this strategy, which charts the university’s course towards 2025. 
+Aarhus University’s academic portfolio is broad-ranging, from the classic university disciplines of 
+the humanities, natural sciences, social sciences, health sciences and theology to business and 
+engineering, educational theory and practice and the environmental and agricultural sciences. 
+This breadth gives the university a unique opportunity to combine strong disciplines in the creation 
+of research breakthroughs, and to establish close collaboration with many sectors to the benefit 
+of society as a whole.
+Research is the foundation of Aarhus University’s vocation, including what is perhaps the universi -
+ty’s most important task: to educate students and to give them access to new knowledge through 
+research-based degree programmes that also develop their Bildung , creativity, independence 
+and cooperation skills. In the eyes of the university, its students and graduates are the most impor -
+tant bearers of the university’s knowledge. For this reason, it is important that they – along with the 
+university’s academic staff – take responsibility for bringing their knowledge into play and in this 
+way contribute to a sustainable society and an informed democracy. 
+The 2025 strategy for Aarhus University describes the university’s vision, mission and fundamental 
+values. While the vision is in line with the university’s current strategic course, it also sets new and 
+higher goals for academic development and the scope of national and international collabora -
+tion. The university’s goal is to strengthen its position among leading research-intensive universities 
+while also creating decisive value for the individual and for society as a whole. 
+The realisation of the vision through concrete actions will create results that will enhance the uni -
+versity’s international reputation and impact on society. 
+The strategy for 2025 can only succeed if the university is an attractive place to work that contin -
+ually develops the quality of the work and study environment. The university’s ambition is to be an 
+inspiring framework for all staff and students. To succeed in this, the university must ensure that op -
+portunities and development are available to all, as well as ensuring staff and student involvement 
+and visible, accessible leadership. 
+The senior management team is looking forward to implementing the strategy and continuing 
+the work of developing and operating the university in collaboration with the university’s staff and 
+students.
+AARHUS UNIVERSITY'S VALUES
+Our fundamental values are described in the  
+Magna Charta of the European Universities.
+We safeguard freedom of research and expression, 
+in addition to individuals’ opportunities to realise their potential.  
+Open dialogue, tolerance and diversity are the very foundation 
+of the university’s vocation. Because we regard the universities 
+as one of the pillars of society, we assume co-responsibility for 
+the development of a democratic, sustainable society.6PREFACE
+
+9 8VISION VISION
+Insight
+Breakthroughs
+International
+Knowledge
+Quality
+Value
+Aarhus University’s
+Vision
+
+11 10VISION VISION
+What drives Aarhus University’s international collaboration  is the vision of working to connect 
+Denmark to the global society through the university’s activities. With their strong tradition for 
+international collaboration, the universities have a special responsibility to take the lead at a time 
+in which international collaboration is facing political challenges, and in which the need to work 
+together to find solutions to global societal challenges is greater than ever. Thus the university 
+wants to work to promote an increased global exchange of knowledge and talent.
+This vision centres on vibrant campuses  where students, staff and external partners meet and 
+work closely together. The university’s main campus in Aarhus is already recognised internation -
+ally for its distinctive architecture and urban location. In the coming years, the university will de -
+velop and rethink both its main and satellite campuses, developing them into even more vibrant, 
+engaging and innovative environments for study and research that are operated and developed 
+sustainably. The university’s vision for its own sustainable operations and development is de -
+scribed in its climate strategy, which supports the overall vision for 2025.AARHUS UNIVERSITY’S VISION
+Aarhus University’s vision is to be a research-intensive university that aspires to the highest inter -
+national quality and excels in creating value through knowledge, new insights and collaboration, 
+in addition to facilitating connections between Denmark and the world. Aarhus University’s vision 
+for 2025 will be realised through a focus on the following strategic commitments:
+ 
+• Generating knowledge and research breakthroughs through free,  
+ independent research of the highest international quality
+• Research-based degree programmes of the highest international quality
+• Performing impartial public sector consultancy services of the highest  
+ international quality
+• Encouraging the university’s students, graduates and researchers  
+ to bring their knowledge into play in order to shape the society of the future 
+• Contributing to international collaboration, global engagement and the solution of major  
+ societal challenges through interdisciplinary research collaboration
+• Generating innovation in established public and private sector companies and startups  
+ through collaboration, both internally and with external partners
+• Intensifying the exchange of talents and knowledge, locally, nationally and globally.
+ 
+The vision demands  that the university apply its academic strength and breadth and its inter -
+national position to the creation of value for society, both in Denmark and internationally. In the 
+context of this strategy, value must be understood in a broad sense, as including the social, eco -
+nomic and cultural development of society as a whole. Thus value cannot be construed solely as 
+a question of contributing to economic growth, since the university’s role is also to develop critical, 
+constructive dialogue and to frame human existence within a larger context, as well as to contrib -
+ute to democratic development and a sustainable future. 
+ 
+Democracy and sustainability  are central themes in the university’s vision for 2025. One of the 
+university’s tasks is to contribute to a democracy in which opinions are debated and decisions are 
+made on an informed basis and on the background of the latest knowledge. One of the greatest 
+challenges facing society is the transition to sustainable development. Here the university’s task is 
+to contribute solutions through research, education and collaboration. The ongoing digital trans -
+formation will also have decisive impact on society in coming years. Here as well, the university 
+must contribute both to driving development and studying its effects on society.
+ 
+New advances and breakthroughs in knowledge  are created both within individual disciplines 
+and in the encounter between them. In recognition of this, the university will both attract interna -
+tional researchers and cultivate its own research staff, whether established researchers, promising 
+junior researchers or talented PhD students.  
+ 
+The university is one of the cornerstones of society , and its students, graduates and researchers 
+help shape the society of the future through the knowledge they bring into play, from popular 
+research communication to the general public to research-based public sector consultancy and 
+researchers’ participation in government commissions and councils. 
+ 
+Collaboration  is absolutely central to this strategy. Specifically, the university’s goal is to strengthen 
+collaboration: across disciplines; with the private sector and public sector institutions; and in promot -
+ing innovation. In this way, the university can increase the value of its contribution to society while 
+at the same time maintaining its position at the vanguard of the needs of the society of the future. 
+Connecting Denmark
+and the worldA resear ch-intensive  univ ersity that aspir es
+to the highest international quality and excels
+in cr eating value thr ough knowledge,
+new insights and collabor ation
+CAMPUS
+
+Collaboration
+Education
+Research
+13 12MISSION MISSION
+Aarhus University’s
+Mission
+
+14MISSION
+AARHUS UNIVERSITY’S MISSION
+Aarhus University will work to realise this vision through the six core tasks of the university, which 
+define the university’s mission:     
+    
+• Research of the highest international quality
+• Research-based degree programmes of the highest international quality
+• Contributing to society’s development and welfare through research
+• Interdisciplinary research to address societal challenges
+• Graduates for the labour market of the future
+• Development of research talents and integration of research into degree programmes.
+The core tasks are in alignment with the tasks of the Danish universities as defined in the University 
+Act. They can be grouped under the main headings of research, education and collaboration. 
+In addition, the university has defined three overlapping areas in which research, education and 
+collaboration supplement one another. Taken as a whole, the six core tasks reflect the breadth of 
+the university’s activities, and along with ensuring a good environment for work and study, consti -
+tute the framework for working with Strategy 2025. 
+In the following six sections, each core task will be described, along with associated goals, sub-
+goals and expected initiatives.
+Research of the highes t
+international qualityInterd isciplinar y
+ resear ch to
+addr ess
+ societal
+challengesGraduates fo r
+the labour mark et
+of the future
+Research -
+based degr ee 
+progra mmes
+of the highest  
+international
+quality
+Development of resear ch 
+talents and integra tion
+of research into th e
+degr ee pr ogra mmesContributing to society’ s
+development and
+welfare thro ugh resear ch
+RESEARCHCOLLABORATIONEDUCATIONCAMPUS
+
+17 16RESEARCH OF THE HIGHEST INTERNATIONAL QUALITY RESEARCH OF THE HIGHEST INTERNATIONAL QUALITY
+Research
+of the highest
+international
+quality
+
+Aarhus University's research  
+is free and independent. 
+The university will further improve  
+the quality of its research as it strives to 
+achieve the highest international level.
+
+20RESEARCH OF THE HIGHEST INTERNATIONAL QUALITY
+RESEARCH OF THE HIGHEST INTERNATIONAL QUALITY
+Aarhus University's research is free and independent. The university will further improve the qual -
+ity of its research as it strives to achieve the highest international level. To this end, the university’s 
+goal is to promote:
+• Research breakthroughs
+• Career development and diversity.
+Research breakthroughs
+Sub-goal: Develop more research programmes with high international impact 
+The university wants to create more research breakthroughs. To realise this goal, the individual 
+disciplines, research groups and the work environment must be developed and strengthened 
+further. The goal is for the university’s researchers to perform even more strongly in international 
+competition, and for society to derive more benefit from breakthroughs in basic research, strate -
+gic research and applied research. In addition, the university will continue to develop its research 
+profile to ensure that the university will remain a significant driver of the development of society. 
+Sub-goal: Increased internationalisation 
+The university’s goal is to achieve a higher degree of international competition for permanent 
+positions and to recruit talented researchers with a high international level. This will also involve 
+fostering a higher degree of international engagement among the university’s permanent aca -
+demic staff members.
+Career development and diversity
+Sub-goal: Strengthening researcher career development
+The university’s goal is to give all researchers the opportunity to realise their potential and devel -
+op professionally, providing optimal opportunities for participating in research collaboration at a 
+high international level, contributing to research breakthroughs and competing for positions and 
+grants. This applies to early career researchers at postdoc and assistant professor level, estab -
+lished researchers with permanent positions and research directors. 
+Sub-goal: More diversity in research groups
+The university's goal of the highest quality of research requires more diversity among research 
+staff. The university’s ambition is to work with diversity on a variety of fronts in order to exploit the 
+total talent pool to the greatest possible extent. To do so, the university will intensify its work on 
+appropriate recruitment processes in order to promote diversity and avoid discrimination. RESEARCH OF  THE HIGHES T INTERNA TIONAL  QUALITYCORE
+TASK
+RESEARCH
+BREAKTHROUGHSGOALS
+Develop r esear ch 
+progra mmes with high 
+international impac tInternationalisatio nDive rsity in
+resear ch gr oupsSUB-
+GOALSResearcher career
+developmentCAREER DEVELO PMENT
+AND DIVERSITY21RESEARCH OF THE HIGHEST INTERNATIONAL QUALITY
+INITIA TIVES
+The university will continue the following ongoing initiatives:
+• Attract more qualified applications for permanent positions
+• Attract more external funding
+• Expansion of engineering research programmes
+• Expansion of IT research programmes 
+• Strengthening business research programmes
+• Maintain and develop a strong Faculty of Arts 
+• Strengthening research on childhood development, ages 0 -18
+• The Junior Researcher Development Programme
+• Better utilisation of the talent pool
+The university wants to create 
+more research breakthroughs.
+To realise this goal, the individual 
+disciplines, research groups and 
+the work environment must be 
+developed and strengthened
+further.
+
+23 22RESEARCH-BASED DEGREE PROGRAMMES OF THE HIGHEST INTERNATIONAL QUALITY RESEARCH-BASED DEGREE PROGRAMMES OF THE HIGHEST INTERNATIONAL QUALITY
+Research-based  
+degree programmes  
+of the highest
+international quality
+
+Aarhus University strives for the 
+highest academic level in its degree
+programmes and to provide a vibrant,
+engaging and innovative environment
+for learning and study.
+
+26RESEARCH-BASED DEGREE PROGRAMMES OF THE HIGHEST INTERNATIONAL QUALITY
+RESEARCH-BASED DEGREE PROGRAMMES  
+OF THE HIGHEST INTERNATIONAL QUALITY
+Aarhus University strives for the highest academic level in its degree programmes and to provide 
+a vibrant, engaging and innovative environment for learning and study. Strong disciplines are 
+premised on the recruitment of talented students and outstanding research and teaching staff, 
+combined with a supportive environment for learning and study. To this end, the university has set 
+the following goals:
+• An attractive university for talented students
+• In-depth knowledge.
+An attractive university for talented students
+Sub-goal: Better match between applicant and degree programme 
+The university will maintain its position as an attractive university, and will continue to admit stu -
+dents with strong academic qualifications who are motivated to immerse themselves in and 
+engage in their degree programme and student life at the university. This goal applies to both 
+national and international students. While changes in government policy have posed challenges 
+for the recruitment of the latter group, the university’s goal is to strengthen its position within the 
+given framework and to attract the most talented international students.   
+Sub-goal: Better retention
+A good introductory programme for first-years students builds on upper secondary programmes 
+while also inspiring and challenging students academically from the very beginning. The uni -
+versity will approach the entire first year from the perspective of providing a good introduction 
+to university education, which will provide a smoother transition for new students. The university 
+wants to improve the integration of students into their degree programme, as this has a decisive 
+influence on retention and the quality of the academic environment. To this end, the university will 
+focus on providing students with a good physical, social and academic environment throughout 
+the degree programme, and on bringing students closer to research. This applies not least to the 
+implementation of the recommendations regarding the provision of a good physical environ -
+ment for work and study in the university’s Campus 2.0 plan. The university will also provide an 
+inclusive, supportive environment for learning and study that makes room for the diversity of the 
+student body in order to improve retention, well-being and utilisation of the talent pool.
+In-depth knowledge
+Sub-goal: Engaging teaching and learning
+The university is constantly working to optimise the encounter between teacher, student and 
+course content, as this is the key to the quality of both teaching and the degree programmes. Courses must be taught by individuals who combine excellent research and teaching qualifica -
+tions. The university will prioritise this profile in the recruitment of researchers, and will continual -
+ly develop their educational strategies and skills in order to ensure that students gain in-depth 
+knowledge and that they encounter highly qualified teachers who use up-to-date methods. This 
+initiative involves the university making the most of the new opportunities offered by digital learn -
+ing technologies. By doing so, the university will be able to engage students before, during and 
+after class to a higher degree, which will improve student learning outcomes.
+Sub-goal: More interdisciplinary elements
+Students must be allowed to supplement their primary discipline with interdisciplinary elements, 
+thus benefitting from the university’s academic breadth and international partnerships. 
+Sub-goal: Strengthening students’ general competencies
+The university will offer students degree programmes that both provide in-depth knowledge and 
+the opportunity to improve their general competencies. This combination is important in order 
+to better prepare students for the labour market of the future. General competencies reflect the 
+university’s focus on aspects such as sustainability, digitalisation, technological literacy, entrepre -
+neurship and Bildung . RESEARCH-BASED DEGREE PROGR AMMES
+OF THE HIGHES T INTERNAT IONAL  QUALITYCORE
+TASK
+ATTRACTIVE UNIVERSITY
+FOR TALENTED S TUDENTSGOALS
+Match betw een 
+applicant an d
+degr ee pr ogrammeRetentionEngaging
+teaching and
+learningGenera l
+competenciesInterd isciplinar y 
+elementsSUB-
+GOALSIN-DEP TH KNOW LEDGE27RESEARCH-BASED DEGREE PROGRAMMES OF THE HIGHEST INTERNATIONAL QUALITY
+INITIA TIVES
+The university will continue the following ongoing initiatives:
+• Recruitment and admission of talented and motivated students
+• Engaging Educational IT 
+• Development of an attractive environment for study that promotes better  
+ academic integration of students, 'Campus 2.0'
+The university will launch the following new initiatives:
+• Better introductory programme for new students
+• Electives across degree programmes, for example within sustainability  
+ and entrepreneurship
+• Digital competencies for all students
+The university is constantly
+working to optimise the
+encounter between teacher,
+student and course content.
+
+29 28CONTRIBUTING TO SOCIETY’S DEVELOPMENT AND WELFARE THROUGH RESEARCH CONTRIBUTING TO SOCIETY’S DEVELOPMENT AND WELFARE THROUGH RESEARCH
+Contributing
+to society’s
+development and
+welfare through
+research
+The entire range of the university’s
+disciplines must be brought into play
+in these external collaborations in order
+to increase their competitiveness
+and knowledge.
+
+32CONTRIBUTING TO SOCIETY’S DEVELOPMENT AND WELFARE THROUGH RESEARCH
+Sub-goal: Continued development of research-based public sector consultancy
+Public sector consultancy is an important contribution to knowledge-based democracy, and must 
+rest on the fundamental principles of transparency, objectivity and impartiality. The university 
+wants to maintain, develop and assure the quality of public sector consultancy services during 
+the strategy period. 
+Sub-goal: Increased dialogue with decision-makers
+The university wants to strengthen dialogue with decision-makers and relevant alumni in order to 
+take a more proactive role in relation to current political issues, thereby contributing to improving 
+the framework conditions for university education to enable the university to maximise its contri -
+bution to society.CONTRIBUTING TO SOCIETY’S DEVEL OPMENT
+AND WELF ARE THROUGH RESEARCHCORE
+TASK
+COLL ABOR ATION WITH  
+EXTERNAL PARTIES CONTRIBUTING TO A
+KNO WLEDGE-BASED DEMOC RACYGOALS
+Projects with
+business and indust ry, 
+the public secto r
+and civil societyInnovation and 
+entr epreneurshipVisibility of expe rt 
+contributions to  
+public debateDevelopment
+of public sector
+consultancyDialogue wit h
+decision-mak ersSUB-
+GOALS33CONTRIBUTING TO SOCIETY’S DEVELOPMENT AND WELFARE THROUGH RESEARCH
+INITIA TIVES
+The university will continue the following ongoing initiatives:
+• The business initiative: large companies, SMEs and Danish municipalities
+• More research contracts with companies
+• Quality assurance system for public sector consultancy
+• Supplementation of contract funds within public sector consultancy 
+• Strengthening external collaboration within public sector consultancy
+The university will launch the following new initiatives:
+• Strengthening entrepreneurship 
+• Acknowledgement of students volunteerism
+• Increased use of digital platforms for expert contributions 
+• Relationship-building with decision-makers and other relevant political actors
+The long-term ambition is to
+establish an extensive ecosystem 
+for entrepreneurship and spinout 
+companies at and around
+the university.CONTRIBUTING TO SOCIETY’S DEVELOPMENT
+AND WELFARE THROUGH RESEARCH
+Aarhus University will significantly strengthen its contribution to the development and welfare of 
+society as a whole during the strategy period. To this end, the university’s goal is to increase its:
+• Collaboration with external parties
+• Contribution to a knowledge-based democracy.
+Collaboration with external parties
+Sub-goal: More projects in collaboration with business and industry, the public sector, private 
+foundations and civil society
+The university will increase collaboration with external parties during the strategy period, and 
+will invite them to collaborate more closely. In these collaborations, the university will safeguard 
+freedom of research to ensure that the research performed in collaboration with external par -
+ties is impartial, to the benefit of society. The entire range of the university’s disciplines must be 
+brought into play in these external collaborations in order to increase their competitiveness and 
+knowledge. In addition, the university will increase its involvement with civil society, particularly in 
+relation to acknowledging the extensive volunteerism of its students. 
+For many years the university has worked closely with Aarhus University Hospital and the other 
+hospitals in Central Denmark Region. These collaborations have made crucial contributions to 
+the high level of health science research and education at the university, both in research and in 
+education, and have also brought important benefits to society. The university wants to develop 
+this collaboration further, in addition to establishing more spinout companies in collaboration with 
+the university hospital.
+Sub-goal: More innovation and entrepreneurship 
+Conditions for entrepreneurship must be improved, and students’ interest in this area must be 
+stimulated to give them better opportunities to translate their ideas into concrete spinout compa -
+nies and to develop entrepreneurship skills. The long-term ambition is to establish an extensive 
+ecosystem for entrepreneurship and spinout companies at and around the university.
+Contributing to a knowledge-based democracy
+Sub-goal: Increased visibility of expert contributions to public debate
+The university’s researchers already contribute extensively to public debate and popular research 
+communication for a general audience. The university’s goal is to draw public attention to and 
+increase its impact on society – and thus its participation in public debate and in relevant deci -
+sion-making processes – by contributing relevant knowledge. 
+
+35 34INTERDISCIPLINARY RESEARCH TO ADDRESS SOCIETAL CHALLENGES INTERDISCIPLINARY RESEARCH TO ADDRESS SOCIETAL CHALLENGES
+Interdisciplinary
+ research
+ to address
+ societal
+ challenges
+
+Aarhus University will establish
+ strategic research and education 
+partnerships with selected 
+research-intensive universities.
+
+38INTERDISCIPLINARY RESEARCH TO ADDRESS SOCIETAL CHALLENGES
+INTERDISCIPLINARY RESEARCH TO ADDRESS  
+SOCIETAL CHALLENGES
+Aarhus University will intensify and increase its contribution to solving society’s major challenges, 
+globally and nationally. To this end, the university’s goal is to increase:
+• International collaboration
+• Interdisciplinary collaboration. 
+International collaboration
+Sub-goal: Establish partnerships with selected universities and other parties
+Because many of the challenges facing society transcend national borders and require solutions 
+that demand international collaboration, the university will establish strategic partnerships in re -
+gard to both research and education with selected research-intensive universities and other rel -
+evant international actors. Among other benefits, these partnerships will contribute to increased 
+internationalisation and global engagement. At the same time, the university will continue to 
+maintain its extensive international collaboration with existing partners.  
+Interdisciplinary collaboration
+Sub-goal: More interdisciplinary activities 
+Solving the challenges facing society requires interdisciplinary collaboration. To this end, the uni -
+versity wants to foster more interdisciplinary activities at the university, for example in relation to 
+sustainability. The university will facilitate and strengthen international research in this area and 
+contribute to the global collaboration to realise the UN’s Sustainable Development Goals. The 
+university will also strengthen interdisciplinary research collaboration in relation to social cohe -
+sion, with a special focus on various aspects of inequality. The university is uniquely positioned 
+to establish more interdisciplinary activities based in strong disciplines because it spans such a wide 
+range of fields.INTERDISCIPLINAR Y RESEARCH
+TO ADRESS SOCIET AL CHALLENGESCORE
+TASK
+INTERNAT IONAL
+COLL ABOR ATIONINTERDISCIPLINAR Y
+COLL ABOR ATIONGOALS
+Partnerships with selected univ ersities Interd isciplinar y activitiesSUB-
+GOALS39INTERDISCIPLINARY RESEARCH TO ADDRESS SOCIETAL CHALLENGES
+INITIA TIVES
+The university will continue the following ongoing initiatives:
+• Collaborative projects in the international university network The Guild and
+ the Circle U. Alliance 
+• Multi-faculty engagement in the thematic interdisciplinary centres within the
+ natural sciences and technology
+The university will launch the following new initiatives:
+• Sustainability
+• Social cohesion with a focus on inequality
+The university will facilitate and 
+strengthen international research 
+in this area and contribute to the 
+global collaboration to realise the 
+UN’s Sustainable Development 
+Goals, for example in relation  
+to sustainability.
+
+41 40GRADUATES FOR THE LABOUR MARKET OF THE FUTURE GRADUATES FOR THE LABOUR MARKET OF THE FUTURE
+Graduates for
+the labour market
+of the future
+
+Graduates are Aarhus University’s most 
+important contribution to society, and they 
+must acquire internationally competitive 
+knowledge and competencies.
+
+44GRADUATES FOR THE LABOUR MARKET OF THE FUTURE45GRADUATES FOR THE LABOUR MARKET OF THE FUTURE
+INITIA TIVES
+GRADUA TES F OR THE L ABOUR MARKET OF THE FUTURECORE
+TASK
+DEVEL OPMENT OF THE DEGREE
+PROGR AMME PORT FOLIOLINKS BETWEEN ST UDENT S
+AND THE L ABOUR MARKETGOALS
+Future -pro ofed graduate 
+competency pr oﬁle sThe furt her and continuing 
+education of the futu reDegr ee pr ogrammes with
+care er-oriented elementsSUB-
+GOALSThe university will continue the following ongoing initiatives:
+• More graduates employed in the private sector
+• Education of more engineers 
+• Education of more IT specialists
+• Development of the graduate competency profile at the Faculty of Arts 
+• Development of the MSc in Economics and Business Administration portfolio
+• The business initiative: Master’s thesis collaboration as well as internships  
+ with companies
+The university will launch the following new initiatives:
+• Develop further education programmes, particularly focusing on digital competencies
+• Retain international students
+The university will adjust
+the competency profile of its 
+graduates to better meet the 
+needs of the private and public 
+sectors, as well as the current and 
+future needs of society in general.GRADUATES FOR THE LABOUR MARKET OF THE FUTURE
+Graduates are Aarhus University’s most important contribution to society, and they must acquire 
+internationally competitive knowledge and competencies. This increases their employability, 
+prepares them for a volatile world and a volatile labour market and prepares them to contribute 
+to solving societal challenges. To this end, the university’s goal is to promote:
+• Development of the degree programme portfolio
+• Establishing links between students and the labour market.
+Development of the degree programme portfolio
+Sub-goal: A future-proofed graduate competency profile
+The university will adjust the competency profile of its graduates to better meet the needs of the 
+private and public sectors, as well as the current and future needs of society in general. This will be 
+done without compromising on quality or on graduates’ competencies, and in ongoing dialogue 
+with employers and alumni.
+Sub-goal: Development of the continuing and further education of the future
+The university’s goal is to contribute to meeting society's increasing demand for the continuing 
+education of the workforce through research-based further and continuing education, for exam -
+ple in connection with the increased digitalisation of society. The existing continuing and further 
+education models are currently under pressure. To this end, the university wants to work with new 
+models that can meet the need for new competencies on the part of both graduates and the 
+labour market, now and in future.
+Establishing links between students and the labour market
+Sub-goal: More career-oriented elements in the degree programmes
+The aim is to give all students the opportunity to collaborate with relevant employers as part of 
+their degree programme. This will allow students to establish links to the labour market before 
+graduation, and will contribute to maintaining the high employment levels of university graduates 
+taken as a whole. 
+
+47 46DEVELOPMENT OF RESEARCH TALENTS AND INTEGRATION OF RESEARCH INTO DEGREE PROGRAMMES DEVELOPMENT OF RESEARCH TALENTS AND INTEGRATION OF RESEARCH INTO DEGREE PROGRAMMES
+Development of
+research talents  and
+integration of research
+into degree programmes
+
+The university will attract  
+more international talents to its
+PhD degree programmes and increase
+the international mobility of 
+the university's own talents.
+
+50DEVELOPMENT OF RESEARCH TALENTS AND INTEGRATION OF RESEARCH INTO DEGREE PROGRAMMES
+DEVELOPMENT OF RESEARCH TALENTS AND INTEGRATION  
+OF RESEARCH INTO THE DEGREE PROGRAMMES
+The high quality of Aarhus University's research, education and collaboration can only be main -
+tained if the university continues to work with researcher talent development and the integration 
+of research into degree programmes. To this end, the university’s goal is to promote:
+• The PhD degree programmes
+• Research integration.
+The PhD degree programmes
+Sub-goal: Increased internationalisation of PhD degree programmes
+The university will attract more international talents to its PhD degree programmes and increase 
+the international mobility of the university's own talents. During the strategy period, the university 
+will bolster the internationalisation of its PhD programmes by cooperating with the university's 
+international alliance partners. This will enhance PhD students’ international networks and their 
+opportunities for pursuing a successful career, either within academia or in other sectors. 
+  
+Sub-goal: Earlier career clarification
+A PhD degree can either lead to an academic career or a variety of alternative careers in the 
+public and private sectors. Society’s demand for highly qualified knowledge workers is increasing, 
+a demand which PhD graduates meet. The university will take steps to introduce career clarifica -
+tion earlier in the PhD programmes to put graduates in the best position to make career choices.
+Research integration
+Sub-goal: More immersive modules in degree programmes
+The immersive modules will serve to further the university’s ambition of increasing research inte -
+gration in the degree programmes in order to achieve an even higher academic level. 
+Sub-goal: Increased interaction between students and researchers
+The university will encourage more interaction, and include students in research projects to a 
+higher degree. This will develop students’ own competencies, in-depth knowledge in the de -
+gree programmes and the students’ ability to participate in research collaboration and research 
+teams, in addition to contributing to students’ academic Bildung .51DEVELOPMENT OF RESEARCH TALENTS AND INTEGRATION OF RESEARCH INTO DEGREE PROGRAMMES
+INITIA TIVES
+The university will continue the following ongoing initiative:
+• More permanent academic staff members per studentCORE
+TASK
+GOALSDEVELO PMENT  OF RESEARCH TA LENT S AND INTEGR ATION
+OF RESEARCH INTO  THE DEGREE PROGR AMMES
+Internationalisation of
+PhD pr ogrammesCare er clariﬁcatio nIntera ction betw een 
+students and r esear chersRESEARCH INTEGRA TION THE PHD DEGREE PROGRA MMES
+Immersive  modules
+in degr ee pr ogra mmesSUB-
+GOALSThe university will launch the following new initiatives:
+• Joint courses for PhD students with partner universities
+• More study abroad for PhD students
+• Earlier career clarification for PhD students
+• Continued development of talent tracks 
+• More students involved in research projects
+Immersive modules will serve
+to further the university’s
+ambition of increasing research 
+integration in the degree
+programmes in order to achieve 
+an even higher academic level.
+
+52IMPLEMENTATION AND FOLLOW-UP
+IMPLEMENTATION AND FOLLOW-UP
+The 2025 strategy will remain in force for a five-year period. In connection with the development 
+of the strategy, goals, sub-goals and concrete initiatives have been set, just as currently ongoing 
+strategic initiatives and the strategic framework contract have been incorporated into the strategy. 
+The university will monitor the implementation of the strategy closely and draft action plans in 
+collaboration with the faculties, schools and departments. Each year from April to June, the uni -
+versity will follow up on the activities of the previous year, and will then determine the activities for 
+the coming year. In this way, the university will ensure the availability of the necessary resources, 
+administrative support and, not least, local and subject-specific ownership of the strategy. 
+In addition, implementation and follow-up will also provide an opportunity for the university to 
+launch new initiatives, which will enable the university to react appropriately to any changes in 
+its framework conditions, and not least meet new and unforeseen needs on the part of society. In 
+this regard, the university’s goal is to respond with greater agility, thus increasing its contribution to 
+society.  
+
+54 55STRATEGY DIAGRAM
+Strategy diagram
+A research-intensive university that aspires to the highest international quality and excels in creating
+value through knowledge, new insights and collaboration – connecting Denmark and the world
+» » »Research of the highest
+international quality
+Research  
+breakthroughsCareer
+development
+ and diversityCollaboration with  
+external parties Development
+of the degree
+programme
+portfolioAttractive
+university for
+talented studentsThe PhD degree
+programmesResearch
+ integrationContributing to
+a knowledge-based
+democracyIn-depth knowledgeInterna -
+tional 
+collabo -
+rationInterdis -
+ciplinary 
+collabo -
+ration Links 
+between 
+students  
+and the 
+labour  
+market
+Develop 
+research 
+programmes 
+with high 
+international 
+impactDiversity  
+in research 
+groupsPartner-
+ships with 
+selected 
+universitiesInter-
+disciplinary 
+activitiesProjects
+with business 
+and industry, 
+the public 
+sector and 
+civil societyVisibility  
+of expert 
+contributions 
+to public 
+debateDevelop-
+ment of 
+public
+sector
+consultancyFuture-  
+proofed 
+graduate 
+competency 
+profilesThe
+further and 
+continuing 
+education of 
+the futureDegree  
+programmes  
+with career-  
+oriented 
+elementsMatch 
+between 
+applicant 
+and degree 
+programmeRetentionEngaging 
+teaching
+and
+learningInter-  
+disciplinary 
+elementsGeneral  
+compe-  
+tenciesCareer  
+clarificationInterna-  
+tionalisation 
+of PhD  
+programmesImmersive 
+modules  
+in degree 
+programmesInteraction 
+between 
+students and 
+researchersDialogue
+with
+decision-  
+makersInnovation 
+and entre-
+preneurshipInterna-  
+tionalisationResearcher
+career
+develop-  
+mentInterdisciplinary
+ research to
+address
+ societal
+challengesContributing to society’s development
+and welfare through researchGraduates for the labour 
+market of the future Research-based degree programmes
+of the highest international qualityDevelopment of research talents
+ and integration of research into  
+the degree programmesVision
+Core
+task
+Goals
+Sub-goals
+AARHUS UNIVERSITY   STRA TEGY 2025
+Produced by:  The Rector’s Office
+Photo:  Lars Kruse and Ida Jensen | AU Photo  
+             Lise Balsby, Jesper Rais and Søren Kjeldgaard
+Design & layout:  Nikolai Lander | AU Design
+Translation:  Lenore Messick,  Events and Communication Support
+Printing & finish:  Vahle+Nikolaisen
+Print run UK: 2,000
+ISBN 978-87-92829-78-8
+SVANEMÆRKET
+5041-0618SE/011/05
+
+Aarhus University
+Nordre Ringgade 1
+DK-8000 Aarhus C
+Denmark
+Tel.: +45 8715 0000
+Email: au@au.dk
+www.au.dkAarhus University's values
+Our fundamental values are described in
+the Magna Charta of the European Universities.
+We safeguard freedom of research and expression,
+in addition to individuals’ opportunities to realise their potential.
+Open dialogue, tolerance and diversity are the very foundation
+of the university’s vocation. Because we regard the universities as
+one of the pillars of society, we assume co-responsibility for
+the development of a democratic, sustainable society.
+

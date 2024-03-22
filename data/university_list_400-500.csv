@@ -1,0 +1,55 @@
+qs_ranking,institution,focus,location,continent,year_established,private_public,type,strategy_start,strategy_end,filename,PDF
+400,Iowa State University,CO,United States,North America,1858,Public,Science,2022,2031,Iowa State University,1
+400,Masaryk University,CO,Czech Republic,Europe,1919,Public,All,2021,2028,Masaryk University,1
+400,Universidade Nova de Lisboa,FC,Portugal,Europe,1973,Public,All,2020,2030,Universidade Nova de Lisboa,1
+403,University of Granada,FC,Spain,Europe,1531,Public,All,2023,2031,University of Granada,1
+404,Istanbul Technical University,FO,Turkey,Europe,1773,Public,Science,2022,2026,Istanbul Technical University,1
+404,"University of California, Riverside",FC,United States,North America,1954,Public,All,2023,2030,"University of California, Riverside",1
+404,University of the Philippines,FC,Philippines,Asia,1908,Public,All,2023,2030,University of the Philippines,1
+407,Auckland University of Technology (AUT),CO,New Zealand,Australia,1987,Public,Science,2023,2025,Auckland University of Technology (AUT),1
+410,University of Southern Queensland ,CO,Australia,Australia,1967,Public,All,2021,2025,University of Southern Queensland ,1
+413,Oxford Brookes University,CO,United Kingdom,Europe,1865,Public,All,2023,2035,Oxford Brookes University,1
+413,Royal Holloway University of London,CO,United Kingdom,Europe,1849,Public,All,2021,2024,Royal Holloway University of London,1
+415,The American University in Cairo,CO,Egypt,Africa,1919,Private,All,2019,2022,The American University in Cairo,1
+419,Washington State University,FC,United States,North America,1890,Public,All,2020,2025,Washington State University,1
+421,Université de Strasbourg,FC,France,Europe,1538,Public,All,2023,2030,Université de Strasbourg,1
+421,University of Canberra ,CO,Australia,Australia,1967,Public,All,2023,2032,University of Canberra ,1
+426,University of Limerick,FC,Ireland,Europe,1972,Public,All,2023,2028,University of Limerick,1
+427,Anna University,FO,India,Asia,1978,Public,All,2022,2025,Anna University,1
+431,Koç University,FC,Turkey,Europe,1993,Private,All,2020,2024,Koç University,1
+431,Murdoch University,CO,Australia,Australia,1973,Public,All,2023,2030,Murdoch University,1
+431,National Taipei University of Technology,FO,Taiwan,Asia,1912,Public,Science,2020,2025,National Taipei University of Technology,1
+431,University of Stirling,CO,United Kingdom,Europe,1967,Public,All,2016,2021,University of Stirling,1
+436,Dublin City University,FC,Ireland,Europe,1975,Public,All,2023,2028,Dublin City University,1
+436,Tampere University,FC,Finland,Europe,2019,Public,All,2023,2030,Tampere University,1
+436,University of Science and Technology Beijing,CO,China (Mainland),Asia,1952,Public,Science,2021,2025,University of Science and Technology Beijing,1
+436,University of St.Gallen (HSG),SP,Switzerland,Europe,1898,Public,All,2021,2025,University of St.Gallen (HSG),1
+441, University of Dundee,FC,United Kingdom,Europe,1967,Public,All,2022,2027, University of Dundee,1
+441,Université Laval,FC,Canada,North America,1852,Public,All,2017,2022,Université Laval,1
+441,University of Utah,FC,United States,North America,1850,Public,All,2023,2030,University of Utah,1
+444,University of Connecticut,FC,United States,North America,1881,Public,All,2024,2034,University of Connecticut,1
+446,Aston University,CO,United Kingdom,Europe,1895,Public,All,2018,2023,Aston University,1
+446,"The University of Tennessee, Knoxville",FC,United States,North America,1794,Public,All,2023,2026,"The University of Tennessee, Knoxville",1
+452,Central South University,FC,China (Mainland),Asia,2000,Public,Science,2023,2028,Central South University,1
+454,Czech Technical University in Prague,SP,Czech Republic,Europe,1707,Public,All,2021,2030,Czech Technical University in Prague,1
+454,Indian Institute of Technology Indore (IIT Indore),FO,India,Asia,2009,Public,All,,,Indian Institute of Technology Indore (IIT Indore),1
+454,Sultan Qaboos University,FC,Oman,Asia,1986,Public,All,2021,2025,Sultan Qaboos University,1
+454,Universität Mannheim,FO,Germany,Europe,1967,Public,All,2023,2028,Universität Mannheim,1
+459,"Essex, University of",CO,United Kingdom,Europe,1965,Public,All,2019,2028,"Essex, University of",1
+460,Universität Potsdam,FO,Germany,Europe,1991,Public,All,,,Universität Potsdam,1
+461,Florida State University,FC,United States,North America,1851,Public,All,2023,2027,Florida State University,1
+465,Colorado School of Mines,FO,United States,North America,1874,Public,All,,,Colorado School of Mines,1
+465,Umea University,FC,Sweden,Europe,1965,Public,All,2023,2025,Umea University,1
+465,University of Bordeaux,FO,France,Europe,1441,Public,All,2021,2030,University of Bordeaux,1
+465,University of Sharjah,CO,United Arab Emirates,Asia,1997,Private,All,2019,2024,University of Sharjah,1
+469,Illinois Institute of Technology,CO,United States,North America,1890,Private,All,2020,2025,Illinois Institute of Technology,1
+472,Hiroshima University,FC,Japan,Asia,1929,Public,All,,,Hiroshima University,1
+473,Vilnius University ,FC,Lithuania,Europe,1579,Public,All,2021,2025,Vilnius University ,1
+480,Missouri University of Science and Technology,CO,United States,North America,1870,Public,All,,,Missouri University of Science and Technology,1
+481,Bangor University,FC,United Kingdom,Europe,1884,Public,All,2020,2030,Bangor University,1
+481,Hitotsubashi University,SP,Japan,Asia,1920,Public,All,2017,2027,Hitotsubashi University,1
+486,University of Guelph,CO,Canada,North America,1964,Public,All,2023,2028,University of Guelph,1
+491,University at Buffalo SUNY,FC,United States,North America,1846,Public,All,2022,2026,University at Buffalo SUNY,1
+491,University of Iowa,FC,United States,North America,1847,Public,All,2022,2027,University of Iowa,1
+494,Universidad de Sevilla,FC,Spain,Europe,1505,Public,All,2018,2025,Universidad de Sevilla,1
+498,University of Delaware,CO,United States,North America,1743,Private,All,2020,2030,University of Delaware,1

@@ -1,0 +1,3149 @@
+2022-2026 
+STRATEJİK PLANISTANBUL 
+TECHNICAL 
+UNIVERSITY
+2022-2026 
+STRATEGIC PLANISTANBUL 
+TECHNICAL 
+UNIVERSITY
+ISTANBUL TECHNICAL UNIVERSITY - 2022-2026 STRATEGIC PLAN
+2022-2026 
+STRATEGIC PLANISTANBUL 
+TECHNICAL 
+UNIVERSITY
+List of Tables 4
+List of Figures 4
+List of Abbreviations 5
+RECTOR’S MESSAGE 6
+STRATEGIC PLAN AT A GLANCE 8
+KEY PERFORMANCE INDICATORS 12
+STRATEGIC PLAN PREPARATION PROCESS 13
+SITUATION ANALYSIS 15
+   CORPORATE HISTORY 16
+   ASSESSMENT OF THE STRATEGIC PLAN IN IMPLEMENTATION 18
+   LEGISLATIVE ANALYSIS 19
+   ANALYSIS OF TOP POLICY DOCUMENTS 19
+   FIELDS OF ACTIVITY AND SERVICES 21
+   STAKEHOLDER ANALYSIS 23
+   INTERNAL ANALYSIS 25
+   HIGHER EDUCATION SECTOR ANALYSIS 35
+   SWOT (Strengths, Weaknesses, Opportunities, and Threats) ANALYSIS . 36Table of Contents 
+INSIGHT TO THE FUTURE 39
+   Mission 39
+   Vision 39
+   Values 39
+DIFFERENTIATION STRATEGY 40
+   POSITIONING PREFERENCES 40
+   SUCCESS AREA PREFERENCES 41
+   VALUE PROPOSAL PREFERENCES 41
+CORE COMPETENCE CHOICE 42
+STRATEGY DEVELOPMENT 44
+   OBJECTIVE CARDS 48
+   COSTING 68
+   MONITORING and ASSESSMENT 70
+APPENDICES 71
+ANNEX-1 – Strategic Planning Commission 71
+ANNEX-2 – Strategic Planning Subcommittee 72
+2022-2026  STRATEGIC PLAN5 4
+LIST OF TABLES
+Table 1. ITU Key Performance Indicators 12
+Table 3. Main Products and Services Offered by ITU 22
+Table 4. Number of Administrative Staff 28
+Table 5. Number of Personnel by Academic Titles 28
+Table 6. Number of Foreign Personnel 28
+Table 7. ITU Campuses and Areas 30
+Table 8. Distribution of Indoor Areas in the Campuses 31
+Table 9. Library Resources 31
+Table 10. Financial Resource Analysis and Estimation 32
+Table 11. Strengths and Weaknesses 37
+Table 12. Opportunities and Threats 38
+Table 13. ITU 2022-2026 Strategic Plan Goals and Objectives 44
+Table 14. Units Responsible for Goals (R) and Units to Cooperate for Objectives (C) 46
+Table 15. Estimated Cost of Objective Cards 68
+LIST OF FIGURES 
+Figure 1. Strategic Plan Timeline 14
+Figure 2. Administrative and Academic Organization 26LIST OF ABBREVIATIONS
+EU European Union 
+ABET Accreditation Board for Engineering and Technology 
+AFAD  Disaster and Emergency Management Presidency 
+ASELSAN Military Electronics Industry 
+BİDB Information Technologies Directorate 
+EBYS Electronic Document Management System 
+SWOT Strengths and Weaknesses, Opportunities and Threats
+IAESTE International Association for the Exchange of Students for Technical Experience 
+IFLA International Federation of Landscape Architects 
+IMO International Maritime Organization 
+ISO International Organization for Standardization 
+İTÜ Istanbul Technical University 
+İTÜ SEM ITU Continuing Education Center 
+KEP Registered Electronic Mail 
+KİDR Institutional Internal Evaluation Report 
+NAAB National Architectural Accrediting Board 
+NCEES The National Council of Examiners for Engineering and Surveying
+PESTLE Political, Economic, Social, Technological, Legal and Environmental Analysis 
+TTO Technology Transfer Office 
+TUSAŞ Turkish Aerospace Industries 
+TÜBİTAK The Scientific and Technological Research Council of Turkey
+UOLP Dual Diploma Undergraduate Programs 
+UZEM Distance Education Center 
+YÖK Council of Higher Education 
+YÖKAK Turkish Higher Education Quality Council 
+2022-2026  STRATEGIC PLAN7 6
+One of the most obvious goals of ITU is to create value for our country by strengt -
+hening the scientific and technological infrastructure through R&D and innovation 
+studies. For this, while increasing the number and impact of qualified scientific re -
+search, it also cooperates with public, industry and non-governmental organizati -
+ons to develop new technologies and products and strengthen the human resour -
+ces and infrastructure necessary for R&D. In this way, it provides both to monitor 
+the output performance of graduate programs by increasing their academic acti -
+vities and to increase the entrepreneurial potential of ITU students and graduates.
+In addition to these, ITU plays an active role in informing and guiding the so -
+ciety in social, cultural, scientific and technological fields. With the strengt -
+hening of the Continuing Education Center and the Alumni Relations Office, 
+in addition to the public information reports prepared on environmental and 
+natural events, priority is given to the appreciation of the perception of ITU in 
+the society and the brand value of ITU.
+Our strategic goals also include making digital transformation permanent, inc -
+reasing the visibility of our university by deepening internationalization activi -
+ties, and making ITU a more preferred institution that plays an active role in the 
+international arena. Moreover, strengthening the social life and communication 
+in ITU campuses and finally developing the institutional structure that adopts 
+continuous improvement by increasing the facilities of the campuses have a 
+prominent place among our goals.
+As we prepare excitedly for our 250th anniversary, which we will celebrate in 
+2023, the 100th anniversary of our Republic, as an education and training insti -
+tution, we have determined for ourselves a roadmap where digital transforma -
+tion, internationalization, R&D investments and university-industry cooperation 
+are always in focus.
+I would like to thank all of our academics who have contributed to the preparati -
+on of our 2022-2026 Strategic Plan, and I wish this step taken to strengthen our 
+place among the best in the world with each passing day, to be beneficial.
+Prof. Dr. İsmail Koyuncu
+RectorIstanbul Technical University, with its deep-ro -
+oted history of nearly 250 years; continues its 
+activities without slowing down in order to ex -
+pand the limits of knowledge in science, tech -
+nology and art and to respond to the needs of 
+society with its applications. ITU, which always aims at dynamism and innovation 
+in education and training; thanks to its expertise and creativity in science, tech -
+nology and art, it is on its way to become an internationally leading university. As 
+ITU has accomplished great things in the past of our country, it also undertakes 
+an eye-opening and guiding mission in the future. While aiming all these, it takes 
+care not to compromise its human-oriented and open to differences, libertarian 
+and critical, entrepreneurial and competitive, original and innovative values.
+Following our 2017-2022 Strategic Plan, in which we set out our future vision 
+as a Technical University, we have now prepared ITU’s 2022-2026 Strategic 
+Plan in line with the opinions, suggestions and guidance of all stakeholders. 
+The prepared plan includes the strategic goals of Istanbul Technical Univer -
+sity, the goals that will enable ITU to achieve these goals, and the strategies 
+to be used to achieve them, in the 2022-2026 period.
+It would be appropriate to discuss our strategic goals, which we elaborated 
+in detail in our report, which was prepared with a participatory approach, 
+under one heading.
+Due to its mission and vision, ITU always prioritizes education and training. 
+In this sense, it aims to strengthen the physical infrastructure, to dominate 
+multi-disciplinary and interdisciplinary education and training, to have stu -
+dents and teaching staff at international standards, to continuously improve 
+undergraduate and graduate education and to increase its quality every year 
+in order to make the innovative and dynamic education model permanent.RECTOR’S 
+MESSAGE
+
+2022-2026  STRATEGIC PLAN9 8
+The strategic plan includes the strategic goals of Istanbul Technical Univer -
+sity in the 2022-2026 period, the objectives that will achieve these goals, 
+and the strategies that will be used to achieve these objectives. A brief 
+summary of the strategic plan for the period 2022-2026, which will bring 
+Istanbul Technical University to its vision with a participatory approach, is 
+given below. 
+Our Mission
+The reason for the existence of Istanbul Technical University is to expand 
+the boundaries of knowledge in science, technology and art and to respond 
+to the needs of society with its applications.
+Our Vision
+Being an international and a leading university in science, technology and 
+art, with its expertise and creativity.
+Our Values
+• Human Orientation and Openness to Differences
+• Libertarianism and Criticism
+• Entrepreneurship and Competitiveness
+• Originality and InnovationSTRATEGIC PLAN  
+AT A GLANCE2022-2026  STRATEGIC PLAN 9 8
+2022-2026  STRATEGIC PLAN11 10
+H2.4 Strengthening required human resources and infrastructure for re -
+search and development
+H2.5 Increasing the entrepreneurial potential of ITU students and grad -
+uates
+A3 Taking an active role in social, cultural, scientific and technological fields 
+in a way to inform and raise awareness of the society 
+H3.1 Restructuring and strengthening the ITU continuing education 
+center
+H3.2 Strengthening the Alumni Relations Office
+H3.3 Strengthening the perception of ITU in society
+H3.4 Strengthening social life and communication in ITU campuses
+A4 Developing a corporate structure that embraces continuous improve -
+ment and ensuring digital transformation
+H4.1 Establishing quality management systems based on continuous 
+improvement
+H4.2 Completing the digital transformation at ITU
+H4.3 Improving livability for all stakeholders by increasing the facilities 
+of the campuses
+A5 Making our university a prefered institution that plays an active role in 
+the international arena  
+H5.1 Being an internationally recognized and preferred institution in ed -
+ucation and research
+H5.2 Being an internationally recognized and preferred institution with 
+its scientific research, products and technologies it has developed
+H5.3 Increasing the visibility of our University by deepening its interna -
+tionalization activitiesOur Strategic Goals and Objectives
+A1 Strengthening education and training with innovative and dynamic ap -
+proaches
+ H1.1 Strengthening the physical infrastructure for education and training
+ H1.2 Strengthening multidisciplinary and interdisciplinary education and  
+ training
+ H1.3 Having enough number of qualified Instructors to compete at  
+ international standards in education
+ H1.4 Making our university an education and training center preferred  
+ by qualified undergraduate and graduate students
+ H1.5 Ensuring continuous improvement of undergraduate and graduate  
+ education programs
+A2 Creating value for our country by contributing to scientific and techno -
+logical developments through qualified research  
+H2.1 Increasing the number and effectiveness of qualified scientific re -
+search
+H2.2 Increasing the academic activities of graduate programs and mon-
+itoring their output performance regularly
+H2.3 Developing new technologies and products by increasing cooper -
+ation with public, industry and non-governmental organizationsSTRATEGIC PLAN  
+AT A GLANCE2022-2026  STRATEGIC PLAN 11 10
+2022-2026  STRATEGIC PLAN13 12
+KEY PERFORMANCE 
+INDICATORSSTRATEGIC PLAN 
+PREPARATION 
+PROCESS
+Strategic plan preparation process is composed of ownership of the plan, 
+organization of the planning process and preparation of the preparatory 
+program.
+With the recommendation of the Strategy Development Department, a 
+Strategic Planning Commission (Annex.1) was formed on 10 November 
+2020, consisting of Vice Rectors, other administrators and academic staff, 
+under the presidency of the Rector, for the preparation of the 2022 - 2026 
+Strategic Plan.
+After the decision to start the work with the Strategic Planning Commis -
+sion, in order to carry out the work actively, as per the regulation; Stra -
+tegic Planning Subcommittee (Annex. 2) was established. Strategic plan 
+preparation studies of our university were carried out with the participation 
+of employees at all levels, starting from the Rector, with a participatory 
+approach. Quality Commissions in all academic and administrative units, 
+Advisory Boards consisting of external stakeholders of departments and 
+faculties actively contributed to the strategic planning process.
+In order to start the preparations for the strategic plan, the Sub-Commis -
+sion held its first meeting on November 24, 2020, upon the invitation of 
+the Vice Rector, Head of the Strategic Planning Team. At the meeting, the 
+strategic plan preparation process was planned, and a timetable (Figure 1) 
+was created.2022-2026  STRATEGIC PLAN 13 12
+Table 1. ITU Key Performance Indicators
+Plan Period Initial 
+ValuePerformance Indicators 2026
+30 PG1.2.1 - Number of interdisciplinary master's programs 33
+8PG1.4.2 - Number of students from the top 1000 in the 
+university entrance exam40
+25 PG1.5.3 - Number of self-assessment programs 40
+1,35PG2.1.1 - Total number of scientific articles per faculty 
+member1,60
+0,16PG2.2.2 - Number of external project supported doctoral 
+degrees completed each academic year/Total number of 
+doctorate degrees completed (%)0,35
+19 PG2.3.1 - Number of patents received 50
+12PG2.4.2 - Ratio of budget spent on R&D to total budget 
+(%)25
+2PG2.5.2 - University's place in the Entrepreneurial and 
+Innovative University Index1
+383 PG3.4.2 - Number of social, cultural and sportive activities 750
+0PG4.1.2 - Completion rate of Integrated Management 
+Systems (Energy, Environment, Asset Management, 
+Occupational Health and Safety, Risk Management) 
+processes (%)100
+0PG4.2.1 - Completion rate of Enterprise Resource Planning 
+software in all administrative processes (%)100
+7.800 PG4.3.5 - GreenMetric score 8.600
+1667 PG5.1.1 - Current number of international students 2.250
+8.296.760PG5.2.2 - Total project budget (TL) based on international 
+funds, which started to be supported during the year and 
+in which the Faculty Members and Staff took charge.12.500.000
+561-700PG5.3.1 - ITU's position in the QS World University Rating 
+(QS WUR)415-420The key performance indicators of our university are given in Table 1.
+2022-2026  STRATEGIC PLAN15 14
+  Responsible
+Nov.20
+Dec.20
+Jan.21
+Feb.21
+Mar.21
+STRATEGIC PLAN 
+PREPARATION 
+PROCESSOwnership of the plan
+Strategic Planning 
+CommissionOrganization of the planning 
+process
+Determination of needs
+Time plan
+Preparatory program
+SITUATION 
+ANALYSISCorporate history
+Strategic Planning 
+SubcommitteeAssessment of the strategic 
+plan being implemented
+Legislative analysis
+Analysis of top policy 
+documents
+Determining the fields of 
+activity and products and 
+services
+Stakeholder analysis
+Internal analysis
+Academic activities analysis
+Higher education sector 
+analysis
+SWOT analysis
+INSIGHT TO THE 
+FUTUREMission
+Vision
+Core values
+DIFFERENTIATION 
+STRATEGYLocation preference Senate
+University Executive 
+Board
+Strategic Planning 
+Commission,
+Strategic Planning 
+SubcommitteeRegion of success
+Value proposition preference
+Core competency preference
+STRATEGY 
+DEVELOPMENT 
+AND CREATION OF  
+THE PLANGoals Strategic Planning 
+Commission,
+Strategic Planning 
+Subcommittee
+Department/Unit Quality 
+Commissions
+Department/Faculty 
+Advisory BoardsObjectives
+Performance indicators
+Strategies
+Approval of the plan and 
+submission to the Presidency 
+of Strategy and BudgetRector
+Figure 1. Strategic Plan TimelineSITUATION ANALYSIS
+In the first step of the 2022 – 2026 ITU Strategic Planning process, a situa -
+tion analysis was made. Thanks to this analysis, information that constitutes 
+input to our strategic plan has been produced.
+Information on the situation analysis studies was obtained from different 
+units apart from the Strategic Planning Subcommittee. The Institutional In-
+ternal Evaluation Report (2020) and Administration Activity Report (2020) 
+and Performance Program (2021) prepared for the evaluation studies of the 
+Higher Education Quality Council (YÖKAK) are among the most important 
+sources.
+
+2022-2026  STRATEGIC PLAN17 16
+CORPORATE HISTORY
+The history of ITU dates back to the Ottoman period. In 1773, it was estab -
+lished under the name of Muhendishane-i Bahri-i Hümayun during the reign 
+of III. Mustafa. After this institution, which taught shipbuilding and cartog -
+raphy, Mühendislikhane-i Berri-i Hümayun (Imperial Land Engineering) was 
+established in 1795 in order to train the technical staff of the land army. 
+This school started to provide education in the field of architecture as well 
+as engineering education in 1847. Muhendishane-i Berri-i Hümayun, which 
+was transformed into Hendese-i Mülkiye in 1883, took the name of Engineer 
+School in 1909 and started to provide training on the training of civil archi -
+tects and engineers.
+With the establishment of the Republic, engineering and architectur -
+al education was reorganized. The School of Engineers was organized as 
+a school that provides education to cover road, railway, water works and 
+construction-architecture branches. Engineering and architecture educa -
+tion has been continued at the Graduate School of Engineering since 1928. 
+He trained the necessary technical staff in the field of public works in the 
+Republic of Turkey. This school turned into ITU in 1944 and became an au -
+tonomous university in 1946 consisting of the faculties of Construction, Ar -
+chitecture, Machinery and Electricity. Later on; Mining, Chemistry-Metallur -
+gy, Business Administration, Shipbuilding and Marine Sciences, Science and 
+Literature, Aeronautics and Space Sciences, Maritime, Textile Technologies 
+and Design, Computer and Informatics faculties have grown, all faculties 
+have been divided into departments and diploma-granting programs have 
+been developed.
+ITU trains engineers and architects who will meet the needs of Turkey in all 
+branches of engineering and architecture, and who can also be competent 
+at the international level. In the 1974-1975 academic year, two-stage educa -
+tion was started at ITU, and in addition to the four-year undergraduate edu -
+cation, two-year graduate programs began to provide high-level education 
+in many profession. Currently, a large number of students are served with 
+graduate and doctorate programs conducted by six institutes, namely En-
+ergy, Eurasia Earth Sciences, Informatics, Earthquake Engineering and Dis -
+aster Management, Aviation and Graduate Education Institute. It is aimed to 
+train faculty member candidates.
+ITU is also the house of artists home where talents are cultivated. In addi -
+tion to the first Turkish Music and State Conservatory in our country, the 
+Music Master’s and Doctorate programs, which started education in 1999, 
+train important names in our music and bring them to the art world.16
+İTÜ ARI Teknokent 
+kurulduİTÜ Çekirdek 
+2002 2012
+Mühendishane-i Bahri-i 
+HümayunMühendis Mekteb-i  
+Ali’siMühendishane-i Berri-i 
+Hümayun
+İstanbul Teknik 
+Üniversitesi’ne Geçiş1773 1909 1795
+1944
+Yükseköğretimde 250. yıl 2023
+2022-2026  STRATEGIC PLAN19 18
+LEGISLATIVE ANALYSIS
+The Strategic Planning Subcommittee of the Strategy Development Depart -
+ment analyzed the laws listed below and made a legislative analysis.
+• Constitution
+• Higher Education Law No. 2547
+• Higher Education Personnel Law No. 2914
+• 5018 Public Financial Management and Control Law
+• Technology Development Zones Law No. 4691
+The legal obligations given to ITU by the legislation examined, the basis of 
+these obligations, the determinations made and the needs that help formu -
+late the strategies of the strategic plan have been designated. These needs 
+can be summarized as follows.
+• The number of PhD and Master’s student quotas should be increased 
+as soon as possible. Restrictions in human resource planning should be 
+removed.
+• Allocating additional resources in the areas of specialization of univer -
+sities and using these resources, removing the legislative obstacles en-
+countered in the decision-making process, and granting the necessary 
+permissions to make staff structures according to differentiation strate -
+gies will facilitate universities to achieve their goals.
+• Legislation should be regulated according to the studies of academic 
+staff engaged in education and training and R&D. It is necessary to pro -
+vide the necessary flexibility in terms of increasing the use of education-
+al technologies.
+• University-Industry cooperation should be increased, accredited labora -
+tories should be supported, additional budgets should be provided for 
+research activities and projects that will contribute to the society should 
+be given priority.
+ANALYSIS OF TOP POLICY DOCUMENTS
+The following Top Policy Documents have been examined in order to list the 
+aims, objectives, policies, priorities, measures and actions related to higher 
+education. 
+• Eleventh Development Plan
+• New Economy Program 2021-2023 (Medium Term Program)
+• Ministry of Industry and Technology 2023 Strategy
+• National Science and Technology Policies 2003-2023 Strategy Document
+• Higher Education Council 2019-2023 Strategic Plan
+• Internationalization Strategy Document in Higher Education 2018- 2022ASSESSMENT OF THE STRATEGIC PLAN 
+IN IMPLEMENTATION
+A system design has been made for the implementation, monitoring and 
+evaluation of our University’s 2017-2021 Strategic Plan. A strategic plan 
+“based on measurable and objectively assessable data” has been prepared, 
+and the ITU Dashboard has been set up to measure and monitor it. The 
+strategic plan, which was prepared by fulfilling roles such as “business con-
+tinuity, increasing efficiency, instant auditing, effective sharing of internal 
+information”, was monitored and reported throughout the period, with this 
+structure, which is highly valued in order to follow corporate targets and 
+ensure concrete progress.
+Most of the objectives in the ITU 2017-2021 Strategic Plan have been suc -
+cessfully achieved and in this context, many issues such as “human resourc -
+es management, effective use of financial resources, education, training 
+and research activities and improvement of physical conditions” have been 
+implemented and have been reviewed in detail in terms of supervision. The 
+5 goals and 15 objectives of these goals, 28 activities and 62 indicators 
+included in the 2017 – 2021 Strategic Plan were monitored. For all 62 in-
+dicators determined, the units responsible for the relevant indicator were 
+interpreted by comparing the values of the beginning of the plan period, 
+cumulative and the end of the plan period. In this interpretation, target re -
+alization is considered successful if it is 90% and above, reasonable/accept -
+able if it is between 80%-89.99%, should be improved if it is between 50%-
+79.99%, and unsuccessful if it is below 50%. Of the 62 indicators, 29 were 
+determined and interpreted as successful, 11 as reasonable/acceptable, 11 
+for improvement, and 11 as unsuccessful.
+Performance programs have been created every year by adhering to the 
+Strategic Plans of our university. In this context, at the beginning of each 
+financial year, the previous year’s data were evaluated and performance 
+programs were presented to the public in order to monitor and measure the 
+performance indicator targets and realizations of the target year.
+The pandemic process that has been experienced throughout the world 
+has adversely affected our daily life and therefore our University. No matter 
+how much precautions have been taken to meet the needs, re-evaluate the 
+operations, and realize the strategies and targets with flexible management 
+studies, the impact of the pandemic conditions on the students and other 
+stakeholders has been inevitable. Such extraordinary situations have been 
+taken into account in the newly prepared 2022-2026 Strategic Plan.
+2022-2026  STRATEGIC PLAN21 20
+• Establishing a quality assurance system in education
+• Ensuring that at least 2 of our universities are in the top 100 and at least 
+5 of our universities are in the top 500 by 2023 in world academic suc -
+cess rankings
+• Increasing the international visibility of the higher education field
+• Increasing the number of International Teaching Staff
+FIELDS OF ACTIVITY AND SERVICES
+As a result of the legislative analysis, the main products and services offered 
+by ITU are given in Table 2. Identified products and services are gathered in 
+11 activity areas listed below. The fields of activity are directly related to the 
+main objectives of the ITU Strategic Plan. The establishment of goals and 
+objectives played a guiding role in designing the scope. The information obtained as a result of these examinations and providing 
+input to the strategic plan is summarized below. 
+• Strengthening R&D infrastructures of universities
+• Providing laboratory infrastructure and research funds that enable lead -
+ing Turkish scientists abroad to carry out part-time education and re -
+search activities
+• Establishing competent centers, laboratories and research infrastruc -
+tures to provide research, development and testing services at univer -
+sities
+• Increasing the budget resources allocated for the quantitative and qual -
+itative development of scientific research projects
+• Strengthening the laboratory infrastructure for critical technologies and 
+supporting R&D studies in these areas
+• Identifying products that will highlight Turkey on the basis of focal tech-
+nologies, strengthening the infrastructure of centers, universities and 
+laboratories working in the selected area in the research and develop -
+ment ecosystem
+• Supporting students and thesis advisors through relevant professional 
+organizations and with the contribution of companies, in case a doctor -
+ate and master’s thesis topic is selected from the project pool created 
+by the industry sector in areas needed in priority sectors
+• Providing incentives to students who carry out thesis and doctoral 
+studies on subjects from the industry in the priority areas of industrial 
+strategy
+• Encouraging employment of PhD researchers in the fields needed in the 
+industry within the framework of University-Industry cooperation
+• Implementing and promoting of mechanisms to increase knowledge 
+and technology transfer
+• Matching the competencies of research universities with the needs of 
+priority sectors and establishing collaborations based on projects
+• Commercializing of intellectual property rights registered on behalf of 
+higher education institutions through TTOs of different status
+• Keeping universities up with the digital age and implementing open ac -
+cess and open science practices in accessing information
+• Establishing joint digital platforms by providing incentives and sup -
+porting SEM, universities and similar educational institutions to train 
+educators for education infrastructure and to develop hybrid educa -
+tion models
+• Increasing the number of postgraduate quotas and programs
+• Completing in-house digitalization2022-2026  STRATEGIC PLAN 21 20
+2022-2026  STRATEGIC PLAN23 22
+Table 3. Main Products and Services Offered by ITU
+Field of Activity Main Product or Services
+1. Education and Training1. Undergraduate/Graduate Education Services
+2. Foreign Language Programs
+3. Vocational Skills Training Services
+4. Distance Education Services
+5. Lifelong Education and Certificate Programs
+6. Specialization and Minor Specialization Programs
+7. National and International Student/Instructor Exchange 
+Programs Service
+2. Research and Development1. Research Projects
+2. Scientific Publications
+3. Experimental Studies
+4. Patent/Utility Model/Registration
+5. Prototype Product Development
+6. Expert and Consulting Services
+7. Research Centers Analysis Services
+8. Scientific Research Support Services
+3. Scientific Activities1. Organizing Scientific Meetings at National / International Level
+2. Encouraging Faculty Members to Participate in National/
+International Scientific Meetings
+4. Social and Cultural Activities1. ITU-FEST
+2. Graduation Ceremonies
+3. University Promotion Days
+4. Library Services
+5. Services for Students (nutrition, scholarship, etc.)
+5. Sporting and Artistic Events1. Wellness and Sports Services
+2. Exhibition and Artistic Events (concerts, choirs, theatre, etc.)
+6. University-Industry and 
+University-Public Cooperation1. Consulting Service
+2. University-Industry and University-Public Cooperation
+7. Entrepreneurship 1. Supporting Entrepreneurship and Technology
+8. Services for Community 
+Benefit1. Aid Campaigns for People in Need
+2. Primary and Kindergarten Service
+3. Blood Donation Campaigns
+4. Personal Development Services
+5. Research Centers Social Services
+9. General Health Services 1. Health Center Services
+10. Management Processes and 
+Support Services1. Personnel Services
+2. Administrative and Support Services
+3. Strategy Development and Financial Services
+4. Library and Documentation Related Services
+5. Services Related to Construction Works
+6. Information Technologies Related Services
+7. Legal and Regulatory Services
+8. Press and Public Relations Related Services
+9. Security Services
+10. Financial and Administrative Legislation Information and 
+Implementation Services
+11. Internal and External 
+Communication Services              1. Corporate Internet Broadcasting
+2. Corporate Radio Broadcasting
+3. Promotional Films, Public Ads, Poster Design etc. Visual 
+ProductsSTAKEHOLDER ANALYSIS
+Stakeholder analysis was carried out in order to take into account the views 
+of the parties with whom our university interacts about the strategic plan 
+and to increase the level of success by adopting the strategic plan by the 
+stakeholders. ITU has prepared the External Stakeholder Questionnaire and 
+published it on the KEP.
+During the strategic planning process of our university, Quality Commis -
+sions in all academic and administrative units, Advisory Boards consisting 
+of external stakeholders of departments and faculties convened and sub -
+mitted what kind of developments and studies they planned in the facul -
+ties/departments and units in the short-medium-long term as input to the 
+Strategic Planning Sub-Commission. The External Stakeholder Question -
+naire published over the KEP, the data coming from the Academic and Ad -
+ministrative Units’ Quality Commissions and Advisory Boards were grouped 
+and evaluated in the seven areas listed below. All of them were used in the 
+creation of the SWOT analysis, strategies and objectives sections of the 
+2022-2026 Strategic Plan. Stakeholder views can be summarized as follows:
+1. Institutional Capacity and Quality Assurance System 
+• Digitizing the activities carried out in the administrative and aca -
+demic fields,
+• Making student, academic and administrative personnel satisfaction 
+measurement studies more effective,
+• Operating the Quality Assurance system more effectively,
+• Improving administrative and support personnel quantitatively and 
+qualitatively.
+2. Education and Training
+• Maintaining the up-to-dateness of undergraduate and graduate 
+courses,
+• Extending accreditation studies to other departments,
+• Improving the infrastructure, such as laboratory, classroom, library, 
+social facilities, etc.,
+• Increasing the number of teaching staff,
+• Ensuring internationalization in education and training,
+• Increasing industry-oriented undergraduate and graduate thesis 
+studies,
+• Increasing the number of minor and double major programs in order 
+to increase interdisciplinary education.
+2022-2026  STRATEGIC PLAN25 24
+The Importance-Impact matrix approach was used to prioritize the identi -
+fied stakeholders of our university. Evaluations were made by the Strategic 
+Planning Subcommittee using the External Stakeholder Questionnaire. 
+INTERNAL ANALYSIS
+Educational buildings of ITU are located on five campuses. The main settle -
+ment, Ayazağa Campus, is in the Maslak region, which has become the new 
+financial center of Istanbul. Rectorate and administrative units are located 
+in this campus. 
+Providing undergraduate education in Ayazağa Campus; there are Civ -
+il, Electrical-Electronics, Chemistry-Metallurgy, Mining, Science-Literature, 
+Aeronautics and Space Sciences, Shipbuilding and Marine Sciences, Com-
+puter and Informatics Faculties. Institutes where postgraduate education 
+and thematic research are carried out; Graduate Education, Eurasian Earth 
+Sciences, Informatics, Disaster Management, Aviation Institutes and Turk -
+ish Language, Physical Education, Atatürk Principles and Revolution History 
+departments operate in Ayazağa Campus. Mustafa Inan Library, computer 
+laboratories, central classroom buildings, sports facilities and 75th Year Stu -
+dent Social Center in this campus are busy living spaces. 
+The three settlements in the city center are Gümüşsuyu, Taşkışla and Maçka. 
+Gümüşsuyu and Taşkışla Campuses are located in the Taksim region, which 
+was the most important commercial and cultural center in 19th century 
+Istanbul and continues to function today. On Gümüşsuyu Campus, there 
+are Faculties of Machinery, Textile Technologies and Design, and an indoor 
+sports hall serving students and outdoor sports fields.
+Taşkışla Campus has Faculty of Architecture, Fine Arts Department and 
+Continuing Education Center. Faculty of Business Administration, School of 
+Foreign Languages, Turkish Music and State Conservatory operate on Maç -
+ka Campus. There is also a kindergarten and nursery school belonging to 
+ITU on this campus. Tuzla Campus has a training pool equipped with mod -
+ern equipment and a Maritime Faculty. Istanbul Technical University’s “Seis -
+mik1 Ship” is located on Tuzla Campus. The Administrative and Academic 
+Organization structure is given in Figure 2.3. Research and Development
+• Increasing incentives for academic activities, project, article, confer -
+ence etc.,
+• Increasing the number and support of projects received from insti -
+tutions, such as EU, TÜBİTAK etc.
+• Increasing research support,
+• Increasing University-Industry collaborations for research,
+• Increasing interdisciplinary research and the support given to these 
+researches,
+• Increasing publication incentives.
+4. Social Contribution
+• Strengthening the Center for Continuing Education to contribute to 
+lifelong learning,
+• Giving access to the publications of academicians through the de -
+partment pages,
+• Organizing joint social responsibility projects with NGOs and public 
+institutions,
+• Providing scholarship support to students 
+5. Internationalization
+• Encouraging students to become members of international profes -
+sional organizations,
+• Supporting participation in international academic and student ex -
+change programs,
+• Encouraging both participation in international projects, congresses 
+and fairs and organizing such events,
+• Institutionalizing international cooperation,
+• Increasing the number of foreign academic staff and students,
+• Increasing awareness and promotion activities.
+6. Entrepreneurship
+• Adding entrepreneurship courses to the curriculum.
+DIGITAL
+TRANSFORMATION
+OFFICE
+QUALITY
+COORDINATORSHIP
+COMMUNICATIONS
+DIRECTORATE
+INTERNATIONAL
+RELATIONS GENERAL
+COORDINATORSHIP
+EU CENTER
+ERASMUS OFFICE
+IAESTE
+MEVLANA EXCHANGE
+PROGRAMS
+INSTITUTIONAL
+COORDINATORSHIP
+COMPETENT
+ENGINEERING
+OFFICE (NCEES)
+RANKING
+COORDINATORSHIPINTERNATIONAL
+STRATEGY
+COORDINATORSHIP
+INTERNATIONAL
+STUDENT
+COORDINATORSHIPMEDIA AND
+COMMUNICATION
+OFFICE
+EVENT AND
+PROTOCOL
+DIRECTORATEVISUAL
+COMMUNICATION
+OFFICE
+PROMOTION
+OFFICE
+CORPORATE AFFAIRS
+AND ALUMNI
+COMMUNICATION
+OFFICE
+ITU ABET
+COORDINATORSHIP
+SCIENTIFIC
+RESEARCH
+PROJECTS UNIT
+EUROPEAN UNION
+CENTRAL RESEARCH
+OFFICE
+CIVIL DEFENSE
+EXPERTISE (AFAD)
+COORDINATORSHIP
+GENERAL SECRETARIAT
+OTHER UNITS DEPARTMENTS
+KALİTE
+KOORDİNATÖRLÜĞÜ
+ACADEMIC UNITS
+SENATE
+ EXECUTIVE BOARD
+ RECTOR
+INTERNAL AUDIT UNIT
+ VICE RECTORS
+ ADVISORS TO THE RECTOR
+COORDINATORSHIPS
+ DEANERY
+ DEPARTMENTS
+ INSTITUTES
+ FACULTIES
+ CENTERS
+RESEARCH
+CENTERS
+COLLEGE AND
+CONSERVATORY
+ADMINISTRATIVE
+AND FISCAL
+AFFAIRS
+DIRECTORATE
+PERSONNEL
+DIRECTORATE
+LIBRARY AND
+DOCUMENTATION
+DIRECTORATE
+STRATEGY
+DEVELOPMENT
+DIRECTORATE
+INFORMATION
+TECHNOLOGIES
+DIRECTORATE
+DIRECTORATE OF
+CONSTRUCTION
+AND TECHNICAL
+AFFAIRS
+HEALTH, CULTURE
+AND SPORTS
+DIRECTORATE
+REGISTRAR’S
+OFFICE
+DIRECTORATELEGAL
+COUNSELING
+EDITORIAL
+DIRECTORATEPRIVATE
+SECRETARIATREVOLVING FUNDS
+DIRECTORATE
+DATA ANALYSIS
+AND REPORTING
+OFFICE
+RESEARCH
+CENTERS AND
+LABORATORY
+COORDINATORSHIP
+PUBLICATION
+COORDINATORSHIP
+WORKPLACE
+HEALTH AND SAFETY
+UNIT COORDINATORSECURITY
+DIRECTORATE
+ARCHIVE
+ DIRECTORATE
+CLIMATE CHANGE
+APPLICATION AND
+RESEARCH CENTERFACULTY OF
+COMPUTER AND
+INFORMATICS
+SCHOOL OF FOREIGN
+LANGUAGESTURKISH MUSIC STATE
+CONSERVATORY
+DEAN OF
+RESEARCHDEAN OF
+STUDENTS
+WATER AND MARINE
+SCIENCE TECHNOLOGY
+APPLICATION RC
+TRANSPORTATION AND 
+RANSPORTATION
+VEHICLES APPLICATION
+RESEARCH CENTERPROF DR ADNAN TEKİN
+MATERIAL UNITS
+APPLICATION AND
+RESEARCH CENTERDISASTER
+MANAGEMENT
+APPLICATION
+RESEARCH CENTER
+CENTER FOR
+ENTREPRENEURSHIP
+AND INNOVATION
+(İTÜ-GİNOVA)
+ISTANBUL
+REGULATION
+APPLICATION AND
+RESEARCH CENTER
+ARTIFICIAL INTELLIGENCE
+AND DATA SCIENCE
+APPLICATION AND
+RESEARCH CENTERSOCIAL INNOVATION
+APPLICATION AND
+RESEARCH CENTERNANOTECHNOLOGY
+APPLICATION
+RESEARCH CENTERWOMEN’S STUDIES
+CENTER IN SCIENCE,
+ENGINEERING AND
+TECHNOLOGY
+(WSC IN SET)
+CENTER FOR
+HOUSING RESEARCH
+AND TRAINING
+CENTER (KAEM)
+AGRICULTURE AND
+ENVIRONMENTAL
+INFORMATICS
+APPLICATION RCAEROSPACE
+TECHNOLOGIES
+APPLICATION AND
+RESEARCH CENTER
+NATIONAL GEOGRAPHIC
+INFORMATION TECHNOLOGIES
+AND INNOVATION
+APPLICATION RC
+RAILWAY
+TRANSPORTATION
+SAFETY AND SECURITY
+APPLICATION RCSATELLITE
+COMMUNICATION
+AND REMOTE SENSING
+RESEARCH CENTERITU POLAR
+RESEARCH CENTER
+(ITU PolReC)EASTERN MEDITERRANEAN
+OCEANOGRAPHY AND
+PORTOGY APPLICATION
+AND RESEARCH CENTER
+TURKISH STRAITS
+MARITIME
+APPLICATION AND
+RESEARCH CENTERSCIENCE SOCIETY
+APPLICATION
+RESEARCH CENTER
+MECHATRONICS
+APPLICATION AND
+RESEARCH CENTER
+PROF DR DİNÇER TOPACIK
+NATIONAL MEMBRANE
+TECHNOLOGY APPLICATION
+RESEARCH CENTER
+CONSTRUCTION
+AND EARTHQUAKE
+APPLICATION
+RESEARCH CENTERMARDIN
+APPLICATION
+RESEARCH CENTERDEPARTMENT OF
+FINE ARTSDEPARTMENT OF
+ATATURK’S PRINCIPLES
+AND REVOLUTION
+HISTORY
+DEPARTMENT OF
+TURKISH LANGUAGEDEPARTMENT OF
+PHYSICAL EDUCATION
+EURASIA INSTITUTE
+OF EARTH SCIENCESINFORMATICS
+INSTITUTE
+DISASTER
+MANAGEMENT
+INSTITUTE
+AVIATION
+INSTITUTEGRADUATE
+SCHOOL
+ENERGY
+INSTITUTEFACULTY OF
+SCIENCE
+AND LETTERS
+FACULTY OF
+CHEMICAL -
+METALLURGICAL
+ENGINEERINGFACULTY OF
+NAVAL ARCHITECTURE
+AND MARINE SCIENCES
+FACULTY OF
+CIVIL ENGINEERINGFACULTY OF
+ELECTRICAL AND
+ELECTRONICS
+FACULTY OF
+AERONAUTICS AND
+ASTRONAUTICSFACULTY OF
+MARITIME
+FACULTY OF
+TEXTILE TECHNOLOGIES
+AND DESIGNFACULTY OF
+MANAGEMENT
+FACULTY OF
+MINES
+FACULTY OF
+MECHANICAL
+ENGINEERING
+FACULTY OF
+ARCHITECTURETECHNOLOGICAL
+AND ECONOMIC
+DEVELOPMENT AND
+RESEARCH CENTERDR. ORHAN ÖCALGİRAY
+MOLECULAR BIOLOGY -
+BIOTECHNOLOGY &
+GENETICS RC (MOBGAM)
+ITU DR. EROL ÜÇER
+CENTER FOR ADVANCED
+STUDIES IN MUSICPROF DR MUSTAFA
+KÖSEOĞLU TEXTILE-BASED
+COMPOSITE AND ADVANCED
+TECHNOLOGIES CENTER
+NATIONAL SOFTWARE
+CERTIFICATION
+CENTER
+CONTINUING
+EDUCATION
+APPLICATION AND
+RESEARCH CENTER
+DISTANCE
+EDUCATION CENTERTURKEY EU
+TRAINING CENTER
+RESEARCH CENTERFINANCIAL RISK
+RESEARCH CENTER
+ROTORCRAFT
+DESIGN AND
+EXCELLENCE CENTERCENTER FOR ADVANCED
+TECHNOLOGIES IN
+ARCHITECTUREITU CENTER
+FOR EXCELLENCE
+IN EDUCATIONCENTER FOR
+ECONOMIC AND
+SOCIAL STUDIES
+ITU CAREER
+CENTER2022-2026  STRATEGIC PLAN 27 26
+Figure 2. Administrative and Academic Organization
+2022-2026  STRATEGIC PLAN29 28
+Human Resources Competency Analysis
+Our university has trained manpower in terms of academic and administra -
+tive personnel, each of whom is competent in their own field. The numerical 
+data of the administrative personnel are given in Table 3, and the numerical 
+data of the academic personnel are given in Table 4.
+Foreign lecturers work in many departments of our university. Table 5 gives 
+the number of foreign personnel.
+When the number of vacant/full administrative staff of our university is 
+examined, it is seen that there are 1024 vacancies. Within the framework of the opportunities provided by the state and the 
+practices brought by the legislation, the personnel needs of ITU are tried to 
+be met in the most effective way with the help of existing and newly recruit -
+ed personnel. Our strategic and quality management policies, which are 
+determined in line with the mission and vision of our university, are aimed 
+to increase productivity with work processes that can be improved con-
+tinuously. In the development of these goals, a planned human resources 
+management is very important. Today, human resources management fo -
+cuses on the importance of the human factor and displays an approach that 
+values the needs, training, development and motivation of its employees.
+Corporate Culture Analysis
+ITU has a structured interaction mechanism to ensure the participation of 
+internal and external stakeholders. Involvement of internal stakeholders has 
+been defined in the current ABET and Unit Improvement processes and has 
+a continuous structure in a cycle. In support of this, the Quality Commis -
+sion was established to represent all units and internal stakeholders. In this 
+way, all internal stakeholder representatives were included in quality and 
+improvement studies and strategic planning studies.
+In addition to these meetings, satisfaction surveys are announced on the 
+website of our University and applied over the internet in order to receive 
+the opinions of internal stakeholders (student, administrative and academic 
+staff) on the quality of service provided, and forms are announced on the 
+web page of ITU Quality Coordinatorship.
+Decisions taken and practices made at the institution are shared with our 
+students, one of our most important internal stakeholders, via the corporate 
+web page, ITU webmail, Ninova and notice boards. In addition, students par -
+ticipate in decision-making processes through the following mechanisms:
+• Communication with students is provided through the representative of 
+the student and clubs union.
+• Student opinions are taken by conducting satisfaction surveys to measure ser -
+vice quality on the basis of units (dining hall, library, etc.). Considering the com -
+pletion time of the Quality Management Cycle and the education period of the 
+students, it was decided to conduct these surveys once every two years.
+• Regarding education and training activities, course evaluation surveys 
+are conducted regularly, and opinions and suggestions about courses 
+are collected.
+“Help Tickets”, which is another feedback mechanism, is also used frequently 
+because it is an active system and accessibility is more efficient. In this way, 
+complaints/suggestions/evaluations are conveyed to the relevant unit and 
+efficiency can be achieved by communicating more quickly.Table 4. Number of Administrative Staff
+Type of staff Number*
+Number of permanent staff 1.102
+Number of contracted personnel 42
+Number of temporary workers (Man/Month-Person) 8
+Number of permanent workers 860
+TOTAL 2.012
+* As of 31.12.2020 
+Table 6. Number of Foreign Personnel
+Title Number
+Professor 6
+Associate Professor 1
+Assistant Professor 14
+Instructor 28
+Artist Instructor* 18
+Art Practitioner* 2
+TOTAL 69
+* Contracted Foreign PersonnelTable 5. Number of Personnel by Academic Titles
+Title Number
+Professor 540
+Associate Professor 248
+Assistant Professor 315
+Instructor 401
+Research Assistant 756
+TOTAL 2.260
+2022-2026  STRATEGIC PLAN31 30
+Corporate Performance Management
+Performance Program has been carried out in our university since 2009 (https://
+stratejigelisteme.itu.edu.tr/yayinlarveraporlar/performans-programi). Key indi -
+cators of our university that will serve five strategic goals are also taken into 
+account in university ranking systems. In addition to these, key indicators of Re -
+search University in terms of research and development activities are followed in 
+our University, which is a Research University in line with mission differentiation. 
+It is aimed to adopt the unit research quality and improvement cycles and the 
+indicators to be followed not only at the level of the Rectorate, but also on the 
+basis of units. These indicators are monitored both on the basis of the Rectorate 
+through the strategic management panel, and the indicators concerning the units 
+are observed on the basis of units and improvement suggestions are defined.
+Physical Resources Analysis
+The fields of ITU, which continues its education and training activities on five 
+different campuses in Istanbul, in and out of Istanbul by 2020 are shown in 
+the tables below (Table 6, Table 7). Our university has a rich collection of 
+library resources as shown in Table 8.
+Information and Technology Resources
+In line with the current monitoring of information and communication tech-
+nologies, Istanbul Technical University aims to provide all its students and 
+academic units with the most efficient information infrastructure that can 
+be used in creative and collaborative work, and to maximize the use of in-
+formation technologies in the work of administrative staff. In 2018, the “ISO 27001:2013 Information Security Management System” cer -
+tificate was obtained. 14 policies and 20 procedures in the ISO 27001 ISMS 
+documentation regarding the acquisition, recording, updating and sharing of 
+information continue to be actively operated. ITU information systems are de -
+veloped as an intranet. Management information systems have been serving 
+since 1998 in a way that allows a transparent management that respects the 
+security and confidentiality of information. Our centers related to information 
+systems at ITU provide assistance and support with the principle of working 
+24 hours a day, 7 days a week.
+Financial Resource Analysis
+Considering the budget of ITU, financial resources have been estimated 
+in order to determine the objectives, targets, performance indicators and 
+strategies in the strategic plan in a realistic way. For this, the medium-term 
+financial plan was used, and extra-budgetary resources and resources after 
+the first three years were estimated. In addition, the income of projects and 
+activities financed from external sources (eg EU funds, foreign loans, etc.) 
+in order to realize the aims and objectives of the university during the stra -
+tegic plan period were also taken into account. Financial resource analysis 
+is given in Table 9.Table 7. ITU Campuses and Areas
+Place Area (thousand m²)
+Ayazağa Campus (Academic Area) 1.651
+Slum Area 626
+Gumussuyu Campus 58
+Macka Campus 63
+Taşkışla Campus 52
+Tuzla Campus 117
+Florya Campus 106
+Kucukcekmece Land 1.108
+Aydın Çine Seismology Laboratory 0,6
+Elazig Rızaiye Seismology Laboratory 2,1
+Kastamonu Saraçlar Seismology Laboratory 0,4
+TOTAL 3.784,10Table 8. Distribution of Indoor Areas in the Campuses
+Indoor areas Total
+ITU Indoor Areas 838,92 (thousand m²)*
+Education Areas 277,16 (thousand m²)
+Social Areas 34.520 (m²)
+Student Dormitories 103.130 (m²)
+Lodgings 42.831 (m²)
+Sports fields 82.240 (m²)
+Meeting and Conference Halls 19.805 (m²)
+Preschool and Primary School 31.120 (m²)
+Table 9. Library Resources
+Source Number
+Print Publication 486.968
+Visual Material 38.575
+Map 7.408
+Number of Subscribed and Purchased Electronic Books 447.335
+Total Number of Publications 980.286
+Number of Electronic Journals 39.725
+2022-2026  STRATEGIC PLAN33 32
+Academic Activities Analysis
+When the relevant sub-headings of the Situation Analysis section are eval -
+uated for the analysis of the academic activities of ITU, the following evalu -
+ations can be made in the context of education, research, entrepreneurship 
+and social contribution, which are the main academic activities.
+Field: Education
+İ25 engineering programs of ITU are accredited by ABET. With this 
+accreditation, in addition to international recognition, the quality of 
+education is equivalent to accredited universities in the USA and the 
+diploma given is valid all over the world.
+Our university carries out international undergraduate exchange pro -
+grams for its students to study abroad and joint programs with Amer -
+ican universities for its students to earn double degrees.
+In order to contribute more to national and international development, 
+different connections have been established with various segments of 
+the society, especially the business environment, and students have 
+been provided with practices in this field.
+As a result of the efforts to increase the number of double major, 
+minor, master and doctorate programs in order to expand interdisci -
+plinary R&D, education and training, our University has 29 interdisci -
+plinary master’s and 14 doctorate programs.Our university cooperates in education and training by bringing to -
+gether its strengths with higher education institutions abroad recog -
+nized by the Council of Higher Education.
+Studies continue to increase the number of students benefiting from 
+double major and minor programs in undergraduate programs.
+Being aware of its social responsibility, our university will continue to 
+train engineers who have a high level of knowledge, are compatible 
+with the environment, can use resources effectively, respond to the 
+current and future needs of society, can use and develop new technol -
+ogies, respect ethical values, and compete with the world.
+Field: Research, development and innovation
+The main purpose of ITU in this field is to produce new ideas, develop per -
+spectives and reveal new values by addressing the problems that await solu -
+tions on a regional and global scale. In addition to meeting the need for young 
+researchers with the young researchers it has trained, it also leads research in 
+many fields, makes it a prototype and provides the development of Univer -
+sity-Industry cooperation by preparing the necessary conditions for its pro -
+duction and using the infrastructure of R&D units. R&D studies are carried out 
+in order to evaluate, accept and support scientific research project proposals, 
+which are conducted by faculty members of Istanbul Technical University and 
+researchers who have completed doctorate or proficiency in arts education, 
+to carry out services related to them, to monitor them and to evaluate the 
+results, and to develop cooperation with income generating laboratories and 
+industry by providing patent and license support to researchers. The number 
+of these studies will be increased. In order to contribute to the increase of 
+knowledge and technological development of our country, it contributes to 
+the establishment of research infrastructures and strengthening of capacities 
+in higher education institutions. 
+ITU Engineering and Architectural Education Center of Excellence has been 
+established in order to contribute to the professional and continuous devel -
+opment of the academic staff at our university. Our University aims to under -
+stand the different learning needs of our Instructors; to support their contin -
+uous development in the fields of education and research; It plans to create 
+active collaboration platforms where everyone can learn from each other 
+with pleasure and to disseminate innovative learning approaches, tools and 
+applications based on current approaches in educational sciences. 
+Field: Social contribution
+Universities should provide training to all segments of the society in 
+the areas they need, and contribute to the development of cooper -Table 10. Financial Resource Analysis and Estimation
+RESOURCES 2022 2023 2024 2025 2026Total 
+Resource
+General Budget
+Special Budget 715.651.000 771.677.000 810.260.000 850.773.000 893.312.000 4.041.673.000
+Local Authorities
+Social Security 
+Institutions
+Extra Budgetary 
+Funds*10.000.000 10.500.000 11.500.000 13.000.000 14.000.000 59.000.000
+Circulating 
+capital76.000.000 78.000.000 82.000.000 86.000.000 90.000.000 412.000.000
+Foundations and 
+Associations
+Outsource 25.700.000 27.000.000 28.500.000 30.000.000 31.500.000 142.700.000
+Other
+2022-2026  STRATEGIC PLAN35 34
+ation with public institutions and organizations, the private sector 
+and international organizations. Training centers, which continuously 
+disseminate emerging new information and technologies to industri -
+al establishments and society at large, are an indispensable comple -
+ment to this development. Istanbul Technical University Continuing 
+Education Center has been contributing to the development of the 
+university’s cooperation with the public, private sector and interna -
+tional organizations by organizing educational programs apart from 
+the formal undergraduate and graduate education programs of our 
+university since 1997.
+Student Life in Higher Education
+The physical regeneration steps carried out in order to increase the quality 
+of life at our university are continuing. Evaluating the world’s outstanding 
+universities in areas such as infrastructure, energy, climate change, recy -
+cling, water resources, transportation and education; GreenMetric, a plat -
+form that creates global awareness on sustainability and environmental 
+awareness; Our University, which has realized many innovations and firsts 
+in our country with its Green Campus studies, has also registered in the 
+international arena and declared that it ranks 71st among the world’s 912 
+respected universities and 37th in Europe. ITU has become the pride of our 
+country as the only Turkish university in the top 100.
+Istanbul Technical University produces with its own staff in four main kitchens 
+and serves four types of lunch in ten cafeterias during the academic year.
+A total of 4.872 students are provided with dormitories in a closed area of 
+103.130 m2 in total at our university.
+In our university, health services are carried out through the Department of 
+Health, Culture and Sports, and psychological counseling and guidance ser -
+vices are also provided. Students, university employees, retirees and their 
+dependents benefit from health services. Health services are provided in 
+Health Centers and Health Rooms in five campuses of our University.
+Basketball, volleyball, badminton, table tennis, handball, korfball can be 
+played and fencing activities can be done at the ITU Ayazağa Sports Center 
+facility. The classes opened by the Department of Physical Education are 
+also held in this hall.
+Students are allowed to rest, spend their free time, and engage in activi -
+ties in areas of expertise that will contribute to their professional formation, 
+through the Culture and Art Association and clubs..HIGHER EDUCATION SECTOR ANALYSIS
+Within the scope of the strategic planning study, the developments in the 
+higher education sector, in which ITU takes place, were examined, the op -
+portunities and threats in the sector were discussed, and how our university 
+could using the opportunities in the sector and what kind of precautions 
+could be taken against the threats were examined. 
+In the first part of this analysis, which will shed light on which areas our uni -
+versity should focus on and which differentiation strategies should be fol -
+lowed in order to strengthen its leading position in the sector, the rising or 
+falling trends in the sector were examined and determinations were made 
+about where to head in the future. Sectoral trends were analyzed using a 
+technique also called PESTLE, consisting of political, economic, sociocultur -
+al, technological, legal and environmental dimensions.
+The components that make up this structure in the higher education sec -
+tor are competitors from other universities, stakeholders such as students, 
+non-governmental organizations, public institutions, suppliers from which 
+the university purchases products and services, regulatory and supervisory 
+institutions including accreditation institutions such as YÖK and ABET.
+The information obtained as a result of the sector analysis can be summa -
+rized as follows.
+• Opening postgraduate programs for priority areas, supporting interdis -
+ciplinary projects
+• Increasing the number of qualified graduate students
+• Increasing the number of qualified foreign personnel
+• Establishing international joint training programs for priority areas
+• Developing strategic partnerships with internationally important insti -
+tutions and organizations in order to create the image of the university 
+and gain a respected place in the international arena.
+• Carrying out systematic studies to find foreign funding for research activities.
+• Improving and developing of research centers and laboratory infra -
+structures
+• Developing University-Industry collaborations in appropriate priority ar -
+eas, taking into account the competencies of the current academic staff 
+and the adequacy of the physical infrastructure.
+• Encouraging the academic staff to develop and realize industrial projects
+• Funding the projects of entrepreneurial students and thus revealing new 
+employment opportunities for the country.
+• Developing policies to keep qualified academics at the university
+• Increasing the number and diversity of joint studies with Non-Govern-
+mental Organizations and Professional Chambers
+2022-2026  STRATEGIC PLAN37 36
+• Providing equal access and benefit to everyone as a “Barrier-Free Campus”
+• Supporting students’ arts, culture and social responsibility activities
+• Diversifying SEM programs so that all segments of society can benefit.
+• Developing the competencies of academicians in order to provide har -
+monized education with new education models and technologies
+• Improving existing platforms and implementing software and technolo -
+gies for the need for effective remote conduct of undergraduate, grad -
+uate and SEM courses.
+• Opening training programs for new occupational groups and develop -
+ing fields, keeping current programs up-to-date in this direction.
+• Utilizing technologies such as mobile technologies, gamification, virtual 
+and augmented reality in education and research activities
+• Ensuring the compliance of university activities with the regulations 
+made under the law
+• Implementing projects for the use and acquisition of renewable energy 
+resources in the campuses
+• Implementing projects for identification of waste, appropriate disposal meth -
+ods, appropriate storage methods and minimization of waste generation
+• Maintaining and, if possible, improving its successful position in the Green -
+Metric ranking, where the current situation and sustainability are evaluat -
+ed within the framework of the “Green Campus” policy of the university.
+• Implementing social responsibility projects for the further development 
+of environmental awareness
+• Identifying buildings with high earthquake risk; completing of retrofit 
+and renovation works as soon as possible
+• Strengthening distance and online education infrastructure and technologies
+• Keeping the alternative plans of the courses to be carried out with distance 
+education ready; conducting courses that do not require one-to-one prac -
+tice, such as laboratory work or field research, with distance education. 
+SWOT (Strengths, Weaknesses, Opportunities, 
+and Threats) ANALYSIS
+The following studies were used to determine the strengths and weaknesses of 
+ITU and the opportunities and threats that may arise outside of our university.
+• Internal analysis
+• Situation analysis
+• Higher education sector analysis
+• Institutional Internal Evaluation Report (KİDR) prepared for the inspec -
+tion of ITU Higher Education Quality Council
+Strengths and Weaknesses, which were created by examining the docu -
+ments and taking opinions, are given in Table 10, Opportunities and Threats 
+are summarized in Table 11.Table 11. Strengths and Weaknesses
+INTERNAL ENVIRONMENT
+Strengths Weaknesses
+S01Having strong academic and administrative 
+staffW01 Having a limited budget
+S02Having prefered graduates in the labor 
+marketW02Having high number of students per faculty 
+member
+S03Having historical roots extending to the 
+first national higher education institutions, 
+scientific and cultural heritage and 
+reputation carried for centuriesW03Being inadequate in creating institutional 
+memory and suffering from institutional 
+inertia
+S04Having a strong alumni and stakeholder 
+networkW04Having current students who have low 
+foreign language proficiency 
+S05Having high employment rate of graduates 
+and high job placement rate within 6 monthsW05Having few applications for international 
+project supports
+S06Having strong postgraduate research 
+institutesW06Having limited financial support 
+(scholarships, part-time jobs) available to 
+attract qualified international students
+S07Having strong applied education 
+infrastructures such as laboratories and 
+workshopsW07Not having a high enough ranking systems 
+(QS, Times Higher Education, Shanghai 
+etc.) 
+S08Having internationally accredited 
+departments (such as ABET, NAAB, IMO, 
+IFLA)W08Having the low number of students who 
+rank high in the university entrance exam
+S09Having students ranked high in the university 
+entrance examW09Having Insufficient number of SCI, SSCI 
+or AHCI indexed publications per faculty 
+member per year
+S10Establishing partnerships with semi-public 
+and semi-private organizations (ASELSAN, 
+TUSAŞ, TAI, etc.)W10Dealing with too many bureaucratic 
+procedures in academic and administrative 
+activities and slow pace of proceedings
+S11Having various graduate programs and 
+having some departments which only focus 
+on graduate programsW11Having inadequate social and 
+accommodation facilities provided by the 
+university compared to the number of 
+students
+S12Having strong communication and 
+cooperation with national and international 
+academic institutionsW12Lack of effective systems to reach the right 
+data in a timely manner
+S13Making science, research, innovation and 
+entrepreneurship visible by ITUW13Having inadequate organizational structure 
+to realize the university's future goals
+S14Having contemporary and up-to-date 
+undergraduate education programs/plansW14Having low number of patent applications 
+and patents received
+S15The education given at ITU for a wide 
+range of disciplines allows to create 
+interdisciplinary programs that become 
+more and more widespread in the world.W15Not being prefered as a priority for 
+graduate education by the graduate 
+students who will receive education in the 
+country 
+2022-2026  STRATEGIC PLAN39 38
+Table 12. Opportunities and Threats
+EXTERNAL ENVIRONMENT
+Opportunities Threats
+O01 Turkey has a young and dynamic population T01 Continuous increase in student quotas by YÖK
+O02Increasing incentives for university-industry 
+cooperationT02Insufficient resources allocated to higher 
+education
+O03Emerging of technologies and new business 
+models that support education and 
+management with digital transformationT03The uncertainty environment in the Turkish 
+economy prevents long-term financial planning.
+O04Increasing the number of project incentives 
+for developing areas that emerged with the 
+Fourth Industrial RevolutionT04 Lack of financial and administrative autonomy
+O05Having ITU graduates who take part in the 
+country's administration at the highest levelT05Directing the target of the trained workforce 
+to financial opportunities, moving away from 
+academic education
+O06Having high sectoral opportunities offered 
+due to the fact that Istanbul is the industrial 
+center of the provinceT06 Increasing number of universities in Turkey
+O07High national and international research 
+funds for research and developmentT07Negative news and perceived trends at the 
+political level negatively affect the recruitment 
+of Faculty Members from abroad
+O08Increasing demand for interdisciplinary 
+master's and doctoral programsT08Opportunities offered by foundation 
+universities create competition in attracting 
+qualified academics and ensuring that 
+academics stay in the institution.
+O09Increasing academic cooperation and 
+consultancy needs of the public and private 
+sectorsT09With the increasing quotas, the possibility 
+of inadequate university accommodation, 
+scholarship, classroom and laboratory facilities 
+increases.
+O10Increasing need for online synchronous and 
+asynchronous trainingT10The low level of English of the students coming 
+to the university
+O11Partnerships to be established in the 
+entrepreneurship ecosystem offer new 
+research opportunitiesT11The decrease in the institutional belonging of 
+the academic and administrative staff due to 
+the lack of improvement in personal rights
+O12Diversification and increase in state R&D 
+fundsT12Failure to provide academic and administrative 
+staff at the level of needs by YÖK
+O13Increasing importance of sectors such 
+as energy, health, defense, chemistry, 
+environment, materials and informaticsT13The majority of the students in graduate 
+education are private sector employees and the 
+theoretical-academic content is weakened.
+O14Increasing interest and needs of public and 
+private sector employees in postgraduate 
+educationT14Decreased quality of education at high school 
+and secondary education level
+O15The high need of public institutions and 
+organizations for technological developmentsT15Reduction in the number of qualified doctoral 
+students who will continue their research after 
+the master's levelINSIGHT TO 
+THE FUTURE
+The mission, vision and values of Istanbul Technical University were deter -
+mined at the 592nd meeting of the University Senate on 06.02.2014. 
+Mission
+The reason for existence of Istanbul Technical University is to expand the 
+boundaries of knowledge in science, technology and art and to respond to 
+the needs of society with its applications.
+Vision
+Being an international and a leading university in science, technology and 
+art, with its expertise and creativity.
+Values
+• Human Orientation and Openness to Differences
+• Libertarianism and Criticism
+• Entrepreneurship and Competitiveness
+• Originality and Innovation39 2022-2026  STRATEGIC PLAN
+2022-2026  STRATEGIC PLAN41 40
+DIFFERENTIATION 
+STRATEGY
+Differentiation strategy; it acts as a bridge between the mission, vision, and 
+core values and the goals and objectives of the strategic plan by clarifying 
+the issues such as positioning the university in the higher education sector, 
+determining the competencies it wants to build, and how its perception and 
+reputation should be.
+POSITIONING PREFERENCES
+ITU trains people who will meet the needs of Turkey in the field of archi -
+tecture and all branches of engineering, and who can also be competent at 
+the international level. In the 1974-1975 academic year, two-stage education 
+was started at our university, and in addition to the four-year undergraduate 
+education, two-year graduate programs and high-level education in many 
+professions began to be provided. Currently, a large student population is 
+served with master’s and doctorate programs conducted by six institutes, 
+namely Graduate Education, Energy, Eurasian Earth Sciences, Informatics, 
+Disaster Management, and the Aviation Institutes, and educating researchers 
+and young faculty members that Turkey needs through post-graduate edu -
+cation are intended to be trained. 
+In this context, producing R&D outputs at a global level is among the main 
+goals of our University.
+ITU is a “Research-Oriented” university because of the preferences of the top 
+management of the university, their historical context, and being chosen as a 
+“Research University” by YÖK.
+Additionally, it has been continuing to train engineers since its establishment 
+in 1773. Qualified researchers are needed to become a world-class research 
+university. Therefore, with this mission, ITU will continue to progress and de -
+velop towards becoming a “Research-Oriented University”. In this context, 
+ITU Faculty Members give priority to research activities and graduate pro -
+grams in their studies, while giving importance to the education of students .SUCCESS AREA PREFERENCES
+ITU has determined its positioning preference as a Research-Oriented Uni -
+versity. ITU will attach importance to the development of product-oriented, 
+high value-added, and innovative products in its research. When techno -
+logical and environmental trends are evaluated and compared to other uni -
+versities that make a similar choice, it will differ by focusing on the following 
+areas:
+• Artificial intelligence, big data analysis,
+• Remote sensing,
+• Control software and internet of things,
+• Quantum computer technologies,
+• Automation and robot technologies,
+• Biotechnology and health sciences,
+• Development of biomechanical and medical devices,
+• Energy storage systems,
+• Green Technologies,
+• Environmental issues, climate changes, smart cities, and sustainability
+• Disaster management and earthquake research,
+• Polar studies,
+• Sustainable energy sources,
+• New generation advanced vehicle technologies (land, air, sea, electrici -
+ty, hydrogen, autonomous, etc.),
+• Defence industry,
+• Space Engineering within the scope of the National Space Program,
+• Advanced material technologies,
+• Textile technologies and fashion design,
+• Chemical technologies
+VALUE PROPOSAL PREFERENCES
+Value proposal is the set of services that our University offers and wishes to 
+offer. When this service set is evaluated;
+ITU will improve its services by making innovations in scientific project sup -
+ports, University-Industry cooperation projects, educational methods, aca -
+demic and administrative processes, and certification processes.
+It will continue by increasing its research, development, laboratories, inter -
+disciplinary projects, publications, training of master’s doctorate students, 
+and internationalization.
+2022-2026  STRATEGIC PLAN43 42
+CORE COMPETENCE 
+CHOICE
+Core competencies enable specialization and gain depth over time in the 
+area of expertise. Considering the areas to be differentiated, the core com-
+petencies of ITU, defined below, come to the fore. Education
+1. Being able to raise competent graduates by providing quality education,
+2. Being able to do laboratory and practice-oriented training,
+3. Becoming competent in multi-disciplinary and interdisciplinary studies,
+4. Providing training with the effective integration of information 
+technologies,
+5. Increasing innovation capability,
+6. Specializing in the distance and hybrid education,
+7. Having access to powerful and advanced information, library, and 
+digital education opportunities.
+Research
+1. Having high innovation ability (to be a pioneer in innovations such as 
+patents, etc. by using the human resources, physical and technological 
+resources of the university),
+2. Establishing research infrastructures for target sectors and ensuring 
+their sustainability,
+3. Being competent in multi-disciplinary and interdisciplinary studies and 
+creating research teams and centers that will provide such working 
+opportunities,
+4. Being a leader in research support and human resources
+Active Role Playing in the International Area
+1. Being a preferred university in international education and research,
+2. Having the knowledge and skills to ensure the representation of the 
+country abroad in the field of technology,
+3. Highlighting cooperation and joint programs at undergraduate and 
+graduate levels,
+4. Being able to offer innovative solutions in international student mobility,
+5. Being able to develop international education cooperation easily and quickly
+Contribution to Society
+1. Being able to develop projects that will contribute to the society in line 
+with the demands of the society,
+2. Focusing on technological solutions to social needs,
+3. Providing services for the development and strengthening of the 
+information society.
+Institutional Structure
+1. Having an institutional structure shaped by the faculty, administrative 
+staff, and administrators of ITU, based on merit and participatory 
+management principles,
+2. Having a productive and innovative corporate culture,
+3. Equipping ITU with digitized management systems exemplary for Turkey.
+2022-2026  STRATEJİK PLAN 45 44
+Table 13. ITU 2022-2026 Strategic Plan Goals and Objectives
+Goals Objectives
+A1 Strengthening education 
+and training with 
+innovative and dynamic 
+approachesH1.1 Strengthening the physical infrastructure for education and training
+H1.2Strengthening multidisciplinary and interdisciplinary education and 
+training
+H1.3Having enough number of qualified Instructors to compete at 
+international standards in education
+H1.4Making our university an education and training center preferred by 
+qualified undergraduate and graduate students
+H1.5Ensuring continuous improvement of undergraduate and graduate 
+education programs
+A2 Creating value for 
+our country by 
+contributing to scientific 
+and technological 
+developments through 
+qualified researchH2.1 Increasing the number and effectiveness of qualified scientific research
+H2.2Increasing the academic activities of graduate programs and regularly 
+monitoring their output performance
+H2.3Developing new technologies and products by increasing cooperation 
+with public, industry, and non-governmental organizations
+H2.4Strengthening the necessary human resources and infrastructure for 
+research and development
+H2.5 Increasing the entrepreneurial potential of ITU students and graduates
+A3 Taking an active role in 
+social, cultural, scientific, 
+and technological fields in 
+a way to inform and raise 
+awareness of the societyH3.1 Restructuring and strengthening the ITU continuing education center
+H3.2 Strengthening the Alumni Relations Office
+H3.3 Strengthening the perception of ITU in society
+H3.4 Strengthening social life and communication in ITU campuses
+A4 Developing a corporate 
+structure that embraces 
+continuous improvement 
+and ensures digital 
+transformation.H4.1Establishing quality management systems based on continuous 
+improvement
+H4.2 Completing the digital transformation at ITU
+H4.3Improving livability for all stakeholders by increasing the facilities of the 
+campuses
+A5 Making our University a 
+preferred institution that 
+plays an active role in the 
+international arena.H5.1Being an internationally recognized and preferred institution in 
+education and research
+H5.2Being an internationally recognized and preferred institution with its 
+scientific research, products and technologies it has developed
+H5.3Increasing the visibility of our university by deepening 
+internationalization activitiesSTRATEGY DEVELOPMENT
+In the development of ITU’s goals, objectives, and strategies, approaches to 
+assessing strengths and opportunities and minimizing the effects of threats 
+and weaknesses have been adopted. ITU’s mission, vision, and values formed 
+the strategic directions in determining the goals and objectives. The aims 
+and objectives of ITU in the 2022-2026 Strategic Plan are given in Table 12 .
+In terms of the effective functioning of each objective and target monitoring 
+and evaluation, the responsibility of the targets and other units that will con -
+tribute to the target are given in Table 13.
+
+2022-2026  STRATEGIC PLAN47 46
+Table 14. Units Responsible for Goals (R) and Units to Cooperate for Objectives (C)
+Academic and 
+Administrative Units A1 
+Strengthening education and training 
+with innovative and dynamic approachesA2 
+Creating value for our country 
+by contributing to scientific and 
+technological developments through 
+qualified researchA3 
+Taking an active role in 
+social, cultural, scientific, and 
+technological fields in a way to 
+inform and raise awareness of the 
+societyA4 
+Developing a corporate structure 
+that embraces continuous 
+improvement and ensuring 
+digital transformationA5
+Making our university an 
+institution that plays an 
+active role and is preferred 
+in the international arena
+H1.1 H1.2 H1.3 H1.4 H1.5 H2.1 H2.2 H2.3 H2.4 H2.5 H3.1 H3.2 H3.3 H3.4 H4.1 H4.2 H4.3 H4.4 H5.1 H5.2 H5.3
+Vice-Rectors R R R R R R R R R R R R R R R R R R R R R
+Faculties
+Faculty of Computer and 
+Informatics C C C C C C C C C C C C C C C
+Maritime Faculty C C C C C C C C C C C C C C C
+Faculty of Electrical and 
+Electronics C C C C C C C C C C C C C C C
+Faculty of Science and Letters C C C C C C C C C C C C C C C
+Faculty of Naval Architecture 
+and OceanC C C C C C C C C C C C C C C
+Faculty of Civil Engineering C C C C C C C C C C C C C C C
+Faculty of Management C C C C C C C C C C C C C C C
+Faculty of Chemistry and 
+MetallurgyC C C C C C C C C C C C C C C
+Faculty of Mines C C C C C C C C C C C C C C C
+Faculty of Machinery C C C C C C C C C C C C C C C
+Faculty of Architecture C C C C C C C C C C C C C C C
+Faculty of Textile Technologies 
+and DesignC C C C C C C C C C C C C C C
+Faculty of Aeronautics and 
+AstronauticsC C C C C C C C C C C C C C C
+Institutes
+Disaster Management Institute C C C C C C C C C C C C
+Eurasia Institute of Earth 
+SciencesC C C C C C C C C C C C C
+Institute of Informatics C C C C C C C C C C C C
+Energy Institute C C C C C C C C C C C C
+Graduate School R C C R C C C C C C C C
+Aviation Institute C C C C C C C C C C C C
+Colleges
+Turkish Music State 
+ConservatoryC C C C C C C C C
+School of Foreign Languages C C C C C C C
+Departments
+Ataturk's Principles and 
+Revolution History DepartmentC C C
+Physical Education Department C C C C C
+Fine Arts Department C C C C C
+Turkish Language Department C C C
+Research Centers C C i C C C
+Application and Research 
+CentersC C C C C C
+Academic and 
+Administrative Units A1 
+Strengthening education and training with 
+innovative and dynamic approachesA2 
+Creating value for our country 
+by contributing to scientific and 
+technological developments through 
+qualified researchA3 
+Taking an active role in 
+social, cultural, scientific, and 
+technological fields in a way to 
+inform and raise awareness of the 
+societyA4 
+Developing a corporate structure 
+that embraces continuous 
+improvement and ensuring 
+digital transformationA5
+Making our university an 
+institution that plays an 
+active role and is preferred 
+in the international arena
+H1.1 H1.2 H1.3 H1.4 H1.5 H2.1 H2.2 H2.3 H2.4 H2.5 H3.1 H3.2 H3.3 H3.4 H4.1 H4.2 H4.3 H4.4 H5.1 H5.2 H5.3
+Dean's Offices
+Dean of Students R R C C C C C C
+Dean of Research C C C C C C C C
+General Secretary C
+IT Department C C C
+Legal Consultancy C C C
+Administrative and Financial 
+Affairs DepartmentC C C
+Business Development Office C i C C C
+Library and Documentation 
+DepartmentC C C C C
+Personnel Department C C C C C
+Health Culture Sports 
+DepartmentC C C C C C
+Civil Defense Expertise 
+(AFAD) CoordinatorC C C
+Strategy Development 
+DepartmentC C C
+Student Affairs Department C C C C C C
+Construction and Technical 
+DepartmentRC C C C R
+Other Units
+Archive Directorate C C C
+Scientific Research Directorate C C C C C C
+Revolving Funds Directorate C C C C
+Communications Directorate R C C R C C C C
+Editorial Office C C C
+Coordinatorships
+Quality Coordinator R R R
+International Relations Office C C C
+International Strategies 
+Coordinator R C C C C C C
+International Student 
+CoordinatorC C C C İ
+Rating Coordinator C C C
+Erasmus Office C C C
+Mevlana Exchange Program 
+CoordinatorC C C
+Competent Engineering Office 
+(NCEES)C C C
+Dual Diploma Undergraduate 
+Program (UOLP)C C C
+IAESTE Offices C C C
+Istanbul Technical University 
+Continuing Education CenterR C C C C
+2022-2026  STRATEGIC PLAN49 48
+OBJECTIVE CARDS 
+The sectoral trend and structure analyses, top policy documents, and sta -
+keholder expectations analyses given above are based on the preparation 
+of the Objective Cards for each objective (Table 32) in the ITU 2022-2026 
+Strategic Plan, which is prepared with a participatory approach.
+Goal A1Strengthening education and training with innovative 
+and dynamic approaches
+Objective H1.1 Strengthening the Physical Infrastructure for Education and Training
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial 
+Value2022 2023 2024 2025 2026Monitoring 
+FrequencyRaporlama 
+Sıklığı
+(ay)
+PG1.1.1 - Ideal 
+classroom ratio 
+(%)20 70 72 75 77 80 80 3 6
+PG1.1.2 - Number 
+of printed 
+and electronic 
+resources in the 
+library20 1.000.000 1.002.500 1.005.000 1.007.500 1.010.000 1.012.500 3 6
+PG1.1.3 - Indoor 
+area per student 
+(m2)20 23,23 23,23 23,23 24,00 25,00 25,00 3 6
+PG1.1.4 - Number 
+of classrooms 
+supported by the 
+technology-based 
+system20 2 56 66 76 86 96 3 6
+PG1.1.5 - 
+Dormitory 
+capacity (Number 
+of Students)20 4.872 4.872 5.372 5.872 5.872 5.872 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksHaving a limited budget
+Increasing student quota
+StrategiesThe physical conditions of the classrooms will be improved and the number of classrooms in which new technologies 
+will be integrated will be increased.
+Education and training processes will be digitized, students’ access to units (help ticket, call center, live support, etc.) 
+will be improved.
+The construction of the faculties and institute buildings, which are under construction, will be completed.
+The library working area will be expanded with electronic and printed resources.
+Dormitory and scholarship opportunities will be improved.
+The dining hall facilities will be improved and the dining hall area will be expanded.
+The conditions of indoor and outdoor sports facilities will be improved and their use will be encouraged.
+Policies for the determination of quotas will be developed in cooperation with YÖK.
+Estimated Cost 2.891.065.000 TL
+FindingsInadequate social and accommodation facilities provided by the university compared to the number of students,
+Inability to quickly renew old buildings and infrastructures due to financial constraints,
+Continuous increase in student quotas by YÖK
+NeedsEnsuring/increasing the use of new technologies in education and training activities,
+Bringing the physical infrastructure for education and training to a suitable level for all stakeholders of the universityGoal A1Strengthening education and training with innovative and 
+dynamic approaches
+Objective H1.2 Strengthening Multidisciplinary and Interdisciplinary Education and Training
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial 
+Value2022 2023 2024 2025 2026Monitoring 
+FrequencyRaporlama 
+Sıklığı
+(ay)
+PG1.2.1 - 
+Number of 
+interdisciplinary 
+master's 
+programs (MA)20 30 31 32 33 33 33 3 6
+PG1.2.2 - 
+Number of 
+interdisciplinary 
+doctoral 
+programs (DR)20 15 16 17 18 18 18 3 6
+PG1.2.3 - Number 
+of students 
+benefiting from 
+double major and 
+minor programs 
+in undergraduate 
+programs20 1.100 1150 1.200 1.250 1.300 1.350 3 6
+PG1.2.4 - Number 
+of double major 
+programs20 405 409 412 417 420 420 3 6
+PG1.2.5 - Number 
+of students 
+graduating from 
+double major 
+programs20 1.298 1.348 1.398 1.448 1.498 1.548 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksLack of sufficient number and quality of academic staff due to the increase in the number of interdisciplinary or 
+multidisciplinary programs
+StrategiesDouble Major Programs will be diversified.
+Minor Programs will be diversified.
+Students will be encouraged to take part in interdisciplinary projects.
+The number of interdisciplinary undergraduate and graduate programs will be increased.
+Estimated Cost 360.036.000 TL
+FindingsIncreasing demand for interdisciplinary master and doctoral programs,
+Allowing to create interdisciplinary programs that are becoming more and more widespread in the world with the 
+education given at ITU for a wide range of disciplines,
+The prevalence of interdisciplinary project-making culture.
+NeedsEncouraging students to take courses from different fields,
+Opening interdisciplinary undergraduate and graduate programs,
+Increasing need for interdisciplinary and multidisciplinary education in line with emerging new technologies.
+2022-2026  STRATEGIC PLAN51 50
+Goal A1Strengthening education and training with innovative and 
+dynamic approaches
+Objective H1.3Having Enough Number of Qualified Instructors to Compete at International 
+Standards in Education
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial 
+Value2022 2023 2024 2025 2026Monitoring 
+FrequencyRaporlama 
+Sıklığı
+(ay)
+PG1.3.1 - Number 
+of Students 
+/ Number of 
+Instructors in 
+Undergraduate 
+and Graduate 
+Programs35 15,9 15,5 15,0 14,5 14,5 14,5 3 6
+PG1.3.2 - Number 
+of Students / 
+Faculty Members 
+of Undergraduate 
+and Graduate 
+Programs30 32,7 32,0 31,5 31,0 30,5 30,0 3 6
+PG1.3.3 - Number 
+of Faculty 
+Members35 1.103 1123 1.143 1.163 1.183 1.203 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksHaving no control over student quotas by the university,
+Having an insufficient number of academic staff provided by YÖK,
+The negative effect of negative news and perceived trends at the political level on the recruitment of Faculty 
+Members from abroad.
+StrategiesEnvironments, where qualified academics will use their potential, will be presented.
+Necessary studies will be carried out to attract qualified academicians to our university.
+Instructors will be made pedagogically aware.
+Academicians will be trained and conscious about the development of innovative methods and practices in teaching 
+and education.
+The number of weekly course hours per faculty member will not be increased. 
+Estimated Cost 134.076.000 TL
+FindingsHaving high number of students per faculty member
+Creating competition in attracting qualified academics and ensuring that these academics stay in the institution with 
+the opportunities offered by foundation universities
+NeedsSufficient number of academic staff
+Adopting policies that will attract qualified scholars and not lose existing scholarsGoal A1Strengthening education and training with innovative and 
+dynamic approaches
+Objective H1.4Making our University an Education and Training Center Preferred by Qualified 
+Undergraduate and Graduate Students
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial 
+Value2022 2023 2024 2025 2026Monitoring 
+FrequencyRaporlama 
+Sıklığı
+(ay)
+PG1.4.1 - Number 
+of students who 
+entered the first 
+ten thousand in 
+the university 
+entrance exams 
+and preferred the 
+university25 792 830 860 890 920 950 3 6
+PG1.4.2 - Number 
+of students from 
+the top 1000 in 
+the university 
+entrance exam25 8 20 25 30 35 40 3 6
+PG1.4.3 - Number 
+of Students 
+Dropping Out of 
+the University 
+(Excluding 
+Graduates - 
+Unregistered and 
+Left voluntarily)25 372 350 320 300 280 250 3 6
+PG1.4.4 - Total 
+number of 
+students 
+reached through 
+promotional 
+activities25 20.000 22.000 24.000 25.000 25.000 25.000 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksIncreasing the number of alternatives that qualified undergraduate and graduate students can choose at home and 
+abroad
+StrategiesCollaborations will be developed to improve the secondary education system.
+Activities will be planned to enable qualified students to choose our university.
+Activities will be planned to enable foreign students to choose our university.
+The effectiveness of promotional and information activities for students who will make a choice will be increased.
+Effective and widespread use of media and communication tools will be ensured by the departments within the 
+university.
+Estimated Cost 12.923.000 TL
+FindingsLimited financial support (scholarships, part-time work) that can be used to attract qualified students
+The low number of students who rank high in the university entrance exam
+The fact that graduate students who will receive education in the country do not prefer ITU as a priority for graduate 
+education
+Increasing aggressive competition by foundation universities over media advertisements and student social 
+opportunities
+NeedsIncreasing postgraduate and doctorate quotas
+Establishing international education and research partnerships with leading institutions at the undergraduate and 
+postgraduate level
+Strengthening the image of ITU and conducting promotional activities that will enable qualified undergraduate and 
+graduate students to prefer ITU.
+2022-2026  STRATEGIC PLAN53 52
+Goal A2Creating value for our country by contributing to scientific 
+and technological developments through qualified research
+Objective H2.1 Increasing the Number and Effectiveness of Qualified Scientific Research
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG2.1.1 - Total 
+number of 
+scientific articles 
+per faculty 
+member20 1,35 1,39 1,45 1,50 1,55 1,60 3 6
+PG2.1.2 - Number 
+of scientific 
+research projects 
+completed20 322 450 500 550 600 650 3 6
+PG2.1.3 - Number 
+of Higher 
+Education 
+Council, Turkish 
+Academy of 
+Sciences and 
+TÜBİTAK science, 
+incentive and art 
+awards20 2,00 4,00 5,00 5,00 6,00 7,00 3 6
+PG2.1.4 - Ratio of 
+publications in 
+Q1 and Q2 class 
+journals among all 
+publications (%)20 82 83 85 87 89 90 3 6
+PG2.1.5 - Amount 
+of support 
+provided by the 
+University to 
+scientific research 
+projects20 3.889.775 13.000.000 14.500.000 16.000.000 17.000.000 18.000.000 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksLegal difficulties in making publications visible due to copyright transfer
+Instructors’ not being able to allocate enough time for research and development activities due to the course and 
+administrative burdens.
+Lacking of funds to support research activities
+Experiencing communication and coordination problems in groups composed of researchers from different departments
+StrategiesThe number of large interdisciplinary projects carried out priority and developing areas for Turkey and the world will be 
+increased.
+By increasing the publications in quality scientific journals and ensuring the visibility of these publications, the number of 
+citations they receive will increase in a sustainable manner.
+A system will be established in which the research facilities of our university, current research facilities and devices can be 
+monitored and usage schedules can be followed instantly.
+Scientific Research Projects, units such as ITU Nova TTO will be strengthened, and the support provided to the academic 
+staff’s projects and scientific researches will be developed and expanded.
+Research groups will be formed by considering the basic research areas and competencies of the academic staff.
+Estimated Cost 113.297.000 TL
+FindingsIn order to solve important problems affecting our country and the whole world, scientific and technological 
+developments are needed and universities are critical stakeholders to take on this role.
+The low number of publications and citations per Instructor or Faculty Member, and consequently the inability to rank 
+high in international rankings.
+Insufficient funding for research activities of academic staff
+NeedsIncreasing the resources allocated for the quantitative and qualitative development of scientific research projects
+Encouraging and supporting academic staff for national and international cooperation
+Reviewing the course and administrative burdens of the lecturers and ensuring that the time they can allocate to research 
+and development activities is increasedGoal A1Strengthening education and training with innovative and 
+dynamic approaches
+Objective H1.5Ensuring Continuous Improvement of Undergraduate and Postgraduate 
+Education Programs
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial 
+Value2022 2023 2024 2025 2026Monitoring 
+FrequencyRaporlama 
+Sıklığı
+(ay)
+PG1.5.1 - Number 
+of accredited 
+undergraduate 
+programs25 25 26 27 27 27 27 3 6
+PG1.5.2 - Number 
+of accredited 
+graduate 
+programs25 0 2 3 4 5 6 3 6
+PG1.5.3 - Number 
+of self-evaluated 
+programs25 25 30 33 35 38 40 3 6
+PG1.5.4 - The 
+rate of courses 
+that can be given 
+via distance 
+education 
+systems (%)25 0 20 20 20 20 20 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksAffecting education and research activities negatively due to continuous changes and uncertainties in higher 
+education legislation,
+The slow process and having problems caused by the legislation due to the process of opening new programs or 
+courses,
+StrategiesThe standardization provided in the quality accreditation processes will also be reflected in the undergraduate and 
+graduate education processes.
+Continuous improvement cycles will be managed under ABET accreditation for Engineering majors and NAAB 
+accreditation for Architecture majors.
+Appropriate accreditation systems for graduate programs will be determined and these programs will be accredited.
+It will be ensured that education and teaching systems are adopted with new technologies and tools for the courses 
+given in undergraduate and graduate programs.
+An application-based undergraduate education system will be adopted and adopted.
+A research-based postgraduate education system will be adopted and will be ensured.
+In line with the emerging needs, the distance education system will be integrated into the existing programs.
+The current staff will be made aware of the development of innovative methods and practices in education and 
+training.
+With the new programs created and existing programs developed in line with current technologies and requirements, 
+high-quality graduate students will be attracted to our university.
+Estimated Cost 3.187.000 TL
+FindingsIncreasing in the number of postgraduate programs offered by foundation universities
+The majority of the students in graduate education are private-sector employees and the theoretical-academic 
+content is weakened
+Graduate students who will receive education in the country do not prefer ITU as a priority for graduate education
+NeedsOpening postgraduate programs for priority areas
+Updating the program contents within the framework of University-Industry cooperation
+Inclusion of intellectual property rights in the undergraduate and graduate-level curriculum in faculties of basic 
+sciences, economics, business administration, architecture, engineering
+Capturing current developments and needs by continuously improving undergraduate and graduate programs
+2022-2026  STRATEGIC PLAN55 54
+Goal A2Creating value for our country by contributing to scientific 
+and technological developments through qualified research
+Objective H2.3Developing New Technologies and Products by Increasing Cooperation with Public, 
+Industry and Non-Governmental Organizations
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG2.3.1 - Number 
+of patents 
+received20 19 25 30 35 40 50 3 6
+PG2.3.2 - Number 
+of commercialized 
+patents20 1 3 4 5 6 7 3 6
+PG2.3.3 - Number 
+of products 
+commercialized 
+as a result of R&D20 1 2 4 6 8 10 3 6
+PG2.3.4 - Number 
+of projects carried 
+out by research 
+centers with 
+industry20 1 5 8 11 15 20 3 6
+PG2.3.5 - Number 
+of students 
+participating 
+in Teknokent, 
+Technology 
+Transfer Office 
+(TTO) or 
+Revolving Fund 
+Projects20 142 900 1.000 1.100 1.200 1.300 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksDisruption of the process for partnerships to be developed due to bureaucracy
+Long patent terms
+StrategiesCooperation will be developed by signing protocols with Public and Semi-Public and Semi-Private Organizations.
+Education and research collaborations will be developed with Non-Governmental Organizations, Chambers and 
+Associations.
+Education and research collaborations with Industrial Organizations will be developed.
+A support system will be established and funds will be provided for the patent, utility model and industrial design 
+applications of the academic staff.
+Estimated Cost 27.263.000 TL
+FindingsContributing to both practice and university research by the products and technologies created with the cooperation of 
+the public institutions and industry.
+NeedsIncreasing the share of University-Industry cooperation criteria in appointment and promotion criteria
+Carrying out information and awareness activities on innovation and intellectual rights
+Commercialization of developed products and technologies
+Conducting research on priority areas needed by the industryGoal A2Creating value for our country by contributing to scientific 
+and technological developments through qualified research
+Objective H2.2Increasing the Academic Activities of Graduate Programs and Monitoring the Output 
+Performances Regularly
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG2.2.1 - Number 
+of doctoral 
+students per 
+faculty member35 3,21 3,25 3,29 3,35 3,45 3,50 3 6
+PG2.2.2 - Number 
+of external 
+project supported 
+doctoral degrees 
+completed each 
+academic year/
+Total number of 
+doctorate degrees 
+completed (%)35 0,16 0,18 0,20 0,25 0,30 0,35 3 6
+PG2.2.3 - Number 
+of postgraduate 
+theses prepared 
+for public or 
+private sector/
+Total number of 
+postgraduate 
+theses (%)30New 
+Indicator0,12 0,15 0,17 0,20 0,22 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+Risks Low number of qualified graduate students and post-doctoral researchers
+StrategiesPostgraduate students and postdoctoral researchers will be supported.
+The number of postgraduate students participating in academic research and practices will be increased.
+It will be ensured that graduate students and post-doctoral researchers who will conduct full-time research and 
+development are attracted to our University.
+Postgraduate students will be supported to turn their scientific research into publications.
+Theses supported by TÜBİTAK or made within the scope of industry cooperation will be supported/encouraged.
+Estimated Cost 10.746.000 TL
+FindingsThe majority of the students in graduate education are private sector employees and the theoretical-academic content is 
+weakened
+Reduction in the number of qualified doctoral students who will continue their research after the master’s level
+Directing the target of the trained workforce to financial opportunities, moving away from academic education
+NeedsSupporting graduate students and their advisors in case the thesis topic is selected from the project pool to be created 
+by the industry in priority areas
+Opening courses/educational programs that will encourage graduate students to publish and show how to publish
+2022-2026  STRATEGIC PLAN57 56
+Goal A2Creating value for our country by contributing to scientific 
+and technological developments through qualified research
+Objective H2.5 Increasing Entrepreneurship Potential of ITU Students and Graduates 
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG2.5.1 - Number 
+of incubated firms20 128 154 184 221 265 319 3 6
+PG2.5.2 - 
+University's 
+place in the 
+Entrepreneurial 
+and Innovative 
+University Index20 2 2 1 1 1 1 3 6
+PG2.5.3 - 
+Number of 
+entrepreneurship 
+projects20 554 560 565 570 575 580 3 6
+PG2.5.4 - Number 
+of consultancy 
+services on 
+entrepreneurship20 1.271 1.280 1.300 1.310 1.320 1.340 3 6
+PG2.5.5 - Number 
+of students taking 
+courses with 
+the theme of 
+innovation and 
+entrepreneurship20 3.760 3.900 4.000 4.100 4.200 4.300 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+Risks Insufficient funding to support entrepreneurial activities
+StrategiesEntrepreneurship activities of undergraduate and graduate students will be supported.
+Transformation of research conducted in undergraduate and graduate theses into entrepreneurship projects will be 
+encouraged.
+Joint projects with Teknokent companies will be encouraged.
+Estimated Cost 0 TL
+FindingsPartnerships to be established in the entrepreneurship ecosystem offer new research opportunities
+Increase in the number of entrepreneurs applying to incubation centers
+NeedsImplementation of regulations that will make it easier for academics to become entrepreneurs besides their professional 
+work
+Planning events that will bring together incubation centers and students and academics
+Fundraising to support student ideas and projectsGoal A2Creating value for our country by contributing to scientific 
+and technological developments through qualified research
+Objective H2.4Strengthening Required Human Resources and Infrastructure for Research and 
+Development
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG2.4.1 - Number 
+of students 
+benefiting from 
+research grants25 320 450 500 550 600 650 3 6
+PG2.4.2 - Ratio 
+of budget spent 
+on R&D to total 
+budget (%)25 12 15 17 19 22 25 3 6
+PG2.4.3 - Number 
+of post-doctoral 
+researchers25 25 30 35 38 43 50 3 6
+PG2.4.4 - Number 
+of accredited 
+laboratories25 2 3 4 5 6 7 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksInsufficient staffing for personnel employment
+Insufficient funding to develop infrastructure
+StrategiesThe participation of undergraduate and graduate students in research projects will be encouraged.
+A system will be developed for the joint use of the research facilities of the university.
+Facility and laboratory infrastructure to support research in developing and priority areas will be established, and the 
+existing infrastructure will be strengthened.
+Research facilities and laboratories within the university will be accredited.
+The number of qualified technical personnel to work in the research facilities and laboratories within the university will be 
+increased, and the existing personnel will be trained.
+Estimated Cost 7.485.000 TL
+FindingsInsufficient participation of undergraduate and graduate students in research and development projects
+The fact that the research facilities and laboratories owned throughout the university are not sufficiently known by the 
+internal stakeholders of the university and that their common use is not encouraged
+NeedsAllocating additional resources in the areas in which our university specializes and removing the legislative barriers 
+encountered during the use of these resources
+Strengthening the R&D infrastructure
+Ensuring shared use of research facilities
+Finding financial resources to develop and sustain infrastructure
+2022-2026  STRATEGIC PLAN59 58
+Goal A3Taking an Active Role in Social, Cultural, Scientific and 
+Technological Fields in a Way to Inform and Raise the 
+Awareness of the Society
+Objective H3.2 Strengthening the Alumni Relations Office
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG3.2.1 - Number 
+of alumni in the 
+country contacted30 73.733 80.000 85.000 90.000 95.000 100.000 3 6
+PG3.2.2 - Number 
+of foreign 
+graduates 
+contacted30 4256 4500 4800 5300 5700 6000 3 6
+PG3.2.3 - Alumni 
+donation amount 
+(1000 TL)40 5.727 6.300 6.930 7.600 8.350 9.250 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksInadequate and ineffective support of graduates
+It is difficult to identify graduates who continue their education abroad
+Problems in reaching graduates due to the Law on the Protection of Personal Data
+StrategiesThe Alumni Relations Office will be restructured.
+Mechanisms will be established to ensure continuous communication with graduates at home and abroad.
+Estimated Cost 0 TL
+FindingsHaving a strong alumni and stakeholder network
+ITU graduates’ taking part in the country’s administration at the highest level
+Insufficient and ineffective support from graduates on fundraising, interaction with society and activities for the benefit of 
+the university
+Insufficient communication/relationships with graduates who continue their education abroad
+NeedsEstablishment of an alumni monitoring system to monitor the career processes of graduates and to strengthen the 
+alumni-university cooperationGoal A3Taking an Active Role in Social, Cultural, Scientific and 
+Technological Fields in a Way to Inform and Raise the 
+Awareness of the Society
+Objective H3.1 Restructuring and strengthening ITU Continuing Education Center
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG3.1.1 - Number 
+of education 
+programs 
+organized for the 
+society within the 
+scope of SEM, 
+lifelong learning50 68 70 72 74 76 78 3 6
+PG3.1.2 - Number 
+of certificates 
+issued by SEM 
+for vocational 
+training50 2.132 4.000 4.500 5.000 5.000 5.000 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksDifferent segments of the society are not aware of the existence of training programs that are closely related to them.
+Instructors do not show interest in SEM programs due to their intensity.
+StrategiesA Distance Education Center (UZEM) will be established.
+The technological infrastructure of the Continuing Education Center (SEM) will be strengthened with UZEM.
+New online education programs will be opened.
+Marketing and payment systems of SEM programs will be developed.
+Estimated Cost 0 TL
+Findings Implementation of lifelong learning programs including the aging population
+Needs Designing SEM programs to cover all segments of society
+2022-2026  STRATEGIC PLAN61 60
+Goal A3Taking an Active Role in Social, Cultural, Scientific and 
+Technological Fields in a Way to Inform and Raise the 
+Awareness of the Society
+Objective H3.4 Strengthening social life and communication in ITU Campuses
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG3.4.1 – Socio-
+cultural area 
+that happens to 
+a person at ITU 
+(m²)25 15 14 14 14 14 14 3 6
+PG3.4.2 - Number 
+of social, cultural 
+and sportive 
+activities25 383 250 375 500 625 750 3 6
+PG3.4.3 - Number 
+of activities on 
+social integration 
+and inclusion for 
+disadvantaged 
+groups25 1 9 10 11 12 13 3 6
+PG3.4.4 - Number 
+of students 
+benefiting from 
+accommodation 
+services25 4.872 4.872 5.372 5.872 5.872 5.872 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksInability to transfer financial resources
+Budgetary shortfalls
+Increasing student quota
+StrategiesStudent Club Studies and Club Union will be restructured
+Health, accommodation, social, etc. of Faculty Members and Staff needs will be determined and current conditions will be 
+improved
+Estimated Cost 180.251.000 TL
+FindingsInadequate social and accommodation facilities provided by the university compared to the number of students
+Increasing aggressive competition by foundation universities over media advertisements and student social opportunities
+Being one of the capitals of the world, Istanbul has more cultural and social opportunities.
+Providing rich social and cultural opportunities in ITU campus
+NeedsIdentifying successful young people who do not have access to education and providing education and dormitories
+Expanding dormitory and scholarship opportunitiesGoal A3Taking an Active Role in Social, Cultural, Scientific and 
+Technological Fields in a Way to Inform and Raise the 
+Awareness of the Society
+Objective H3.3 Strengthening the perception of ITU in the society
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG3.3.1 - Number 
+of events 
+organized to 
+contribute to 
+society30 40 60 80 100 120 140 3 6
+PG3.3.2 - Number 
+of projects carried 
+out with non-
+governmental 
+organizations35 5 8 11 14 17 20 3 6
+PG3.3.3 - 
+Number of social 
+responsibility 
+projects carried 
+out by the 
+institution itself35 14 16 18 20 22 24 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+Risks Failure to use the right resources in corporate identity and image management
+Strategies ITU will be promoted effectively in digital and traditional media in an institutional sense.
+Estimated Cost 8.630.000 TL
+FindingsThe lack of development of the necessary mechanisms for announcing the research projects carried out at ITU to the 
+public and emphasizing their social aspects.
+Needs Greater visibility in digital and traditional media
+2022-2026  STRATEGIC PLAN63 62
+Goal A4Developing a corporate structure that embraces continuous 
+improvement and ensuring digital transformation
+Objective H4.2 Completing the digital transformation at ITU
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG4.2.1 - 
+Completion rate 
+of Enterprise 
+Resource Planning 
+Software in all 
+administrative 
+processes (%)20 0 80 100 100 100 100 3 6
+PG4.2.2 - 
+Completion rate 
+of new Student 
+Information System 
+software (%)20 80 100 100 100 100 100 3 6
+PG4.2.3 - Number 
+of classrooms 
+supported by 
+technology-based 
+system20 2,00 56 66 76 86 96 3 6
+PG4.2.4 - Ratio 
+of the number of 
+main processes 
+transferred to the 
+software to the 
+total number of 
+main processes (%)10 20 40 45 50 80 100 3 6
+PG4.2.5 - Number 
+of practical lessons 
+transferred to 
+digital platform20 1 2 4 8 12 20 3 6
+Establishment of 
+ITUGIS Geographic 
+Information System10 20 30 50 70 90 100 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksLack of financial resources and sufficient number of competent personnel
+Process owners do not want to consolidate processes
+Experiencing difficulties in combining data in different formats and environments into a single database
+Failure to effectively use the software to be developed
+StrategiesEnterprise Resource Planning Systems that can manage all administrative processes end-to-end with a single software will 
+be established. Main processes will be documented and transferred to the software environment by making job analysis.
+An integrated Enterprise Resource Planning Program (Purchasing, Tender, Fixture, Stock, Demand Management, HR 
+Management, Finance, EBYS, Archive Management System etc.) will be written.
+Smart campus applications will be implemented (ITUGIS, Campus IoT Platform, ITU Big Data (İTÜVAP) Platform, Energy 
+Management, Security, Accommodation, Maintenance and Repair, Transportation, Barrier-Free ITU).
+Data management will be provided by creating Hadoop Ecosystem and moving all data sources to Big Data repository.
+An IoT platform will be created.
+Smart classroom application examples will be implemented.
+An online training studio will be created within the ITU-BIDB, and the training will be brought to an order close to the 
+classroom environment.
+Student Information System will be renewed.
+E-Learning, Digital Education Contents and Asynchronous Education Platforms will be implemented.
+Distance education studies will be started in e-learning.
+Estimated Cost 14.797.000 TL
+FindingsDifficulties in effective management of university resources
+The increasing importance of financial issues and the formation of a cost pressure on universities
+With the increasing quotas, the possibility of insufficient accommodation, scholarship, classroom and laboratory facilities 
+in the university increases.
+NeedsImplementing open access and open science practices in accessing information in order to keep up with the digital age
+Completion and effective use of digitalization within the organization
+Reviewing classroom and laboratory infrastructures and adapting them to new educational technologiesGoal A4Developing a corporate structure that embraces continuous 
+improvement and ensuring digital transformation
+Objective H4.1 Establishing Quality Management Systems based on continuous improvement
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG4.1.1 - 
+Completion rate 
+of TS EN ISO 9001 
+Process (%)30 0 70 100 100 100 100 3 6
+PG4.1.2 - 
+Completion rate 
+of Integrated 
+Management 
+Systems (Energy, 
+Environment, 
+Asset 
+Management, 
+Occupational 
+Health and 
+Safety, Risk 
+Management) 
+Processes (%)20 0 20 40 60 80 100 3 6
+PG4.1.3 - 
+Academic and 
+administrative 
+staff satisfaction 
+level20 76,3/100 0 81/100 82/100 84/100 85/100 3 6
+PG4.1.4 - Student 
+satisfaction level20 55,6/100 70/100 73/100 75/100 78/100 80/100 3 6
+PG4.1.5 - Rate of 
+academic and 
+administrative 
+personnel who 
+received Quality 
+Awareness 
+Training (%)10 20 40 50 60 80 100 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksDisruption of the certification process due to budget constraints
+Insufficient support of the academic and administrative staff to the Quality Management Processes
+StrategiesQuality awareness will be increased by holding Turkish Higher Education Quality Council (YÖKAK) information and 
+training meetings.
+TS EN ISO 9001 consultancy and implementation support will be received.
+TS EN ISO 9001 Quality Management System certification studies will be carried out.
+Asset Management System based on TS EN ISO 5000 will be established
+Estimated Cost 36.788.000 TL
+FindingsToo many bureaucratic procedures in academic and administrative activities and slow pace of proceedings
+A significant slowness and bureaucracy arising from the legislation in academic or administrative initiatives and practices
+NeedsEstablishing a Quality Management System to cover education, research activities and administrative activities
+Establishing and regularly conducting in-service training programs to increase the quality of administrative staff
+Strengthening and accelerating internal communication channels
+Completion and effective use of digitalization within the organization
+2022-2026  STRATEGIC PLAN65 64
+Goal A5Making our university a preferred institution that plays an 
+active role in the international arena 
+Objective H5.1Being an Internationally Recognized and Preferred Institution in Education and 
+Research
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG5.1.1 - Current 
+number of 
+international 
+students20 1667 1.700 1.750 1.900 2.050 2.250 3 6
+PG5.1.2 - Total 
+number of 
+incoming and 
+outgoing students 
+within the scope 
+of International 
+Exchange 
+Programs20 748. 750 800 1.150 1.200 1.250 3 6
+PG5.1.3 - Number 
+of international 
+undergraduate 
+and graduate dual 
+degree programs20 14 15 15 16 16 16 3 6
+PG5.1.4 Ratio 
+of the number 
+of international 
+students to the 
+total number of 
+students (%)20 4,38 4,50 4,50 4,75 5,00 5,25 3 6
+PG5.1.5 - The rate 
+of the number 
+of incoming 
+students to 
+the number of 
+outgoing students 
+within the scope 
+of International 
+Exchange 
+Programs (%)20 54,2 40 40 45 45 50 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksOur university’s poor position in international ranking systems
+Problems related to legal regulations for employing foreign personnel
+StrategiesExisting undergraduate and graduate education cooperation will be strengthened.
+New undergraduate and graduate strategic collaborations will be established.
+Activities will be organized to increase the applications of foreign graduate students.
+The living conditions of current foreign academicians and students will be improved.
+Internship and project support will be provided to foreign students.
+The preference of our university by foreign academicians will be increased.
+Student and academician mobility will be increased through exchange programs.
+International ranking systems will be examined and necessary studies will be planned for our university to rise to the top 
+in the rankings.
+Existing academic staff and students will be informed about internationalization and their awareness will be raised about 
+internationalization.
+Participation of academic staff and students in international scientific activities will be supported.
+Estimated Cost 26.759.000 TL
+FindingsLow participation of academicians and students in national and international scientific activities
+Our university’s poor position in international ranking systems
+NeedsSupporting qualified researchers who carry out high-level scientific and technological studies abroad to come to our 
+university and to train researchers
+The need to stand out in the international rankings
+Increasing the rate of preference by international students and academicsGoal A4Developing a corporate structure that embraces continuous 
+improvement and ensuring digital transformation
+Objective H4.3 Improving livability for all stakeholders by increasing the facilities of the campuses
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG4.3.1 - Cycle 
+path length (km)25 9,0 10,0 10,5 11,0 11,5 12,0 3 6
+PG4.3.2 - Ratio 
+of the number 
+of buildings 
+with disabled 
+elevators to the 
+total number of 
+buildings (%)25 70 80 90 100 100 100 3 6
+PG4.3.3 - Internet 
+access rate from 
+all parts of the 
+campus living 
+areas (%) (Indoor 
+/ Outdoor)25 84/5 86/20 88/30 90/40 92/50 94/60 3 6
+PG4.3.4 - 
+GreenMetric score25 7.800 8.200 8.300 8.400 8.500 8.600 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksCoordination difficulties between central and inner-city campuses
+Lack of financial resources and sufficient number of competent personnel
+StrategiesThe campus security system will be improved.
+A maintenance management system will be established for infrastructures of buildings and laboratories.
+New wellness trails will be built (bike paths, pedestrian paths, etc.).
+Appropriate methods will be determined for the housing of animals in the campuses.
+Estimated Cost 210.472.000 TL
+FindingsWith the increasing quotas, the possibility of inadequate university accommodation, scholarship, classroom and 
+laboratory facilities increases.
+Inability to quickly renew old buildings and infrastructures due to financial constraints
+Implementation of the “Green Campus” approach on campuses
+Increasing security concerns due to migration and terrorism
+NeedsImproving the security system by conducting risk analysis in the campuses
+Reviewing classroom and laboratory infrastructures and adapting them to new educational technologies
+Goal A5Making our university a preferred institution that plays an 
+active role in the international arena 
+Objective H5.3Increasing the Visibility of Our University by Deepening its Internationalization 
+Activities
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG5.3.1 - ITU's 
+position in the QS 
+World University 
+Rating (QS WUR)20 561-700 601-650 551-600 501-540 460-500 415-420 3 6
+PG5.3.2 - In the 
+QS-Field-Based 
+World University 
+Ranking (QS WUR 
+by Subject), the 
+number of sub-
+fields in the first 
+three degrees in 
+our country20 15 19 20 20 21 22 3 6
+PG5.3.3 - ITU's 
+position in the 
+Times Higher 
+Education World 
+University Rating 
+(THE WUR)20 601-800 601-800 601-800 500-600 500-600 400-500 3 6
+PG5.3.4 - In Times 
+Higher Education-
+Field-Based 
+World University 
+Ranking (THE 
+WUR by Subject), 
+the number of 
+subfields in which 
+it entered the first 
+three degrees in 
+our country20 15 15 16 16 17 17 3 6
+PG5.3.5 - Number 
+of publications 
+of our University 
+in the SCOPUS 
+database20 2.068 2.100 2.100 2.100 2.150 2.150 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+RisksLimited financial support (scholarships, part-time jobs) available to attract qualified international students
+Competition in access to international research funding, mobility programs and resources
+StrategiesAn International Relations Commission will be established.
+The International Education and R&D Cooperation Strategies Commission will be established.
+A Student Support and Orientation Office will be established.
+Processes to increase the visibility of international arts, sports, scientific competitions and awards will be established.
+“Tandem Language Exchange” language programs will be designed with the intensive Turkish course.
+Promotions will be made for high schools and universities abroad.
+Mechanisms will be established to ensure continuous communication with graduates abroad.
+Estimated Cost 3.898.000 TL
+FindingsHaving high national and international research funds for research and development
+Having internationally accredited departments (such as ABET, NAAB, IMO, IFLA)
+Failure to reach the targets set in the total amount of funds received for the projects carried out jointly by the university 
+with international and national organizations
+The increase in international students’ applications to universities in Turkey and the high potential for cultural and 
+scientific exchange through these students
+Having proven itself internationally as the only Turkish university in the top 100 in GreenMetric - World University 
+Rankings
+NeedsPromoting the scientific and academic knowledge of our university abroad
+Facilitating international access to our University through effective promotional activities
+Improving processes to increase international competitiveness
+Increasing the number of international exchange programs
+Supporting qualified researchers who carry out high-level scientific and technological studies abroad to come to Turkey 
+and to train researchersGoal A5Making our university a preferred institution that plays an 
+active role in the international arena 
+Objective H5.2Being an Internationally Recognized and Preferred Institution with its Scientific 
+Research, Products and Technologies it has developed
+Performance 
+IndicatorsImpact on 
+Objective 
+(%)Plan Period 
+Initial Value2022 2023 2024 2025 2026Monitoring 
+Frequency 
+(month)Reporting 
+Frequency 
+(month)
+PG5.2.1 - Number 
+of ongoing projects 
+based on international 
+funds in which Faculty 
+Members and Staff 
+take part20 39 40 42 45 45 45 3 6
+PG5.2.2 - Number of 
+internationally funded 
+projects, which 
+were started to be 
+supported during the 
+year, in which Faculty 
+Members and Staff 
+took part20 8 10 10 12 12 12 3 6
+PG5.2.3 - Total project 
+budget based on 
+international funds, 
+which were started to 
+be supported during 
+the year, in which 
+Faculty Members and 
+Staff took part.20 8.296.760 10.000.000 10.500.000 11.000.000 12.000.000 12.500.000 3 6
+PG5.2.4 - Percentage 
+of the number of 
+supported projects 
+based on international 
+funds in which the 
+academic staff is 
+involved in the total 
+number of outsourced 
+projects20 12 14 14 15 15 16 3 6
+PG5.2.4 - The 
+percentage of 
+the budget of the 
+supported projects 
+based on international 
+funds, in which the 
+academic staff is 
+involved, within the 
+total budget of the 
+external projects20 14 14 14 15 15 16 3 6
+Responsible Unit Related Vice Rector
+Unit(s) to be 
+CollaboratedGiven in the “Units Responsible for Goals and Units to Cooperate for Objectives” table.
+Risks Insufficient support for research and development activities
+StrategiesInternational research collaborations will be increased.
+International ranking systems will be examined and necessary studies will be planned for our university to rise to the top in 
+the rankings.
+Existing academic staff and students will be informed about internationalization and their awareness will be raised about 
+internationalization.
+Participation of academic staff and students in international scientific activities will be supported.
+Estimated Cost 0 TL
+FindingsFew applications for international project support
+Insufficient support for the participation of academics and students in national and international scientific activities
+Increasing competition and challenges in interacting and developing partnerships with international pre-incubators/
+incubators
+NeedsIncreasing cooperation in the field of international student and academic staff exchange and increasing the number of 
+participants in exchange programs
+Identification of international projects that can be contributed
+Providing financial support for academic staff and students to participate in scientific activities
+Identifying international funding sources
+2022-2026  STRATEGIC PLAN69 68
+COSTING
+In order to achieve the targets at the desired level and to provide the ser -
+vices with the desired quality, ITU’s budget has been associated with the 
+goals and objectives in the strategic plan. The distribution of the financial 
+resources required for the realization of the 2022 – 2026 Strategic Plan for 
+each goals and objectives is given in Table 14.
+Table 15. Estimated Cost of Objective Cards
+Goals 2022 2023 2024 2025 2026 Total
+A1 Strengthening education and 
+training with innovative and dynamic 
+approaches605.093.000 648.751.000 681.185.000 715.249.000 751.009.000 3.401.287.000
+H1.1 Strengthening the physical 
+infrastructure for education and 
+training513.907.000 551.530.000 579.104.000 608.062.000 638.462.000 2.891.065.000
+H1.2 Strengthening multidisciplinary 
+and interdisciplinary education and 
+training64.344.000 68.604.000 72.034.000 75.636.000 79.418.000 360.036.000
+H1.3 Having qualified and number 
+of Instructors that can compete at 
+international standards in education23.922.000 25.557.000 26.834.000 28.177.000 29.586.000 134.076.000
+H1.4 Making our university an 
+education and training center 
+preferred by qualified undergraduate 
+and graduate students.2.320.000 2.460.000 2.583.000 2.712.000 2.848.000 12.923.000
+H1.5 Ensuring the continuous 
+improvement of undergraduate and 
+graduate education programs600.000 600.000 630.000 662.000 695.000 3.187.000
+A2 Creating value for our country 
+by contributing to scientific and 
+technological developments through 
+qualified research127.807.000 135.784.000 142.824.000 149.939.000 157.137.000 713.491.000
+H2.1 Increasing the number and 
+effectiveness of qualified scientific 
+research17.992.000 22.112.000 23.218.000 24.378.000 25.597.000 113.297.000
+Out of Budget TÜBİTAK (The Scientific 
+and Technological23.000.000 24.000.000 25.000.000 26.000.000 27.000.000 125.000.000
+Research Council of Turkey) Projects 23.000.000 24.000.000 25.000.000 26.000.000 27.000.000 125.000.000
+H2.2 Increasing the academic 
+effectiveness of graduate programs 
+and regularly monitoring their output 
+performance1.927.000 2.046.000 2.148.000 2.256.000 2.369.000 10.746.000
+H2.3 Developing new technologies 
+and products by increasing 
+cooperation with public, industry and 
+non-governmental organizations4.876.000 5.194.000 5.454.000 5.726.000 6.013.000 27.263.000
+Out of Budget Santez (Industry 
+Projects), AFAD (Disaster and 
+Emergency Management Presidency) 
+Projects2.700.000 3.000.000 3.500.000 4.000.000 4.500.000 17.700.000
+H2.4 Strengthening the necessary 
+human resources and infrastructure 
+for research and development1.312.000 1.432.000 1.504.000 1.579.000 1.658.000 7.485.000Goals 2022 2023 2024 2025 2026 Total
+Extra Budgetary Revolving Fund 
+Budget76.000.000 78.000.000 82.000.000 86.000.000 90.000.000 412.000.000
+H2.5 Increasing the entrepreneurial 
+potential of ITU students and 
+graduates.0 0 0 0 0 0
+A3 Taking an active role in social, 
+cultural, scientific and technological 
+fields in a way to inform and raise 
+awareness of the society.33.759.000 35.990.000 37.790.000 39.679.000 41.663.000 188.881.000
+H3.1 Restructuring and strengthening 
+the ITU continuing education center     0
+H3.2 Strengthening the Alumni 
+Relations Office     0
+H3.3 Strengthening the perception of 
+ITU in the society1.551.000 1.642.000 1.725.000 1.811.000 1.901.000 8.630.000
+H3.4 Strengthening social life and 
+communication in ITU campuses32.208.000 34.348.000 36.065.000 37.868.000 39.762.000 180.251.000
+A4 Developing a corporate 
+structure that embraces continuous 
+improvement and ensuring digital 
+transformation.45.563.000 50.229.000 52.741.000 55.377.000 58.147.000 262.057.000
+H4.1 Establishing quality management 
+systems based on continuous 
+improvement6.604.000 7.003.000 7.353.000 7.721.000 8.107.000 36.788.000
+H4.2 Completing digital 
+transformation at ITU2.659.000 2.816.000 2.957.000 3.105.000 3.260.000 14.797.000
+H4.3 Improving livability for all 
+stakeholders by increasing the 
+facilities of the campuses36.300.000 40.410.000 42.431.000 44.551.000 46.780.000 210.472.000
+A5 Making our university an 
+institution that plays an active role 
+in the international arena and is 
+preferred15.129.000 16.423.000 17.720.000 19.529.000 20.856.000 89.657.000
+H5.1 Being an internationally 
+recognized and preferred institution in 
+education and research4.403.000 5.187.000 5.447.000 5.718.000 6.004.000 26.759.000
+H5.2 Being an internationally 
+recognized and preferred institution 
+with its scientific research, products 
+and technologies it has developed0 0 0 0 0 0
+Out of Budget European Union 
+Projects10.000.000 10.500.000 11.500.000 13.000.000 14.000.000 59.000.000
+H5.3 Improve the visibility of 
+our university by deepening its 
+internationalization activities726.000 736.000 773.000 811.000 852.000 3.898.000
+TOTAL BUDGET 715.651.000 771.677.000 810.260.000 850.773.000 893.312.000 4.041.673.000
+NON-BUDGET FUNDS 111.700.000 115.500.000 122.000.000 129.000.000 135.500.000 613.700.000
+GRAND TOTAL 827.351.000 887.177.000 932.260.000 979.773.000 1.028.812.000 4.655.373.000
+2022-2026  STRATEGIC PLAN71 70
+APPENDICES
+ANNEX-1 – Strategic Planning Commission
+At the meeting of the University Senate dated 05.11.2020, numbered 752; 
+Strategic Planning Commission established to carry out studies related to 
+Strategic Planning:
+• Prof. Dr. İsmai1 KOYUNCU (Head)
+• Prof. Dr. Bülent İNANÇ
+• Prof. Dr. Şule Itır SATOĞLU
+• Prof. Dr. Hüseyin KIZIL
+• Prof. Dr. Lütfiye DURAK ATA
+• Prof. Dr. Ramazan EVREN
+• Prof. Dr. Hatice CAMGÖZ AKDAĞ
+• Prof. Dr. Osman ARIKAN
+• Prof. Dr. Başar ÖZTAYŞİ
+• Assoc. Prof. Dr. Mehmet ERÇEK
+• Dr. Instructor Cahit Ali BAYRAKTAR
+• İlyas AKTAŞ
+• Behzat ŞENTÜRK
+• İlhami BULAT
+• Sis ALKAN
+• Nalan KUMMONITORING and ASSESSMENT
+Six Strategic Plans have been made at ITU since 2005. At ITU, the collec -
+tion of Strategic Plan Indicators data, the generation and presentation of 
+reports have been supported by information technologies. In the previous 
+strategic plan period, ITU Dashboard was designed for the implementation, 
+monitoring and evaluation of the plan. This designed system will also be 
+used in the 2022-2026 period to measure and monitor the plan. In addi -
+tion, the collection, evaluation and monitoring of data will become more 
+effective with the Enterprise Resource Planning (ERP) software, the work 
+of which has started at ITU. This system, which is important for sustainable 
+development; is a platform with performance indicator data, and will ena -
+ble effective planning by providing up-to-date statistics, in addition to in-
+stant updating of data by all relevant users, and collecting instant data over 
+systems (YÖKSİS, ITU Personnel Automation, ITU Student Automation, ITU 
+Space Management Automation, etc.). 
+The Enterprise Resource Planning software, which we attach great impor -
+tance to monitor corporate goals and to ensure concrete progress, will also 
+fulfill roles such as “business continuity, increasing efficiency, instant con-
+trol, effective sharing of internal information”.
+The indicators in the strategic plan will be evaluated in 3, 6, 9 monthly and 
+annual periods, and the level of reaching the targets will be monitored, and 
+improvement activities will be initiated at the points where deviations are 
+detected. The Enterprise Resource Planning software will be expanded to 
+support performance monitoring and evaluation at all management levels, 
+and will be able to provide data and information support for determining 
+the quality issues related with University processes and improvement ac -
+tivities.
+Both the data coming from the Enterprise Resource Planning software and 
+the 3, 6, 9 and 12-month evaluation results of the Strategic Plan will be 
+discussed at the Annual Evaluation meetings of the Strategic Plan, which 
+will be held twice a year by the ITU management, and can be used in the 
+planning of the next year. 
+2022-2026  STRATEGIC PLAN73 72
+• Elif VELİ - Energy Institute Secretary
+• İmdat ÖZDAL - Secretary of the Faculty of Civil Engineering
+• Nalan KUM - Strategic Planning Branch Manager
+• Cengiz GÜLER - Revolving Fund Management Deputy Manager
+• Yaşanur YÜKSEL - Financial Affairs Branch Deputy Manager
+• Nurten ŞİRİN - Head of Administrative and Financial Affairs
+• Derya AKYÜZ - General Secretariat
+• Adem DÖNMEZ - Communication and Marketing Directorate
+• Research Assistant Abdullah Emin KAZDALOĞLU - Faculty of Management
+• Research Assistant Abdulkadir GÜRBÜZ - Faculty of Management
+• Research Assistant Kübra ÇETİN YILDIZ- Faculty of Management
+• Research Assistant Yusuf IŞIK - Faculty of Management
+• Research Assistant Hüseyin BAŞKURT - Faculty of Management
+• Research Assistant Cihangir GÜMÜŞTAŞ - Faculty of Management
+• Research Assistant Tuğçe BELDEK - Faculty of Management
+• Research Assistant Muhammed Hakan YORULMUŞ - Faculty of Management
+• Research Assistant Oğuz YÜCEL - Faculty of ManagementANNEX-2 - Strategic Planning Subcommittee
+At the meeting of our University Senate dated 05.11.2020 and numbered 
+752; A commission was established to carry out the studies related to Stra -
+tegic Planning, and the Strategic Planning Sub-Commission, which was es -
+tablished in coordination with this commission to carry out the studies of 
+the Sub-Commission in the Strategic Plan studies covering the years 2022-
+2026;
+• Prof. Dr. Bülent İNANÇ – Vice Rector
+• Prof. Dr. Başar ÖZTAYŞİ - Faculty of Management
+• Prof. Dr. Tahir Çetin AKINCI- Deputy Director of Institute of Science and Technology
+• Assoc. Prof.  Dr. Mahmut ALTINBAŞ - Deputy Head of Personnel Department
+• Asst. Prof. Dr. Sinan ERTEMEL - Vice Dean of the Faculty of Management
+• Asst. Prof. Dr. Cemil CEYLAN- Faculty of Management
+• Dr. Instructor Cahit Ali BAYRAKTAR- Faculty of Management
+• Dr. Çiğdem KADAİFCİ YANMAZ - Faculty of Management
+• İlyas AKTAŞ - Assistant Secretary General
+• Behzat ŞENTÜRK- Assistant Secretary General
+• İlhami BULAT - Head of Strategy Development Department
+• Sis ALKAN - Head of Construction and Technical Department
+• Yıldız BÜYÜKÇOLAK - Head of Student Affairs Department
+• Göknur ARSLAN - Head of Library and Documentation Department
+• Türker VARDAR - Deputy Head of IT Department
+• Gönül DÖNMEZ- Deputy Head of Health, Culture and Sports Department
+• Songül YILDIZ ÖZER- Legal Advisor73 72 2022-2026  STRATEGIC PLAN
+2022-2026  STRATEGIC PLAN75 74
+NOTES
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................
+............................  
+............................  ............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................  
+............................
+............................  
+............................  
+............................  
+............................  
+
+ISTANBUL TECHNICAL UNIVERSITY
+•
+Strategy Development Directorate
+July 2021
+•
+CONTACT
+ITU Rectorate Building 
+ITU Ayazaga Campus 34469
+Maslak - İSTANBUL 
+Phone: 0 212 285 3972 
+Fax: 0 212 285 3003
+E-mail: stratejigelistirme@itu.edu.tr
+•
+www.itu.edu.tr
+/itu1773/itu1773
+/itu1773/itu1773ISTANBUL TECHNICAL UNIVERSITY - 2022-2026 STRATEGIC PLAN

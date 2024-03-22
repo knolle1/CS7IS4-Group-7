@@ -1,0 +1,1263 @@
+DRIVERS OF CHANGE
+
+iv
+TU/e STRATEGY 2030
+3
+Contents
+Management summary  4
+Preface 6 
+ 
+1 |  TU/e: open, personal and engaged 13
+2 |  Challenges and drivers of change 14
+ 1 Challenges 14
+ 2 Drivers of change 15
+3 |  TU/e 2030: Leading the change 23
+4 |  Research-based learning 27
+ 1 Educate engineers for the future 28
+ 2 Serve diverse learners  28
+ 3 Create personal learning paths 29
+ 4 Transform from teaching to learning  30
+ 5 Offer challenge-based learning  30
+ 6 Digitization  31
+ 7 Balancing education and research  31
+5 |  Future frontier research 37
+ 1 Strengthen the foundations  38
+ 2 Invest in talent 39
+ 3  Develop excellence and impact in six cross-disciplinary research themes  39
+6 |  Impact 47
+ 1 Collaboration with industry 48
+ 2 Eindhoven Engine  48
+ 3 Enhancing the impact of technology 49
+7 |  A connected university 55
+ 1 Select partnerships  56
+ 2 Truly international  59
+8 |  Enabling the strategy together 65
+ 1 People 66
+ 2 Professionalism and cooperation  67
+ 3 Resources 68
+Join us for the next steps 75
+4 5
+In our research-based education, we will 
+transform from teaching to learning, with 
+challenge-based projects and a strong  
+ on-campus character. To serve diverse 
+learners, we will enable our students 
+to pursue their individual interests and 
+ambitions, while providing rigorous academic engineering education.
+In times of rapid growth, it will be our priority 
+to safeguard the quality of our education and 
+research and guarantee our unique personal 
+approach. We will therefore continue our ‘controlled growth’ approach.
+Key to every aspect of this vision are the people 
+that together create TU/e, its community and 
+its outstanding achievements. TU Eindhoven 
+is a human-centered employer, providing opportunities for talent – in both academic 
+and support staff – for personal development 
+and to engage the challenges of tomorrow together.The mission of Eindhoven University of Technology is to educate students and to 
+advance knowledge in science & technology 
+for the benefit of humanity. We intertwine education and research to enable our 
+students and scientists to become thought 
+leaders and to design and achieve the unimaginable. We translate our basic 
+research into meaningful solutions, in close 
+collaboration with our public and private partners. 
+We have the ambition to be among the 
+leading universities in science & technology. 
+With an open eye for developments in 
+the world around us, we aim to be an internationally defining academic institution 
+that pushes the frontiers of science & 
+technology and educates engineers of the future who combine in-depth knowledge 
+about technology with the skills to address 
+challenges out in the world. Creating responsible innovations and contributions 
+to societal challenges in tight-knit 
+collaborations with society and industry and having a strong and recognizable voice 
+in the academic and public debate about 
+technology and its merits, TU/e acts as a pivot in a world-class high-tech innovation 
+ecosystem.Toward 2030, we expect technology 
+development to increase in speed and 
+impact. This poses challenges to the role of 
+engineers, universities and industry. Three challenges are fundamental to our vision for 
+2030: a sustainable world, the technology 
+revolution and the impact of technology on society. 
+The coming years, we will strengthen our 
+foundations in basic research, invest in 
+individual research talent and develop 
+leadership in the cross-disciplinary research themes Smart materials & processes, 
+Complex high tech systems, Bioengineering 
+Health, Renewable energy, Human-centered systems and environments and Data-driven 
+intelligent systems.
+We will further our collaboration with 
+industry and society, and we will extend 
+our support for the development of new businesses. To accelerate innovation,  
+we will establish the Eindhoven Engine: 
+a new type of public-private partnership where interdisciplinary teams of people 
+from multiple organizations work together 
+in specific projects to bridge the gap between scientific findings and commercial 
+development. To increase both our scientific 
+and societal impact, we will connect with partners and focus on select academic, 
+industrial and triple-helix partnerships.Management summary
+You have arrived home from Eindhoven 
+Airport, after a flight powered by fully sustainable solar fuel. You are craving something to eat, so you go to the kitchen and print a tasty, health promoting,  and environmentally friendly snack.  Outside, you see your swarm of miniature drones collectively taking care of your garden: clipping the hedge and watering each plant to its specific needs. A few hours later, your autonomous electric car, powered by the solar cell paint it is coated with, steers you comfortably to the house of your elderly mother, who is recovering from the operation a microsurgery robot has performed.  Preface 
+IT IS 2030.6 7
+9
+ 8
+Sounds far-fetched? Perhaps in some cases 
+it is. Not every technological development 
+is fast-paced or will disrupt our lives on such 
+short notice. But take a second and think back to the beginning of this millennium. 
+Would you have believed that today, around 
+the world, people carry powerful devices in their pockets which not only enable them to 
+make calls, search for the nearest coffee shop 
+and answer emails, but which also operate the lights in their houses, guide them through 
+traffic, act as 24/7 interfaces with their banks, 
+and monitor their health?
+Did you see innovations like Airbnb, bitcoin, 
+web shops or WhatsApp coming? And could you have predicted the changes they would 
+bring to our lives? Could you have imagined 
+to what extent developments in science & technology, such as the miniaturization of 
+electronics, the evolution of communication 
+technologies, the unraveling of the human genome, the development of renewable 
+energy sources, creation of intelligent 
+housing solutions, and the merger of biology and technology would change our society, 
+our economy, our health, our autonomy and 
+our life expectancy?And these changes are still ongoing. Looking toward the future, we are making a difference 
+by actively and responsibly developing 
+technological knowledge and solutions,  hand in hand with society.
+This document outlines how TU/e is preparing 
+for the road toward 2030. First, we sketch our 
+vision of the university, today and tomorrow. 
+Then we go into the challenges and drivers of change, and the focus of TU/e in 2030. Then 
+we specify our vision on education, research, 
+impact, the connections our university should make and the enablers of this strategy. During your ride, you quickly watch the  
+news selected for you by your artificial intelligent personal assistant, who makes sure to sift out all ‘false’ information.  When you arrive at your mother’s, she has just finished her physical therapy guided by Bram, her personalized care robot.
+10 11
+
+13 12
+Where people matter
+Openness is a basic attitude
+Research and education are 
+intertwined
+Exchange of ideas and people
+Shared passion
+Proven agility1 | TU/e: open, personal and engaged
+Eindhoven University of Technology is a community of scientists, supporting staff, students 
+and partners. People are the heart and soul of TU/e, so it is of great importance to safeguard 
+the distinctive Eindhoven atmosphere, creating a personal, welcoming and vibrant 
+environment that enables individuals and groups to grow professionally and personally. Our students are outstandingly active in study and sports associations, showcasing their 
+organizational and entrepreneurial skills and embodying our intrinsic urge to unite and 
+collaborate.
+Openness is in our DNA, as our university is established in a high-tech industrial environment 
+that owes its success to sharing ideas and working together. Our doors are always open, all opinions are valued, and everybody – from first-year students to the Executive Board – 
+works and learns together on a first-name basis in a collegial, collaborative atmosphere. 
+We welcome people from all backgrounds, have an open eye for societal and industrial developments and actively pursue fresh ideas and new opportunities. We share our research 
+results, our lectures, our people and our facilities with partners who work with us for a better 
+world.
+Our high-standing research and education are strongly intertwined. All teachers also conduct 
+research and our students participate in ongoing scientific projects. This way, we establish fruitful links: students bring in fresh ideas and perspectives to advance our research, and 
+nobody is better suited to enthuse students for a specific field than an excellent researcher 
+pushing the frontiers in that field.
+We have a strong track record in cooperation with industry. At any given time, there is a 
+continuous and lively exchange of people between our university and our partners in industry and society. Many students and staff are engaged in collaborations with our partners, and 
+many R&D professionals from industry work part-time at TU/e.
+Together with our partners, we engage the major challenges of society. We share our passion 
+for exploring and exploiting the ways technology can contribute to a more sustainable world. 
+We are eager to learn and explore: in research, education, creating impact, teaming up with new partners and organizing our own work.
+With our no-nonsense, results-driven, collaborative, open-minded and personal way of 
+working, we have been able to create a high impact in the past decades. Toward 2030, we 
+will use our proven agility to keep pushing the frontiers of science, educating engineers and 
+researchers for the future, and providing society with solutions for challenges of today and tomorrow.
+14 15
+1 K. Schwab, ‘The Fourth Industrial Revolution’. (2017)Central to our vision for 2030 are three major challenges: sustainability, revolutionary 
+technological development and the increasing impact of technology. These require 
+universities to be responsive toward multiple topics: student learning needs; industry needs 
+for new knowledge and talent that enable new solutions; regional needs to act as innovation hubs with global impact, and the need of society to benefit from a technological revolution to 
+enhance the welfare of its people.
+1 | CHALLENGES
+THE SUSTAINABILITY CHALLENGE
+The world faces a sustainability challenge: for all the people to have the Western way of life, 
+we would need seven Earths. Young generations are taking up the challenge to provide our 
+growing population with food, clean water, energy, and access to health, while managing the earth and its resources well and achieving circularity. Engineers and scientists are united in 
+their ambition to solve these challenges by exploring new possibilities in the fields of energy, 
+intelligent systems, health and (smart) materials.
+In 2015, the United Nations adopted a set of 17 goals to protect the planet and ensure 
+prosperity for all, with targets for the next 15 years. A science & technology university like ours is the place where the innovations start that help achieving these goals.
+TECHNOLOGICAL REVOLUTION
+We are on the brink of a technological revolution that will fundamentally change the 
+way we live, work and relate to one another. Technology is becoming more complex and 
+interdisciplinary, erasing the borders between the physical, digital and biological worlds. This convergence of disciplines will create many opportunities for new solutions and is 
+already referred to as the fourth industrial revolution 
+1. Technological developments in 
+autonomous vehicles, artificial intelligence, 3D printing, advanced robotics, new materials, nanotechnology, the Internet of Things, block chain, genetics, synthetic biology, regenerative 
+medicine and neurosciences, to name a few, are increasing the speed of innovation and the rate at which society and economy are changing.
+This convergence can only take place where key enabling technologies are at a high 
+standard, such as data processing, photonics and nanotechnology, high-tech systems, 
+material technology, catalysis and many more. Equally pivotal are key methodologies, such 
+as modeling, multiscale methodologies and data mining processes. They are the foundations of the technological revolution. Expertise in these technologies and methodologies will 
+determine the role of institutes and industry in these rapid developments.We need to successfully connect and contribute to emerging disciplines and technologies and to actively explore science, technology and innovation opportunities in these fields.
+INCREASING IMPACT OF TECHNOLOGY
+Technology is already omnipresent and this will only increase in the coming decade. In the 
+future, technology will not only be around us, but also inside us. Engineers will be able to ‘engineer’ nature with unprecedented accuracy. With this increasing impact comes increasing 
+responsibility: engineers will have to think critically about the possible impact of their new 
+technology on users, the environment, legislation, education and social relations in an early stage of development and address these concerns upfront. Future technologies need to have 
+human values ‘built in’.
+2 | DRIVERS OF CHANGE
+CHANGING ROLE OF ENGINEERS
+Technology and its role in society will become increasingly complex. Engineers of the future 
+need to approach technology development not only from the perspective of technology, 
+but also that of users and systems. Our students will need to be equipped with both  in-depth knowledge and skills to operate in a diverse and rapidly changing world. They 
+need to be able to work in multidisciplinary teams, take a systems perspective and be solution 
+and innovation driven. They need to consider technological, societal and ethical contexts as well, including regulations, policies and markets. Engineers of the future need a broad, 
+open and cooperative mindset to meet the UN sustainable development goals, contribute to 
+the technological revolution and create impact for society in a responsible and sustainable way. This implies reflection, analysis and participation in academic and public debates about 
+technology and its impact.
+HIGHER EDUCATION IN TRANSITION
+The 2030 generation of students will be more diverse in age and background. We expect an 
+increase in applications from international students due to global mobility, the rise of students in higher education worldwide and our switch to English as the lingua franca in 2020. The 
+educational demands of industry, government and society will continue to develop, leading 
+to a stronger need for life-long learning. As a result, our 2030 students have very diverse learning styles, ambitions and educational needs.
+We educate our students to be learners. New generations of students will have new 
+methods for acquiring knowledge and will want to navigate their own learning paths. We 
+will continuously improve our education through optimal use of technological innovations; 
+digital technologies that increase the possibilities for interactive teaching and learning. 2 | Challenges and drivers of change
+Changing learner needs and 
+educational innovationsChanging learnersNew competencesThe increasing impact  
+of technology 
+The fourth industrial 
+revolutionThe sustainability challengeThree major challenges
+17
+ 16
+2 |  Challenges and drivers of change
+2 See: a.o. De waarde(n) van weten. Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025 (OCW 2015) 
+3 See: Brainport Next Generation strategy (Brainport Development 2016)Widening gap between 
+knowledge generation and 
+innovation
+Role of universities in 
+innovationBrainport: attractive hub in 
+international networkThese technologies also lead to further differentiation of higher education institutes and a 
+fast expanding online offer of educational programs. This, in turn, could lead to ‘unbundled’ 
+programs with students taking courses from a variety of institutions before applying for a 
+degree or certificates of knowledge and skills. Furthermore, the convergence of disciplines will create new fields of research and industrial activity, leading to new education programs 
+and competences.
+CHANGING RESEARCH PROCESS
+Our core mission is to advance knowledge and educate tomorrow’s engineers and scientists. 
+The world of research has changed, from monodisciplinary, individual pursuits to a reality in which researchers rely on personal grants to conduct curiosity-driven, interdisciplinary 
+research. Nowadays, public-private consortia cooperate in large international research 
+programs with a focus on complex societal problems. Researchers have a broader and faster access to newly developed knowledge than two decades ago, since the number of 
+researchers is higher than ever and digital technologies distribute new knowledge with 
+lightning speed. Researchers work in parallel with their colleagues and are able to pursue frontier research at an impressive pace. Future technologies, such as AI, may further enhance 
+output and speed of the research practice.
+Research programs, especially those funded by research councils, the government and the 
+European Union, are increasingly aimed at societal challenges. This enhances the impact 
+of science. It also requires research groups to collaborate in mission-driven consortia and networks of academic colleagues, industry and societal organizations. The National Science 
+Agenda (NWA) and ‘Topsectoren’ are examples of this approach. This type of programming 
+and network-based research will be a key element of academic research in the coming years.
+These developments profoundly change the role of researchers and increase the demands set 
+on them. Universities, in a combined effort with national and international governments and funding organizations, need to create an environment in which creativity and resourcefulness 
+can flourish and researchers can make an impact.
+INNOVATION HUBS
+Public and private R&D investments will cluster in locations where talent is present, and 
+international talent will be attracted to innovation hubs where high-tech companies and educational institutes are working together. These hubs form an international network of 
+regions, each with its own ‘niche’, in a process called ‘smart specialization’.
+Talent flows to  
+innovation hubsResearch aimed at  
+societal challengesInternational and inter-
+disciplinary scienceWe are located at the heart of Brainport Eindhoven, a top technology region internationally 
+renowned for its high-tech R&D and manufacturing, with strong supportive elements in the 
+form of engineering-oriented education institutions; secondary schools, vocational programs 
+and higher education.
+In the next decade, the interaction between research, education, industry and society 
+will intensify further, and new ways of cooperation will be established. This trend is widely acknowledged and supported in reports and documents by the EU, national governments 
+and advisory bodies. 
+2 The Brainport region is projected to transform ‘from the Triple Helix 
+model [where educational institutions work together with industry and government] to a Multi Helix model which also involves citizens, customers, consumers, investors, designers, 
+artists and corporations.’ 
+3 The region has expressed the ambition to look for connections 
+between technology, design and social innovation, and to build bridges to other international 
+knowledge regions that can help strengthen the Brainport position. Brainport Eindhoven 
+will develop into an ever more tightly interconnected innovation hub, which will be part of an international network of hubs. As such, it will be attracting talent from all over the world. TU/e 
+will be a cornerstone of this hub, a pivot in a world-class high-tech innovation ecosystem.
+ACCELERATING INNOVATION PROCESSES
+Innovation processes have shifted gear. With shortened product life cycles and increased 
+dynamics in the field of high tech, commercially viable technology needs to be developed much faster with less cost. The fourth industrial revolution is expected to amplify this trend 
+from linear to accelerated and concurrent innovation: multiple innovation processes working 
+in parallel, interacting and speeding up the process. While research is not equally speeding up, we see a gap opening between knowledge generation and innovation and expect this 
+gap to widen further.
+Many corporate R&D labs have been downsized or have changed their focus. Industry is 
+increasingly looking to universities to explore the frontiers of knowledge, while private 
+R&D professionals mostly look for application opportunities. The ‘knowledge society’ is characterized by direct links between education, research, economic benefits and societal 
+welfare. Higher education institutes nowadays not only provide education and conduct 
+research, but also enable innovation and facilitate new business creation. They stimulate entrepreneurship in students and staff and enact policies that help establishing strong 
+collaborations with society and industry.
+18
+2 |  Challenges and drivers of change
+A specialized universityTU/e has proven to be a world-class example of this so-called ‘third generation university’ 4. 
+Still, we need to further develop this element of our mission; to be a university that excels 
+in education, research and innovation, working together with its partners in a tight-knit and 
+internationally significant ecosystem.
+CONTRIBUTE FROM A SPECIFIC PROFILE
+Now and in the coming decade, these challenges and drivers of change affect higher education all around the world, and national and EU strategies for higher education, research 
+and innovation (such as Horizon 2020, Horizon Europe, ‘Topsectoren’, National Science 
+Agenda , ‘De waarde van weten’). Our goal is to contribute to these strategies from our specific profile: a specialized university of technology, engaged in basic and application-
+inspired research and with strong partnerships with industry and societal stakeholders in our 
+world-class high-tech innovation ecosystem.World-class example
+4 J.G. Wissema, ‘Towards the Third Generation University. Managing the University in Transition’. (2009)
+20 21
+85º
+160º0º
+100º
+22 23
+3 | TU/e 2030: Leading the change
+Relevance & excellence
+Lead the change
+Explore
+From an excellent position
+MissionThese challenges, trends and developments call for universities to take the lead in educating 
+future generations of students; realizing new breakthroughs in basic science; creating 
+solutions together with industry; and contributing to societal challenges.
+Doing so, TU/e is a pivot in a world-class high-tech innovation ecosystem, combining 
+excellence in education and research with relevance for the region, the nation and the world. 
+We are eager to lead the change based on a long term vision. By operating in close contact 
+with the scientific community, society and industry, we identify relevant developments at  
+an early stage and proactively adapt our way of working to meet the changing demands set on us.
+We will continue to explore new scientific fields while further developing our existing 
+disciplines. We will identify future demands to the profile of engineers and how we can 
+create that profile at TU/e. We will explore ways to connect to concurrent and accelerating 
+innovation.
+Our position to address these challenges is strong. A full renewal of our educational approach 
+has enabled us to connect to the changing demands of students. We are part of excellent academic networks in the Netherlands, Europe and the world, which strengthen our research 
+focus and impact. Together with our partners in the top technology region of Brainport and 
+beyond, we translate new research findings into solutions and act as an international gateway for talent flowing into the region.
+The mission of Eindhoven University of Technology is to educate students and to advance 
+knowledge in science & technology for the benefit of humanity. 
+We integrate education and research to enable our students and scientists to become 
+thought leaders and to design and achieve the unimaginable. In close collaboration with 
+our public and private partners, we translate our basic research into meaningful solutions. ERIK VAN SCHAGEN
+CEO SIMAC TECHNIEK NV AND ALUMNUS TU/ e
+The most important thing  
+I’ve learned at TU Eindhoven  is to think in total systems,  not in individual components, and to think independently.
+24 25
+20º
+95º90º
+180º
+26 274 | Research-based learning
+CURRENT PRACTICE
+At TU/e, learning and research are firmly intertwined, resulting in strong research-based 
+education. All our scientists are active in both research and education, which makes them 
+perfectly suited to guide our students toward the frontiers of our knowledge and abilities. They can inspire our students to push the limits of science & technology and help them create 
+their own academic profile of an ‘engineer for the future’.
+Our educational vision ‘Engineers for the future’, established in 2012, has led to the successful 
+TU/e Bachelor College and Graduate School. We offer students freedom to tailor their study 
+program to their interests and ambitions.
+Within the Bachelor College, TU/e currently offers three-year Bachelor’s degree programs 
+which contain engineering basics like mathematics, physics and engineering design, a disciplinary major, but also non-technology subjects like ethics, entrepreneurship and 
+responsible innovation. Experienced TU/e coaches advise students about electives and 
+their personal specialization toward a Master’s degree program.
+In our Graduate School, we offer distinct graduate programs that focus on a specific field of 
+research. A graduate program consists of one or more Master’s degree programs with the possibility to continue with a PDEng (Technological Designer) or PhD program.
+With our Bachelor College and Graduate School, we have proven to be forerunners in 
+adapting our learning processes to learner needs and market demands. We know how to 
+guide students in designing their own learning path and offer the modules to follow this path. 
+Our certificates and degrees are guarantees of a high-level quality education.
+The TU/e campus is home to numerous student associations, from sports and culture 
+to ‘gezelligheids’ and study associations. They create a vibrant student life with strong communities. Study associations provide study materials and unite students taking a similar 
+course. They also organize course-related and recreational extracurricular activities such as 
+lectures, trips and excursions that allow students to get a broad view of their future role in research, industry and society.
+TOWARD 2030
+Academic training takes more than acquiring and applying knowledge. Academic graduates 
+must also be able to reflect on their performance, learn from past experiences, have a critical 
+attitude and act with care. Strong communities of peers are of vital importance to enable this academic training. These communities can only flourish on a lively campus, with active 
+student associations that are valued, stimulated and facilitated by the university. Research-based learning
+Freedom to choose
+Proven experience
+Active study associationsNEELTJE VOESENEK
+MASTER STUDENT CONSTRUCTION MANAGEMENT AND ENGINEERING TU/ e
+Learning to work in a  
+multidisciplinary team will help you to collaborate in your professional career.
+28 29
+Future engineer
+T- and �-shaped engineers
+Responsible
+Life-long learning abilitiesThe engineers of 2030 face a faster pace of technology development and increasingly 
+complex problems and challenges. Because of the great impact of technology on our 
+society, engineers need to develop a comprehensive view of how technology is shaping the 
+environment we live in. They need both in-depth disciplinary expertise and cross-disciplinary insights and approaches. Our university also expects a group of learners of more diverse 
+backgrounds, ages, nationalities and cultural heritage with equally diverse motivations, 
+learning styles and educational needs.
+From this vision, TU/e sets five major goals for our learning processes: educate engineers for 
+the future, serve diverse learners, offer personal learning paths, transform from teaching to learning and challenge-based learning. Digitization and the balance between education and 
+research are important enabling elements.
+1 | EDUCATE ENGINEERS FOR THE FUTURE
+We aim for our students to become Eindhoven engineers with a distinct T- or �-shaped 
+profile: engineers who combine in-depth knowledge of one or two disciplines with the skills to 
+address real-world challenges in science & technology. In 2030, all students experience cross-
+disciplinary learning in their study.
+Since new technology holds a great promise but may also have undesirable effects, engineers 
+need to have a comprehensive view of how technology is affecting our lives and reshaping our economic, social, cultural and human environments. We expect our engineers to direct 
+new technology and the disruption that comes with it toward a future that works for all of us, 
+by putting people and values first. 
+Because of the increasing complexity of future problems and challenges, future engineers 
+need combine systems thinking and creative thinking, and have the ability to collaborate in multidisciplinary teams. Furthermore, they will operate in constantly changing environments, 
+with ever-changing settings, needs, opportunities and organizations. Therefore, engineers 
+should first and foremost learn how to be a life-long learner, able to keep adapting to fast-changing knowledge and circumstances.
+2 | SERVE DIVERSE LEARNERS
+The 2030 generation of TU/e students will be digital natives with very diverse motivations, learning styles and educational needs. Our students will come from all over the world, and 
+have diverse backgrounds in terms of age, culture, social background, gender and level of training. Learners will take responsibility for their own learning process, which may not always be linear. High-school graduates will combine working and learning experiences, leading to 
+modular learning paths instead of pre-programmed five-year full time studies. 
+We will not only prepare high-school graduates for life-long learning. TU/e will also meet the 
+needs of other potential groups of learners: workers who want to gain new knowledge and competences, students in other countries all over the world, online learners, and so on. We 
+will explore and accommodate the learning needs of employees in the work force, together 
+with our industrial and societal partners.
+We educate and prepare our students for fast developing professional fields in an 
+international labor market. High tech companies have many internationals in their workforce and are part of a global industry network. This requires education in an international context, 
+working in diverse teams and gaining international experience. 
+The classroom of 2030 will therefore be a diverse and international classroom, resembling the 
+make-up of the high tech labor force. This diversity is an indispensable element of the quality 
+of learning. We aim to create an inclusive community with 1/3 international students and stimulate students to take courses abroad or to interact with students abroad through online 
+modules. The didactics and education materials we will use will reflect this diversity. Our 
+choice and support measures for English as the main language for education is a first example of this. 
+3 | CREATE PERSONAL LEARNING PATHS
+Our more diverse group of students will have ample freedom of choice to pursue their own goals and interests, while meeting the requirements for an academic degree. We provide our 
+student with a rigorous academic engineering training, with sufficient flexibility to choose 
+their own learning paths aligned with their individual ambitions.
+This is also the basis for a permanent life-long learning attitude of our future engineers. Their 
+ability to identify their learning needs and to choose their learning paths, will be supported by disciplinary knowledge and the coaching by academic staff. 
+To enable these personal learning paths, we will invest in digitization to make learning 
+independent of time and place. We will develop and implement pedagogic strategies that 
+focus on facilitating learning processes, designing learning environments and empowering 
+students to manage and direct their own learning.Diverse group of learnersPersonal learning pathsFreedom of choiceDiverse and international 
+classroom4 |  Research-based learning
+30 31
+6 | DIGITIZATION
+Digitization is a multi-faceted process which touches on every aspect of our activities. We 
+need to equip our students with skills for the digital age. Our laboratories have become data-
+intensive and the systems used to organize education and research are all digital. Research 
+processes and facilities are impacted by the many benefits of digital technologies, with data science as its most prominent example. We aim to be at the forefront of developments 
+concerning data and intelligent systems research. Industry will make the move towards Smart 
+Industry, with IT determining new directions in High tech systems. The region of Eindhoven has helped Moore’s Law to become a reality and we continue to play a major part in the 
+development of next gen digital technologies, such as photonics and 5G. 
+With regard to education, we need to offer courses in a flexible and modular way to provide 
+learning opportunities tailored to the individual. Make courses modular and lectures available 
+online, and develop coherent packages of online courses for (future) on-campus students and life-long learners. Digitization is indispensable for students to learn when and where 
+they want. We will also use it to innovate our learning and assessment systems and to support 
+the interaction and feedback between students and their coaches. We will experiment with techniques and applications, and with incorporating content from other educational institutes. 
+We aim to create the necessary digital infrastructure for obtaining and processing research 
+results, from electronic microscopes and big data to living labs. Following the principles of 
+Open Science, we aim to provide open access to our results and their underlying data through 
+digital platforms. 
+To offer the best support, we need stable and proven solutions, such as cloud-based or third-
+party solutions. For education and research, tailored solutions may sometimes be necessary. If we use standardized, well thought-out solutions as much as we can, we will have time and 
+energy to provide tailored advice when necessary.
+7 | BALANCING EDUCATION AND RESEARCH
+Our vision on learning in 2030 requires balance and cohesion between education and 
+research: top engineers can only be coached by top researchers. To safeguard this balance, 
+we will provide research talent with the time and autonomy to pursue their research career 
+and equally acknowledge and stimulate their educational talent. We will provide training possibilities and incentives for those who want to become learning innovators.Basic knowledge and complex 
+challengesReal-life challengesChallenge-based learningTransform from teaching to 
+learning4 | TRANSFORM FROM TEACHING TO LEARNING
+To successfully support personal learning paths, we need to transform from teaching to learning. Shifting the attention from teaching to learning in education implies a paradigm 
+shift: the locus of activity and control moves from the teacher to the learner. The teacher’s 
+primary activity will no longer be the transfer of content but the facilitation of learning processes and the design of a learning environment, taking into account that each student 
+may have different needs in order to achieve the same learning outcomes. For learners this 
+means shifting from consuming what teachers offer to constructing knowledge themselves and making sense of what they learn.
+This shift is not made instantly. We will develop and implement expertise that enable scientists 
+to grow into their new role as facilitators of students’ learning processes.
+5 | OFFER CHALLENGE-BASED LEARNING
+At TU/e, we support blended learning; acquiring knowledge and applying it. In 2030, challenge-based learning will be a distinctive element of studying in Eindhoven; an important 
+added value of campus-based education over online education.
+Central to challenge-based learning is that students acquire knowledge by engaging in real-
+life challenges: seeking out and applying knowledge, individually or in groups. In this process, 
+the professor is a coach for finding the right knowledge. This approach often results in a better integration of knowledge and skills than in a conventional classroom approach. Akin 
+to problem-based learning, challenge-based learning is a broader concept, involving team 
+work, interdisciplinarity and a systems-level approach. We collaborate with external partners to offer cross-disciplinary challenge-based projects both at TU/e campus and at regional 
+educational institutions and industry. The Innovation Space is an example of this approach. 
+This will also enable our students to experience what it is like to work together with people from different educational levels. 
+From day one, acquiring and applying knowledge will be balanced. In the Bachelor’s degree 
+phase, students will use challenge-based learning to acquire basic knowledge and address 
+open-ended problems. In the Master’s degree phase, more complex challenge-based 
+projects will engage students deeper in research. To be able to implement these innovations, we will allocate financial means and create classrooms and labs that allow for experiments 
+with new pedagogies.Frontier research and 
+education hand in handDigital infrastructureDeploy digitizationEnabling digitization4 |  Research-based learning
+32 33
+Balance in student-staff ratioAcademic education is increasingly a team effort of universities, companies and societal 
+organizations. To enhance our educational capacity and challenge-based projects, we will 
+explore opportunities for teaching capacity provided by our partners, for example to coach 
+students in challenge-based learning assignments and to provide advice regarding student career development. 
+Student numbers will continue to climb in the years up to 2025. This increase is most welcome 
+to provide our high-tech ecosystem with talented graduates. Still, we have to safeguard the 
+quality of education and our unique personal approach. 
+Our goals can only be achieved in a relatively small-scale environment where students and 
+scientists interact freely and frequently. In the short term, the student-staff ratio is expected to 
+increase to 22:1, well above the OECD-average, and is considered the high extreme at which quality of our education and research can be guaranteed. The increased student enrollment 
+is only partially matched by an increase in funding. Without substantial funds – additional to 
+projected increase – to hire extra staff and expand infrastructure, the number of students will be limited to the number of 15.000 students in 2025.
+For our on-campus education, we strive for a maximum student-staff ratio well below 20:1. 
+Toward 2030, we aim to reduce this ratio to 17:1, reflecting the balance between education 
+and research we desire in order to achieve our goals. We will explore industry-based resident 
+engineers and coaches to support our challenge-based learning. We will continue to plead for extra investments in science & technology personnel to safeguard quality in times of growth.This vision translates into the following 
+initial goals for 2025: 
+Engineers of the future
+•  All students experience cross-disciplinary learning in their study program and are  
+  educated as T or � shaped ‘Eindhoven’ engineers.
+ 
+More diverse learners•  Explore and accommodate the learning needs of employees in the work force, to create
+ 
+  life long learning programs together with our industrial and societal partners.
+•  Increase the diversity of learners, creating a truly international classroom. 
+Personal Learning paths•   Use digitization to make learning independent from time and place, develop and
+ 
+  implement pedagogic strategies that focus on facilitating learning processes, designing  
+  learning environments and empowering students to manage and direct their own  
+  learning.
+From teaching to learning•   Develop and implement testbeds and pilots for radically new didactic and pedagogic
+ 
+  learning.
+Challenge-based learning•   Relate learning to real-life research and challenges and increase the share of challenge-
+ 
+  based education, by intensifying collaborations within our ecosystem through the  
+  Innovation Space, to offer cross-disciplinary challenge-based projects both at TU/e  
+  campus and at regional educational institutions and industry.
+Digitization•   Experiment with the digital infrastructure for education and internationally leading
+ 
+  science & engineering and with the requirements of Open Science. 
+Balancing education and research•   Student-staff ratio of 20:1 (2025) and 17:1 (2030), BSc and MSc levels combined,
+ 
+  and control growth to 15.000 BSc and MSc students on campus (2025). 4 |  Research-based learning
+34 35
+175º90º
+115º20º
+36 37
+Science & technology 
+university
+Connection to knowledge-
+intensive industries
+Competences, knowledge and 
+methodology
+Research integrity5 | Future frontier research
+CURRENT PRACTICE
+Eindhoven University of Technology is a worldwide top-100 science & technology university, 
+specialized in basic science, engineering and design. Our research contributes to 
+advancement in science & technology through excellence in key research cores and to the development of technological innovations and solutions to the major societal challenges in 
+cooperation with industry and societal organizations. The quality of our research shows in our 
+strong participation in large-scale NWO Gravitation programs, our success rate program and personal grants at the national research council (NWO) and EU’s Horizon 2020 including the 
+European Research Council. 
+TU/e enables our researchers to investigate fascinating challenges, from curiosity-driven 
+discoveries in basic science to application-driven technology development and problem-
+solving in engineering and design. We aim to boost knowledge-intensive industries and other societal sectors that have a high technology intensity. The Eindhoven region is the perfect 
+location for this, as the high-tech heart of the Netherlands and home to major corporate R&D 
+centers and leading Dutch research institutes.
+In our nine departments, which are the homes of our disciplines, we develop disciplinary 
+research competences, knowledge and methodologies. In addition, our university hosts world-class interdepartmental research centers and institutes, technologically sophisticated 
+laboratories with state-of-the-art equipment and expert technicians. The small-scale character 
+of our university and short lines of communication enable smooth collaborations.
+TU/e actively promotes the five values of research integrity: trustworthy research, intellectual 
+honesty, openness, independence and responsibility toward society.
+TOWARD 2030
+With the convergence of the natural, biological, digital and material sciences, new fields of research are developing at a fast pace. At the same time, there is an increasing need for cross-
+disciplinary and multi-stakeholder solutions for societal challenges such as sustainability, 
+health and mobility. However, strong basic research – ongoing and future – remains the foundation of innovation. 
+From this vision, TU/e sets out to strengthen its foundations in basic research, invest in talent 
+and develop leadership in cross-disciplinary research.ILJA VOETS
+PROFESSOR OF SELF-ORGANIZING SOFT MATTER TU/ e
+Inspired by antifreeze proteins, 
+we develop novel micro molecular antifreezes to protect soft materials against freeze damage.We do this with an interdisciplinary team of chemists, physicists, biologists, and engineers.
+39 38
+Autonomy for talent
+Disciplinary and cross-
+disciplinary
+Six cross-disciplinary  
+research themes
+Research infrastructure
+Open scienceSystems thinkingComplexityMethodologiesNew emerging areasStrong disciplines2 | INVEST IN TALENT
+Excellence in research can only be achieved by excellent researchers. Our priority for the 
+coming years is to provide our current and future research talent with increased autonomy to 
+pursue their interests and scientific career and enable them to build collaborations that create 
+impact on science and society.
+To strengthen our research position, we will attract scientific talent from all over the world who 
+want to join us because of our personal approach, our research facilities and our ecosystem. We look for people able to choose their own path, but also to share; who set their own course, 
+but also perform as a part of teams and networks; who achieve results in their own discipline, 
+but also contribute to cross-disciplinary initiatives. We will focus on academic leadership and provide training opportunities to help our researchers succeed and increase their visibility in 
+the very competitive arena of international science.
+3 | DEVELOP EXCELLENCE AND IMPACT IN  
+ SIX CROSS-DISCIPLINARY RESEARCH THEMES
+In 2030, we will have the coherent competence, capacity and thought leadership to advance 
+science and research-based learning in six distinct cross-disciplinary research themes. These 
+themes enable breakthrough basic research, help create technology to advance humanity and 
+contribute to the regional, national and international prosperity. Together, they make up the profile that TU/e will be known for in science, industry and society.
+These six cross-disciplinary key themes are based on current strengths. They are scientifically 
+challenging, contribute to the sustainable development goals and the grand challenges 
+as defined by the European Union, provide opportunities for participation in the National 
+Science Agenda (NWA), and are expected to lead to rapid developments in science & technology:
+• Smart Materials & Processes
+• Complex High Tech Systems
+• Bioengineering Health
+• Renewable Energy
+• Human-centered Systems and Environments
+• Data-driven Intelligent Systems1 | STRENGTHEN THE FOUNDATIONS
+Basic, long-term research is the foundation of innovation. The grand challenges our society 
+faces call for multidisciplinary approaches based on strong disciplinary foundations. We 
+will keep investing in our disciplines of science & technology, achieving specialization and 
+developing new competences and research methods in our departments. 
+At the same time, we will develop collective strength in cross-disciplinary research areas. 
+This combination allows us to proactively explore emerging science & technology areas, an important element in our scientific practice. We stimulate researchers to pursue great ideas: 
+only then can they create impact in science and society and can students be inspired.
+Our researchers develop and use many methodologies in their analysis, design, construction 
+and experimentation. These methodologies, such as data analysis and materials modeling, 
+enable rapid technology development. TU/e will further develop our high standards in these advanced methodologies, making them available for broader use.
+We will enhance our competencies in understanding, controlling and reducing complexity: 
+truly understanding interactions in systems will enable us to better model, predict and 
+ultimately engineer these complex systems. From a single cell to large logistical systems, 
+the physical and mathematical principles in play may be same. This focus on systems and complexity will also provide an important impetus for cross-disciplinary approaches.
+‘Systems thinking’ is an important perspective in research: acknowledging that the problem 
+or solution is part of a greater system, from a single component to solutions that integrate 
+components, technologies and uses. This, too, will provide an important impetus for cross-
+disciplinary approaches.
+TU/e will establish a roadmap of research infrastructures to stimulate researchers to 
+formulate future needs, identify partners and make these research infrastructures a reality. This roadmap will focus on shared research infrastructures to stimulate cross-disciplinary 
+initiatives.
+We value Open Science. As a societal organization, TU/e is focused on generating and 
+disseminating knowledge. We will share our results and data and apply international 
+standards. In our industry collaborations, we strive for maximal disclosure of results and findings.5 |  Future frontier research
+41
+ 40
+5 |  Future frontier research
+Within these cross-disciplinary themes, we will achieve high scientific quality and relevance by 
+building competences in the contributing disciplines, attracting talent and research funding, 
+developing methodologies, creating shared infrastructures and exploring promising fields of 
+research.
+We aim to be among the leading institutions in these developments, identifying promising 
+future lines of research and convincing others in academia, society and industry to follow our steps.
+With the sustainability challenges as an overarching aim, we will focus on the societal 
+challenges of energy, health and mobility. The past few years have shown that our 
+contributions to these challenges enable new solutions for industry and societal 
+organizations. 
+Also part of these cross-disciplinary themes are our scientific strongholds of high-tech 
+systems, data science, complex molecular systems and photonics. They will always contribute to multiple themes, providing a true impetus for cross-disciplinary research.
+Our six cross-disciplinary themes will not be organized as institutes. They are solely meant to 
+direct research efforts – in accordance with disciplinary competences – toward internationally 
+distinctive research impact. The strategy for each theme will be formulated by the deans 
+of our departments and approved by the Executive Board. The strategic areas, centers and institutes will be involved in the strategy-making process.
+CROSS-DISCIPLINARY RESEARCH THEMES Smart materials & processes
+Adaptive, responsive, self-healing, bio-inspired, atomic-scale-controlled, advanced catalytic and other smart materials & processes we develop will provide new opportunities in health 
+care, energy, the built environment, mobility, the high-tech industry and more. These new 
+classes of materials and processes will enable faster communication through light; efficient storage and conversion of energy; improved urban development; storage of large quantities 
+of information on extremely small scales; biomaterials to regenerate complex organs; delivery 
+of chemotherapy straight into tumor cells; and much more.Complex High tech systemsHigh-tech systems are relevant at different levels of scale. Both complex products and 
+complete cities can be seen as high-tech systems. The interfaces between high-tech systems, 
+data science, smart materials, software engineering and artificial intelligence will drive science, engineering and innovation in the coming decade. New generations of robotics, new 
+nanometer precision equipment for manufacturing, microsurgery and agro-food, devices 
+with integrated photonics, and concepts for connected driving and automated vehicles are examples of applications. We will also develop opportunities such as soft robotics and new 
+fabrication techniques like 3D printing.
+Bioengineering health 
+Health care will be revolutionized by merging biology and technology. Examples are 
+regenerative medicine, personalized medicine, monitoring systems that keep track of a person’s health, health-stimulating environments, diagnoses based on imaging and 
+sensor techniques, new treatments using robotics and minimally invasive techniques, new 
+rehabilitation processes and new health care services processes. TU/e will conduct ground-breaking research and build expertise together with hospitals, health-oriented industry and 
+societal initiatives. We will fully explore the important trends of merging technology with 
+biology and of biology becoming an engineering science.
+Renewable energy
+Energy is key to battling climate change. TU/e researches energy conversion and storage in renewable sources. We will focus on future fuels, renewable energy generation, new energy 
+storage technology, reducing energy needs, energy systems and the energy transition itself. 
+Solar fuels, solar and wind energy, clean combustion, catalysis, energy reduction, energy materials, smart grids and energy governance and societal dynamics regarding energy will be 
+important elements in this research theme.
+Human-centered systems and environments
+People are constantly using technology in an increasingly technological environment. 
+Personalization – solutions tailored to the individual – will be a key element in future adaptive technologies. Based on our current strengths, TU/e will focus on technologies that are 
+bound to change the human environment significantly, such as artificial intelligence, human-
+technology interaction, new design principles and advanced materials. This knowledge can be applied in areas like smart cities, mobility and sports & vitality. Think, for example, of 
+personalized e-health systems, monitoring patients with chronic diseases in their own home 
+environment, or physical spaces enhanced with ambient intelligence to provide an ever changing, interactive user experience.
+43
+ 42
+5 |  Future frontier research
+Data-driven intelligent systems
+With chips and sensors everywhere, all connected to the Internet of Things, technologies are 
+needed to generate and transmit this information and to create value from it. New ways of 
+computing and data processing are needed to analyze the avalanche of data we will all collect in the future. TU/e is strong in data science, software science, telecommunications, cryptology 
+and ethics-related research. By exploring opportunities related to artificial intelligence, smart 
+cities, cybersecurity, hardware-software integration and modeling, we will guarantee a fruitful contribution to this field.This vision translates into the following 
+initial goals for 2025:
+Strengthening the foundations
+• Prospective departmental research strategies regarding competence development
+• Initiatives regarding new emerging science opportunities, methodology, complexity, systems thinking and Open Science.
+Invest in talent• Significantly increase autonomy for research talent to stimulate excellence, resulting 
+ 
+in enhanced scientific impact as illustrated by top 1% publications, grants and awards.
+• Start-up packages for key scientific appointments from outside TU/e to support attracting research talent.
+Cross-disciplinary research• 6 cross-disciplinary themes established in 2020: 
+ – Smart materials & processes
+ – Complex high tech systems
+ – Bioengineering health
+ – Renewable energy
+ – Human-centered systems and environments
+ – Data-driven intelligent systems.
+• A clear strategy for each theme, enabling: 
+ – Links to departmental research strategies 
+ – In addition to departmental investments, 12 million euros per year invested 
+ 
+ in the cross-disciplinary research themes
+ – Open, shared facilities with focus on cross-disciplinary research theme 
+ – A higher level of extramural research income of app. 150 million euros per year.
+44 45
+80º
+155º0º
+90º
+47 46
+Provide society with 
+Eindhoven engineers
+Scientific impact
+World-leading  
+in collaboration  
+with industry6 | Impact
+CURRENT PRACTICE
+Modern universities like ours create impact first and foremost by educating new generations 
+of responsible engineers who will shape our future. We provide society with bright, highly 
+motivated MSc, PDEng and PhD graduates with a distinct Eindhoven profile: in-depth knowledge of at least one discipline and a broad perspective on systems and society.  
+Our students are not only trained to identify and analyze abstract problems and come up  
+with solutions that work well in theory, but also have ample experience in designing, developing and applying technology in practice. This makes them uniquely equipped to 
+define our future world.
+This educational vision pays off: our graduates have excellent job prospects 
+5. Business  
+and industry regard Eindhoven alumni as the best candidates in terms of skills in tackling  
+the digital revolution. 
+With our focus on six research themes, we will have a significant impact on the scientific 
+community worldwide. Our research findings in these areas will not only lead to well-
+cited papers in high impact journals, but will also be relevant for industrial and societal stakeholders. In these six themes, we will also act as their gateway toward worldwide  
+state-of-the-art scientific knowledge.  
+Our partnerships are crucial to the TU/e vision. We are located in the heart of one of the  
+most innovative regions in the world and have strong ties to high-tech industry, from SMEs  
+to multinationals. We are a world leader in collaborating with industry, as shown by the  large share of co-publications with industry and the many senior industrial R&D professionals 
+that also hold a professorship at TU/e.
+Successful initiatives started in the past few years, such as the Impulse instrument, have 
+intensified our public-private collaboration. TU/e supports a large number of start-ups and 
+spin-offs and organizes venture capital together with industrial and societal partners. Last but not least, we have engaged in an ecosystem-building initiative based on our research 
+stronghold of photonics.
+5  Global University Employability Ranking 2017, https://www.timeshighereducation.com/student/best-universities/best- 
+universities-graduate-jobs-global-university-employability-rankingALEX DINGS
+FOUNDER BITSENSOR
+As future engineer or engineer  
+of the future you want to get  the most from your study.  For me that means that you  have to look further than just  the curriculum or the technical part. TU/e has helped me with that.
+49
+ 48
+6 |  Impact
+Talent development
+Enhance the impact of 
+technology
+Develop thought leadership
+Encourage, support our 
+scientists to contributeDevelop and intensify 
+collaboration
+New type of public-private 
+partnershipBridge the gap TOWARD 2030
+Around the world, regions that have knowledge-intensive industry and higher education 
+institutes are developing into innovation hubs. When achieving critical mass, these hubs 
+will attract talent and boost innovation, often on the basis of smart specialization. Brainport Eindhoven is in an excellent position to continue its status as an international innovation hub 
+in 2030. Based on our internationally leading education and research, TU/e continues to be  
+a pivot in a high-tech innovation ecosystem. 
+The high-tech industries in and around Eindhoven have enabled the fourth industrial revolution 
+and will be impacted by it themselves. Accelerated and concurrent innovation presents both opportunities and threats. Product life cycles are shortening and disruptive technologies turn 
+entire markets upside down. Companies will have to speed up their rate of innovation to keep 
+pace.
+1 | COLLABORATION WITH INDUSTRY
+Our aim is to further develop and intensify our collaboration with industry through industrial partnerships, support for new businesses and explore new ways to engage with our 
+ecosystem: connecting students, research talent and R&D professionals and translating new 
+knowledge into solutions for society. We have two concrete goals: create the Eindhoven Engine to accelerate innovation and actively stimulate impact of technology beneficial to 
+society.
+2 | EINDHOVEN ENGINE
+Through high-tech systems and materials, the Eindhoven region has contributed enormously 
+to the exponential rate of increase in computing power, storage, and bandwidth. Now, 
+innovations built on these core ‘exponential’ technologies are rapidly advancing. Taken 
+together with the possibilities to merge physical, biological, material and digital technologies, the current pace of technological advance is unprecedented.
+To work with accelerated innovation and keep pace, we will establish the Eindhoven Engine 
+together with our partners: a new type of public-private partnership with a physical landing 
+space based on our approach with flagship projects.
+The Engine is a technology research and prototyping center located in the city of Eindhoven, 
+connecting projects and facilities in the Brainport region. In the Engine, TU/e students 
+and staff work with engineers from high-tech multinationals, SMEs and start-ups in multidisciplinary teams to solve specific technological challenges. This will help them bridge the gap between scientific findings and commercial development. The Engine is inspired by the successful TU/e student teams, which achieved bold ambitions in limited time and with limited budgets by working together across the boundaries of 
+disciplines and organizations.
+An Engine project is of a different nature than a scientific project, since it combines 
+engineering with systems thinking: new concepts, breakthrough technologies and taking user 
+needs into account from the start. Such projects, like the scaled-down synchrotron, are always inspiring, promising, high-tech and relevant.
+The challenge-based research in the Eindhoven Engine mirrors the challenge-based 
+education in the TU/e Innovation Space, integrating ideas, knowledge and skills from all 
+relevant industries and institutions in our ecosystem. 
+The Engine also acts as an accelerator for talent development, giving students the space to 
+share and realize their ideas and develop out-of-the-box thinking. In student projects in and 
+around the Engine, motivated students can give substance to a part of their study program.
+3 | ENHANCING THE IMPACT OF TECHNOLOGY
+Solutions that improve health, well-being and prosperity have to be sustainable. Engineers need to make responsible choices in the design, development and usability of technology. 
+TU/e will involve societal stakeholders in technological research and stimulate engineers to 
+have an open eye for the needs of society and industry.
+In the coming decade, TU/e will exercise thought leadership in our six research themes. 
+We will proactively explore these fields in research and organize scientific meetings, write position papers, incorporate the fields into our life-long learning courses and develop a 
+strong and recognizable voice both in scientific and public debate.
+In a broader sense, TU/e will take up its responsibility to engage with society and reflect on 
+the ways in which technology influences our lives. In the public debate, TU/e will communicate 
+contributions to societal challenges and discuss both the positive and problematic aspects of technological innovations. The scientific staff of TU/e has the right credentials to become 
+thought leaders in this. We will encourage and support our scientists when they participate in 
+the public debate about the topics of their expertise.Innovation hubs
+50
+6 |  Impact
+This vision translates into the following 
+initial goals for 2025:
+Collaboration with industry
+• Continue to be world-leading in cooperation with industry, as shown by publications  
+co-authored with industry.
+• Create a high impact for industry, with 50% of our extramural funded research projects 
+conducted in public-private partnerships, among which leading Flagship programs with 
+industry. 
+Eindhoven Engine• Accelerate innovation, with 500 people involved at any time, students and staff from 
+TU/e and resident R&D professionals from industry, based on an outside investment  of app. 70 mln euros with in-kind contribution from TU/e students and staff.
+• Participation in leading European and Dutch mission-driven research programs.
+Enhancing the impact of technology
+• Incorporate technology impact competences in learning systems, and thought 
+leadership development through media, summer schools, lectures, conferences,  papers, etc.
+52 53
+20º
+100º0º
+85º
+55 54
+Enabling top quality
+Brainport Eindhoven 
+innovation hub
+National networks
+International arena
+Eurotech Universities  
+and ecosystemsCURRENT PRACTICE
+Researchers, professionals and students at Eindhoven University of Technology are part of 
+many regional, national and international networks. Education, science and innovation thrive 
+by exchanging ideas and working together with colleagues from all around the globe. 
+TU/e actively pursues participation in consortia and partnerships ranging from local living labs 
+to international networks aimed at advancements in science and technology. These networks enable TU/e to conduct top-quality research and provide the best education, to strengthen 
+our disciplines in science & technology, and to create cross-disciplinary initiatives addressing 
+scientific and societal challenges.
+Within Brainport Eindhoven, we engage in ecosystem-building initiatives such as Photon 
+Delta, in public-private flagships such as the Health-monitoring Flagship with Philips, and other strong collaborations with industry such as Solliance and AMSystems. Together with 
+other research and education institutions, TU/e is involved in programs aimed at societal 
+challenges, such as Slimmer Leven and Energy, with the province, city and municipalities.
+On a national level, TU/e engages in initiatives to both strengthen academic excellence and 
+contribute to societal challenges. In fields such as Energy and Health, we do this through our alliance with Utrecht University and UMC Utrecht. TU/e is part of the 4TU.Federation, a strong 
+network of the four Dutch universities of technology that aims to strengthen technology 
+expertise and enhance engineering education. TU/e also participates in excellence-driven academic consortia, such as the Gravitation-programs, and consortia aimed at societal 
+challenges and industrial competitiveness, such as the Topsector programs. On specific 
+topics, we engage in interdisciplinary challenges such as Jheronimus Academy of Data Sciences with Tilburg University. 
+In the international arena, TU/e is renowned for its strong involvement in the EU framework 
+programs such as Horizon 2020, including the European Institute for Innovation and Technology 
+(EIT) and the Marie Curie programs. In the CLUSTER-network, we focus on education and 
+student exchange. We collaborate with Zhejiang University to enhance student exchange. 
+With our membership of the EuroTech Universities alliance, we aim to enhance excellence in 
+research, outstanding educational collaborations and the technological competitiveness of Europa. We aim to connect the significant innovation ecosystems (i.c. Copenhagen, München, 
+Lausanne, Paris and Eindhoven) that we are located in through collaborations that allow for 
+integration of academic research, industrial R&D and new international educational initiatives including life long learning.7 | A connected university
+PAUL VAN NUNEN
+CEO BRAINPORT DEVELOPMENT
+It’s the combination of high tech 
+and the manufacturing industry. That’s what’s special about  this region: we can imagine it  and we can produce it!
+57
+ 56
+7 |  A connected university
+New ways to connect  
+with industry
+Eindhoven Engine
+Engage with supply chains, 
+including SMEs
+Not for the short-termA pivot in a world-class high-
+tech innovation ecosystem
+Engage with partners and 
+become truly international
+Mutually empowering 
+partnerships
+Align and connect with 
+academic partnersFocus on select partnerships TOWARD 2030
+Societal challenges and the technology to address them are becoming increasingly complex 
+and interdisciplinary. Science is developing into a team effort of interdisciplinary, international 
+researchers. Businesses are increasingly looking to universities – anywhere on the globe – to develop new technologies. Learners of the future will create their own learning paths out 
+of modules from different parties. Given the international nature of our high-tech ecosystem, 
+we can only be of value to the region if we achieve international excellence. 
+This is why we need to connect with other universities, companies and societal stakeholders 
+that share our goal of scientific excellence and our orientation on societal challenges. Through these partnerships, we will participate in international educational programs, research and 
+innovation programs and attract top students and research talent.
+We will strengthen our position in regional, national and international networks by engaging 
+with new partners and focusing on select partnerships with other universities, industry and 
+societal stakeholders. 
+1 | SELECT PARTNERSHIPS
+On all levels, regional, national and international, we seek mutual empowering partnerships where TU/e and partners strengthen each other to enhance the impact for science and 
+society. Therefore, we will explore new ways of cooperation and invest in current and new 
+long-term strategic partnerships with academia, industry and societal organizations. 
+Adding to existing collaborations, which we will equally strongly pursue and support in the 
+future, special focus will be on long-term strategic partnerships with academia, industry and regional stakeholders based on joint missions and values to act as the pivotal nodes in our 
+network.
+ACADEMIC PARTNERSHIPS
+We aim to align and connect our core education, research and innovation activities with our 
+partners, to create promising and significant collaboration opportunities that researchers and students will benefit from, such as joint educational programs and joint participation in large-
+scale international research programs.Toward 2030, the focus will be on these partnerships:
+• The Utrecht – Wageningen – Eindhoven Alliance, focusing on cross-disciplinary excellence in all fields of science and on a top level broad base to enhance impact in 
+science and society in the areas such as Energy, Food, Mobility and Health. 
+• EuroTech Universities Alliance (with EPFL Lausanne, DTU Denmark, TUM München and 
+Ecole Politechnique Paris), focusing on enhancing the quality and impact of science and 
+technology in Europe and on connecting the ecosystems of our regions with the aim to 
+increase the European competitiveness in high tech.
+• Our partnership with Zhejiang University, stimulating student mobility and excellence in 
+select fields of science.
+INDUSTRIAL PARTNERSHIPSOur independent research stems from both our curiosity and our strong orientation on 
+industrial needs. We have become world-leading in collaboration with industry through shared staff members, projects and ground-breaking program-based collaborations, of which 
+the Impulse initiative is the latest example.
+Now science and innovation are speeding up and the gap between the two is widening, we 
+seek new ways to collaborate with industry and to create a unique experimental environment 
+for learning. With our TU/e Impulse Flagship projects and the TU/e Innovation Space, we have already started forming a community where students and researchers from different 
+disciplinary backgrounds meet and collaborate on innovations that address real-world 
+challenges from companies and institutes in the region and beyond. 
+The Eindhoven Engine, aimed at application-inspired research, will elaborate on this approach 
+in which we integrate public and private education and research. We aim to create further added value by jointly developing life-long learning programs for R&D professionals.
+Based on the very specific nature of the Brainport Eindhoven ecosystem, with original 
+equipment manufacturers (OEM) such as ASML, Philips, NXP, ThermoFischer, DAF, DSM and 
+the large and small companies in their vast supply chains, we will opt for partnerships and 
+programs that serve both the OEM and supply chain companies. This includes small and medium-sized enterprises (SME) as vital players in innovation. We will encourage them to 
+participate in our future public-private roadmaps and to take up an active role in the Engine.
+We believe that these initiatives will strengthen the added value of TU/e, not just for the 
+industries we collaborate with, but also for the industrial ecosystem as a whole. However, 
+these initiatives cannot be based on short-term goals; they require long-term partnerships 
+59
+ 58
+7 |  A connected university
+Cooperation for  
+attractiveness and  
+competitiveness
+Operate in an international 
+setting
+Internationalization for 
+qualityContinuous learning paths
+A true international 
+orientationEngage industrials in 
+education
+CollaborationChallenge-based coop-eration
+TalentTeacher training capacityTruly internationalwith industrial and societal organizations in the ecosystem. That is why we aim to establish 
+these partnerships with a focus on 2030, sharing long-term experience and ambitions.
+EDUCATION PARTNERSHIPS IN THE INNOVATION HUB
+As a pivot in a world-class high-tech innovation ecosystem, we aim to contribute to making 
+the Brainport Eindhoven innovation hub attractive to talent around the world and to enhance 
+the competitiveness of the knowledge-intensive innovation industries. TU/e will do this in alignment with other education & research institutes, such as the vocational institutes and 
+universities of applied science SUMMA, Fontys and Avans, and with research institutes such 
+as TNO, DIFFER and Holst. We consider it our collective task to provide the region with ‘great minds and hands of gold’.
+Industrial and societal sectors require talents of varied levels of competence and skills, from 
+a well-trained technician to a PhD. We aim to boost the interaction between the various 
+vocational and academic levels where needed, providing continuous learning paths and 
+interaction with industry as part of our educational programs. 
+It is also important that we utilize our collective capacity to provide education for all students 
+who want to study in the Brainport region. We will offer prospective students a full range of vocational and academic science and technology education, engage people working in 
+industry as guest lecturers and strengthen the connection between theoretical knowledge 
+and practice. 
+We aim to involve students and staff of various institutions in our challenge-based education 
+facilities such as the Innovation Space and the Eindhoven Engine. Students, graduates and R&D-professionals will work together in teams of various nationalities, disciplines, levels of 
+education and cultural backgrounds. This creates an optimal experience for students and a 
+maximum involvement of talent.
+We will take specific action to increase the capacity of our teacher training programs. The 
+country’s secondary and vocational education systems need qualified and well-educated engineers to teach our pupils and students. We aim to support those students and staff who 
+are considering a teaching career by increasing the capacity of our educational programs and 
+showcasing a wider range of career options.2 | TRULY INTERNATIONAL
+Top science is international by nature. International reputation, reflected in international rankings, plays an important role in recruitment of top talent and in fundraising. The main 
+three challenges for our university – sustainability, technological advancement and the impact 
+of technology – do not stop at regional or national borders. Research and innovation staff operates in an international, multicultural context for co-publishing, acquiring (international) 
+grants, reviewing, contributing to international roadmaps, and participating in international 
+networks and partnerships.  
+The international dimension of education, too, is increasing, due to globalization, labor market 
+developments and fast growing participation in higher education in the emerging economies. The engineers we educate will build their careers in an international context, whether in 
+academia or industry. The internationally oriented industry in our ecosystem requires people 
+to collaborate in an international setting. 
+Internationalization of education is not a goal in itself. International cooperation and diversity 
+in teams stimulates research excellence and contributes to the core functions of education: personal development, learning to work in diverse teams and gaining the required 
+competences. 
+TU/e will therefore continue toward a truly international orientation, in which international 
+collaboration supports attracting international students and staff and where an international 
+community and classroom helps to create the required context for education and research. 
+INTERNATIONAL COLLABORATION 
+International collaboration stimulates excellence and offers opportunities for international funding for research and innovation. Our aim is to enhance success rates in funding 
+competitions and TU/e’s international reputation based on these collaborations.
+ATTRACTING INTERNATIONAL STUDENTS AND STAFF
+To recruit international top talents, we will further develop dedicated recruitment strategies. 
+Special attention will be given to the welcoming and integration process of international staff and students. To achieve the international context in education, it is our aim that 1/3 of the 
+student population is international. This goal and the path toward it will be viewed in light of 
+the ‘controlled growth’ of student numbers.  
+61
+ 60
+7 |  A connected university
+ClassroomINTERNATIONAL ORIENTATION
+To increase the international orientation of TU/e we welcome highly talented staff and 
+students from all over the world. In addition, Dutch students and academic staff are 
+encouraged to gain international experience outside of the Netherlands to become inspired by other environments and to be immersed in other cultures. Exchange programs with 
+connected universities in international networks and partnerships, at all levels (students, 
+staff), in diverse formats (digital, online, physic, blended), will be promoted.
+The international classroom imposes many challenges, such as the organization, didactics and 
+materials used (e.g. literature, use of examples). We will formulate smart objectives, invest in and experiment with new formats. This vision translates into the following 
+initial goals for 2025: 
+Networked activities
+• Strong position in regional, national and international networks by continuing current 
+collaborations, engage with new partners and focus on select partnerships.
+Academic partnerships• Strong involvement in select academic alliances with a focus on excellence and impact: 
+ –  The Utrecht – Wageningen – Eindhoven Alliance, through joint research centers, 
+education programs and all education accessible to partner students.
+ –  EuroTech Universities Alliance, through joint research, (online) education initiatives and connecting ecosystems.
+ –  Zhejiang University Alliance, through further development of the Brainbridge model 
+for research cooperation and student exchange.
+Industrial partnerships• Long-term strategic collaboration and new approaches with industry through ‘flagship 
+projects’ and the Eindhoven Engine. 
+Education partners in the innovation hub• Network of TU/e Campus, Eindhoven city and Brainport Campuses, with continuous learning paths connecting vocational and academic education, and strong cooperation 
+in challenge-based research.
+Truly international• International collaborations to enhance success-rates and reputation, to attract  
+international talented students and staff, and to create a true international orientation, community and classroom. Community
+62 63
+80º
+170º10º
+90º
+65 64
+Where innovation starts
+Where people matter
+Nine leading principles for 
+support
+Adapting to new needs
+Shared servicesCURRENT PRACTICE
+TU/e is renowned for its contribution to innovation; the university ‘where innovation starts’. 
+The past few years have shown that the strategic goals for 2020 – the formidable growth of 
+student numbers, the recognized research excellence and our even increasing contribution  to innovation – can only be realized when professional from both the academic and support 
+staff work together based on their own professions and our shared goals.
+Enabling a strategy naturally involves an implementation agenda, but most of all it involves 
+cooperation by all staff involved, formulating goals that contain workload and enable people 
+rather than impose new kpi’s. TU/e is not only the university ‘where innovation starts’, but also the university ‘where people matter’. 
+TU/e support staff puts everything into place to provide educational and research support. 
+Organized in ten support divisions with additional support staff in the departments, every 
+division is responsible for its own finance, personnel and the setting and reaching of goals. 
+For our support services, we strive to achieve excellence based on nine leading principles:
+• Support staff and scientific staff are in dialogue about needs and possibilities
+• Trust and mutuality
+• Management is focused on cooperation
+• Operational excellence when needed, customer intimacy when possible
+• Professionalism of support staff
+• Lean & mean: effective and efficient
+• Focus on personal and servant leadership
+• Quality is key
+• Open to use of assessments
+A campus 2030 strategy is in place to optimally use and develop campus facilities and 
+opportunities. In IT, support divisions are bundling their resources to create better and 
+more harmonized solutions. The management of finances has been enhanced, connecting 
+departmental and university level experts. Following the educational innovations of the Bachelor College and Graduate School, student administration has been reorganized.
+We have made the transition from decentral to shared services. Most support staff on the 
+university level and within departments are now working within the same support service.8 | Enabling the strategy together
+JULMA BRAAT
+HR POLICY ADVISOR TU/ e
+At TU Eindhoven I’m involved  
+in attracting new talent.  We want to provide interesting career opportunities for all our researchers, therefore I work  in close collaboration with teams, departments and scientific staff.
+67
+ 66
+8 |  Enabling the strategy together
+Engage and interact
+Professionalism of  
+support staff
+Develop needed expertise 
+and staff
+Service chainsPeople, professionals and 
+resources
+A people-centered employer
+Academic leadership
+Work-life balance
+DiversityTOWARD 2030
+To be a pivot in a world-class high-tech innovation ecosystem, is to attract talent from all over 
+the world and to give our professionals the room to operate, to develop professionalism and 
+to have the resources needed to achieve international excellence.
+1 | PEOPLE
+Today and in 2030, TU/e is first and foremost created by the people working, learning and living here. Together, we form the TU/e community: a diverse and international community 
+of students, staff, alumni and collaboration partners, acting as ambassadors for our way of 
+working and together establish the reputation we need to attract the desired talent, funding and new partners.  
+TU/e is a people-centered employer and educator. We encourage, stimulate and facilitate 
+the continuous personal development of our scientists, professionals and students. All of our 
+scientists and support staff are professionals in their own right. We aim to provide maximum 
+autonomy for individual professionals, while building toward collective strengths and ambitions.
+In recruiting new talent for education, science and support, we look for people who are able 
+to choose their own path, but also to share; who can work independently, but also in teams 
+and networks; who achieve results in their own discipline, but also contribute to cross-
+disciplinary initiatives. We will provide academic leadership and training opportunities to enable our research talent to fully pursue their research interests and careers and to succeed 
+in the very competitive international science arena. 
+TU/e strives for a well-balanced effort in education and research. Since student numbers 
+will climb to a permanent higher level, it is our key priority to attract new research talent and 
+keep innovating in education. This will help enhance quality and maintain a healthy work-life balance. A new approach for scouting and recruitment will engage all researchers in 
+recruitment processes, supported by recruitment expertise on university level.
+In the TU/e community of students and staff, we strive for diversity. A strong and welcoming 
+community promotes inclusiveness, equality and cooperation. Diversity of nationality, gender, 
+social background and cultural heritage adds to our success and pleasure in education and research. It broadens our research scope and enhances the quality of our education. Departments and research institutes are natural communities of people. Study associations are also critical as a place where people create impact together. We value and support community-building initiatives by any member of our community, from student teams to 
+sporting events and networks of alumni.
+2 | PROFESSIONALISM AND COOPERATION
+Our goal to be among the leading institutions in education and research needs the full 
+support of our auxiliary processes. The high-quality support of our support staff is essential  
+to our achievements in education and research.
+As our education, research, labs, housing and cooperation with partners evolve, our services 
+need to adapt to new demands. The rapid developments in technology development, higher 
+education and research practice present challenges for our support services: how to optimally equip our campus for the education of ‘engineers for the future’, how to constantly upgrade 
+digital technologies, how to best support life-long learning, working in the Eindhoven Engine 
+and cooperation with universities around the world, and many other challenges. 
+Future generations of students and scientific staff will have different needs and will always 
+expect high-quality support. For that reason, we focus on two important elements: the professionalism of support staff and the cooperation between students, scientific staff and 
+support staff.
+Staff professionalism means that our people have an in-depth knowledge of what drives 
+education and research. They understand what researchers and students care about and how 
+they operate, and can deliver high-quality support that helps them achieve their goals. Our support staff takes pride in being professionals: they have a hunger for knowledge in their 
+field of expertise and do not shy away from being a true partner in discussions. Researchers 
+and students value the opinions and insights of our expert support staff. Our professionals are thinkers and doers with a no-nonsense and result-driven way of working. Together, we create 
+a university of science and technology that ranks among the best.
+Achieving cooperation between students, scientific staff and support staff requires our 
+support services to quickly adapt to new developments in education and research. As people 
+are the best agents of change, we will focus our energy on developing personal expertise and skills. Our support staff will work in multifaceted teams, be a member of both a division 
+and a university-wide service chain and focus on cross-disciplinary support programs such as 
+campus facilities, ‘research life cycle’ and ‘hire to retire’. 
+69
+ 68
+8 |  Enabling the strategy together
+Sustainable
+Attract businesses
+Accommodate growth
+Financial room to operate
+Simple approach
+Change-oriented budget
+Success rates and volumeFaith, trust and responsibility
+Reduce workload, improve 
+effectiveness
+Campus for living, working 
+and recreation
+Well-equipped basisIn these programs, we expect our staff to take on the perspective of the user and focus on the 
+needs of students and researchers. We will enable staff to exercise their expertise, participate 
+in these service chains and we will adapt the organization accordingly.
+Based on the ambitions of TU/e, support staff management needs to work with the 
+departments to set up lines of action that provide professionals with the freedom to operate 
+and responsibility to take decisions when needed. Providing trust, opportunities for personal development and guidance are key competences of future management.
+An overarching goal is to reduce workload and improve effectiveness for both our academic 
+and support staff. Our first priority is reducing the amount of red tape and eliminating ‘purple 
+crocodiles’ – time-consuming actions with obvious alternatives. Service performance will be 
+measured by stakeholder satisfaction and by peer review assessments.
+3 | RESOURCES
+People are the heart of our university. Our campus, our financial means and our digital infra -
+structures are very important resources to achieve the ambitions set out in this vision for 2030.
+WELL-EQUIPPED CAMPUS
+Our university in the heart of Eindhoven will continue to be the home base of our TU/e 
+community; the place where our students and staff feel at home, regardless of background, 
+nationality or beliefs, and where they achieve excellence. We aim for the campus to further develop into an inspiring and well-equipped place of education, research, living, working and 
+recreation for our 15.000 on-campus students and 3.500 staff members.
+The campus will facilitate: 
+• Innovative learning and teaching formats, like Technology Enabled Active Learning, 
+research labs, Living labs, and Innovation Spaces
+• Internationally leading research through state-of-the-art research infrastructure
+• Interdisciplinary research trough shared facilities and meeting spaces
+• Connection with other campuses and education and research organizations in the top technology region Eindhoven
+• A balance between working, living and recreation through on-campus housing facilities, meeting places, shops and cafés
+• Vitality of students and staff, keeping healthy and fit through facilities, like sports 
+facilities, and a work environment that enable and stimulate both physical and mental 
+healthWe will continue to make our campus more sustainable, for example through solar energy, thermal energy storage and natural ventilation.
+The TU/e Campus is not just a university campus. We will create living labs to attract relevant 
+knowledge-intensive and innovative businesses, contributing to the mission of the university and the Brainport Eindhoven innovation hub. The campus of the future should be run by 
+the students, staff and R&D professionals that reside there. Together, they form a thriving 
+community with the university at its heart. The TU/e campus is connected and intertwined with many other campuses within an hours’ drive. Everyone who is willing to strive for the best 
+is most warmly welcomed at our campus.
+The campus strategy for 2030 needs to work with the fact that the number of students and 
+staff will grow in the coming years. Space will be in high demand but in short supply. We will 
+continue to adapt our housing needs to new educational and research needs and look in to innovations such as digitization. Investments will be made as far as our solvability and internal 
+housing norm allow.
+FINANCIAL MEANS
+This vision for 2030 requires us to invest in talented staff, in facilities and in cooperation. Our 
+basic funding, however, may not grow significantly. To increase our financial room to operate, we will focus on long-term sustainability and growth, by diversifying financial resources. 
+We will tighten our relations with the Triple Helix policy and decision makers: sharing 
+ideas, cooperating in novel initiatives such as the Eindhoven Engine and Photon Delta and strategically investing in these initiatives. To create an experimental learning environment 
+that encompasses multiple campuses, strategic investments by the Triple Helix partners are 
+essential. 
+Our approach to financial management is simple. Whenever new activities are started, other 
+activities have to be abandoned. High ambitions can only be realistic if a fitting level of funding is available.
+Given the need for flexibility and adaptation to changing needs, we aim for departments  
+and services to have a change-oriented budget of ca. 10% of their income.
+We aim to increase both the volume and success rate of acquiring extramural research 
+funding. This requires a more entrepreneurial attitude: investing time in disciplinary and 
+cross-disciplinary preparation of proposals, so we can participate in high-quality EU and 
+national consortia.
+71
+ 70
+8 |  Enabling the strategy together
+Fundraising development
+State-of-the-art digital 
+technologiesFundraising will become a significant source of income. Our educational efforts need to be 
+line with the available funding. Life-long-learning activities need to be cost-effective. As 
+part of our support strategy, we will focus on a further professionalization of our resource 
+management.
+DIGITAL TRANSFORMATION
+Digitization of research and education is fundamental to the quality of both. We aim to use state-of-the-art, personalized digital solutions to support the performance of our researchers 
+and students. Whether for course management, Open Science, big data, or facilities for 
+scientific experiments, we need to adapt to new demands in education and research, such as online life-long learning and research data management.
+To offer the best support, we need stable and proven solutions, such as cloud-based or third-
+party solutions. For education and research, tailored solutions may sometimes be necessary. 
+If we use standardized, well thought-out solutions as much as we can, we will have time and 
+energy to provide tailored advice when necessary.Standardized when possible, 
+tailored when neededThis vision translates into the following 
+initial goals for 2025: 
+People
+• Academic leadership training programs and increased time and autonomy for talent, 
+resulting in research excellence illustrated by top 1% publications, grants and awards.
+Professionalism and cooperation• Organized cross-disciplinary service chains to enhance and integrate support activities.
+• Service performance measurement tool and peer review assessments to critically review 
+and improve processes.
+• Systematically eliminate ‘Purple crocodiles’ – red tape and underlying processes.
+Resources
+• TU/e Campus 2030: well-equipped and sustainable, with 1400 students living  
+on campus.
+• A roadmap for research facilities, to attract and plan investments.
+• An internal funding model (SAM) that fully enables strategic goals.
+• Diversification of funding sources: fundraising of at least 25 million euros per year.
+• Digital facilities and infrastructures: personalised, up to speed, state-of-the-art.
+72 73
+70º
+160º0º
+90º
+74 75
+Join us for the next steps 
+In the academic year ‘17/’18, our university went on expedition to see how the year 2030  
+will look like for the TU Eindhoven, when today’s children will be graduating engineers.  
+How do industry and society evolve? What kind of students will apply for education at TU/e? 
+Which research focus will we have? With departments, services and students involved in the discussion, first we identified ‘drivers of change’ and asked ourselves what the role of TU/e 
+should be in a fast-changing society and high tech ecosystem.
+These drivers of change require us to actively choose our path toward 2030. In the light of changing  
+learners needs, convergence of disciplines and accelerating innovation, we need to adapt to new demands from students, staff and industrial and societal stakeholders. Based on three major 
+challenges we identified; sustainability, the technological revolution and the increasing impact  
+of technology, we believe that universities should not stand by, but lead the change. 
+Leading the change is something we cannot and will not do on our own. Valuing our history we 
+strongly believe that true change and progress can only be obtained when working together. 
+As you have read in our strategy, we want to reach far. We have high ambitions towards 2030. 
+An African saying goes as follows: if you want to go fast, travel alone. If you want to reach far,  
+travel together. In our expedition we travelled together with our staff, external experts, and  
+everyone who wanted to contribute. We believe people are the heart and soul of TU/e.  
+Eindhoven University of Technology is a place where doors are always open for people who share 
+our passion, where we focus on academic training through personal meetings of students and  
+staff, where individual growth is stimulated and where everyone – from first-year students to  
+professors and administrators – works together on a first-name basis in a collegial and collabo -
+rative atmosphere on breakthrough science and technology to make the world a better place.
+Just as we travelled far in our expedition, we now want to travel along with you and everyone 
+who shares our passion to discover, design and achieve things we may not have imagined 
+before. We will contribute to the solution of societal challenges by responsibly applying new technologies based on scientific discoveries. We actively shape our future and we do so in 
+joint efforts with colleagues and partners. With you.
+Please join us for the next steps toward 2030,
+Jan Mengelers, President Executive Board
+Frank Baaijens, Rector Magnificus Executive Board
+Jo van Ham, Vice-President Executive BoardJULIAN VAN DE GRIENDT
+7 YEARS OLDFUTURE EINDHOVEN ENGINEER
+In 2030 TU/e will lead 
+the change with you.
+COLOPHON
+Contact
+Eindhoven University of Technology
+Executive Board
+P.O. Box 513
+5600 MB Eindhoven
+stafsecretariaat@tue.nl
+Realization
+Eindhoven University of Technology
+Ingenieuse – Sonja Knols
+Design
+Total Design, Amsterdam
+Photography
+Aatjan Renders and Marcel Loermans, Amsterdam/The Hague
+ 
+Printing
+Drukkerij SNEP B.V., Eindhoven
+September 2018
+No rights may be derived from this publication.
+

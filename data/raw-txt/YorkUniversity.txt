@@ -1,0 +1,2553 @@
+YORK UNIVERSITY
+Strategic Research 
+Plan: 2023-2028
+KNOWLEDGE FOR THE FUTURE: FROM 
+CREATION AND DISCOVERY TO APPLICATION
+Strategic Research Plan 2023-2028 | York University — 2CONTENTS
+Land Acknowledgment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Foreword  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Executive Summary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Mission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Research Vision  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Research Excellence  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Commitment to Decolonizing Research   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Commitment to Diversity and Inclusivity in Research and Scholarship  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Research Areas of Strength: Comprehensive Research Engagement across the Institution  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Advancing Fundamental, Discovery and Theoretical Research and Scholarship  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Illuminating Cultures and Cultivating Creativity   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Building Healthy Lives, Communities and Reimagining Futures  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Reaching New Horizons in Science, Technology and Society   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Pursuing Justice, Equity and Sustainability: From Urban Dynamics to Global Challenges   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Elevating Entrepreneurship through Socially Responsible Innovation   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Research Opportunities: Compelling Opportunities for the Strategic Development of Research  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Digital Cultures and Disruptive Technologies   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Healthy Communities, Equity and Global Well-being  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Indigenous Futurities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Climate Action for a Sustainable Planet   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Social Justice, Peace and Equitable Relations   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Inter- and Transdisciplinary Research Innovation   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Enabling Strategic Research Success  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Supporting Research Development  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Translating Research into Action through Innovation, Partnerships, Knowledge Mobilization, Entrepreneurship 
+and Commercialization   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Partnerships and Collaboration   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Knowledge Mobilization  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Entrepreneurship   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Commercialization   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Summary and Expectations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Appendix A: Collegial Engagement and the Strategic Research Plan Advisory Committee Membership  . . . . . . . . . . . . . . . . . . . . . . . . 30
+Strategic Research Plan Advisory Committee   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Strategic Research Plan 2023-2028 | York University — 3LAND ACKNOWLEDGMENT
+We recognize that many Indigenous Nations have longstanding 
+relationships with the territories upon which York University 
+campuses are located that precede the establishment of 
+York University. York University acknowledges its presence 
+on the traditional territory of many Indigenous Nations. 
+The area known as Tkaronto has been care taken by the 
+Anishinabek Nation, the Haudenosaunee Confederacy, and the Huron-Wendat. It is now home to many First Nation, Inuit 
+and Métis communities. We acknowledge the current treaty 
+holders, the Mississaugas of the Credit First Nation. This 
+territory is subject of the Dish with One Spoon Wampum Belt 
+Covenant, an agreement to peaceably share and care for the 
+Great Lakes region. 
+FOREWORD
+For the past several years, countries have faced the 
+tremendous task of managing a global pandemic with the 
+impacts of the pandemic still widely being felt. From reimaging 
+health care systems to facing new realities such as increased 
+remote work and the acceleration of the digitalization of 
+our economy, the issues we face are wide and far-reaching. 
+While the world is still in the midst of tackling the COVID-19 
+pandemic and adapting to the many socio-economic changes 
+that it has brought, the pandemic has mobilized researchers 
+at York to help lead and contribute to the global effort to 
+overcome the pandemic by investigating the immediate 
+impact of COVID-19, as well as the long-term implications for 
+society. Moreover, York researchers are also tackling a myriad 
+of other salient local and global developments –from the war 
+in Ukraine sparking the fastest-growing refugee crisis since the 
+Second World War to issues of affordability in Canada – our 
+researchers are addressing a wide range of pressing issues to 
+drive new insights. 
+As a comprehensive research-intensive institution, York has a 
+proud tradition of interdisciplinary scholarship and the pursuit 
+of discovery and innovation. Its commitment to excellence 
+brings together a rich diversity of perspectives with a strong 
+sense of social responsibility that is making a difference to 
+the world around us. Supporting the University Academic 
+Plan 2020-2025: Building a Better Future , this Strategic 
+Research Plan 2023-2028: Knowledge for the Future: From 
+Creation and Discovery to Application lays out a vision for 
+accelerating the growth and supporting the development of 
+our research, scholarship and creative activity over the next 
+five years. It is a plan that seeks to reaffirm and advance York’s 
+commitment to research excellence and to the development 
+and application of new knowledge to create positive change 
+in our local and global communities. This plan showcases 
+the depth and breadth of research at York – research that is 
+innovative; advances critical inquiry and scientific discovery; 
+examines our beliefs and perceptions; and seeks to impact 
+the social, cultural and economic development of our country 
+and beyond. The York community has shown an enthusiastic response 
+to the planning process and provided valuable feedback 
+highlighting their aspirations for scholarly research in the 
+context of the overall academic mandate of the University. In 
+this plan, these aspirations provide guidance for the growth 
+and development of research at York over the next five years. 
+By implementing this research plan, we aspire to create 
+opportunities for the entire University to engage in dialogue on 
+emerging big ideas that have the potential to lead to positive 
+change on a large scale. By proactively inciting discussion 
+on emerging issues of societal importance, including the UN 
+Sustainable Development Goals (SDGs), involving leading 
+minds representing a broad range of expertise, perspectives 
+and experience, we remain committed to enhancing the 
+well-being of the communities we serve.
+Strategic Research Plan 2023-2028 | York University — 4EXECUTIVE SUMMARY
+Led by the Office of the Vice-President Research and 
+Innovation (VPRI) and guided by a dedicated Strategic 
+Research Plan Advisory Committee (see Appendix A), the 
+Strategic Research Plan 2023-2028: Knowledge for the 
+Future: From Creation and Discovery to Application was 
+developed through a broad process of collegial engagement 
+with our academic community. This plan lays out a vision for 
+accelerating the growth and supporting the development of 
+our research, scholarship and creative activity over the next 
+five years and can be read as four sections. 
+The first section of this plan highlights York University’s 
+mission, research vision and research excellence, with 
+decolonizing research and diversity and inclusivity in research 
+and scholarship underscored as two key pillars of research 
+excellence at the University.
+The second section of the plan showcases the depth and 
+breadth of research at York, which is reflected by the 
+University’s six intersecting areas of research strength: 
+• Advancing Fundamental, Discovery and Theoretical 
+Research and Scholarship 
+• Illuminating Cultures and Cultivating Creativity 
+• Building Healthy Lives, Communities and Reimagining 
+Futures 
+• Reaching New Horizons in Science, Technology and Society 
+• Pursuing Justice, Equity and Sustainability: From Urban 
+Dynamics to Global Challenges
+• Elevating Entrepreneurship Through Socially Responsible 
+Innovation 
+The research, scholarship and creative activity within each 
+theme are informed by disciplines but are inherently inter- and 
+transdisciplinary in their representation and application. These themes reflect areas of research in which we are 
+demonstrating national and international leadership and are 
+expected to continue to grow and excel over the next five 
+years.
+At the same time, there are a select number of more 
+focused areas where we see specific opportunities to further 
+accelerate research growth and success. The third section 
+highlights six areas of opportunity that are timely and provide 
+particular opportunity to build York’s research success. Each 
+of the following foci transects our areas of thematic strength, 
+bringing in expertise from around the University:
+• Digital Cultures and Disruptive Technologies 
+• Healthy Communities, Equity and Global Well-being 
+• Indigenous Futurities
+• Climate Action for a Sustainable Planet
+• Social Justice, Peace and Equitable Relations
+• Inter- and Transdisciplinary Research Innovation 
+The final section of the plan outlines the University’s 
+commitment to a strategic combination of broadly based 
+and focused investments to enable research success – this 
+includes continued efforts and investments to support 
+the development of all innovation opportunities, through 
+supporting industry and community engagement and 
+partnerships, knowledge mobilization, entrepreneurship 
+and commercialization. In five years, we expect to have 
+strongly advanced our reputation and trajectory as an 
+internationally leading, research-intensive, comprehensive 
+Canadian university, making a difference in communities and 
+improving society. 
+MISSION 
+The mission of York University is the pursuit, preservation, 
+and dissemination of knowledge. We promise excellence 
+in research and teaching in pure, applied and professional 
+fields. We test the boundaries and structures of knowledge. 
+We cultivate the critical intellect. York University is part of 
+Toronto: we are dynamic, metropolitan and multi-cultural. 
+York University is part of Canada: we encourage bilingual study, we value diversity. York University is open to the 
+world: we explore global concerns. A community of faculty, 
+students, staff, alumni and volunteers committed to academic 
+freedom, social justice, accessible education, and collegial 
+self-governance, York University makes innovation its tradition. 
+Tentanda Via : The way must be tried.
+Strategic Research Plan 2023-2028  | York University — 5RESEARCH VISION
+This plan seeks to advance York’s research vision – to aspire 
+to better understand the human condition and the world 
+around us, and to employ the knowledge we gain in the service 
+of society and the health of the planet. York is committed 
+to excellence in research and scholarship in all its forms. 
+Informed by a strong commitment to shared values, including 
+the promotion of social justice, diversity, equity, the public 
+good, social engagement and global citizenship, we believe that intensive engagement in research is a core institutional 
+value that permeates the fabric of the University, and it is this 
+foundation on which York’s vibrant and exciting academic 
+environment is built. This plan focuses on advancing the 
+frontiers of knowledge through scholarship and research of the 
+highest quality. This is reaffirmed through York’s commitment 
+embedded in its mission, vision and values .R
+ESEARCH EXCELLENCE
+From its inception to our present standing as a diverse and 
+comprehensive research and teaching institution, York has 
+focused not only on new discoveries and the creation of new
+knowledge but also on how this knowledge can be used to 
+benefit cultures and societies as broadly as possible. Research  
+at York has seen remarkable growth, with an expansion of 
+world-leading research, scholarship and creative activity in
+the fine arts, social sciences, humanities, education, law,  
+science and business. This is accompanied by rapidly growing 
+leadership in health and engineering that is broadening
+and deepening York’s engagement with and impact on our 
+communities.
+York researchers have played key roles in many of the 
+important discoveries and influential scholarship of the past 
+six decades. Some examples include space instrumentation 
+for the exploration of Mars; impacting the way we think
+about youth homelessness; understanding the changes 
+brought about by colonial expansion on Indigenous societies; 
+advancing understanding of biological and computer vision; 
+studying the formation and development of language policy; 
+generating new insights into brain development in children; 
+examining lifelong learning linked to brain performance; 
+encouraging civic dialogue through performance and public 
+art; working to improve the global plight of refugees; shaping 
+future thought on suburbanization and today’s ecological 
+crisis; mapping the spread of infectious diseases through 
+mathematical modelling; and using law to address social 
+inequalities.
+York scholars have achieved the highest recognition in their 
+fields and follow in the tradition of our many accomplished  
+scholars. They include over 150 Royal Society Fellows and 
+new Members of the College, and 25 Distinguished Research 
+Professors. York scholars have been inducted and named
+as Killam Prize winners, Guggenheim Fellows, Humboldt 
+Fellows, Fulbright Scholars and Trudeau Foundation Fellows. 
+They have been recognized with the E.W.R. Steacie Fellow-
+ships (now known as the Arthur B. McDonald Fellowships) andGovernor General’s Awards and have received a range of 
+disciplinary honorifics and prizes for their books, lectures 
+and other scholarly achievements. York’s allocation of 38 
+Canada Research Chairs, which are complemented by over 
+50 York Research Chairs and over 30 named Chairs and 
+Professorships, demonstrates the University’s support for 
+its faculty and their research excellence across disciplines. 
+The work of our scholars enriches the teaching, research 
+and overall learning environment for our students – our next 
+generation of leaders and thinkers.
+Notably, research at York is strongly engaged internationally 
+and has significant global impact. York boasts some of the 
+world’s top researchers contributing to over 150 topic areas 
+with nearly 35% of our publications in the top 10% of journals 
+worldwide. Ranked prominently within the influential Times 
+Higher Education Impact Rankings, York places 33rd in 
+the world in meeting the United Nations SDGs, positioning 
+York among the top 6% of universities worldwide for the 
+last several years. Further, over the last 10 years, York has 
+been top ranked among Ontario universities for our global 
+collaborative research publications. Within the next five years, 
+we expect to increase the scope of our international leadership 
+recognition by at least 10% and significantly increase our 
+rankings across all topic areas.
+The York community understands the importance of 
+translating discovery into action and seeks to engage the 
+world around us in collaborative, participatory and partnered 
+research that is inclusive, builds long-term relationships 
+and brings tangible benefits to the communities with which 
+we work. York has seized on these opportunities and has 
+made long-term investments in supporting participatory 
+and collaborative research and scholarship that reaches 
+from Toronto and its region, across Canada and around the 
+world. Currently, York has over 300 active partnerships with 
+international institutions that enables the movement and 
+exchange of researchers and trainees.
+Strategic Research Plan 2023-2028 | York University — 6Leading examples of the international reach of York’s research 
+include the York-led Refugee Research Network bringing 
+together Canadian and international scholars in the study 
+of refugee and forced migration issues; a York-based global 
+partnership of feminist urban researchers studying, educating 
+and advocating around women’s livelihoods in eight cities 
+in the Global South; utilizing artificial intelligence (AI) and 
+data science models in helping to predict viral transmission 
+of disease and mitigate new infections in the developing 
+world; the establishment of Connected Minds: Neural & 
+Machine Systems for a Healthy, Just Society for creating an 
+international hub of expertise in socially responsible research 
+and technology to optimize societal benefits and mitigate risks 
+of human-machine interactions; the United Nations Economic 
+Commission for Europe (UNECE) establishing the Toronto 
+Centre of Excellence on Youth Homelessness Prevention 
+at York to assess the state of youth homelessness and 
+prevention in the 56 member states of the UNECE. Similarly, 
+some significant health and science projects are driven by 
+research collaborations with international partners, such as 
+our partnership with Qatar University and other partners in 
+leading the development of the first International Cardiac 
+Rehabilitation Registry program; and our long-standing 
+collaborations with the European Organization for Nuclear 
+Research (CERN), NASA, and the European Space Agency.
+We enhance our impact locally and globally through the 
+graduates we prepare and the research, scholarship and 
+creative activity we create. York takes an integrative approach 
+to teaching and research - undergraduate and graduate 
+students, as well as postdoctoral fellows, enjoy the active 
+mentorship of internationally recognized scholars, and are 
+provided access to cutting-edge research infrastructure and an 
+exciting and engaged environment for the pursuit of discovery. 
+York hosts one of the largest cohorts of graduate students in 
+the country, and York’s graduate and postdoctoral fellows are 
+key drivers of the University’s research excellence and scholarly 
+success – from trainees to professor emeriti, we are committed 
+to the continued support of researchers across the lifespan. 
+York has a strong commitment to supporting our continued 
+growth and application of our research, scholarship and 
+creative activity through focused planning documents, 
+including the UAP 2020-2025. As emphasized in its “Six 
+Priorities for Action,” the UAP describes the continued growth 
+and acceleration in our research, scholarship and creative 
+activity as key to the overall success of the institution. 
+Furthermore, the UAP makes strong commitments to 
+expanding the success of research at York over the next five 
+years, with a focus on deepening York’s research contributions 
+in addressing complex and pressing issues, such as those 
+highlighted by the United Nations SDGs. Additionally, 
+York’s Open Access Policy reinforces our commitment to 
+the democratization of knowledge by making our research 
+widely accessible through an open access repository. As the 
+importance and prominence of research, scholarship and creative activity continue to intensify at York, this Strategic 
+Research Plan provides the next level of detail in articulating 
+our strategy for translating our research ambition into 
+successful outcomes and contributions.
+COMMITMENT TO DECOLONIZING 
+RESEARCH
+York is committed to diversity of thought and strives to pursue 
+inclusive excellence by decolonizing research and ensuring 
+that our researchers are committed to a global mindset, 
+ethical judgment, and critical integration of diverse ideas and 
+worldviews. Founded in 1959 on the traditional territory of 
+the Anishinabek Nation, The Haudenosaunee Confederacy 
+and the Huron-Wendat, York acknowledges our colonial roots 
+and recognizes that decolonizing research requires intentional 
+examination of the ongoing colonial processes, practices and 
+Western ways of thinking that continue to delegitimize and 
+devalue Indigenous knowledges and Indigenous peoples at 
+York University. York values the achievements of Indigenous 
+scholars and students in research, teaching and learning. We 
+are committed to addressing ongoing barriers deeply rooted 
+in colonial practices and policies that govern research policies 
+and procedures (including, for example, grant administration, 
+ethical review and grant adjudication), that may conflict with 
+Indigenous research methodologies. All peoples have greatly 
+benefited from Indigenous knowledges, languages and 
+ways of knowing and being. Accordingly, York continues to 
+interrogate our ways of functioning critically and systematically 
+in all aspects of the academy that inadvertently or otherwise 
+interfere with our commitment to supporting, recognizing and 
+valuing Indigenous knowledges and Indigenous scholars. 
+Furthermore, York’s emphasis on interdisciplinarity provides 
+national and international leadership in the promotion of new 
+approaches to research and scholarship. In particular, York 
+is committed to working with Indigenous communities (First 
+Nations, Inuit and Métis) and York-based Indigenous scholars 
+to deepen our understandings of respectful forms of research 
+engagement, development and application. The UAP affirms 
+York’s commitment to the Indigenous Framework in its “Six 
+Priorities for Action,” including building stronger relationships 
+with Indigenous communities. In the Winter 2023 term, the 
+Office of the Vice-President Research and Innovation (VPRI) 
+will launch the first fully Indigenous Research Ethics Board, 
+led and advised by Indigenous members, with the aim of 
+providing oversight and ethics review into research involving 
+Indigenous peoples (First Nations, Inuit and Métis). To further 
+support Indigenous members of York’s community, this plan 
+identifies Indigenous Futurities as an opportunity to advance 
+social, cultural, artistic, policy, legal, economic and justice 
+areas that holistically shape Indigenous experience. York 
+remains committed to building community partnerships in 
+research and to facilitating research that respects Indigenous 
+approaches to knowledge and learning. 
+Strategic Research Plan 2023-2028 | York University — 7COMMITMENT TO DIVERSITY AND 
+INCLUSIVITY IN RESEARCH AND 
+SCHOLARSHIP
+This plan reaffirms York’s long-standing commitment to the 
+values of equity, diversity, inclusion and social justice. York 
+believes that our diverse community, research excellence and 
+commitment to collaboration facilitates responses to complex 
+challenges that serve the public good and create positive 
+change in the communities we serve. We acknowledge that 
+creating positive change requires that all members of our 
+diverse community are equally valued and recognized and 
+feel a sense of belonging, common purpose and shared 
+responsibility to enrich and support each other’s work. 
+As we build on our strengths across areas of research, 
+scholarship and creative activity, we recognize that the nature 
+of our respectful relationships with each other is paramount 
+for our ongoing success. As such, we aim to nurture an 
+equitable and inclusive environment where all members of the 
+York community experience a strong sense of belonging and 
+well-being. This includes cultivating equitable and inclusive 
+research environments in which the intersecting social 
+relations of power are continually analyzed and challenged. 
+This also includes meaningful and genuine research 
+partnerships with communities in the cities and urban regions 
+of which we are a part. 
+Meanwhile, York is continuing to create and sustain diverse 
+research teams and encourage research programs in 
+equity-deserving communities. This involves the continued 
+support of scholarship for equity-deserving groups, the 
+Dimensions Charter, and the advocacy and work related to 
+Tri-Council funding and programs. As outlined in the UAP, 
+we are also continuing our actions to support reconciliation 
+and transformation through our Indigenous Framework and 
+intensifying our systematic efforts to embed human rights, 
+equity, diversity and inclusion training across the University. 
+Strategic Research Plan 2023-2028 | York University — 8RESEARCH AREAS OF STRENGTH: COMPREHENSIVE RESEARCH 
+ENGAGEMENT ACROSS THE INSTITUTION
+York is providing nationally and internationally recognized 
+research leadership across six broad intersecting areas:
+• Advancing Fundamental, Discovery and Theoretical 
+Research and Scholarship 
+• Illuminating Cultures and Cultivating Creativity 
+• Building Healthy Lives, Communities and Reimagining 
+Futures 
+• Reaching New Horizons in Science, Technology and Society 
+• Pursuing Justice, Equity and Sustainability: From Urban 
+Dynamics to Global Challenges
+• Elevating Entrepreneurship Through Socially Responsible 
+Innovation 
+Each area includes a broad segment of scholarship and is built 
+upon a number of research strengths, where York maintains 
+research excellence and forms the basis for York’s recognition 
+as a leading Canadian research institution. York is committed 
+to ongoing investment that will support these research 
+areas across the institution, which, in turn, will enhance the 
+influence and recognition of our scholarship and creative 
+activity more broadly. In highlighting these key research 
+themes, we continue to strategically support our traditional 
+research strengths and advance our research vision. 
+ADVANCING FUNDAMENTAL, DISCOVERY 
+AND THEORETICAL RESEARCH AND 
+SCHOLARSHIP
+A primary function of universities is to train critical minds, 
+to inspire new generations and to encourage questioning of 
+the fundamental values and assumptions of our world. The 
+promotion of critical scholarship that challenges common 
+assumptions and questions mainstream values facilitates 
+understanding of the world as we see it. Research at York 
+begins with appreciating the importance of fundamental 
+inquiry, theoretical research and creative scholarship to 
+advance social, scientific and technological developments 
+for solving complex societal problems. Throughout the 
+University, scholars are investigating the world that surrounds 
+us: from the investigation of cells to discovering the cosmos; 
+from the study of moral, political and legal philosophy to 
+pure mathematics; from the investigation of molecular and 
+subatomic interactions to exploring the human brain; from the 
+poetic representations of data and generative systems in light 
+and sound to the novel use of artificial agents in interactive 
+environments; from the study of Indigenous life, cultures 
+and traditions to the critical examination of the origins and 
+reproduction of the nation-state, political institutions and non-state systems of governance; from the separation of 
+neuroscience and computational vision, to their integration to 
+yield novel insights into how we perceive and interact with the 
+world around us. 
+While York values the benefits of applied research and 
+development, we recognize that fundamental scholarship, 
+systematic examination, and the development of creative 
+works and scholarly activities remain essential to the 
+advancement of knowledge that moves from discovery to 
+invention and back again, requiring a model that transcends 
+disciplinary boundaries and facilitates collaboration. At York, 
+the advancement of fundamental discovery research and 
+theoretical research is sought through the formulation and 
+exploration of critical questions that push the boundaries of 
+traditional modes of inquiry and scholarship. In the social 
+sciences and humanities, a critical approach embraces 
+reflective assessments of society, cultural change and ways 
+of knowing. To advance critical social and cultural theory, 
+researchers are exploring historical change; political activism; 
+the social and economic transformations of societies within 
+Canada and around the world; and how culture has been and 
+continues to be a crucial means of expression and an avenue 
+for creative problem solving. Other forms of fundamental 
+research in social sciences range from engaging in the study 
+of work, employment and labour in the context of a constantly 
+changing global economy; deepening our understanding of 
+urbanization processes and the city lives and landscapes 
+that are created; enhancing knowledge of issues related 
+to a variety of transnational phenomena that are rapidly 
+changing society, law and governance; and emphasizing 
+community-engaged scholarship, real-world and needs-driven 
+research, and evidence-based training for effective emergency 
+management. 
+Critical scholarship at York is a hallmark of the institution and 
+is apparent in the research conducted in the natural sciences, 
+engineering, arts, humanities and social sciences. Across 
+disciplines, the profound dedication to equity is reflected in 
+research devoted to understanding and transforming attitudes 
+towards constructs of race, class, identity, gender and power 
+differentials in a range of social, political, educational, 
+ecological and economic formations. Through a critical lens, 
+researchers at York are exploring the effects of the global 
+movement of people, by displacement or through growing 
+diasporas and the rapidly changing urban regions of which 
+the University is an integral part. Researchers are exploring 
+language acquisition and theories of linguistic variation, and 
+educational models that help us understand more clearly 
+the role of language in multicultural societies. By pushing the 
+boundaries of innovative form and expression in the visual and 
+performing arts, researchers probe cultural attitudes towards 
+Strategic Research Plan 2023-2028 | York University — 9race, sexual identity and marginalized groups. Indigenous 
+languages and knowledges as vital sources of insights for our 
+world and for future generations are an essential aspect of this 
+research.
+York displays strong research leadership in discovery-based 
+science across physics, chemistry, pure mathematics, biology, 
+psychology and other disciplines. Astrophysics researchers 
+use observations and theory to study the origin and evolution 
+of structure in the universe, including the role that dark 
+matter plays and how galaxies take shape. Using lasers to 
+trap and hold individual atoms, quantum optics researchers 
+are measuring atomic energy states with unprecedented 
+precision, so that even the reliability of fundamental 
+constants can be tested. York’s high-energy physicists are 
+bringing leadership to large-scale international initiatives 
+through TRIUMF (Canada’s National Laboratory for Particle 
+and Nuclear Physics), the ATLAS collaboration at CERN (the 
+European Organization for Nuclear Research), the Deep 
+Underground Neutrino Experiment (DUNE), the Main Injector 
+Neutrino ExpeRiment to study v-A interactions (MINERvA), 
+and the T2K collaboration in Japan that is seeking out and 
+studying the elementary particles of which everything is 
+comprised, including neutrinos, antimatter, the Higgs boson 
+and magnetic monopoles. Fundamental research in physics, 
+mathematics and other natural sciences at York has formed 
+the basis of future technologies and toolsets that results in 
+solutions for real-world problems. For example, innovative and 
+critical advances in pure mathematical concepts in analysis, 
+probability, and image and signal processing continue to yield 
+novel health, finance and AI applications and technologies. 
+Biological research at York extends from molecules to cells, 
+organisms, populations and ecosystems. York researchers are 
+pushing the boundaries of genomics and proteomics to more 
+fully understand how the expression of genes is regulated and 
+to determine the structure and function of proteins and other 
+macromolecules encoded by the genome. Other fundamental 
+bioinformatics research ranges from investigating how growth 
+factors, hormones and microRNAs regulate oocyte maturation 
+and placental development and how their dysregulation 
+contributes to the pathogenesis of preeclampsia, to 
+developing novel techniques to extract mammal DNA 
+from the air that we breathe. Our academics working as 
+a part of York’s Centre for Vision Research focus on the 
+intersection of biological and computational vision, and work 
+in close collaboration to yield an integrated understanding 
+of visual perception that spans from basic mathematical 
+and computational principles to how these principles are 
+implemented in biological mechanisms. These fundamental 
+investigations support novel applications ranging from visual 
+aids for people with disabilities to new generation autonomous 
+robots for navigating unknown terrains. Physiological, metabolic, behavioural, biochemical and 
+genetic processes are being investigated in different model 
+systems, including yeast, filamentous fungi, insects, fish, 
+bees and mice. Researchers in chemistry and biology are 
+elucidating the structure of molecules and proteins by nuclear 
+magnetic resonance spectroscopy, X-ray crystallography and 
+mass spectrometry, and are making original contributions 
+to chemical biology and organic, inorganic and physical 
+chemistry, while others are exploring the fundamentals 
+of animal behaviour and cognition, including migration 
+patterns and how animals adapt to and interact with their 
+environments. Other critical research activities in natural 
+sciences include studying brain function, mapping and wiring, 
+predicting the effects of environmental stressors, such as 
+climate change, invasive species and habitat alteration on 
+ecosystems, and studying the genetics and evolution of social 
+insects to guide the conservation of native pollinators to 
+improve their health.
+ILLUMINATING CULTURES AND 
+CULTIVATING CREATIVITY
+As an important contributor to the advancement of creative 
+work and scholarship in the arts and culture in Canada, 
+York is an emerging leader in the conception of new media 
+and design of digital technologies and a groundbreaker in 
+cultural production and creative research. This dynamic 
+creativity is complemented by the creation of original and 
+experimental works of art, the science of human experience, 
+the analysis of media and culture, and the implementation of 
+new technologies that increasingly shape everyday lives. York 
+researchers are investigating the future narrative of emerging 
+forms of cultural expression, interactive storytelling, mobile 
+media, entertainment and gaming, immersive education and 
+training, gallery installations and interactive cinema, including 
+3D cinema and stereography. 
+The significant breadth and scope of scholarship in 
+communications and cultural studies, fine arts, design, 
+interactive arts and other digital humanities, computing 
+science and engineering, philosophy and environmental 
+studies, literature and linguistics and creative writing, 
+draw together a community of researchers who cut across 
+traditional disciplinary boundaries to facilitate dynamic 
+collaborations in arts-and-culture-related research creation. 
+This includes the internet of things, social media, 3D 
+simulations and animation; artistic theories and cultural 
+impact; interactive art and immersive environments; the 
+implementation of participatory design, maker methods, 
+physical computing, digital fabrication, wearable computing 
+and creative coding for the creation of novel digital forms. 
+It is also includes the expansion of emerging virtual reality 
+(VR), augmented reality (AR) and mixed reality media; the 
+application of expertise in audio-visual signal processing, 
+AI and robotics towards new conceptions of responsive 
+Strategic Research Plan 2023-2028 | York University — 10living environments; design and development of assistive 
+technologies and other project–based research that integrates 
+scientific investigation and creative expression into new 
+critically computational futures.
+York’s Sensorium engages in research creation, curatorial 
+and scholarly projects ranging from performance, media 
+environments and ecologies; future cinema and next 
+generation gaming; and social practice and community 
+engagement based on interdisciplinary collaboration. 
+Research creation in performance, explores the spectrum 
+of performance, focused on the intersection of the human 
+body and adaptive media systems. Work in this cluster 
+traverses theories of multisensory experience, applications 
+of sensing technologies, open-ended participatory artificial 
+life environments and the intersection of machine agents 
+and the performing arts. Research-creation in future cinema 
+and next-generation gaming involves the creation of new 
+stories for new screens, researchers who are developing 
+integrated, performance-based and networked media 
+projects, ranging from interactive documentaries, AR and 
+VR, large-format media, and pervasive games alongside 
+site-specific interventions, to develop digital technologies 
+that are expanding the affective and cinematic geographies 
+of contemporary media cultures. Within social practice and 
+community engagement, researchers are exploring how digital 
+and communication-based media can be creatively used 
+to foster social and political change with a focus on cyber-
+activism, virtual reality in human rights work, and building 
+community connection and dissent through social media.
+Research in these areas depends increasingly on engineering 
+technologies and is complemented by AI research conducted 
+in the Centre for Artificial Intelligence and Society (CAIS) and 
+the York University Libraries. Researchers at York’s Social and 
+Technological Systems Lab combine robotics engineering 
+and interactive product design to develop solutions and 
+interventions for the aging population, people with dementia 
+and interactive learners. York’s research librarians advance 
+our research culture and reputation by providing leadership in 
+evolving data-driven research methodologies used in digital 
+scholarship and in managing research data to maximize 
+accessibility. York University Libraries are actively exploring 
+how to better extend this infrastructure into new modes of 
+capturing, managing and exploiting information and large sets 
+of data, and developing new ways to visualize and understand 
+this data to support new forms of cultural expression. York’s 
+Motion Media Studio, an interdisciplinary studio space at 
+Cinespace, enables access to state-of-the-art technology, 
+such as markerless motion-performance capture, AR, VR, and 
+immersive environments and motion simulation. 
+At York, creative cultural production is complemented 
+by the critical study of cultural traditions, production and 
+performance practices, including Indigenous narratives 
+and storytelling. The focus of research collaboration with Indigenous communities centers on decolonizing education, 
+strengthening community and cultural reclamation, and 
+exploring Indigenous methodologies through visual 
+storytelling. Digital storytelling is also helping to advance 
+the understanding of Indigenous student achievement and 
+the processes of decolonizing and indigenizing schools. 
+For example, linguistics scholars have been assisting in 
+the development of language policy as it affects public 
+education in Nunavut, and they are providing insight into 
+how language policy has led to the threats experienced by 
+francophone cultures in Ontario and Quebec. In anthropology, 
+researchers critically explore how people are subjected to, 
+participate in and contest the processes of living in a world 
+that is interconnected by powerful economic, cultural and 
+technological forces. Historical scholars examine the forces 
+and thinking that have shaped cultures in the past as a 
+starting point for acting and thinking in the present, while the 
+politics of contemporary, popular and more traditional forms 
+of cultural expression are examined from a current political 
+science, sociological and communications perspective. 
+In theatre, York researchers have traced the genealogical 
+development of performance studies in Canada and are 
+providing leadership in major international research projects 
+from Bali to South Africa.
+Researchers are exploring art, digital media and globalization 
+to better understand how artists in different cities contribute 
+to the development of new cultural and informational 
+landscapes. Scholars in this area are documenting new 
+cultural formations and community-based cultures – from 
+urban parks to transitory performances in neighbourhoods 
+and virtual spaces on the internet. Design researchers imagine 
+new intelligent user interfaces for the future that inform our 
+understanding of communications technology in the world 
+today. Practice-based research in dance is focusing on dance 
+science, including the psychological aspects of injury as 
+well as prevention research, and motor learning and motor 
+control, while other types of scholarship is focusing on dance 
+history and criticism. York’s music scholars are engaging in 
+highly recognized investigations, integrating academic studies 
+and studio training across a wide range of musical cultures 
+and traditions. Ethnomusicological research creation is 
+exploring the lived experience and the ongoing significance 
+of music in defining the self and community within a context 
+of global destabilization. Other researchers are exploring the 
+intersections of cinema and media with technology and art; 
+examining intellectual property law, regulation and policy 
+issues, and rights management; and developing a deeper 
+understanding of management practices across the creative 
+arts and cultural industries.
+Strategic Research Plan 2023-2028 | York University — 11BUILDING HEALTHY LIVES, COMMUNITIES 
+AND REIMAGINING FUTURES
+York researchers are focusing on improving the understanding 
+of the structural, systemic and individual factors that drive 
+health outcomes, keeping people healthier for longer and 
+redefining and advancing new ways to create positive change. 
+Our researchers are shaping the future of the health and 
+well-being landscape by increasing fundamental knowledge, 
+translating knowledge and enhancing practical applications. 
+Supporting pioneering work allows researchers to improve 
+the understanding, prevention and treatment of disease and 
+injuries, with an emphasis on advancing the most promising 
+practices for access to care, cost, accountability, administrative 
+efficiency and effectiveness, while focusing on advancing 
+equity and improving health care outcomes. A sampling of 
+health-related research at York includes biomedical discovery; 
+healthy aging and age equity; Indigenous understandings of 
+healthy environments; exploring links between urbanization 
+and pandemic outbreaks; the promotion of mental, creative 
+and physical health; critical examinations of disabilities; the 
+social determinants of health; analyses of global health and 
+global health governance; health informatics and disease 
+modelling; bioethics; exploring bullying behaviours; health 
+equity within nursing research; kinesiology; nutrition; health 
+policy and management; clinical psychology; neuroscience; 
+and situating wellness in the contexts of history, culture and 
+the lived environment. This expansive approach to health 
+research is making a significant contribution towards UN SDGs 
+such as SDG 3 (Good Health and Well-Being) and SDG 11 
+(Sustainable Cities and Communities) that focus on improving 
+the overall health and well-being of individuals, communities 
+and environments.
+York’s growing reputation as a leader in global and 
+transdisciplinary health research is reflected in the 
+establishment of our strong global health links, such as those 
+formed through the WHO Collaborating Centre on Global 
+Governance of Antimicrobial Resistance (WHOCC) at York 
+as part of York’s Global Strategy Lab, working to address 
+transnational health threats and social inequalities. In 
+addition, York supports six health-specific Organized Research 
+Units (ORUs) that seek to both inform and transform policy, 
+planning and practice such as York University’s Centre for 
+Aging Research and Education, drawing on lessons from 
+the pandemic to address gaps in long-term residential care, 
+transitioning patients from hospital to home or redefining what 
+it means to age well in urban centres. 
+A sampling of York’s integrative health research extends 
+from the laboratory to the community, from cells to society. 
+For example, researchers working in the Centre for Vision 
+Research (CVR) are advancing understanding of how the 
+human brain works and contributing to improved rehabilitation 
+for stroke patients and patients with head injuries and new 
+treatments for vision loss. As well, our researchers are offering new routes of investigation and insight into the genetic, 
+molecular and cellular neurobiology and environmental 
+effects on brain development in children with autism. 
+Interdisciplinary teams within the Muscle Health Research 
+Centre (MHRC) are generating new insights and elucidating 
+interactions between health, nutrition and disease, including 
+relationships between diabetes, stress and physical activity, 
+optimizing mitochondrial health and developing strategies to 
+manage hypoglycemia and muscle wasting. In the biomedical 
+sciences, research ranges from bioengineering that is 
+improving medical device technology (improving diagnosis 
+and screening), to interdisciplinary approaches designed to 
+improve understanding and treatment of severely debilitating 
+and chronic conditions, including a broad range of neurological 
+health disorders, concussion, dementia and more within York’s 
+Centre for Integrative and Applied Neuroscience (CIAN). Two 
+other examples from within the wide spectrum of health-
+related research activities are the Dahdaleh Institute for 
+Global Health Research, which is developing novel solutions 
+for planetary health, global health and humanitarianism, and 
+global health foresighting; and the Krembil Centre for Health 
+Management and Leadership, which is advancing the calibre of 
+management and leadership in the burgeoning health industry. 
+Additionally, York researchers are advancing discoveries in 
+cancer research, such as identifying cancer biomarkers and 
+developing new therapies to enhance the quality of life for 
+patients with cancer and their families. 
+Our researchers are working to address discrimination by 
+monitoring the human rights of persons with disabilities 
+worldwide, along with health-related inequalities for all 
+people, including those who face increased health risks. 
+Others are focusing on enhancing literacy and educational 
+involvement and well-being among marginalized populations, 
+including Indigenous peoples, women, rural populations, 
+persons with disabilities, economically disadvantaged 
+groups, immigrants, and ethnic and cultural minorities. Child 
+and youth research produces leading scholarship on youth 
+homelessness, mental health, education and relationships and 
+development of infants, children, youth and diverse families. 
+Others are looking to break down Western paradigms of health 
+care and remove systematic barriers for Indigenous and other 
+communities. With a focus on promoting wellness, healthy 
+aging and improving quality of life, health scientists with 
+the MHRC are exploring critical questions involving muscle 
+health and its metabolism, and engineers are designing 
+technologies for the aging population, improving mobility and 
+quality of life. Other areas of health-related research include 
+the influences of air and water quality on human health; the 
+association of sustainable growth on individual and population 
+health; the use of biomolecular interactions to diagnose and 
+treat diseases; and women’s health, sexuality, including the 
+intersection of LGBTQ2S sexuality, gender, and human rights.
+Strategic Research Plan 2023-2028 | York University — 12Capacity-building partnerships that bring together clinicians, 
+patients and researchers in a collaborative way are integral 
+to York’s health-focused research. For example, we are 
+partnering to advance digital health solutions, health 
+informatics, integrated electronic health records, as well 
+as providing health solutions to inform policy and improve 
+outcomes for patients while influence clinical decision making. 
+Building on these areas, York is developing new programming 
+in health intelligence, health informatics and a new data 
+science program to provide our students with the skills they 
+need to succeed in navigating the future of health care. Other 
+partnerships include working with neighbouring full-service 
+hospitals and community-based health care service networks 
+to enhance training, research and innovation, and exploring 
+ways to improve safety in the health care system through 
+enhancing patient-centred care. 
+The COVID-19 pandemic has had a profound impact on all 
+facets of our health and health care systems, rendering visible 
+the structural barriers to health inequity. York researchers 
+continue to be active in examining many of the different angles 
+and impacts of the pandemic – as a transnational health 
+threat underscoring the interconnected nature of health, from 
+disease modelling and migration to substantial impacts on our 
+mental and physical health. Neuroscientists and psychologists 
+are studying how wearing protective masks may affect our 
+ability to recognize faces and scientists are informing public 
+behaviour on effective mask choice and personal protective 
+equipment in guarding against infections. York researchers 
+continue to study the underlying social determinants of 
+health that drive inequality and accelerate illness and disease 
+transmission across the world. They are examining and 
+providing a broader understanding of intersecting issues, 
+including global health governance, social engagement 
+and social justice in overcoming health inequities within 
+countries and between the Global North and Global South. 
+Our researchers are utilizing AI and data science models in 
+helping to predict viral transmission and assisting local health 
+authorities in mitigating new infections in the developing 
+world. Studies are looking at outcomes of the pandemic 
+response and recovery phase linking pandemic stigma to 
+negative psychological, economic and health outcomes for 
+certain diaspora communities in globalized urban centres. As 
+well, research is enabling advocacy for mental health support 
+for frontline workers, informing policy to help mitigate gender-
+based violence associated with the pandemic, and supporting 
+differentially affected racialized populations and communities. 
+Our researchers are providing a critical voice in the debate 
+over health care reform in Canada. They are addressing 
+privatization, healthy aging, the erosion of universal health 
+care, worker shortages and inequities in health care. The 
+recent pandemic has intensified this debate and floodlit 
+these challenges. Conducting wide-ranging investigations on 
+systemic issues like racial bias in the health care system is 
+key to gaining a better understanding of the diverse Canadian population and helping to inform decision makers on creating 
+a more responsive and compassionate system. This includes 
+a focus on how institutions shape the experiences of people 
+who use them. Additional research on larger age equity issues, 
+a systematic analysis of the increasing levels of privatization 
+within our long-term care system, and promoting improved 
+policies and practices that affect conditions and wages for 
+care workers are three areas contributing to positive change 
+through important and impactful research. 
+REACHING NEW HORIZONS IN SCIENCE, 
+TECHNOLOGY AND SOCIETY
+York is internationally renowned for its interdisciplinary 
+approach to solving complex problems facing our world today. 
+We pride ourselves for sustaining a framework for socially 
+responsible and inclusive research by co-creating research 
+goals with multidisciplinary academic-community teams, 
+while striving to predict the impact of scientific developments 
+and emerging technologies on society. Our researchers 
+develop solutions that address large-scale challenges, ranging 
+from environmental sustainability, water sanitation, and clean 
+energy to youth homelessness prevention, modelling and 
+mitigating pandemic spread, and disaster and emergency 
+management. They also inform social decision making 
+by recognizing that solutions to complex contemporary 
+grand challenges have multiple interacting natural, social, 
+scientific and technical features. York assigns high priority to 
+understanding these complex issues, researching practical 
+solutions and communicating our expertise to science and 
+non-science academics, practitioners, policy makers and 
+entrepreneurs, as well as the public at large.
+York is home to 31 ORUs, which serve as synergistic hubs for 
+participatory research programs that bring together expertise 
+from across disciplines spanning science, technology, society 
+and the arts. The recently inaugurated CAIS unites researchers 
+who are collectively advancing state-of-the-art theory and 
+practice of AI systems, law, governance and public policy.  
+Their research focuses on AI systems that address societal 
+priorities in health care, smart cities and sustainability, and 
+that are fair, explainable, reliable and trusted. Likewise, the 
+CIAN aims to explain the biological basis of human behaviour 
+in health and disease. In collaboration with researchers from 
+the CVR, they are integrating the fields of visual psychology, 
+computer vision, robotics and visual neuroscience as they 
+investigate new models of human visual mechanisms and 
+the ways that will lead to visually intelligent machines. 
+York University has a strong history of impactful research 
+activities in water-related fields through its interdisciplinary 
+collaboration with external academic, government and 
+industrial stakeholders. The One WATER ORU engages in 
+interdisciplinary world-class research on sustainability, water 
+education, AI, resource recovery and reuse as well as their 
+environmental and societal implications.
+Strategic Research Plan 2023-2028 | York University — 13York is making significant contributions to support the policy-
+making process and advance societal change. Through a range 
+of inter and transdisciplinary research initiatives that foster 
+strong relationships with governmental agencies, stakeholders 
+and communities, initiatives such as CIFAL York, a part of the 
+United Nations Institute for Training and Research, serves as 
+a hub for knowledge exchange and capacity building among 
+government officials, the private sector, academia and civil 
+society. Through community-engaged scholarship, real-world 
+and needs-driven research, and evidence-based training, 
+the York Emergency Mitigation, Engagement, Response, and 
+Governance Institute (Y-EMERGE) is also working to transform 
+the way societies understand, analyze, manage and govern 
+crises, disasters and emergencies. Meanwhile, with the goal 
+of placing youth homelessness and prevention onto public 
+policy agendas everywhere, the Toronto Centre of Excellence 
+on Youth Homelessness Prevention, established by the United 
+Nations Economic Commission for Europe (UNECE), assesses 
+the state of youth homelessness and prevention in the 56 
+member states of the UNECE through engaged international 
+research. 
+York is an international leader in space science, engineering, 
+geomatics and environmental sciences research. Researchers 
+are leading the contribution of scientific instruments for space 
+missions supported by the Canadian, American and European 
+space agencies. This research involves the development of 
+space flight instruments, planetary exploration and Earth 
+observation. Our researchers in the Centre for Research in 
+Earth and Space Science (CRESS) have led the Canadian 
+contributions to NASA’s Phoenix mission to Mars and NASA’s 
+OSIRIS-REx mission. These researchers are also involved 
+in NASA’s Mars Curiosity Rover mission and, leading the 
+Canadian part of NASA’s OSIRIS-APEX mission. York has 
+recently launched the Microsystems Technologies and 
+Application (CREATE-MTA) program that aims to address the 
+need for innovation in microsystems technologies, which play 
+a critical role in various areas such as aerospace avionics, 
+environmental monitoring, health and safety, and flexible 
+and printed electronics. Our ESSE researchers are leading 
+investigations into mass and volume reduction for rocket-
+launching satellites, self-sustained medical support for human 
+spaceflight and biopharmaceuticals. 
+York researchers also have an established track record of 
+leadership in atmospheric research with observations to 
+investigate the processes of climate, weather and air quality, 
+as well as broad engagement in the environmental monitoring 
+of air, water and biodiversity. York’s Centre for Bee Ecology, 
+Evolution and Conservation (BEEc) is home to a network of 
+leading interdisciplinary researchers who are fostering critical 
+research to better understand these vital organisms, help 
+secure their health, and impact policies and environmental 
+management for the long-term sustainability of bees and the 
+dynamic ecosystem services they provide. Scholars in the humanities and social sciences expand our 
+critical understanding of science and technology by exploring 
+their social, cultural, political, philosophical and material 
+dimensions. This research offers unique interdisciplinary 
+perspectives on both the historical development and 
+contemporary challenges of scientific and technological 
+practices and discourses. Researchers from across the 
+University are collaborating on projects in the development of 
+technologies in the digital arts, computing and engineering. 
+Further, with the development of new technologies come new 
+legal issues and rapidly evolving legal and social norms. York’s 
+legal scholars are exploring the complex legal and governance 
+issues surrounding intellectual property, AI and technology 
+law, and interacting with their colleagues in science and 
+engineering. For example, the Institute for Technoscience and 
+Society (ITS) is a research hub focusing on the relationship 
+between technoscience and society, and cultivates 
+comparative and transnational research, collaboration, policy-
+thinking and practice. Additionally, IP Osgoode explores legal 
+governance issues at the intersection of intellectual property 
+(IP) law and technology, considering issues of access, privacy, 
+and ethics, as well as intersecting areas of contract, health, 
+labour, Indigenous, environmental, constitutional, corporate 
+and international law, all within a variety of disciplines, from 
+business and sciences to the arts.
+In mathematics and statistics, researchers are undertaking 
+leading-edge studies that focus on applications in both 
+the sciences and health sciences. They are developing 
+new mathematical models for the prediction of disease 
+transmission and the geosimulation of how a disease spreads, 
+and they are coordinating several academic-industrial 
+collaborations in data mining, neural networks, pattern 
+recognition and vaccine mathematics, modelling and 
+manufacturing. Significant contributions to this research are 
+being made by researchers in the life sciences, with emphasis 
+on biochemistry and molecular biology, cell biology, ecology 
+and population biology, genetics and animal and plant science, 
+and mathematics. Researchers in chemical and physical 
+sciences are pushing the boundaries of nanotechnology and 
+advancing the fields of synthetic chemistry, drug discovery and 
+materials science. 
+PURSUING JUSTICE, EQUITY AND 
+SUSTAINABILITY: FROM URBAN DYNAMICS 
+TO GLOBAL CHALLENGES 
+Guided by both the UAP and York’s sustainability goals, our 
+researchers draw on the strengths of our diverse and inclusive 
+community to approach justice, equity and sustainability 
+through a holistic lens of collaboration, innovation and 
+knowledge mobilization. As York continues to pursue 
+inclusive excellence by decolonizing research, Indigenous 
+scholars at York are sharing their knowledge with allies and 
+are forging new Indigenous understandings of the natural 
+Strategic Research Plan 2023-2028 | York University — 14world and of reconciliation in a world still largely dominated 
+by settler institutions. Through socially engaged projects and 
+partnerships, our researchers are asking critical questions 
+that probe the nature and possibilities for justice, equity and 
+sustainability in local and global contexts. This has allowed 
+York researchers to make great contributions to UN SDGs such 
+as SDG 10 (Reduced Inequalities), SDG 11 (Sustainable Cities 
+and Communities) and SDG 16 (Peace, Justice and Strong 
+Institutions). The creation of the new Faculty of Environmental 
+and Urban Change has signaled the centrality of these 
+concerns in York’s research profile.
+The nature and scale of existing societal and environmental 
+challenges require a broad spectrum of research approaches 
+that result in positive change. York researchers are pursuing 
+collaborative, integrative and solution-oriented research 
+on environmental issues at multiple campuses in various 
+countries and through international research partnerships that 
+traverse borders and span social sciences, humanities, arts, 
+natural sciences, law, business and engineering. For example, 
+York has initiated global research collaborations to search 
+for ways to challenge the inequities that produce uneven 
+anti-microbial resistance across the world. We create original 
+scholarship that squarely addresses the relationships between 
+urban food insecurity, poverty and housing crises and translate 
+research findings into change-oriented and accountable public 
+policy. In addition to cutting-edge sustainability initiatives 
+on York’s Keele and Glendon campuses, our EcoCampus at 
+the Las Nubes Biological Reserve in Costa Rica provides an 
+important link to the surrounding communities and acts as a 
+living laboratory where issues of neo-tropical conservation, 
+education and eco-health are explored. 
+York researchers are studying water quality in Canadian 
+aquatic environments and investigating threats to these 
+habitats. They are examining the health impact of climate 
+on vector-borne and waterborne diseases; analyzing water 
+degradation due to plastics in lakes and other water sources; 
+predicting climate change patterns using insect sub-fossils; 
+studying the migratory patterns and health of forest songbirds; 
+and studying invasive insects within ecosystems under threat. 
+York is a research leader in the biodiversity and conservation 
+of bee populations that are vital to the pollination of wild 
+plants and crops, which in turn produce food for human 
+consumption. Ecologists and environmental scientists study 
+the effects of multiple environmental stressors on different 
+ecosystems and develop computer models to predict these 
+effects. This research advances our understanding of how 
+climate change, urban development, contaminants and 
+invasive species threaten the North American landscape and 
+the biodiversity that is essential to human existence.
+York researchers lead tool and process development to 
+advance the measurement of Ecological Footprint and 
+Biocapacity, to help reduce Canada’s overall carbon footprint, 
+and build sustainable energy sources of the future. This includes implementing York’s Energy Management Plan to 
+accelerate greenhouse gas emission reductions from the 
+University’s central utilities and deep retrofits to buildings, 
+and the development of power and renewable energy systems 
+and materials for green infrastructure, such as micro- and 
+nano-structure bio-materials. Critical research is being 
+conducted in engineering that is focused on various waste to 
+energy initiatives, for example, reducing carbon emissions 
+by extracting energy and other resources from wastewater, 
+developing low carbon building materials, and developing 
+novel engineering tools to better plan and operate energy 
+and transport systems, including researching other promising 
+advancements like hydrogen fuel. 
+As an urban university with internationally recognized 
+expertise in urban design, planning, housing and sustainable 
+transportation to facilitate and integrate city life, York 
+researchers are engaging with challenging issues related 
+to urban sprawl and the politics of environmental integrity 
+in urban settings. By bridging social and environmental 
+research and public policy, York leads the world in research on 
+suburban development globally as an approach to examining 
+governance, land use, migration, infrastructure and daily life. 
+York researchers are focusing on urban immigration gateways, 
+like Toronto, looking to enhance the social, economic and 
+political inclusion of newcomers to Canadian cities, and they 
+are investigating gendered urban insecurities in the urban 
+Global South. 
+Scholars at York are also investigating the ethical implications 
+of climate change, including the responsibilities we have for 
+future generations. Issues of cultural citizenship, community 
+and the environment are being explored by researchers 
+through a range of experimental and creative practices that 
+emphasize public art installations and scholarly publications 
+that examine urban development, Inuit culture and climate 
+change. York researchers are also exploring climatic and 
+environmental change in Europe, the Americas, Africa and 
+Asia across various historical periods and showing how 
+these shifts have had profound social, economic and political 
+effects over time. As Canada continues to strive to reach its 
+goal of net-zero emissions by 2050, York researchers have 
+engaged in research that addresses the justice dimensions 
+of the transition to a greener economy, contestation over 
+extraction, new energy systems and the distribution of 
+pollution burdens affecting marginalized communities and 
+vulnerable populations, including through the development 
+of ecological footprint indicators. Moreover, as advances in 
+information technologies have fostered a digital world that 
+involves all aspects of the society, our researchers are delving 
+into promoting justice and sustainability of the digital world by 
+addressing challenges shaping human activity and changing 
+the way we live. The emerging data economy presents unique 
+challenges and opportunities, including difficulties in data 
+valuation, a conflict between the public good and private gain, 
+and an ever-increasing potential for biased data analytics. 
+Strategic Research Plan 2023-2028 | York University — 15Legal scholarship probes important environmental, equity and 
+human rights issues in Canadian and global environmental 
+law, including those related to Indigenous peoples and the 
+environment. This work is complemented by research on 
+natural resources law; the impact of resource development 
+on constitutionally protected Indigenous rights and treaty 
+rights; ethical investment; governance for sustainability; and 
+sustainable finance. The theoretical and practical implications 
+of law’s role in a just, equitable and sustainable society 
+underscore all this work. York researchers are established 
+international leaders in research on equity and intersectional 
+relations of inequality and oppression. These include anti-
+poverty analysis in Canada and in the Global South; politics 
+and processes of racialization; workers’ rights and labour 
+organizing; inclusive approaches to gender and sexuality; 
+as well as critiques of ableism and its resulting inequalities. 
+Feminist research at York examines national and transnational 
+issues, applying analyses of race, gender, sexuality and other 
+axes of difference to labour markets, individual workplaces, 
+transitional justice, colonial violence and much more.
+Our researchers also examine global migration as a barometer 
+of inequality and violent conflict. York researchers focus 
+on the violation of fundamental human rights, such as the 
+loss of security and livelihoods abroad and the search for 
+temporary work in Canada to feed their families back home. 
+Researchers of forced migration probe the adjudication of 
+refugee claims of those who claim asylum in Canada, including 
+the discrepancies in our refugee determination system. York 
+is a world leader in migration research on all fronts, but with 
+a particular focus on those in precarious circumstances. 
+Refugee-related research in international forums and in 
+immigration policy thrives at York where strong ties to 
+research centres and international organizations abroad have 
+been forged over decades of collaboration. York researchers 
+address the violence, conflict and impacts of war in all their 
+forms. These include addressing transnational criminal 
+relations and human rights violations, and their affect on 
+migration and the security of refugees, who are the remnants 
+of global geopolitics amid war and humanitarian emergency. 
+ELEVATING ENTREPRENEURSHIP THROUGH 
+SOCIALLY RESPONSIBLE INNOVATION
+York fosters a thriving community of scholars who are 
+passionately interested in how socially responsible 
+innovation can improve our economy and our planet. With 
+the increasingly entrepreneurial nature of the University, York 
+continues to create breakthrough innovations by aligning its 
+research with societal and market needs. Entrepreneurship 
+research at York is conducted within a broader community 
+setting that emphasizes social justice. Our exploration of 
+factors that contribute to the technological developments, 
+market innovations and the performance of entrepreneurial 
+ventures is balanced by research that critically questions the assumptions underpinning market capitalism, neoliberal 
+political models, Eurocentrism and bourgeois culture. Along 
+with leading scholars in social and market-based innovation, 
+entrepreneurship and business management, York boasts 
+several of the world’s leading critics of contemporary capitalist 
+society who are exploring the violence of capitalist, colonial 
+and patriarchal states, societies and economic systems, and 
+the nature of the structures of governance that instantiate and 
+sustain these inhumane inequities from the local to the global 
+stage. Rather than being incompatible, these two research 
+areas generate a productive tension that, in turn, yields a 
+unique perspective on the development and implementation 
+of responsible innovation. 
+Entrepreneurship has clear ties to economic performance, 
+yet entrepreneurial innovation is far from being restricted 
+to goals driven only by the profit motive. Entrepreneurs 
+increasingly seek ethical pathways to develop and conduct 
+business in a manner that contributes to the well-being 
+of society. Responsible innovation requires governing 
+technological, scientific and economic development in a 
+conscientious manner. York researchers strive to illuminate 
+the conditions that can foster such responsible innovation: 
+many are recognized as world leaders in research regarding 
+sustainability, corporate social responsibility, business 
+ethics, social enterprise and social sector management. 
+The COVID-19 pandemic, as well as a range of other global 
+developments, has given new urgency to extending our 
+understanding of how business can be conducted responsibly 
+given the complexities of contemporary social and economic 
+conditions. For instance, through our globally recognized 
+Centre of Excellence in Responsible Business (COERB), York 
+researchers are creating and disseminating new knowledge 
+about the social, environmental, ethical and political 
+responsibilities of business.
+As attention to environmental, social and corporate 
+governance (ESG) issues has become a critical priority for 
+organizations, researchers at York are well positioned to 
+advance knowledge regarding rapidly evolving ESG challenges 
+and practices. This research is focused on creating new 
+knowledge about the social, ethical, environmental and 
+political responsibilities of organizations, and how critical 
+issues facing organizations can be addressed. Scholars from 
+across the humanities, social sciences, law and business 
+are engaged in tackling critical, interconnected issues in this 
+regard, such as examining how ESG factors and climate risks 
+intersect with relevant policies and laws in Canada, including 
+the impact on Indigenous communities and the duty to 
+consult. 
+This same ethos informs our research into extractive industry 
+practices, the adoption of new technologies (including AI), 
+international intellectual property regulation, and trade and 
+investment agreements. Still other initiatives examine labour 
+standards and relations, and probe how public policy can 
+Strategic Research Plan 2023-2028  | York University — 16promote socio-economic equality for workers both in Canada 
+and abroad. The Global Labour Research Centre (GLRC) at 
+York engages in the study of work, employment and labour
+in the context of a constantly changing global economy. 
+Research into venture capital, finance, private equity, real  
+estate and infrastructure occurs alongside research into the 
+cultural, social and economic challenges of human migration, 
+settlement and diasporas. At the Lassonde School of 
+Engineering, there is an emphasis on engineering that brings
+a sense of the public interest and corporate responsibility
+to professional practice, which is reflected in the creation
+of research programs exploring transportation networks, 
+energy solutions and the development of new devices and 
+technologies.
+Through Innovation York, the University has launched several 
+initiatives that include York University’s pan-institution 
+entrepreneurship hub with over 16 different programs,
+building a unique entrepreneurial community.  All these 
+programs are delivered through YSpace: ELLA, Ontario’s
+first accelerator focused on women-led businesses;
+YSpace Digital, offering a variety of online supports
+and services; YSpace Markham, a physical incubator
+supporting growth-ready ventures; and YSpace Georgina,
+with entrepreneurial resources and collaboration space
+located in the Northern York Region. York also partnered
+with the Black Creek Community Health Centre to create
+the Black Entrepreneurship Alliance, focused on creating 
+entrepreneurial support and upskilling opportunities. Our 
+entrepreneurial programming is establishing York as both
+a recognized leader and an entrepreneurial hub, delivering 
+unique programs that are first of a kind in the industry.  York  
+now operates Ontario’s first food and beverage accelerator
+and Ontario’s first women-led professional services ventures,  
+as well as Northern Ontario’s first entrepreneurial hub.  These  
+initiatives have worked towards maximizing the commercial, 
+economic and social impacts of research and innovation; from 
+helping to reduce the gender equality gap in entrepreneurship 
+to creating opportunities for all entrepreneurs, these initiatives 
+are exemplars of socially responsible innovation at York.
+A common thread through all of York’s initiatives is our 
+collaborative approach to knowledge creation and social
+and commercial innovation, according to which academic 
+researchers work with community partners, the private
+sector and policy makers to advance and promote social 
+consciousness and enhance business and economic practices. 
+York researchers exhibit leadership that fosters innovation
+and enhances society’s capacity for building sustainable 
+livelihoods while supporting the public good and contributing 
+to our regional economy. Founded by York, Research Impact 
+Canada, a pan-Canadian network of 23 institutions, hospitals 
+and research organizations, is a national leader in the
+practice of creating social value and impact from research, 
+knowledge and innovation. These initiatives have greatlycontributed to UN SDGs, including SDG 9 (Industry, Innovation 
+and Infrastructure) and SDG 12 (Responsible Consumption 
+and Production).
+Strategic Research Plan 2023-2028 | York University — 17RESEARCH OPPORTUNITIES: COMPELLING OPPORTUNITIES FOR THE 
+STRATEGIC DEVELOPMENT OF RESEARCH
+Within the breadth and diversity of cutting-edge scholarship at 
+York, there are many areas where scholars have coalesced to 
+provide enhanced opportunities for leadership and recognition 
+through strategic investment in more focused collaborative 
+activities. These are complemented by emerging areas of 
+research that are underpinned by a strong vision of the York 
+community achieving new levels of research leadership in 
+ways that bring a unique York perspective to solving some of 
+the world’s most compelling challenges. Some opportunities 
+are driven by new frontiers of fundamental inquiry, while 
+others reflect the convergence of strong academic interest 
+and external opportunities that can have a transformational 
+effect on society. All of which reflect the ability of York to make 
+unique contributions.
+Development of these opportunities brings together varied 
+perspectives, disciplines and understandings to deliver 
+innovative achievements and address emerging challenges. 
+Strategically, by committing to supporting and building these 
+areas of opportunity, we are positioning ourselves to further 
+enhance the profile and deepen the recognition of York’s 
+ground-breaking scholarship that informs our academic 
+programming. Some opportunities were initiated in our 
+2018-2023 SRP and have the potential to further enhance 
+the University’s profile. Other new opportunities reflect the 
+progress of our scholarship and the evolving world around us 
+in areas where York researchers have the potential to excel:
+• Digital Cultures and Disruptive Technologies 
+• Healthy Communities, Equity and Global Well-being 
+• Indigenous Futurities
+• Climate Action for a Sustainable Planet
+• Social Justice, Peace and Equitable Relations
+• Inter and Transdisciplinary Research Innovation 
+DIGITAL CULTURES AND DISRUPTIVE 
+TECHNOLOGIES 
+The digital revolution that we are currently witnessing has 
+been referred to as the Fourth Industrial Revolution, as this 
+new stage of human development has been enabled by 
+extraordinary technological advances comparable with and, 
+in some cases, even exceeding those of the first, second 
+and third industrial revolutions. This era of embedded 
+connectivity is distinguished by the widespread, rapid and 
+common use of technology throughout society; these rapid 
+technological advances continue to merge the physical, digital 
+and biological worlds in a manner that creates both promising 
+opportunities and potential risks. With the continued upsurge of social media platforms, the expansion of complex 
+algorithms, and the growth of data sets, the scope and level 
+of activity of this digital revolution continues to accelerate 
+while its implications are still being fully understood. Digital 
+technologies have given rise to vast new industries; enabled 
+the development of various forms of AI and machine learning; 
+and transformed means of communication, ways of learning 
+and cultural industries – thereby disrupting notions of culture, 
+society, knowledge and citizenship in highly significant ways. 
+Consequently, there is a continued need for research on 
+the digital world at the intersection of the arts, sciences, 
+computing, law and engineering, pushing technological 
+boundaries while critically investigating the social, cultural and 
+legal impacts and the ways in which it is shaping and changing 
+human activity and interaction. 
+AI-related research at York has gained considerable 
+momentum over the past five years, with research ranging 
+from the development of novel computer vision systems in 
+science and technology for deployment on handheld and 
+robotic devices as well as other intelligent agents, to new 
+brain-inspired AI systems, through application to smart cities, 
+data analytics, disaster management, emergency planning and 
+disease transmission models, to novel legal and governance 
+frameworks.  Currently, more than 140 faculty members are 
+engaged in AI-related and digital cultures research at York, 
+contributing to both technological applications of research 
+as well as an interconnected transdisciplinary approach. 
+York’s program offerings are reflective of this with both 
+undergraduate and graduate programs in digital cultures, 
+digital media and related areas, which are being offered jointly 
+by the Lassonde School of Engineering and School of the Arts, 
+Performance, Media and Design. Likewise, Health Studies 
+offers programming on health informatics, eHealth, health 
+policy and health management, and the School of Information 
+Technology offers programs on non-standard applications 
+of AI, such as fintech (cryptocurrency, algo-trading), 
+cybersecurity and technological sustainability.
+York researchers are also working to advance the development 
+and implementation of digital technologies to ensure their 
+equitable and ethical adoption, as well as exploring how the 
+increasingly digital world influences the way we live, interact 
+and conduct business. For example, our researchers are 
+exploring AI and digital technologies within the digital media 
+contexts and legal frameworks through IP Osgoode (Osgoode 
+Hall Law School’s Intellectual Property Law and Technology 
+Program) and the IP Innovation Clinic (innovation-to-society 
+intellectual property legal clinic). Other scholars from across 
+the humanities, social sciences, health, engineering and 
+law are addressing the potential risks of emerging 
+disruptive technologies, including AI, and their effects on 
+Strategic Research Plan 2023-2028 | York University — 18governments, public policy, labour markets, sovereignty, 
+personal and national security, human health and health 
+systems, as well as the challenges they pose to our sense 
+of individual identity, collective humanity, equity and human 
+rights.  Work in this area also explores research creation in 
+immersive environments such as virtual and augmented 
+reality; the impact of digital usage in a variety of community 
+settings, including Indigenous communities; how digitally 
+based forms of knowledge and expertise are emerging online; 
+and how digital gaming can inform education. Importantly, 
+this holistic approach is characterized by a deep engagement 
+with community, industry partners, public agencies and 
+international organizations focusing on the impacts and 
+applications of digital technologies. This work is aided by the 
+rich offerings and supports of the Digital Scholarship Centre 
+and the Media Creation Lab provided by the York University 
+Libraries, which provide a gateway to equitable access to 
+those researchers who want to engage with digital cultures 
+and disruptive technologies. Further, coordinating investment 
+and promoting interdisciplinary interactions will propel 
+research and strengthen industry-academic collaboration 
+in these areas. We will continue building our cutting-edge 
+digital arts and technology research and continue our existing 
+collaborations with some of Canada’s most prominent digital 
+media hardware and software companies. 
+As technological advances foster new systems, impacting 
+many dimensions of society, we have identified the integration 
+of disruptive technologies into society as a critical area for 
+accelerated research over the next five years.  One critical 
+opportunity will be guiding the ethical, legal, sociological and 
+technical development of the rapidly expanding technology, 
+including AI, high-performance computing that is associated 
+with the challenges of big data, as well as technological 
+literacy that all societies face today.  Beyond AI, we will 
+extend our leadership in new disruptive technologies 
+(including health informatics, Beyond 5G, advanced VR, nano, 
+cybersecurity, and smart cities) as well as their applications 
+in social sciences, humanities, health and other STEM fields; 
+interfaces and content creation, scientific inquiry, design, 
+policy development and critical discourse in digital media. 
+We will further our recognized leadership at the interface of 
+an expanding cluster of creative industries in film, television, 
+informatics, data visualization games and app development. 
+Moving forward, York will continue to advance key 
+recommendations outlined in our AI task force’s November 
+2021 report, titled  Fostering the Future of Artificial Intelligence: 
+Report for the York University Task Force on AI & Society , to 
+further advance York as a future global centre of excellence 
+for AI-related initiatives and research. Support in this area 
+will leverage York’s current success in digital media, AI, data 
+science and the broader impacts of innovation on society, 
+encouraging continued innovation to sustain our leadership.HEALTHY COMMUNITIES, EQUITY AND 
+GLOBAL WELL-BEING
+As the greatest public health challenge in more than a century, 
+the COVID-19 pandemic has transformed our lives, our world, 
+our economy and our health care system. The pandemic has 
+placed our health care system under enormous stress and 
+has worsened long-standing issues, such as lack of access to 
+primary care in communities across Canada, health human 
+resources planning and staffing constraints, patient backlogs 
+and the adoption of new technologies. From addressing 
+long-standing issues to reimagining health care systems, the 
+issues we face are broad and far-reaching. 
+As we continue to tackle COVID-19 and adjust to the many 
+socio-economic changes that it has brought, our researchers 
+have aimed to better understand the changes that are needed 
+in our health care system. The pandemic has had a particularly 
+devastating impact on long-term care homes – researchers 
+are investigating the conditions of care and the state of the 
+health care labour force and especially those working in long-
+term care. Health care providers have turned to online tools 
+to deliver services remotely during the pandemic, causing a 
+rethink of how digital innovation can be used in health care but 
+also causing increased inequities for vulnerable communities. 
+Consequently, researchers are examining how to adapt 
+eHealth for a broader population and strengthen the ability to 
+detect and respond to public health events and emergencies. 
+Moreover, given the emerging challenges from the pandemic, 
+health care management is in a state of flux with growing 
+demand, less access and challenges to delivery. There is a 
+need to optimize access to the right care, promptly, and in 
+the right place, geographically. As such, York researchers are 
+working to improve efficiencies around patient wait times 
+and health care staffing shortages using advanced AI tools. 
+Meanwhile, researchers in the humanities and social sciences 
+are examining the structural- and system-level barriers and 
+drivers of access to health care.
+Aging and increasingly diverse populations, together with the 
+growing complexity and personalization of health care, are 
+driving the search for health care solutions that emphasize 
+wellness and disease prevention to minimize the need for 
+medical intervention. Increasingly, medical advances are 
+transforming acute conditions such as neurodegenerative 
+diseases, HIV infection and cancer into long-term chronic 
+conditions that must be treated and monitored over decades. 
+In alignment with the UN Decade of Healthy Ageing (2021-
+2030), to provide long-term, sufficient levels of care, smart 
+regulations and innovative solutions to improve quality and 
+outcomes is closely linked with the strengths of York’s health 
+research, which focuses on accountability in the public system 
+and community health and wellness, emphasizing York’s 
+commitments to equity and social justice.
+Strategic Research Plan 2023-2028 | York University — 19In the developing world, health inequities and challenges 
+affect far greater percentages of people. In addition to learning 
+how to export and translate health care solutions globally to 
+respond to challenges, there is a pressing need to extend the 
+partnership with developing nations to empower global health 
+care solutions and break down historically vertical models for 
+their transmission and adoption. York researchers are crossing 
+disciplines where studies of health intersect with the social 
+sciences, health sciences and natural sciences, along with 
+assistance from engineering and computer science to address 
+problems that have interconnected global implications 
+affecting health of populations, while always being mindful of 
+underlying cultural, social, legal, environmental and economic 
+perspectives.
+Health research has gained considerable momentum and 
+recognition over the past five years through the individual 
+achievements of researchers and the successful launch of 
+major initiatives, as well as collaborations across a wide 
+range of disciplines. Examples include the following: Vision 
+to Science Applications (VISTA) that bring together the 
+visual sciences and their application and societal impacts; 
+Connected Minds: Neural & Machine Systems for a Healthy, 
+Just Society, which has over 200 researchers working to 
+address the rapidly emerging “techno-social” collective 
+and examining the benefits and risks to communities; the 
+Health Care Ecosphere that is leading the development and 
+commercialization of personalized health care solutions and 
+health technologies that evolve traditional health prevention 
+and management; York University Centre for Aging Research 
+and Education that is pursuing responses to changes and 
+challenges from aging at a community and individual level; 
+and the Dahdelah Institute for Global Health Research, whose 
+researchers pursue solutions to global health challenges with 
+a focus on governance, policy and management systems to 
+fully realize benefits. 
+Over the next five years we are committed to expanding 
+research that focuses on the social determinants of health, 
+health care regulations, digital health, health outcomes and 
+the promotion of wellness. From biomolecular engineering to 
+the health of populations, from biomedical to social work and 
+health law, and from healthy aging in communities to global 
+child health rights, researchers will accelerate their individual 
+success and will fully realize the potential of recently launched 
+initiatives. In addition, we will pursue new partnerships across 
+health care, social services, natural sciences, engineering 
+and global health sectors to extend the leadership and 
+influence of our research. With the opening of a new campus 
+in Markham in 2024, we expect to further enhance our 
+focus on community engagement, while new directions in 
+bioengineering research will be launched with the continuing 
+expansion of our engineering programs.
+1  Paul Kuttner, “Futurism, Futurity, and the Importance of the Existential Imagination,” Cultural Organizing (blog), May 17, 2017. Accessed February 11, 2018.
+2  Sean Teuton, “Indigenous Futurity,” in Native American Literature: A Very Short Introduction (New York: Oxford University Press, 2018), chapter 7. Accessed April 20, 
+2023, http:/ /www  .veryshortintroductions  .com/view/10 .1093/actrade/9780199944521 .001 .0001/actrade- 9780199944521-chapter-7  The development of our engaged health research programs 
+is expected to build on York’s ability to address Ontario’s 
+evolving and unmet clinical and community health care needs. 
+A key driver in this research is the school of nursing with a 
+vibrant socially minded collegium of diverse researchers 
+who make as their central goal the health and well-being of 
+individuals, families and communities. Over the longer-term, 
+York maintains its aspiration for a new kind of medical school 
+to focus on integrated interdisciplinary, team-based family 
+primary care, community health and wellness through the 
+lifespan. Informed by demographics, health care gaps and 
+the evolution of medicine, our emphasis is on the integration 
+of primary care physicians within the context of the broader 
+health care and wellness promotion teams. As a partner in 
+the Vaughan Healthcare Centre Precinct (VHCP), York is well 
+positioned to advance health care practices and outcomes 
+through local and global partnerships.
+York is also deeply committed to fostering innovative 
+approaches, technologies and perspectives to solve problems 
+and promote global economic and social well-being. Building 
+off the success of our entrepreneurship hub YSpace, York is 
+committed to supporting social innovation and the translation 
+of new knowledge to decision and policy makers, as well as 
+the commercialization of innovations developed within the 
+VHCP through start-up venture creation and growth programs. 
+The tremendous wealth offered by the surrounding disciplines 
+at the University will provide unique perspectives and 
+innovative approaches to solving some of the most pressing 
+questions in health promotion and practice, disease and injury 
+prevention, and health care delivery.
+INDIGENOUS FUTURITIES
+Deeply rooted in history, futurities recognizes that the future, 
+despite its intangibility, is directly impacting us today.1
+Indigenous futurity considers how Indigenous revivals 
+might be viewed as expressions of “futurity,” operating in 
+resistance to those assumptions that consign Native American 
+[Indigenous] peoples and lifeways to the past.2
+York University has a long-standing commitment to access, 
+inclusion, equity and diversity. In a time when truth, 
+reconciliation and justice are dominating public discourse 
+about Indigenous issues and when Indigenous communities 
+in Canada and around the world are facing severe health, 
+social, legal and societal challenges, the need for research 
+that imagines the future has never been greater. Learning from 
+Indigenous ways of knowing, ways of being, worldviews and 
+laws, futurities research will contribute to changing lives and 
+will significantly affect nations, communities and individuals. 
+Strategic Research Plan 2023-2028 | York University — 20Indigenous Futurities will help research make a positive 
+impact on Indigenous communities, with a strong focus on 
+the importance of First Nations, Inuit and Métis communities. 
+As a recognized global leader in socially engaged research 
+and knowledge mobilization, York is committed to building 
+community partnerships in research. As a part of “The 
+Indigenous Framework” (2017), York pledged to “ facilitate 
+research that is relevant to Indigenous life and respects 
+Indigenous approaches to knowledge and learning .”3 York’s 
+researchers are positioned to collaborate with local and global 
+Indigenous communities on research that will contribute to 
+improving community life while enhancing cultural, economic 
+and environmental sustainability. Never losing sight of 
+history, this research opportunity simultaneously insists on 
+consideration of our relationships to Indigenous futures and 
+the ways they will continue to influence and shift the emphasis 
+in current research and innovation. 
+York is home to a large group of scholars who include 
+faculty, postdoctoral fellows and undergraduate and 
+graduate students, both Indigenous and non-Indigenous, 
+whose research exists in relation to Indigeneity. These 
+scholars engage in a range of contexts and topics from the 
+epistemological to the environmental, from the mathematical 
+to the methodological, exploring interrelations across 
+disciplinary boundaries and borders. Recent Indigenous 
+research initiatives are focusing on circumpolar cultural 
+sovereignty, including collaboration with Inuit, Alaska Native 
+and Sami communities; community engagement on mining 
+and extraction in Baffin Island, Northwest Territories and 
+Yukon Territory; the role of youth in health promotion, and the 
+legal and environmental interrogation of just and equitable 
+relationships; the interactions between Indigenous and 
+non-Indigenous laws; the histories of Métis, First Nations, 
+Inuit and Native-American relationships with colonialism; 
+Indigenous language policies, art and education; Indigenous 
+knowledge systems and their various applications in diverse 
+contexts that include water and environmental governance, 
+environmental justice, forest policy and management, and 
+sustainable development; and urban Indigenous education 
+and communities. Most significant, Indigenous researchers 
+have made major contributions to the scholarship of 
+Indigenous ways of knowing. This opportunity area will further 
+support and enhance these existing initiatives and foster 
+deeper engagement with these and other developing research 
+projects.
+3  York University, “The Indigenous Framework for York University: A Guide to Action” (2017), emphasis added. Accessed April 20, 2023,  
+https:/ /indigenous  .yorku . ca/framework/  
+4  “A Statement on York’s Commitment to the Indigenous Framework and Decolonizing Research,” York University, May 24, 2022. Accessed April 20, 2023,  
+https:/ /yfile  .news  .yorku . ca/2022/05/24/a-statement-on-yorks-commitment-to-the-indigenous-framework-and-decolonizing-research/  
+5  Sean A. Hillier, “Decolonizing Research Administration: An Evaluation of Indigenous Research at York University,” York University, November 18, 2019. Accessed April 
+20, 2023, https:/ /www  .researchgate  .net/publication/344798162_Decolonizing_Research_Administration_An_evaluation_of_Indigenous_Research_at_York_UniversityWhile York University’s context has changed over the last five 
+years, we remain publicly committed to our ongoing efforts to 
+address barriers to Indigenous research,4 and to reach a level 
+of research excellence. The following accomplishments have 
+been made since 2018: 
+• In 2021, York launched the Centre for Indigenous 
+Knowledges and Languages (CIKL), an organized 
+research unit committed to Indigenous approaches for 
+the environment, education, languages and decolonizing 
+research. Researchers at CIKL are examining a broad range 
+of topics: climate justice issues facing Indigenous peoples, 
+proliferating beadwork as a form of knowledge mobilization, 
+supporting Indigenous-led conservation, and enhancing the 
+protection of water and Indigenous water governance.
+• In 2022 (ongoing), York provided additional supports 
+to CIKL to fund an associate director and a full-time 
+coordinator.
+• York developed an action plan to address recommendations 
+in the report “Decolonizing Research Administration: An 
+Evaluation of Indigenous Research at York University.”5 
+This action plan is being implemented jointly by the Vice-
+President Research and Innovation and the Vice-President 
+Equity, People and Culture in development with the 
+Indigenous Council at York.
+• In 2023, Senate approved the creation of Canada’s first 
+dedicated Indigenous Research Ethics Board involving 
+community members and including Elders and youth.
+• Starting in 2023, York invested in Indigenous Research 
+Seed Grants and has made a commitment to invest for three 
+years.
+• York created the Indigenous Incentive Grants and 
+Indigenous Scholarly Events and Outreach Grants. 
+• York hired an Associate Vice-President Indigenous 
+Initiatives and has committed to hiring an Indigenous 
+Research Support Specialist. 
+• York hired Indigenous Provostial Postdoctoral Fellows and 
+is accepting applications for additional postdoctoral fellows 
+going forward.
+• With guidance and input from Indigenous Council and CIKL, 
+Knowledge Mobilization (KMb) York developed a tool to 
+help non-Indigenous researchers engage with Indigenous 
+communities. 
+Indigenous-related research consistently references 
+community: whether within an urban context, a nation or a 
+global community. An Indigenous worldview insists that within 
+Strategic Research Plan 2023-2028 | York University — 21a community all relations matter and having good relations 
+with all of Creation is foundational to healthy communities. 
+As community-based research, the focus covers a broad 
+spectrum of lands and territories and insists on acknowledging 
+specificity of context. Notions of relationship-building, 
+reciprocity of process and outcome, respectful engagement 
+with each other and relevance of the work to those involved 
+in the projects are integral to the research. This opportunity 
+encompasses post-colonial interests, trans-Indigenous theory, 
+and other forward-looking community-referenced, reciprocally 
+beneficial research.
+Over the next five years, the focus of this research opportunity 
+will be on Indigenous Futurities and will include social, 
+cultural, artistic, legal, policy, economic and justice areas 
+that holistically shape Indigenous experience. Collaboration 
+in exploring Indigenous and non-Indigenous approaches in 
+these areas, while understanding the need for Indigenous 
+researchers to take the lead, will mark the distinctiveness 
+of York’s approach. The intent of this opportunity is to 
+ensure that Indigenous-related research includes a 
+commitment to listening to and learning from Indigenous 
+peoples’ knowledges, laws, ecology, spiritual practices and 
+experiences. The commitment of researchers to participate 
+in imagining the future while never losing sight of the past will 
+enhance our commitment to the import and role of research in 
+creating the future we desire.
+CLIMATE ACTION FOR A SUSTAINABLE 
+PLANET
+In Canada and around the globe, climate action is no longer 
+a matter of political debate or individual conviction – it is 
+an existential threat that demands a research and evidence 
+base to enact change. As human population and activities 
+grow, there are ever-greater pressures on our environment 
+and societies from climate change, loss of biodiversity, 
+pollution and the proliferation of disease. These challenges 
+contribute to increasing inequalities and creating new 
+disparity among peoples and countries. The climate crisis 
+is urgent; social, economic and infrastructure impacts will 
+continue to accelerate if we do not act now. We must pave 
+a stronger path towards a more sustainable planet and 
+addressing the emergencies and disasters along the way. In 
+further elevating York’s contributions to UN SDG 13 (Climate 
+Action) over the next five years, York will invest in research 
+to concretely address this climate crisis, building on and 
+expanding its knowledge and experience related to climate 
+change to meet this challenge. We will apply our expertise on 
+disaster response and humanitarian emergencies to acute 
+weather events caused by global warming here in Canada 
+and abroad, paying careful attention to and including those 
+historically marginalized from these activities as partners and as beneficiaries. As noted above, York’s new research centre, 
+Y-EMERGE, has been created to capture and consolidate this 
+world-renowned expertise.
+Across disciplines, York scholars are recognized as world 
+leaders in research on the root causes, expression and 
+consequences of inequality and oppression. The underlying 
+factors driving the climate crisis and the manifold 
+consequences of key environmental and societal challenges 
+are a concentrated focus of research at York. So too are 
+sustainability efforts to achieve net-zero emissions on our 
+campuses and off. York has developed a new Sustainability 
+Framework to ensure sustainability is a critical part of both 
+scholarly and social and cultural sphere of York’s campus and 
+community. The framework sets out a more synergetic and 
+coordinated effort between on-campus sustainability related 
+activities, including teaching, research, and practice. These 
+goals will be achieved through new technologies for energy, 
+transportation, home construction and heating, urban planning 
+and regulatory innovation to incentivize a smaller carbon 
+footprint. Above all, research in this area strives to inform and 
+enhance law and public policies that shape the behaviour of 
+governments, public and private organizations, and individuals. 
+Growth in individual and collaborative scholarship at York in 
+this area over the past five years has been remarkable. York’s 
+research partnerships and networks that examine elements 
+of the climate crisis extend far beyond the borders of Toronto 
+and Canada, into Global South and Global North countries 
+and their civil societies. York’s new Faculty of Environmental 
+and Urban Change represents an interdisciplinary response 
+to the climate crisis, in which researchers spanning the 
+sciences, social science, humanities and visual arts are 
+addressing understandings, impacts and solutions in relation 
+to climate change. 
+Any major societal or environmental challenge – whether food 
+insecurity, global warming or species demise – does not affect 
+everyone or everything equally. For example, humans will 
+experience different consequences from non-human animals 
+in relation to habitats under threat; and one’s nationality, 
+ethnonational identity, class, gender, ability and location within 
+historically salient colonialism will shape one’s relationship 
+to the climate crisis, with those who have historically been 
+negatively affected becoming even more adversely affected. 
+Researchers are collaborating on interdisciplinary and broader 
+transdisciplinary teams across York but also with partners 
+across the world to tackle a range of climate-related issues: 
+some use big data to probe the political and social pressures 
+on the migration of peoples and the challenges faced by 
+refugees; others have built an international network exploring 
+and exchanging relevant solutions for youth homelessness 
+and child welfare; and still others are examining the evolving 
+regimes of precarious work in Canada and through studies of 
+employment and labour in the global economy. The design 
+Strategic Research Plan 2023-2028 | York University — 22of cities to be resilient, inclusive and sustainable is a huge 
+challenge that York researchers are addressing through 
+applied work with community partners and the City of Toronto, 
+and across the country with partners addressing gendered 
+and racialized challenges of employment, housing, health and 
+much more. Social scientists and engineering researchers 
+collaborate on sustainability around transportation, meshing 
+this analysis with equity in underserved communities, 
+renewable energy research, and exploration of business 
+ethics, the social economy and corporate social responsibility 
+scholarship at York.
+Building on this base over the next five years, research in 
+this area will inform and address emerging issues in urban, 
+rural and wilderness environments on local, national and 
+global scales. This research will include the preservation of 
+ecosystems, landscapes and species; address the challenges 
+of emission and pollution; and maintain a sustained focus 
+on human-animal interactions. York’s commitment to UN 
+SDG 16 (Peace, Justice and Strong Institutions) reaffirms our 
+research momentum on issues of governance and human 
+rights, with implications not only for Indigenous reconciliation, 
+global migration and diplomacy but also extractivism, cultural 
+genocide and reparations in the wake of violence. Economic 
+prosperity and ameliorating poverty remain squarely on York’s 
+research agenda, along with related issues of security in all 
+its forms. York will continue to lead Global North countries 
+with its global network of researchers addressing youth 
+homelessness with new projects that engage Indigenous 
+partners and issues of homelessness among First Nations. 
+York remains committed to developing new knowledge and 
+solutions to achieve a just, equitable and sustainable future 
+with and for Canadians and with communities across the 
+world. To supplement our sustainability research at the Keele 
+and Glendon campuses as well as the EcoCampus at the Las 
+Nubes Biological Reserve in Costa Rica, research partnerships 
+that cross borders and engage communities will be a major 
+focus of the University’s new Markham campus. Research at 
+this campus will focus on directly engaging the surrounding 
+cities, organizations and residents in developing and fostering 
+collaborative partnerships with businesses, social services and 
+regional schools. We plan to continue investing in our whole-
+institution approach to sustainability, embedding sustainable 
+principles in every aspect of university life and generating 
+knowledge that integrates the social, cultural, economic 
+and environmental dimensions of complex sustainability 
+challenges at scales ranging from the local to the global. 
+SOCIAL JUSTICE, PEACE AND EQUITABLE 
+RELATIONS 
+York was founded on a mission of social justice. With our 
+long-standing commitment to the values of equity, diversity 
+and inclusion, we are working together to create an equitable and inclusive scholarly environment that aims to create an 
+equitable and inclusive society. This is critical in achieving 
+inclusive excellence, where a multiplicity of research, 
+perspectives and lived experiences creates positive change 
+towards a more innovative, just and sustainable world. 
+York’s tradition of scholarship has been defined by a critical 
+discourse in which the pursuit of discovery, innovation and 
+engagement with broader society is achieved with a focus 
+on social responsibility, community engagement, equity and 
+justice. These values and core principles are shared by our 
+research community and serve to strengthen and underpin our 
+research priorities. 
+This commitment has set a rich context for the profile of 
+inclusionary research and scholarship that forms the core of 
+our research enterprise and helps to shape our future direction 
+as a dynamic, metropolitan and multicultural university 
+open to the world. York conducts wide-ranging research 
+examining historical and contemporary dynamics of cultural 
+diasporas, promoting an understanding of experiences as 
+part of a larger global community, within a network of ORUs 
+that contribute to several UN SDGs: SDG 5 (Gender Equality), 
+SDG 6 (Decent Work and Economic Growth), and SDG 10 
+(Reduced Inequalities). York boasts a rich assortment of 
+inclusionary research among its 31 ORUs, exploring a range 
+of racial, moral, religious, political, feminist, Indigenous, 
+age-related, environmental and legal philosophies, as 
+well as an examination all forms of discrimination and 
+promotion of human rights. Research on decolonization and 
+reconciliation focuses on reconfiguring settler-Indigenous-
+state relationships incorporating Indigenous methods of 
+truth-telling and principles of restorative justice. This critical 
+inquiry allows us to consider voices otherwise silenced by 
+historical or contemporary injustice or marginalization. Further 
+research in these areas study our conceptions of diversity and 
+the methods needed to explore it, contributing to the shaping 
+of identification and identity. For example, recent seminal 
+research at York examines the ways in which accessible 
+and equitable opportunities in education and employment 
+account for the lived experiences of marginalized community 
+members. Other researchers are contributing in areas such as 
+digital inequality and injustice and addressing social-economic 
+and cultural divides produced by differentiated access to 
+information technologies. Further research is considering 
+the environment and emerging inequalities among specific 
+communities, including our understanding and support of 
+Indigenous climate leadership and governance, specifically 
+through a feminist and gendered lens to help amplify voices of 
+Indigenous women and youth. 
+This is further borne out in York’s approach to integrating 
+large scale transformative and structural changes to the way 
+York hires and adjudicates research opportunities. Inspired 
+by a need for change, York has created a system that invites 
+research excellence from those who are typically overlooked 
+and disadvantaged when it comes to research opportunities 
+Strategic Research Plan 2023-2028 | York University — 23in academia. Places of Online Learning for the Adjudication 
+of Researchers Inclusively and Supportively (POLARIS) is a 
+first-in-Canada online training program to reduce unconscious 
+bias and systemic barriers that offers rich and informative 
+tools. This system supports both EDI practices and fosters 
+better awareness and education among faculty as we seek to 
+diversify our research collegium. 
+York is also supportive of an equitable and inclusive campus 
+environment. In addition to POLARIS, York has been active 
+in supporting emerging Black and Indigenous researchers 
+as well as addressing structural barriers in research through 
+the York Black Research Seed Grants and the Indigenous 
+Research Seed Grants. York is working towards a research 
+culture that interacts in positive and respectful ways with 
+Indigenous people and Indigenous knowledges, as well as 
+making room for Indigenous research and Indigenous forms 
+of disseminating research. York is implementing an action 
+plan to decolonize research and research administration with 
+the input and guidance of the Indigenous Council at York, and 
+York’s Vice-President Equity, People and Culture. This includes 
+the chartering of the Centre for Indigenous Knowledges and 
+Languages (CIKL) and providing additional administrative 
+supports, and the approval of York’s Indigenous Research 
+Ethics Board. These activities will be supported by creating 
+the position of an Indigenous Research Support Specialist. In 
+addition, the VPRI has provided additional research funding 
+for ORUs with an EDI mandate, including the Harriet Tubman 
+Institute for Research on Africa and Its Diasporas, the Centre 
+for Research on Latin America and the Caribbean (CERLAC), 
+and the Centre for Feminist Research (CFR). Furthermore, 
+York’s community-informed Decolonization, Equity, Diversity 
+and Inclusion Strategy (DEDI) 2022-2027 will help to 
+strengthen and coordinate existing efforts at York by providing 
+a guiding framework to drive change through localized 
+strategies and actions across the institution. 
+While fostering inclusionary scholarship, it is vital that we 
+support knowledge creation that will have a positive impact 
+on the communities we serve and build the profile and 
+reputation of all equity-seeking groups. Within the VPRI, the 
+Knowledge Mobilization Unit (KMb) and Entrepreneurship 
+program have established strong relationships with the Jane 
+Finch community organizations, including the TD Community 
+Engagement Centre. Further, York’s faculty and librarians 
+have long supported the Jane Finch Community Research 
+Partnership, a long-standing collaboration that advances 
+strong communities and an approach of reciprocity, equity and 
+inclusion. Our deep roots in the York Region include a history 
+of ongoing collaborations with the United Way Greater Toronto 
+that focus on community organizations serving the needs of 
+traditionally marginalized communities. One example is the 
+community-campus knowledge mobilization collaboration 
+with the Community Music School of Toronto (formerly the Regent Park School of Music), which has flourished into a 
+donor-funded Research Chair in Community Based Music with 
+funding dedicated to ongoing and emerging collaborations. 
+In building on our commitments to decolonization, equity, 
+diversity, inclusion and societal justice, we will continue 
+to enhance and support our research efforts over the next 
+five years, informing critical discussions of the sources 
+and nature of inequalities and oppressions; in turn, these 
+initiatives will better inform actions that can change and 
+transform these inequalities. The University will continue to 
+ensure that appropriate sensitivity to cultural and community 
+rights, roles and responsibilities are applied to all research 
+projects conducted at York. We will further cultivate inclusive 
+and equitable research environments that nurture multiple 
+and intersectional ways of scholarship and knowing. York 
+remains committed to foregrounding the voice and needs 
+of Indigenous communities within Indigenous research, 
+facilitating research that is relevant to Indigenous life and 
+respects Indigenous approaches to knowledge and learning, 
+as well as the study of Indigenous knowledge systems and 
+their various applications in diverse contexts, including water 
+and environmental governance, environmental justice, forest 
+policy and management, and sustainable development. 
+Likewise, York is dedicated to expanding collaborative 
+research and programming that is relevant to the historical, 
+cultural and creative productions of Black and other racialized 
+communities. There are centuries of accumulated traditional 
+knowledges that we believe are fundamental to solving some 
+of the complex problems we face as a society.
+INTER- AND TRANSDISCIPLINARY 
+RESEARCH INNOVATION
+As the world continues to address urgent global challenges 
+such as climate change, global health crises and political 
+polarization and their impact on people and the planet, 
+it is critical now more than ever for York to support novel 
+transdisciplinary research approaches that help drive 
+innovative solutions to these multifaceted problems. Solving 
+these increasingly complex societal challenges will require 
+a more holistic model, one that integrates knowledge 
+between different disciplines, across disciplines and beyond 
+each single discipline, involving various stakeholders and 
+understanding issues through a social, economic, political 
+and environmental lens. Through engagement between the 
+different participants, new understandings are co-produced 
+to generate solutions to the increasingly dynamic problems 
+that far exceed the boundaries of contemporary academic 
+disciplines and stakeholders. This transdisciplinary approach 
+integrates different views and methods from a range of related 
+disciplines into a common conceptual framework and provides 
+a more inclusive perspective to understanding the causes and 
+Strategic Research Plan 2023-2028 | York University — 24consequences of an issue. This transdisciplinary framework 
+extends to delivering socially relevant solutions that are 
+responsive, relevant and socially applicable.   
+York’s excellence in interdisciplinary research is renowned.  
+But increasingly, York researchers are moving towards a 
+transdisciplinary approach as dynamic research questions 
+continue to evolve.  York researchers are cultivating 
+this thinking across disciplines through our Catalyzing 
+Interdisciplinary Research Clusters program fund, which aims 
+to foster interdisciplinary and transdisciplinary collaboration, 
+global research excellence and world-class training 
+opportunities.  Funded research cluster projects continue to 
+amplify York’s international research excellence with projects 
+that help to address complex global issues identified in the 
+UN SDGs and beyond. Nurtured by this funding program 
+and others, York researchers have been coming together in 
+transdisciplinary teams to advance knowledge in a broad 
+range of areas: measuring and analyzing common brain 
+functions to advance diagnosis and treatment of all neuro-
+psychiatric disorders; addressing the multifaceted natural, 
+social and political issues underlying the pursuit of sustainable 
+resource extraction in Canada’s North; utilizing geomatics to 
+study the evolving effects of climate change on ecosystems 
+and human populations; examining technologies, treatment 
+and impacts of water contaminants on the environment 
+and human health;  and understanding the pathway from 
+colonial genocide to building just relationships.  The research 
+cluster of data economy brings together researchers from 
+multiple faculties at York with diverse expertise in disciplines 
+such as data science, economics, information systems and 
+law, to build upon our existing strengths and collaborate on 
+important issues that will help lay the foundation of research 
+and practice in data economy. York researchers are also 
+helping to address complex financial technology (fintech) 
+challenges from a similar socially relevant perspective 
+integrating transdisciplinary research methods and engaging 
+a range of sector partners.  Research in this area is highly 
+established and collaborative and as such has been identified 
+as a research cluster focus at the Markham campus.  It is 
+underpinned by broad expertise that draws together insights 
+from economic, legal, ethical and societal-technical angles.  
+This is exemplified by those involved in the transdisciplinary 
+exploration of digital currencies, where York researchers 
+take an inclusive approach to exploring the technical 
+aspects of governance, architectures, financial inclusion 
+of underprivileged communities, and policy on regulatory 
+frameworks for financial systems, including data and 
+privacy regulations. 
+Examining and addressing socially relevant challenges by 
+crossing disciplinary boundaries is nothing new for York 
+researchers who have gained considerable momentum and 
+recognition over the past several years through the success 
+of major collaborative initiatives.  These initiatives include 
+Connected Minds: Neural & Machine Systems for a Healthy, Just Society that brings together our highly collaborative 
+research team spanning neuroscience, engineering, arts 
+and humanities with a diverse cadre of engaged partners, 
+to understand and optimize societal benefits and mitigate 
+risks of human-machine interactions. Researchers are 
+also collaborating to consider the moral, ethical and legal 
+implications of disruptive technologies on humanity and 
+society as a holistic approach that is transdisciplinary in 
+nature. In alignment with SDG 17 (Partnership for the Goals), 
+another exemplary initiative is the Global South Artificial 
+Intelligence for Pandemic and Epidemic Preparedness and 
+Response Network, an initiative establishing a multiregional 
+network spanning Africa, Asia, Latin America and the 
+Caribbean, and the Middle East and North Africa to deepen the 
+understanding of how responsible AI solutions can improve 
+public health preparedness and response. York’s 31 ORUs 
+also serve as incubators for participatory research, adding to 
+the richness and dimensions of transdisciplinary research at 
+the University. York’s newest ORUs exemplify our strengths in 
+technology, sustainability practices, artificial intelligence, as 
+well as neuroscience and emergency mitigation, water, and 
+technoscience and society – exploring areas from multiple 
+perspectives. As an example, researchers from the ORU 
+ONE Water are bringing together considerable knowledge 
+and diverse perspectives to greatly enhance the capacity to 
+address the ongoing global water sustainability crisis.  This 
+ORU tackles several UN SDGs, such as SDG 6 (Clean Water 
+and Sanitation), and enables diverse industry and community 
+stakeholder partnerships, with a rich research pedigree 
+in water sourcing, AI, water technologies, education and 
+sustainability, resource recovery and reuse, as well as focusing 
+on origins and outcomes of the environmental, educational 
+and societal implications of water.     
+Over the next five years, York researchers will continue to 
+develop more novel transdisciplinary projects, continuing to 
+break down disciplinary constructs and expand on research 
+that considers and responds to socially relevant issues.  
+Funding drivers like the Catalyzing Interdisciplinary Research 
+Clusters program and additional supports for research teams 
+at our Markham campus will assist with this commitment to 
+further fuel and scale the evolution of York’s interdisciplinary 
+research into a more dynamic inquiry approach. With the 
+increased funding capacity and support for transdisciplinary 
+research clusters, researchers will be able to accelerate 
+the capacity of their fully launched research projects and 
+initiatives and expect to pursue larger-scale external research 
+funding as well as the development of broader research nodes 
+and potential national and international networks. In addition, 
+we will seek to expand more meaningful participatory 
+engagement with aligned stakeholders and partners where 
+possible and pursue new research partnerships across the 
+spectrum.
+Strategic Research Plan 2023-2028 | York University — 25ENABLING STRATEGIC RESEARCH SUCCESS
+Achieving the ambitions articulated in this plan will depend 
+on an engaged research environment across the University, 
+willingness, and availability of partners from industry, 
+government, community, as well as on resources that 
+are strategically invested to support research growth and 
+development. We believe that an active, engaged research 
+culture is integral to the fabric of our world-class University 
+and fundamental to the success of our faculty and students. 
+York is committed to prioritizing the development and 
+intensification of internationally leading research across 
+our institution as a means of enhancing the vibrancy of 
+academic life and generating an exciting atmosphere for 
+learning and scholarship. This begins with units, Faculties 
+and the institution committing to investments in faculty 
+complements that lead research, scholarship and creative 
+activity at the University, and in students and fellows that 
+help fuel the research engine. Equally important is a strong 
+research support infrastructure, both in terms of research 
+facilities, library research collections and IT infrastructure 
+and in terms of collegial mentorship and a highly competent 
+and dedicated research support staff. This support extends to 
+research conducted in French as well as the promotion of the 
+francophone research community, both within and beyond our 
+Glendon campus.
+York is fully committed to the ongoing development and 
+success of our areas of strength in research, scholarship 
+and creative expression, and will continue our impressive 
+development as a leading Canadian research university 
+through enhancement of our focused opportunity areas. 
+Indeed, most of the resources supporting research at York 
+has been and will continue to be devoted to the broadly based 
+support of excellence in engaged individual and collaborative 
+research and scholarship. The increasing engagement 
+and success of our current researchers, the recruitment 
+of outstanding new researchers, post doctoral fellows and 
+students, and the expansion of the cutting-edge research 
+infrastructure are the primary means through which we will 
+achieve the ongoing development and recognition of our 
+research, scholarship and creative activity. 
+To better enable these goals, the office of the VPRI will 
+lead the development of an implementation document as 
+an addendum to the SRP. This document will provide an 
+operational framework meant to enable the success of the 
+SRP in achieving the aspirations of the University Academic 
+Plan. The implementation document will help to assess our 
+progress against the goals and objectives of the SRP; it will 
+include recommendations for the strengthened delivery of the 
+strategy as well as performance indicators to help focus the 
+further development of research going forward. SUPPORTING RESEARCH DEVELOPMENT
+York continues to prioritize its resources in support of the 
+development of its research enterprise and has several 
+initiatives underway that will continue to improve the 
+institutional support of individual scholarship and collaborative 
+research activities and programs. 
+Smart use of new technologies, removal of cumbersome 
+administrative hurdles and simplification of pathways to 
+support research becomes imperative in this environment 
+in order to facilitate our researchers’ success. We are 
+working on an initiative to find efficiencies in current 
+research administrative procedures through the reduction 
+of bureaucracy and the introduction of paperless processes. 
+Additionally, we are using previous internal research audits 
+including the ORU audit and Innovation York audit to both 
+track progress and inform our decisions. The VPRI is taking the 
+lead to engage in continuous service enhancement towards 
+a seamless pre-and post-award experience for researchers. 
+A new research enterprise system will be acquired to allow 
+for better workflow in optimal tracking of grant applications, 
+external contracts and ethics protocols. Further, a DocuSign 
+software system has been implemented to support electronic 
+signatures and more efficient contract approvals and 
+submissions. To address the changing nature of research data 
+collation and output formats, we have acquired an electronic 
+CV (eCV) solution to assist individual researchers and trainees 
+in capturing and organizing their scholarly achievements 
+efficiently in their own academic repository, as well as promote 
+institutional and external understanding of the full depth and 
+breadth of research, scholarship and creative activity. York 
+University Libraries continue to contribute to these initiatives 
+through use of the eCV, the promotion of the ORCID iDs and 
+the Altmetric Explorer for Institutions platforms. 
+From trainees to professor emeritus, investing in our 
+researchers is the key enabler of research success, and 
+time above all else is recognized as the most valuable 
+commodity. Over the past several years York has accelerated 
+faculty complement renewal and has increased supports 
+for existing faculty as well as for new hires. For example, a 
+more comprehensive research-related release program was 
+initiated several years ago to enhance the amount of time 
+available for faculty to engage in scholarly work. Investments 
+in full-time faculty complement will continue and will help to 
+strategically build research capacity across the institution. This 
+includes attracting top talent through cluster hiring in areas 
+of strategic importance to York, such as areas identified at 
+our Markham campus and those supporting interdisciplinary 
+research clusters. Additionally, we will look to expand our 
+supports for researchers at all stages so that they may be 
+Strategic Research Plan 2023-2028 | York University — 26able to safely conduct and disseminate their research and 
+assist with mitigating risks, especially given more heightened 
+visibility in online environments. 
+Alongside our Canada Research Chairs that have been 
+deployed to assist in building our research capacity through 
+external recruitment, York has continued to evolve the York 
+Research Chairs (YRC) program and build capacity to broaden 
+and deepen their impact at York.  This program is an important 
+component of institutional supports for research and seeks 
+to build and intensify our leading research.  This program has 
+evolved considerably since its establishment in 2015 – new 
+equity, diversity and inclusion considerations are being put 
+into practice and are now reflected within the adjudication 
+process, including the makeup and training of the selection 
+committee, the inclusion of equity action plans from nominees 
+and best practice strategies to ensure a fair and transparent 
+nomination process.  Additionally, a more tailored approach 
+has been taken in developing the two adjudication streams –
+STEM and SSHAD (social science, humanities, arts and design) 
+– with nominees self-selecting their preferred stream for a 
+more suitable evaluation. The YRC program continues to be a 
+signature program that has enabled both increased researcher 
+success and satisfaction and strengthened research 
+leadership across the institution.
+Building supports for researchers at key junctures in the 
+research grant development cycle is another means by which 
+York is supporting researchers and preparing them for granting 
+success. Research Commons is York’s established research 
+grant preparation mentorship program. In collaboration with 
+other offices in VPRI, and Faculties, Research Commons offers 
+research-focused grant clinics and workshops to faculty, 
+research staff, post-docs and graduate students at York, with 
+an emphasis on increasing Tri-Council grant applications 
+and success by offering supportive skills and mentorship 
+from experienced grant writers. We will continue to enhance 
+and build on this successful program to meet the needs of a 
+growing cohort of researchers at all levels, helping them to 
+achieve a strong granting success rate.
+York is committed to the ongoing expansion, ensuring a 
+vigorous scholarly environment for our researchers, graduate 
+students and postdoctoral fellows. We have one of the largest 
+cohorts of graduate students in Canada and a growing number 
+of postdoctoral trainees. Our graduate programs are growing 
+in both numbers and quality, and an increasing number of 
+our trainees receive support from the Canada Graduate 
+Scholarships program, the Tri-Council and Mitacs fellowships, 
+as well as from many other Canadian and international 
+sources. York is one of the leading Canadian universities in 
+holding awards and grants from the NSERC Collaborative 
+Research and Training Experience Program (CREATE), which 
+provides embedded partnered research experiences to 
+trainees. Likewise, our postdoctoral cohort is growing in its 
+recognition through national and international fellowship awards, and York is active in advocating for additional internal 
+and external funding to attract and support postdoctoral 
+fellows. The engagement of the University in a diverse range 
+of research projects provides an environment that exposes 
+our students to pioneering scholarship first-hand. This creates 
+excitement and provides graduates and undergraduates 
+with experiences at the cutting edge of their fields of study. 
+York is committed to exposing all undergraduate students 
+to practices of research and creation by involving them in 
+research projects and the production of artistic works as part 
+of their curriculum. As well, York offers internships and other 
+opportunities to participate in and develop research projects 
+over longer periods of time, especially for students considering 
+more intensive higher research degrees. Additional supports 
+for graduate students include the newly established York 
+Academic Excellence Fund providing graduate students 
+with upfront funds to advance their research and scholarly 
+objectives through simple and timely access to financial 
+resources.
+York has made substantial investments in its research 
+infrastructure over the past several years. As we continue 
+to build and grow as an internationally leading, research-
+intensive university, more research space is needed to 
+support current and future research programs. York’s new 
+iHive Building will offer both research and teaching spaces for 
+science and engineering in addition to offering collaboration 
+space for larger-scale interdisciplinary research programs, 
+ORUs and other strategic research clusters. York is investing 
+in large-scale interdisciplinary research programs to help 
+build internationally recognized excellence in key areas 
+of research such as Disaster Risk Governance, as well as 
+seeding research collaborations relevant to the Markham 
+campus and the Vaughan Healthcare Centre Precinct. These 
+investments have been accompanied by the success of our 
+researchers in bringing new research infrastructure and 
+facilities to the University through the Canada Foundation 
+for Innovation, NSERC and the Ontario Research Fund. 
+Over the next five years, new investments in our research 
+infrastructure will continue, with other infrastructure projects 
+seeing completion. For example, the new Neuroscience 
+Laboratory and Research Building serving the Faculties of 
+Health and Science will expand York’s world-leading expertise 
+in biological and computer vision with a new state-of-the-art 
+facility in neurophysiology and research clinics in kinesiology 
+and psychology. The new facility for the Advanced Disaster, 
+Emergency and Rapid Response Simulation (ADERSIM) 
+program will feature new equipment and technology to 
+support our researchers, in addition to the completion of the 
+new campus in Markham in 2024 and the development of 
+additional partnerships in York Region. 
+One way in which York strategically promotes the development 
+of interdisciplinary research is through our network of ORUs. 
+These ORUs advance research and collaboration across the 
+University by providing a home for research development 
+Strategic Research Plan 2023-2028 | York University — 27beyond traditional academic units. At the institutional level, 
+ORUs are expected to align with the demonstrated strengths 
+of York research and our strategic growth opportunities. 
+Similarly, at the faculty level, ORUs are an overt expression 
+of investment in specific research areas. We will continue to 
+invest in the development and support of our ORUs in ways 
+that will increase their grounding in the institution and their 
+engagement with the external community. With targeted 
+investments to raise their recognition and profile, ORUs will 
+continue to be an important component of our efforts to grow 
+internationally as a leading research institution and to increase 
+York’s research brand recognition. 
+York has a commitment to support open access in all areas 
+of research and scholarship with York’s Open Access policy 
+and YorkSpace repository. YorkSpace currently preserves 
+over 35,000 scholarly works from a broad range of disciplines 
+across the University and provides equitable access to its 
+research. York is aligned with the tri-agency mandate to 
+enable open scholarship through research data management 
+planning and sound data stewardship practices. Many York 
+researchers provide leadership in the editing and production 
+of nationally and internationally renowned scholarly journals. 
+Over 55 of these journals are hosted directly through the 
+University Libraries’ York Digital Journals (YDJ) publishing 
+program and are available through various models of open 
+access. The YDJ provides a home for many unique journals in 
+important and highly specialized areas of study. 
+In furthering the growth of the international reach and 
+recognition of our research, scholarship and creative activity, 
+we are committed to facilitating the development and 
+strengthening of internationally networked clusters of research 
+excellence.  We are increasing our engagement in international 
+research partnerships and exchanges, expanding our numbers 
+of international graduate students and postdoctoral fellows. 
+Furthermore, with a focus on proactive engagement with 
+lower and middle income countries, we are supporting 
+the co-development of global capacity to respond to the 
+UN SDGs.  Going forward, this will require a targeted and 
+coordinated institutional approach to advancing research, 
+research engaged education and research expertise within 
+the UN SDGs and beyond. We are continuously examining 
+our approach to improving support for partnership 
+development, strengthening our collaborations, generating 
+more external funding to expand our influence, and initiating 
+opportunities to attract and retain emerging talent from 
+around the world. We have initiated the development of a new 
+Internationalization and Global Engagement Strategy that will 
+include an integrated focus on global research and innovation 
+engagement.TRANSLATING RESEARCH INTO 
+ACTION THROUGH INNOVATION, 
+PARTNERSHIPS, KNOWLEDGE 
+MOBILIZATION, ENTREPRENEURSHIP 
+AND COMMERCIALIZATION
+York University has established a set of principles that guide 
+our innovation support activities, driving partner engagement, 
+collaboration, and greater societal impact from our research. 
+These principles include:
+• Research must be mobilized and translated to achieve its 
+full impact on broader society
+• Societal impact opportunities are enhanced through 
+proactive engagement and collaboration
+• Ongoing, long-standing partnerships support growth, 
+knowledge integration and more rapid impact
+• York’s role is to facilitate growth through expertise, support, 
+training, mentorship and collaboration building, providing 
+students and faculty access to tools and knowledge that will 
+drive their work towards greater impact
+York will support the development of all innovation 
+opportunities, through the support of industry and community 
+engagement and partnerships, knowledge mobilization, 
+entrepreneurship and commercialization.
+Partnerships and Collaboration
+Over the past five years, York has continued to grow our cohort 
+of scholars engaged in community and socially partnered 
+research, increased the numbers and depth of partnerships 
+with community organizations, the not-for-profit and public 
+sectors, and extended our success in the SSHRC flagship 
+Partnership Grants program. In the 2022 SSHRC Partnership 
+Grant competition, York successfully applied for and received 
+four Partnership Grants, which accounted for approximately 
+20% of the national total.
+At the same time, emphasis on meaningful partnerships 
+between York researchers and the private sector has 
+broadened the engagement of the University with industry. 
+In part driven by growth of engineering and applied health 
+and natural science, private sector partnerships have grown 
+threefold over the past five years. 
+In alignment with SDG 17 (Partnership for the Goals), this 
+growth trajectory is expected to continue as we work to realize 
+our full partnership potential through individual and conjoint 
+collaboration with partners from the non-profit, public and 
+private sectors. York turns our research into action to benefit 
+local and global citizens.
+Strategic Research Plan 2023-2028 | York University — 28Knowledge Mobilization
+Knowledge mobilization advances social innovation through 
+engaged scholarship and assists our partners in community, 
+government and industry to address society’s most persistent 
+social, environmental and economic challenges. Working 
+closely with partners in the community, from NGOs to the 
+United Way, from York Region to local and international 
+partners in government, the Knowledge Mobilization Unit 
+(KMb) at York is a national leader, garnering extensive national 
+and international recognition and numerous awards for its 
+work in mobilizing knowledge for broader socio-economic 
+impacts. This includes engagement of social sciences, 
+humanities, art and design (SSHAD) as well as research-
+relevant policy and professional practice in all disciplines not 
+only with community organizations but with governments and 
+industry as well. 
+These industries are major agents of positive change within 
+our communities, in both the mainstream and marginalized 
+sectors. York’s knowledge mobilization infrastructure supports 
+multidirectional connections between researchers and 
+research partners, encouraging the development of evidence 
+that informs decisions about public policy and professional 
+practice. A recent example is York’s contribution to the 
+development of CIVICLabTO, an effort that brings the city of 
+Toronto together with students, faculty and researchers from 
+higher education institutions to address complex challenges 
+through research and educational opportunities. 
+Entrepreneurship
+York University is deeply committed to fostering innovative 
+approaches, technologies and perspectives to solve 
+problems and promote global economic and social well-
+being by supporting the commercialization of innovation 
+through entrepreneurship. York has invested heavily in the 
+entrepreneurship and innovation infrastructure over the 
+past five years and has succeeded in establishing a healthy 
+and engaged entrepreneurship community in which over 
+2,000 students, faculty and staff engage annually. YSpace 
+is York University’s premier hub supporting entrepreneurs 
+in the community from ideation to scale. Our two priority 
+sectors are technology and agri-food, in which we have over 
+a dozen programs offered with customized mentorship, 
+entrepreneurship education, incubator space and networking 
+opportunities. As a part of our network, we have supported 
+538 companies over the past four years within the consumer-
+packaged goods and technology sectors, resulting in $67.5 
+million of funding and generating over a combined $119 
+million of revenue. At YSpace, each of our programs is built 
+around the three core principles of mentorship, community 
+inclusion and metrics-driven goal setting.The success of building an entrepreneurial mindset will be 
+seen by growing the provincial and national reputation of York 
+University as an entrepreneurial university, demonstrated by 
+the growing number of students receiving entrepreneurial 
+education, the growing number of start-up ventures 
+supported, and the growing number of students graduating 
+with an entrepreneurial mindset. In fact, our ELLA program, 
+Ontario’s first accelerator focused on women-led product and 
+serviced-based businesses, has recently received renewed 
+funding for expansion across Canada to be delivered in 
+partnership with other community-based organizations. In five 
+years, we expect that the progress made will position York as 
+a national leader in entrepreneurial education and outputs, 
+as well as enhancing engagement in and prioritization of 
+entrepreneurship at York.
+Commercialization
+The University has recently established a renewed 
+commercialization strategy with the support of the 
+Government of Ontario. This strategy will streamline the 
+University’s support of innovation and intellectual property 
+services to facilitate cost-effective commercialization 
+opportunities for the York community and its partners. 
+Through establishing this enhanced, full-service IP and 
+commercialization pathway for York community and partners, 
+the University will effectively support its faculty, students, and 
+collaborating partners while building licencing and research 
+partnership opportunities which drive greater impact and 
+prosperity in Ontario. The University’s strengths in intellectual 
+property through IP Osgoode and the IP Innovation Clinic, 
+coupled with the support services in VPRI will enable rapid, 
+meaningful transition of ideas and inventions through to 
+market and social opportunities. These opportunities will 
+be transitioned into entrepreneurship, innovation and 
+partnerships to drive both economic and social growth for the 
+University community and our partners. 
+Strategic Research Plan 2023-2028 | York University — 29SUMMARY AND EXPECTATIONS
+Research, scholarship and creative activity are integral to the 
+fabric of York. Their growth and development are among the 
+highest priorities for the University. With a strong commitment 
+to quality, social justice, responsibility and academic freedom, 
+York delivers research that advances critical inquiry and 
+scientific discovery, challenges our beliefs and perceptions, 
+and affects the social, cultural and economic development of 
+our country and beyond. This plan reflects York’s commitment 
+to research excellence and to the development of new 
+knowledge and creative activity. In moving us closer to 
+achieving our research ambitions, implementation will be 
+established through collegial discussion with our units and 
+faculties as well as our external research partners as we 
+develop and align research priorities going forward. Success 
+will be measured through demonstration of growth in national 
+and international recognition of our research, scholarship 
+and creative activity, further acceleration of the strong pace 
+of growth of our research funding and outputs, the success of 
+our students, the recognition of our faculty for their scholarly 
+achievements, and the benefits delivered to communities and 
+society at large.
+Strategic Research Plan 2023-2028 | York University — 30APPENDIX A: COLLEGIAL ENGAGEMENT AND THE STRATEGIC 
+RESEARCH PLAN ADVISORY COMMITTEE MEMBERSHIP 
+This plan was developed through a broad process of collegial engagement with our academic community. From the summer of 
+2022 to spring 2023, the York community participated in an open discussion about the role of research, our valuation of research 
+and our aspirations for the future of research at York. This inclusive engagement process was guided by an active and dedicated 
+Strategic Research Plan Advisory Committee that included representatives from across the University and the broader community 
+and was active in reaching out and helping to further solicit input from the York community. In keeping with York’s practice of 
+collegial governance, input from faculty members, students and staff was received through a series of community consultations and 
+roundtable discussions on campus and through an active online site. Essential inputs into the Plan’s development were provided 
+directly by the faculties through consultations with their councils, Faculty Deans and Associate Deans, and by members of the 
+Indigenous Council, Organized Research Units, along with the Academic Policy, Planning and Research Committee of the Senate, 
+as well as other research leadership bodies.
+STRATEGIC RESEARCH PLAN ADVISORY COMMITTEE
+Amir Asif, VP Research & Innovation (Chair)
+Joycelyn Amos, Markham Research Operations Manager, VPRI
+Nation Cheong, VP Community Opportunities and Mobilization, 
+United Way Greater Toronto
+Krista Davidson, Interim Director, Communications, Office of 
+the President
+Tamara Daly, Director YU-CARE, Professor, School of Health 
+Policy & Management, Health
+Susan Dion, Associate VP Indigenous Initiatives, VPEPC, 
+Professor, Faculty of Education
+Barbara Edwards, Senior Policy Advisor, Research, VPRI
+Trevor Farrow, Associate Dean, Research & Institutional 
+Relations, Professor, Osgoode 
+Eileen Fischer, Associate Dean Research, Director Marketing 
+Specialization, PhD Program, Entrepreneurial Studies, 
+Schulich
+Sarah Flicker, YRC in Community-Based Participatory 
+Research, Professor, EUC
+Jane Gertner, VP Partnerships, Venture LAB
+Luann Good Gingrich, Professor, School of Social Work, LA&PS, 
+Director Global Labour Research Centre
+Jennifer MacLean, Assistant VP, Innovation & Research 
+Partnerships, Innovation York
+Michael Moir, University Archivist, Office of the Dean of 
+Libraries, Chair APPRC
+Carmela Murdocca, Professor, Dept. of Sociology, LA&PS
+Kelly Ninh, Policy Research Services Coordinator, VPRI
+Swann Paradis, Associate Principal Research & Graduate 
+Studies, Associate Professor French Studies, Glendon 
+CollegeGillian Parekh, CRC in Disability Studies in Education, 
+Associate Professor, Education 
+Sarah Parsons, Associate Professor, Dept. of Visual Arts & Art 
+History, AMPD
+Joel Prowting, PhD candidate (CIHR)
+Mark Roseman, Director SIRI, Office of Research Services, 
+VPRI
+Vivian Saridakis, Associate Dean Research and Graduate 
+Education, Associate Professor, Dept. of Biology, Science
+Jen Steeves, Associate VP Research, YRC in Non-Invasive 
+Visual Brain Stimulation, Professor, Dept. of Psychology, 
+Health
+Yvonne Su, Assistant Professor, Dept. of Equity Studies, LA&PS
+Skandha Sunderasen, Associate Director, Global Engagement 
+and Strategic Directions, York International
+Cheryl van Daalen-Smith, Associate Dean Academic, FGS, 
+Associate Professor, School of Nursing, Health
+Rick Wildes, Associate Professor, Vice-Chair Graduate 
+Program, Dept. of Electrical Engineering & Computer 
+Science, Lassonde
+Xiaohui Yu, Associate Professor, Graduate Program Director, 
+School of Information Technology, LA&PS

@@ -1,0 +1,3759 @@
+
+2023-2027 
+STRATEGIC  
+PLAN 
+METU
+LIST OF ABBREVIATIONS          1
+THE PRESIDENT’S FOREWORD         2 
+1.STRATEGIC PLAN AT FIRST GLANCE        5
+2. STRATEGIC PLANNING PROCESS        9
+ 2.1. Boards, Committees and Teams That Participated in the Strategic Planning Process      12
+3.  SITUATION ANALYSIS          19
+ 3.1. Institutional Background             19
+ 3.2. Evaluation of the 2018-2022 Strategic Plan     20
+ 3.3. Analysis of the Legislation           23
+ 3.4. Analysis of the Top Policy Documents       24
+ 3.5. Analysis of Programs and Sub-Programs                                                                                      29
+ 3.6. Activity Domains, Products and Services     30
+ 3.7. Analysis of Stakeholders           32
+ 3.8. Internal Analysis of the Institution          35
+  3.8.1. Administrative and Academic Structure        35
+  3.8.2. Human Resources        35
+  3.8.3. Physical Resources        36
+  3.8.4. Information and Technology Resources        36
+  3.8.5. Financial Resources          37
+ 3.9. Analysis of Academic Activities          37
+  3.9.1. Education Activities          37
+  3.9.2. Research Activities       38
+  3.9.3. Student         38
+ 3.10. Analysis of the Higher Education Sector         40
+ 3.11. Analysis of Strengths, Weaknesses, Opportunities, and Threats (SWOT)     45
+ 3.12. Findings and Needs       51
+4. FUTURE OUTLOOK          53
+ 4.1. Mission          53
+ 4.2. Vision          53
+ 4.3. Core Values         53
+5. DIFFERENTIATION STRATEGIES         57  
+ 5.1. Positioning Preferences           57
+ 5.2. Field of Success Preferences        57
+ 5.3. Value Presentation Preferences          60
+6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS    61
+ 6.1. Units Responsible for Objectives and Units to Cooperate with       61
+ 6.2. Objective Cards         62
+ 6.3. Risks and Control Activities for Objectives         78
+ 6.4. Costing         79
+7. MONITORING AND EVALUATION           81Table of Contents
+LIST OF ABBREVIATIONS1
+ÖİDB  Division of Student Affairs
+ÖYP   Teaching Staff Training Program
+PDB  Division of Personnel Management
+PESTLE  Political, Economic, Social, Technological,  
+  Legal, and Environmental Analysis
+PRP  Postdoctoral Research Program
+SAYP   Researcher Training Program for   
+  Defense Industry
+SEM  Center for Continuing Education
+SGDB  Division of Financial Strategy  
+  Development
+SKSDB  Division of Health, Culture and Sports
+SP  Strategic Plan
+SPFC  Strategic Planning Field Committee
+SUNY  State University of New York
+TARAL  Turkish Research Area
+TBM  Center for Society and Science   
+  Research
+TTO   Technology Transfer Office
+TÜBİTAK Scientific and Technological Research  
+  Council of Türkiye
+TYYÇ   National Qualifications Framework  
+  for Higher Education in Türkiye
+UAB   University Administrative Board
+UEAM  Center for Applied Ethics
+URAP  University Ranking by Academic   
+  Performance
+USPST  University Strategic Planning   
+  Support Team
+USPC  University Strategic Planning   
+  Committee
+SFL  School of Foreign Languages
+SRP  Scientific Research Projects
+SWOT   Strengths, Weaknesses,    
+  Opportunities, and Threats
+YİTDB  Division of Construction and   
+  Maintenance
+YÖK   Council of Higher EducationAPDP  Administrative Personnel                                                                                                                    
+  Development Program
+ADP  Academic Development Program
+BİDB  Division of Information Technology
+BİL TEMM Center for Science, Technology,   
+  Engineering, and Mathematics Education
+BİOMATEN Center for Biomaterials and Tissue   
+  Engineering
+CDPC  Cooperation Development Program  
+  for Centers
+ÇSGB  Ministry of Labor and Social Security  
+DBE  Department of Basic English
+DEKOSİM Center for Marine Ecosystem and   
+  Climate Research
+DML  Department of Modern Languages
+DÖSİM  Office of Revenues
+ERA  European Research Area
+ERC   Europan Research Council
+FP  Framework Program
+GİSAM  Center for Audiovisual Research   
+  and Production
+GÜNAM                  Center for Solar Energy Research
+İMİDB  Division of Financial Services and   
+  Administration
+İSGB  Occupational Health and Safety Unit
+KDDB  Division of Library and    
+  Documentation Services
+KGPO  Office of Institutional Development  
+  and Planning
+KPM   Center for Career Advising and   
+  Professional Development
+MEB  Ministry of National Education
+MEEES  Masters in Earthquake Engineering  
+  and Engineering Seismology
+MEMS  Microelectromechanical Systems
+METUWIND Center for Wind Energy Research
+MODSİMMER Center for Modeling and Simulation
+MVV  Mission, Vision, Values
+ODTÜ-GV METU Development Foundation
+ÖGEM  Center for Advancing Learning and  
+  Teaching
+Since the day it was founded, Middle East Technical University has been an international institution 
+of higher education with a leading and pioneering role in raising individuals who care about social 
+and universal values and development, who attribute importance to creating a collective awareness 
+of social responsibility, who are willing to adopt lifelong learning as a principle and are able to make 
+a difference in the fields of science, technology, culture, and environment.
+At the end of a democratic, participatory, and transparent process, benefiting from the three 
+previous strategic planning experiences of our university, the 2023-2027 METU Strategic Plan has 
+been completed with the contributions and suggestions presented by the committees (Strategic 
+Planning Field Committees) consisting of representatives of various academic and administrative 
+units. The COVID-19 pandemic that still continues during the preparation process of this work both 
+affected the content of our Strategic Plan and also caused the preparation studies to be conducted 
+both online and face-to-face. 
+Within the strategic planning process, a great effort has been made, and meticulous studies were 
+carried out in which the administrators, academic and administrative personnel, students, alumni, 
+and external stakeholders of our university made significant contributions through conferences 
+and various individual or institutional communication channels, as well as boards and committees. 
+Our belief in and responsibility for producing, sharing, and passing on knowledge, as well as the 
+unwavering values that we are proud to have, even under changing circumstances, have once again 
+been manifested.
+Our expertise, background, and the power we acquire from our human resources have guided us in 
+determining our strategies. Our strategic priorities in becoming a university that transforms its region 
+and the world for the well-being of the society, nature, and humanity have been determined as an 
+interdisciplinary and holistic approach, collaboration and interaction, and reinforcing foundations 
+and resources. Accordingly, together with the difficult problems of our country, our region, and the 
+world, significance and priority have been attributed to research in basic sciences, an integrated THE PRESIDENT’S FOREWORD
+3
+education with research, and social contribution. While, on the one hand, adopting the strategy 
+of sustaining and even further increasing its high-impact research studies in the areas where it is 
+strong, on the other hand, our university has set the goal of playing a pioneering role in the newly 
+emerging areas that are compatible with the competencies and priorities of ours. Among the other 
+priorities set in our strategic plan are to strengthen all our resources and to increase cooperation and 
+interaction at both national and international levels so that our entire ecosystem, which includes 
+METU Ankara, Erdemli, and Northern Cyprus campuses and TEKNOKENT, can realize its goals. As well 
+as completing our Plan, it is equally important to fulfill its requirements, monitor its progress, and 
+evaluate the implementations. For this, our infrastructure and all the related mechanisms will be 
+strengthened.   I firmly believe that we will successfully fulfill our responsibilities in this regard.  
+I extend my gratitude to all the members who took part in the boards, committees, workgroups, 
+and support teams during the preparation of our strategic plan, who assumed duties in conferences 
+and worked on the presentation and printing of the plan, as well as to our students, academic 
+and administrative personnel, alumni, and external stakeholders representing institutions and 
+organizations for their contributions throughout the entire process.
+Sincerely,
+Prof. Dr. Mustafa Verşan KÖK
+President
+4
+1.1. MISSION, VISION, AND CORE VALUES
+STRATEGIC 
+PLAN AT FIRST 
+GLANCE15
+Mission
+The mission of Middle East Technical University is to conduct research, provide education and serve 
+society, humanity, and nature at a level of excellence by encouraging creative and critical thinking, 
+innovation, and leadership within the universal values. 
+Vision
+An internationally pioneering university that develops and transforms both its region and the entire 
+world.
+Core Values
+Within the “METU Spirit” study conducted by the METU Center for Applied Ethics in 2012, several core 
+values representing METU were determined and listed as follows:
+• Scientific Freedom
+• Informed Self-Confidence 
+• Cooperative Individualism
+• Sensitivity to the Natural Environment
+• Credibility
+• Respect for Humanity 
+• Merit 
+• Investigative Approach 
+• Social Responsibility
+• Innovativeness and Leadership
+• Commitment to the Campus Heritage 
+• High Academic Quality
+1.2. METU 2023-2027 STRATEGIC PLAN, GOALS AND OBJECTIVES 1. STRATEGIC PLAN AT FIRST GLANCE6
+Table 1. 2023-2027 Strategic Plan, Goals and Objectives
+71.2.METU2023-2027StrategicPlan,GoalsandObjectives
+Table1.2023-2027StrategicPlan,GoalsandObjectives
+Goal/ObjectiveDetailsoftheGoal/Objective
+Goal1Toincreasethequalityofeducationfornationalandinternationalstudents
+sustainably
+Objective1Updatingtheeducationalpoliciesthat determinethefunctioningoftheuniversity's
+educationprograms;developingand implementingnewpolicies.
+Objective2Makingbasiceducationcourses(servicecourses)and electivecoursesinallfields,as
+wellasthecoursesfocusingonacademicwritingand speakingskillsinEnglish,more
+effectiveand efficient.
+Objective3AttractingqualifiedstudentstoMETUthrougheffectiveinformationand establishinga
+studentcounselingsystemthatguidesthenewstudentsaccordingtotheirneedsand
+enhanc esrapport.
+Goal2Todevelopsustainableandinnovativeresearchstudiesthatcanadapttochanges
+andneedsatnationalandinternationalscales
+Objective1Improvingthemultidisciplinary,interdisciplinary,and collaborativeresearchstudiesin
+termsofquantityand qualityand enablingthemtobeusedforthebenefitofthe
+society.
+Objective2Increasingand disseminatingthesocial,economic,and academiceffectsoftheoutputs
+ofresearchstudiestobecarriedoutthroughcollaborationswithnational and
+internationalpublic/privatesector,and non-governmentalorganizationsatnational
+and internationalscales.
+Goal3Tocreateaqualifiedacademicandadministrativeworkforceandtoensureits
+sustainability
+Objective1Attractingnationaland internationalhumanresourcesinquantitiesand qualitiesthat
+willmeettheneedsoftheinstitution.
+Objective2Supportingtheprofessionaland personaldevelopmentofthepersonnel.
+Objective3Introducingpracticestoprotectthegeneralwell-beingofemployees.
+Goal4 Toprioritizeandstrengtheninstitutionalresources
+Objective1Increasingownrevenuesand revolvingfundrevenuesIncreasingownrevenuesand
+revolvingfundrevenues.
+Objective2Protectingtheuniquespatialand architecturalstructureofourcampuses,aswellasthe
+richforest,steppe,sea,and lakeecosystemintegrityand biodiversity;meetingthe
+spatialrequirementswithinsustainable,smart,enduring and accessiblecampus
+approaches.
+Objective3Increasingtheefficiencyand impactofinformationservicesmanagementbytaking
+stakeholderexpectationsintoaccount.
+Goal5Tomaintainandstrengthentheinternationalizationoftheuniversityandits
+impactonsocialcontribution
+Objective1Continuingthesocialcontributionactivitiesbydiversifyingthemonnational and
+internationalscales.
+Objective2DevelopingtheinternationalizationstructureoftheMiddleEastTechnicalUniversity.
+Objective3IncreasingtheinternationalizationcapacityoftheMiddleEastTechnicalUniversity.
+1.3. KEY PERFORMANCE INDICATORS7
+Table 2. METU 2023-2027 Strategic Plan, Key Performance Indicators
+81.3.KeyPerformanceIndicators
+Table2.METU2023-2027StrategicPlan,KeyPerformanceIndicators
+Valueatthe
+BeginningofPlan
+Term(2022 )KeyPerformanceIndicatorsTargetedValueat
+theEndoftheTerm
+(2027 )
+14Numberofnationally/internationallyaccreditedprograms
+(thenumberofundergraduateprogramsthatarelistedin
+theHigherEducationInstitutionsExam[YKS]Guideamong
+theaccreditedprograms)19
+1.425 Numberofinternationalstudents 1.675
+1.230Numberofprojectsfundedbynational/international
+publicorprivateinstitutionsororganizations1.255
+1,60NumberofpublicationsinSCI,SCI-Expanded,SSCI,and
+AHCIjournalsperacademicpersonnel1,75
+20Numberofpatents,utilitymodels,and registereddesigns
+obtainedaccordingtotheR&Doutputs30
+874Numberofscientificpublicationsbyacademicpersonnelin
+Q1and Q2journals930
+21Numberofundergraduatestudentsperacademic
+personnel17
+0Budgettobespentforsmart,accessible,and sustainable
+campusprojects(Thousand TL)1.250
+1Numberofprojectsthat includeCitizenScienceintheir
+researchphase3
+380Numberofactivelyongoingeducation-basedinternational
+collaborationsoftheuniversity4501. STRATEGIC PLAN AT FIRST GLANCE
+
+
+9
+According to the Regulation on the Procedures and Principles Regarding Strategic Plans and 
+Performance Programs and Activity Reports to be Prepared by Public Administrations, strategic plans 
+of public administrations must be sent to the Presidency of Strategy and Budget for evaluation by 
+the end of April before the first year of the period covered by the strategic plan. In line with this 
+requirement, the efforts to prepare our university’s 2023-2027 Strategic Plan started in January 
+2021 with various meetings. 
+The coordination and reporting of the preparation process of the 2023-2027 Strategic Plan, which 
+was presented to the Senate and the University Administrative Board in April 2021, was carried 
+out by the University Strategic Planning Support Team (USPST), which consists of 12 people.  The 
+academic and administrative personnel who contributed to the Strategic Planning Field Committees 
+(SPFC) that conducted the strategic planning endeavors were determined in line with the 
+recommendations of the Offices of Deans, Graduate Schools, and Administrative Units to represent 
+different disciplines, experiences, and stakeholder groups as much as possible. Representatives from 
+TEKNOKENT, Development Foundation, Erdemli Campus, and Northern Cyprus Campus also took part 
+in the SPFCs. In addition, dozens of our members have voluntarily contributed to the efforts of the 
+SPFCs, which consisted of a total of 154 individuals. During the strategic planning process, the SPFCs 
+worked in eight fields, separately but in coordination, on a regular basis almost every week. These 
+fields are Education, Research and Development, Social Contribution, Internationalization, 
+Human Resources, Financial Resources, Physical Resources, and Information Resources. Within 
+the strategic planning endeavors of the SPFCs, interviews, focus group meetings, and surveys 
+were conducted with our stakeholders, such as our departments, units, students, academic and 
+administrative personnel, alumni, and various public, industrial and non-governmental organizations.
+On June 24-25, 2021, the Strategic Plan Situation Assessment Sharing Conference was held with the 
+participation of nearly 250 stakeholders from inside and outside the university. On March 28, 2022, 
+the draft of the Strategic Plan was shared with the internal stakeholder representatives.  
+The working schedule of the units and stakeholders taking part in the strategic planning process can 
+be seen in Table 3.  All documents regarding this process, including the minutes, related reports, and 
+feedback, can be accessed via the website https://kalite.metu.edu.tr/ by logging in with the password 
+used for the university’s web pages.
+The first version of the Strategic Plan and the second version that was prepared in line with all the 
+institutional reviews and suggestions regarding the first version were brought together by the USPST 
+by staying true to the essence of the plan.  Conflicting or missing issues were re-evaluated by the 
+SPFCs and/or SPFC coordinators, and the corrected texts were discussed in the University Strategic 
+Planning Board (USPB). The Strategic Plan prepared for the 2023-2027 period was discussed and 
+approved at the joint meeting of the Senate and the University Administrative Board on April 26, 
+2022.STRATEGIC 
+PLANNING 
+PROCESS2
+A four-stage method was followed to prepare the 2023-2027 METU Strategic Plan based on the 
+Strategic Planning Guide for Universities prepared by the Presidency of the Strategy and Budget and 
+also benefiting from the previous strategic planning experiences of our university. These four stages, 
+the details of which will be shared in the following sections of the document, are as follows:
+1. Preliminary Preparation for the Strategic Plan
+2. Situation Analysis (detailed analysis of the 2018-2022 Strategic Plan; determination of  
+     working and non-working aspects)
+3. Drafting the Strategic Plan 
+4. Finalization of the Strategic Plan
+According to the working schedule in Table 3, eight field committees based on the structure 
+of the current strategic plan were formed for the preparation of the strategic plan: Research and 
+Development, Education, Social Contribution, Financial Resources, Physical Resources, Human 
+Resources, Information Resources, and Internationalization.
+Unlike the 2018-2022 Strategic Plan, the area of responsibility of the SPFCs was expanded for this 
+strategic plan to function better and for the continuity of the participation of all stakeholders to 
+be ensured. While the SPFCs play a key role in the preparation of the Strategic Plan, they are also 
+responsible for contributing to the 5-year monitoring and evaluation processes of the Strategic Plan.
+This method is based on the proposals developed by cross-functional committees (SPFCs) consisting 
+of representatives of different academic and administrative units, institutional reviews of the 
+academic and administrative units related to these proposals, and finally the evaluations of the USPB, 
+all within a participatory, transparent, and democratic process.
+In this context, all the evaluations regarding the 2018-2022 Strategic Plan preparation process 
+were reviewed and reinforced with the lessons learned, and a guide was created for the 2023-2027 
+Strategic Plan period with innovative approaches. The committees consisting of internal and external 
+stakeholders primarily evaluated the situation over the previous Strategic Plan, enabling everyone to 
+self-evaluate both at the unit and institutional levels. 
+In this regard, the field committees played an important role in compiling the information requested 
+during the situation analysis phase and determining the field-specific strategies and targets. The 
+results of the works of the field committees formed an essential input for the Situation Analysis 
+Report prepared after the USPB and the Situation Analysis Conference. The duties and responsibilities 
+within the METU 2023-2027 Strategic Plan preparation process are given in Section 7.1. 
+METU 2023-2027 Strategic Plan was prepared with the participation of all stakeholders of the 
+institution, as well as benefiting from the previous Strategic Plans. The calendar for the strategic 
+planning process can be found in Table 3.   10
+2. STRATEGIC PLANNING PROCESS
+11
+2. STRATEGIC PLANNING PROCESS
+Table 3. METU Strategic Planning Calendar
+28
+12Table1.METUStrategicPlanningCalendar
+Process Stage Date
+StrategicPlan
+PreparationProcessStrategicPlan(SP)processdesign,organization,andpreparationoftheguide January1-February28,2021
+OrganizinginformativemeetingswithUSPBandSPFCs,explainingtheprocess,andsharingexpectations February1-February15,2021
+Field-specificanalysisofthe2018-2022SP February15-March30,2021
+BeginningofregularSPFCmeetings April1,2021
+SituationAnalysis
+(2018-2022SP
+Evaluation)Examinationoffield-specificcaseanalysesbySPFCswithin2018-2022SPandconductingnewstudiesif
+necessaryApril1-May31,2021
+PreparationofSPFCsituationanalysisreportsonafieldbasis May1-June30,2021
+2018-2022SPSituationAnalysisand2023-2027SPSharingConference June24-June25,2021
+ClassificationoftheinformationandfinalizationofthesituationanalysisaftertheSharingConference September1,2021
+DeterminationofGoals,Objectives,Strategies,andPerformanceIndicatorsinLinewithRenewed
+StrategiesDecember1,2021
+DraftingtheStrategic
+PlanExaminationandreconsiderationofMission,VisionandCoreValuesDecember1-December31,
+2021
+Preparationoftheobjectivecards January2-January31,2022
+FinishingthedraftoftheStrategicPlan January31-February28,2022
+Finalizationofthe
+StrategicPlanReceivingopinionsandsuggestionsregardingthedraftoftheStrategicPlanandsubmittingittothe
+SenateandtheUniversityAdministrativeBoardMarch15-April26,2022
+FinalizingtheStrategicPlanandsubmittingittothePresidencyofStrategyandBudget April29,2022
+ 2.1. BOARDS, COMMITTEES AND TEAMS THAT PARTICIPATED IN     
+          THE STRATEGIC PLANNING PROCESS12
+132.1.Boards,CommitteesandTeamsThatParticipatedintheStrategicPlanningProcess
+UNIVERSITYSTRATEGICPLANNINGBOARD(USPB)
+MustafaVerşanKök President
+AliUzayPeker FacultyMemberRepresentative
+AltuğÖzpineci DeanoftheFacultyofArtsandSciences
+BehiyeUbuz DeanoftheFacultyofEducation
+DefneAkıncıMidas FacultyMemberRepresentative
+ElçinErtaş USPSTRepresentative
+ErkanKiriş FacultyMemberRepresentative
+ErsinTatlı DirectoroftheDivisionofFinancialStrategy
+DevelopmentFerdiAyaydın DirectoroftheDivisionofInformationTechnology
+FeridePınarAcar DeanoftheFacultyofEconomicandAdministrative
+SciencesFikretKaya AlumniRepresentative
+FulyaGökalpYavuz USPSTRepresentative
+GökselYılmaz StudentRepresentative
+HalilKalıpçılar DirectoroftheGraduateSchoolofNaturalandApplied
+SciencesHarikaSenemKahveci InternalStakeholderRepresentative
+MecitHalilÖztop FacultyMemberRepresentative
+MehmetT.Zeyrek VicePresident
+NerimanŞahinGüçhan DeanoftheFacultyofArchitecture
+NurtenBirlik FacultyMemberRepresentative
+OğuzhanHasançebi VicePresident
+ÖmerDelialioğlu AdvisortothePresident
+RaifTunaBalkan DeanoftheFacultyofEngineering
+SeldaBilginCoşkun DirectoroftheDivisionofPersonnelManag ement
+SemaKaraca DirectoroftheDivisionofStudentAffairs
+SemraF.Aşçıgil FacultyMemberRepresentative
+SerdarAlemdar ExternalStakeholderRepresentative
+TülinGençöz VicePresident
+TürkerÖzkan ActingGeneralSecretary
+YağmurSaklıDemirbaş ResearchAssistantRepresentative
+UNIVERSITYSTRATEGICPLANNINGSUPPORTTEAM(USPST)
+ÖmerDelialioğlu AdvisortothePresident
+Bahar Öz AdvisortothePresident
+GayeTeksöz AdvisortothePresident
+AdemKalınlı President'sOffice
+Bahar Başkal DivisionofFinanc ialStrategyDevelopment
+DeryaKasacı MemberoftheTechnicalSupportUnit(BİDB)
+ElçinErtaş OfficeofInstitutionalDevelopmentandPlanning
+ErsinTatlı DirectoroftheDivisionofFinancialStrategy
+DevelopmentEzgiP.Kadayıfçı OfficeofInstitutionalDevelopmentandPlanning
+FulyaGökalpYavuz OfficeofInstitutionalDevelopmentandPlanning
+HakkıPolat OfficeofInstitutionalDevelopmentandPlanning
+HüsnüYıldız OfficeofInstitutionalDevelopmentandPlanning
+SonayAlaca DivisionofFinanc ialStrategyDevelopment
+YusufZiyaÇiçek OfficeofInstitutionalDevelopmentandPlanning2. STRATEGIC PLANNING PROCESS
+13
+132.1.Boards,CommitteesandTeamsThatParticipatedintheStrategicPlanningProcess
+UNIVERSITYSTRATEGICPLANNINGBOARD(USPB)
+MustafaVerşanKök President
+AliUzayPeker FacultyMemberRepresentative
+AltuğÖzpineci DeanoftheFacultyofArtsandSciences
+BehiyeUbuz DeanoftheFacultyofEducation
+DefneAkıncıMidas FacultyMemberRepresentative
+ElçinErtaş USPSTRepresentative
+ErkanKiriş FacultyMemberRepresentative
+ErsinTatlı DirectoroftheDivisionofFinancialStrategy
+DevelopmentFerdiAyaydın DirectoroftheDivisionofInformationTechnology
+FeridePınarAcar DeanoftheFacultyofEconomicandAdministrative
+SciencesFikretKaya AlumniRepresentative
+FulyaGökalpYavuz USPSTRepresentative
+GökselYılmaz StudentRepresentative
+HalilKalıpçılar DirectoroftheGraduateSchoolofNaturalandApplied
+SciencesHarikaSenemKahveci InternalStakeholderRepresentative
+MecitHalilÖztop FacultyMemberRepresentative
+MehmetT.Zeyrek VicePresident
+NerimanŞahinGüçhan DeanoftheFacultyofArchitecture
+NurtenBirlik FacultyMemberRepresentative
+OğuzhanHasançebi VicePresident
+ÖmerDelialioğlu AdvisortothePresident
+RaifTunaBalkan DeanoftheFacultyofEngineering
+SeldaBilginCoşkun DirectoroftheDivisionofPersonnelManag ement
+SemaKaraca DirectoroftheDivisionofStudentAffairs
+SemraF.Aşçıgil FacultyMemberRepresentative
+SerdarAlemdar ExternalStakeholderRepresentative
+TülinGençöz VicePresident
+TürkerÖzkan ActingGeneralSecretary
+YağmurSaklıDemirbaş ResearchAssistantRepresentative
+UNIVERSITYSTRATEGICPLANNINGSUPPORTTEAM(USPST)
+ÖmerDelialioğlu AdvisortothePresident
+Bahar Öz AdvisortothePresident
+GayeTeksöz AdvisortothePresident
+AdemKalınlı President'sOffice
+Bahar Başkal DivisionofFinanc ialStrategyDevelopment
+DeryaKasacı MemberoftheTechnicalSupportUnit(BİDB)
+ElçinErtaş OfficeofInstitutionalDevelopmentandPlanning
+ErsinTatlı DirectoroftheDivisionofFinancialStrategy
+DevelopmentEzgiP.Kadayıfçı OfficeofInstitutionalDevelopmentandPlanning
+FulyaGökalpYavuz OfficeofInstitutionalDevelopmentandPlanning
+HakkıPolat OfficeofInstitutionalDevelopmentandPlanning
+HüsnüYıldız OfficeofInstitutionalDevelopmentandPlanning
+SonayAlaca DivisionofFinanc ialStrategyDevelopment
+YusufZiyaÇiçek OfficeofInstitutionalDevelopmentandPlanning
+14SPFIELDCOMMITTEEONEDUCATION
+TülinGençöz Coordinator/VicePresident
+Bahar Öz Coordinator/AdvisortothePresident
+AnlıAtaövDemirkan FacultyofArchitecture
+AysunGüneşDurmuş ÖİDB-OfficeofInternationalStudents
+BilalKırkıcı SchoolofForeignLanguages
+CendelKaraman FacultyofEducation
+ErdemCeydilek ÖİDB-OfficeofInternationalStudents
+ErhanEren GraduateSchoolofInformatics
+EzgiP.Kadayıfçı USPSTRepresentative
+GöknurKaplan FacultyofEducation
+GültenDönmezbaba DivisionofStudentAffairs
+KürşatÇağıltay CenterforDistanceEducation
+MehmetDönmez DivisionofStudentAffairs
+MelekTeberoğlu DivisionofStudentAffairs
+MeteKöken FacultyofEngineering
+OğuzSolyalı NorthernCyprusCampus
+ÖmerDelialioğlu AdvisortothePresident
+ÖzgürPolat DivisionofStudentAffairs
+PerihanSavaş FacultyofEducation
+PınarAcar FacultyofEconomicandAdministrativeSciences
+SaadettinKirazcı FacultyofEducation
+SelinEkerÇalışkan DivisionofStudentAffairs
+SelinKaraca DivisionofStudentAffairs
+SemaKaraca DivisionofStudentAffairs
+SibelDoğan DivisionofStudentAffairs
+TarkanGürbüz FacultyofEducation
+YaseminYalçın DivisionofInformationTechnology
+YeşimÇapaAydın ÖGEM-FacultyofEducation
+YiğitYazıcıoğlu GraduateSchoolofNaturalSciences2. STRATEGIC PLANNING PROCESS
+ 14
+15SPFIELDCOMMITTEEONRESEARCHANDDEVELOPMENT
+MehmetT.Zeyrek Coordinator/VicePresident
+AkınAkdağ FacultyofArtsandSciences
+AnlıAtaövDemirkan FacultyofArchitecture
+Banu-GünelKılıç GraduateSchoolofInformatics
+BurakKaya FacultyofArtsandSciences
+ÇınlaAkdere FacultyofEconomicandAdministrativeSciences
+ElçinErtaş USPSTRepresentative
+EmreYüce FacultyofArtsandSciences
+GözdeAkar FacultyofEngineering
+HasibeÖzlenDemircan FacultyofEducation
+HüsnüDal OfficeofScientificResearchProjects
+İdilBuseKökHazer TTO
+MetinYavuz FacultyofEngineering
+MustafaYücel GraduateSchoolofMarineSciences
+NazBörekçi FacultyofArchitecture
+OğuzYayla GraduateSchoolofMarineSciences
+P.ZeynepÇulfazEmecen FacultyofEngineering
+S.BanuAkkaş OfficeofResearchCoordination
+SerdarAlemdar TEKNOKENT
+SinanGürel FacultyofEngineering
+VolkanEsat NorthernCyprusCampus
+YaşarKondakçı DirectoroftheGraduateSchoolofSocialSciences
+SPFIELDCOMMITTEEONSOCIALCONTRIBUTION
+Y.ErenKalay Coordinator/AdvisortothePresident
+AliEryılmaz FacultyofEducation
+ArzuGönenSorguç FacultyofArchitecture
+BanuGündoğan FacultyofEducation
+ÇağrıYalkın NorthernCyprusCampus
+ErdinçÇakıroğlu BİLTEMM
+FarukGençöz CenterforContinuingEducation
+GöknurKaplan FacultyofEducation
+HakkıPolat USPSTRepresentative
+HüsnüYıldız USPSTRepresentative
+KürşatÇağıltay FacultyofEducation
+MustafaYücel GraduateSchoolofMarineSciences
+NejanHuvajSaruhan FacultyofEngineering
+SezaDanışoğlu FacultyofEconomicandAdministrativeSciences
+15SPFIELDCOMMITTEEONRESEARCHANDDEVELOPMENT
+MehmetT.Zeyrek Coordinator/VicePresident
+AkınAkdağ FacultyofArtsandSciences
+AnlıAtaövDemirkan FacultyofArchitecture
+Banu-GünelKılıç GraduateSchoolofInformatics
+BurakKaya FacultyofArtsandSciences
+ÇınlaAkdere FacultyofEconomicandAdministrativeSciences
+ElçinErtaş USPSTRepresentative
+EmreYüce FacultyofArtsandSciences
+GözdeAkar FacultyofEngineering
+HasibeÖzlenDemircan FacultyofEducation
+HüsnüDal OfficeofScientificResearchProjects
+İdilBuseKökHazer TTO
+MetinYavuz FacultyofEngineering
+MustafaYücel GraduateSchoolofMarineSciences
+NazBörekçi FacultyofArchitecture
+OğuzYayla GraduateSchoolofMarineSciences
+P.ZeynepÇulfazEmecen FacultyofEngineering
+S.BanuAkkaş OfficeofResearchCoordination
+SerdarAlemdar TEKNOKENT
+SinanGürel FacultyofEngineering
+VolkanEsat NorthernCyprusCampus
+YaşarKondakçı DirectoroftheGraduateSchoolofSocialSciences
+SPFIELDCOMMITTEEONSOCIALCONTRIBUTION
+Y.ErenKalay Coordinator/AdvisortothePresident
+AliEryılmaz FacultyofEducation
+ArzuGönenSorguç FacultyofArchitecture
+BanuGündoğan FacultyofEducation
+ÇağrıYalkın NorthernCyprusCampus
+ErdinçÇakıroğlu BİLTEMM
+FarukGençöz CenterforContinuingEducation
+GöknurKaplan FacultyofEducation
+HakkıPolat USPSTRepresentative
+HüsnüYıldız USPSTRepresentative
+KürşatÇağıltay FacultyofEducation
+MustafaYücel GraduateSchoolofMarineSciences
+NejanHuvajSaruhan FacultyofEngineering
+SezaDanışoğlu FacultyofEconomicandAdministrativeSciences2. STRATEGIC PLANNING PROCESS
+15
+16SPFIELDCOMMITTEEONINTERNATIONALCOLLABORATIONS
+GayeTeksöz Coordinator/AdvisortothePresident
+AsumanGöksel FacultyofEconomicandAdministrativeSciences
+AyşegülAskanGündoğan FacultyofEngineering
+ElifSürer GraduateSchoolofInformatics
+ErdemCeydilek ÖİDB-OfficeofInternationalStudents
+EsinKömezDağlıoğlu FacultyofArchitecture
+EsraAkgül OfficeofInternationalCooperation
+EvangeliaPişkin GSSS–SettlementArcheology
+HayriyeKahveciÖzgür NorthernCyprusCampus
+İbrahimYorgun OfficeofInternationalCooperation
+JamesGriffith FacultyofArtsandSciences
+KürşatÇağıltay FacultyofEducation
+MartineGracaninYüksek FacultyofEducation
+MerveBozbıyık President’sOffice-SUNY
+MuratManguoğlu FacultyofEngineering
+MustafaYücel GraduateSchoolofMarineSciences
+NazlıWastiPamuksuz FacultyofEconomicandAdministrativeSciences
+NejanHuvajSaruhan FacultyofEngineering
+ÖzlemTür FacultyofEconomicandAdministrativeSciences
+SedaOkur OfficeofInternationalCooperation
+SevtapKestel GraduateSchoolofAppliedMathematics
+SonayAlaca USPSTRepresentative
+ŞirinSaraçoğlu ConfuciusInstitute
+SPFIELDCOMMITTEEONHUMANRESOURCES
+TülinGençöz Coordinator/VicePresident
+TürkerÖzkan Coordinator/ActingGeneralSecretary
+Bahar Öz AdvisortothePresident
+Bahar Gürsel FacultyofArtsandSciences
+BerkanBaşoğlu DivisionofPersonnelManag ement
+CeylanYozgatlıgil FacultyofArtsandSciences
+ÇiğdemSağınŞimşek FacultyofEducation
+EkinErbaturKocabaşoğlu DivisionofPersonnelManag ement
+ElçinErtaş USPSTRepresentative
+ElifOğuz FacultyofEngineering
+EzgiP.Kadayıfçı USPSTRepresentative
+GülistanDemirsoy DivisionofPersonnelManag ement
+MeteKöken FacultyofEngineering
+MineMısırlısoy DepartmentofPsychology
+NazBörekçi FacultyofArchitecture
+PınarAcar FacultyofEconomicandAdministrativeSciences
+SeldaBilgin DirectoroftheDivisionofPersonnelManag ement
+SevtapKestel GraduateSchoolofAppliedMathematics
+ŞirinSaraçoğlu FacultyofEconomicandAdministrativeSciences
+16SPFIELDCOMMITTEEONINTERNATIONALCOLLABORATIONS
+GayeTeksöz Coordinator/AdvisortothePresident
+AsumanGöksel FacultyofEconomicandAdministrativeSciences
+AyşegülAskanGündoğan FacultyofEngineering
+ElifSürer GraduateSchoolofInformatics
+ErdemCeydilek ÖİDB-OfficeofInternationalStudents
+EsinKömezDağlıoğlu FacultyofArchitecture
+EsraAkgül OfficeofInternationalCooperation
+EvangeliaPişkin GSSS–SettlementArcheology
+HayriyeKahveciÖzgür NorthernCyprusCampus
+İbrahimYorgun OfficeofInternationalCooperation
+JamesGriffith FacultyofArtsandSciences
+KürşatÇağıltay FacultyofEducation
+MartineGracaninYüksek FacultyofEducation
+MerveBozbıyık President’sOffice-SUNY
+MuratManguoğlu FacultyofEngineering
+MustafaYücel GraduateSchoolofMarineSciences
+NazlıWastiPamuksuz FacultyofEconomicandAdministrativeSciences
+NejanHuvajSaruhan FacultyofEngineering
+ÖzlemTür FacultyofEconomicandAdministrativeSciences
+SedaOkur OfficeofInternationalCooperation
+SevtapKestel GraduateSchoolofAppliedMathematics
+SonayAlaca USPSTRepresentative
+ŞirinSaraçoğlu ConfuciusInstitute
+SPFIELDCOMMITTEEONHUMANRESOURCES
+TülinGençöz Coordinator/VicePresident
+TürkerÖzkan Coordinator/ActingGeneralSecretary
+Bahar Öz AdvisortothePresident
+Bahar Gürsel FacultyofArtsandSciences
+BerkanBaşoğlu DivisionofPersonnelManag ement
+CeylanYozgatlıgil FacultyofArtsandSciences
+ÇiğdemSağınŞimşek FacultyofEducation
+EkinErbaturKocabaşoğlu DivisionofPersonnelManag ement
+ElçinErtaş USPSTRepresentative
+ElifOğuz FacultyofEngineering
+EzgiP.Kadayıfçı USPSTRepresentative
+GülistanDemirsoy DivisionofPersonnelManag ement
+MeteKöken FacultyofEngineering
+MineMısırlısoy DepartmentofPsychology
+NazBörekçi FacultyofArchitecture
+PınarAcar FacultyofEconomicandAdministrativeSciences
+SeldaBilgin DirectoroftheDivisionofPersonnelManag ement
+SevtapKestel GraduateSchoolofAppliedMathematics
+ŞirinSaraçoğlu FacultyofEconomicandAdministrativeSciences2. STRATEGIC PLANNING PROCESS
+16
+17SPFIELDCOMMITTEEONPHYSICALRESOURCES
+OğuzhanHasançebi Coordinator/VicePresident
+AysunÜstünel DirectoroftheDivisionofHealth,CultureandSports
+CemBozşahin GraduateSchoolofInformatics
+CevatGüven DirectoroftheDiv.ofLibraryandDocumentationServices
+ElaBabalıkSutcliffe FacultyofArchitecture
+EmreAlp FacultyofEngineering
+HediyeTüydeşYaman FacultyofEngineering
+HüsnüYıldız USPSTRepresentative
+İlhanSepin AssistanttotheGeneralSecretary
+KemalDinçer OfficeofCampusPlanning
+KorhanÖzkan GraduateSchoolofMarineSciences
+MeryemBeklioğlu FacultyofArtsandSciences
+OnurTaylan FacultyofEngineering
+OrhanÖzaydın OfficeofCampusServicesandSecurity
+OsmanCenkSakarya DirectoroftheDivisionofConstructionandMaintenanc e
+TarıkÖDEN OfficeofElectricitySupply
+TuğrulYılmaz FacultyofEngineering
+YusufZiyaÇiçek USPSTRepresentative
+SPFIELDCOMMITTEEONFINANCIALRESOURCES
+MehmetT.Zeyrek Coordinator/VicePresident
+AhmetKeleş FacultyofArtsandSciences
+AvniBal OfficeofRevenues
+Bahar Başkal USPSTRepresentative
+DilberKoçak FacultyofArtsandSciences
+ErsinTatlı DirectoroftheDiv.ofFinanc ialStrategyDevelopment
+GözdeKara DivisionofFinanc ialStrategyDevelopment
+IşılİşlerBaykal FacultyofEducation
+İdilBuseKökHazer TTO
+İhsanUlusan METUDevelopmentFoundation
+KorayPekeriçli FacultyofArchitecture
+F.LeylaErsun DirectoroftheDiv.ofFinanc ialServicesandAdministration
+OğuzSolyalı NorthernCyprusCampus
+OnurBehzatTokdemir FacultyofEngineering
+SerdarAlemdar ODTÜTEKNOKENT
+SerhanDuran FacultyofEngineering
+Y.ErenKalay AdvisortothePresident
+YusufSahillioğlu FacultyofEngineering
+17SPFIELDCOMMITTEEONPHYSICALRESOURCES
+OğuzhanHasançebi Coordinator/VicePresident
+AysunÜstünel DirectoroftheDivisionofHealth,CultureandSports
+CemBozşahin GraduateSchoolofInformatics
+CevatGüven DirectoroftheDiv.ofLibraryandDocumentationServices
+ElaBabalıkSutcliffe FacultyofArchitecture
+EmreAlp FacultyofEngineering
+HediyeTüydeşYaman FacultyofEngineering
+HüsnüYıldız USPSTRepresentative
+İlhanSepin AssistanttotheGeneralSecretary
+KemalDinçer OfficeofCampusPlanning
+KorhanÖzkan GraduateSchoolofMarineSciences
+MeryemBeklioğlu FacultyofArtsandSciences
+OnurTaylan FacultyofEngineering
+OrhanÖzaydın OfficeofCampusServicesandSecurity
+OsmanCenkSakarya DirectoroftheDivisionofConstructionandMaintenanc e
+TarıkÖDEN OfficeofElectricitySupply
+TuğrulYılmaz FacultyofEngineering
+YusufZiyaÇiçek USPSTRepresentative
+SPFIELDCOMMITTEEONFINANCIALRESOURCES
+MehmetT.Zeyrek Coordinator/VicePresident
+AhmetKeleş FacultyofArtsandSciences
+AvniBal OfficeofRevenues
+Bahar Başkal USPSTRepresentative
+DilberKoçak FacultyofArtsandSciences
+ErsinTatlı DirectoroftheDiv.ofFinanc ialStrategyDevelopment
+GözdeKara DivisionofFinanc ialStrategyDevelopment
+IşılİşlerBaykal FacultyofEducation
+İdilBuseKökHazer TTO
+İhsanUlusan METUDevelopmentFoundation
+KorayPekeriçli FacultyofArchitecture
+F.LeylaErsun DirectoroftheDiv.ofFinanc ialServicesandAdministration
+OğuzSolyalı NorthernCyprusCampus
+OnurBehzatTokdemir FacultyofEngineering
+SerdarAlemdar ODTÜTEKNOKENT
+SerhanDuran FacultyofEngineering
+Y.ErenKalay AdvisortothePresident
+YusufSahillioğlu FacultyofEngineering2. STRATEGIC PLANNING PROCESS
+17
+18SPFIELDCOMMITTEEONINFORMATIONRESOURCES
+NazifeBaykal Coordinator/AdvisortothePresident
+AttilaÖzgit FacultyofEngineering
+CevatGüven DirectoroftheDiv.ofLibraryandDocumentation
+ServicesCihangirTezcan GraduateSchoolofInformatics
+ElifEylemMavi/uni015F DivisionofInformationTechnology
+FerdiAyaydın DirectoroftheDivisionofInformationTechnology
+HakkıPolat USPSTRepresentative
+İbrahimÇalı/uni015Fır DivisionofInformationTechnology
+Kür/uni015FatÇağıltay FacultyofEducation
+MügeAkkarErcan FacultyofArchitecture
+NihanKesimÇiçekli FacultyofEngineering
+OğuzSolyalı NorthernCyprusCampus
+ÖmerDelialioğlu AdvisortothePresident
+SinanKaanYerli FacultyofArtsandSciences
+YusufZiyaÇiçek USPSTRepresentative
+3.SITUATIONANALYSIS
+3.1.InstitutionalBackground
+EducationatouruniversitystartedonNovember15,1956,whenitsnamewastheMiddleEastHigh
+TechnologyInstitute.Thepurposeofthefoundationwastocontributetothedevelopmentof
+TürkiyeandtheMiddleEastandtotrainexpertsinthefieldsofNaturalSciencesandSocial
+Sciences,aswellasArchitectureandDesign.AftertheenactmentofLawNo.6887regardingthe
+preparationarrangementsforthefoundationofouruniversityonJanuary29,1957,theFoundation
+ActNo.7307thatsetforththeofficialstatusofMETUandrendereditasajuridicalentity,entered
+intoforceonMay27,1959.Asapioneeringuniversity,METUhasintroducedvariousnewmethods
+andinnovationstotheTurkishhighereducationsystem.Initsearliestyears,METUwaslocatedina
+smallbuildingthatbelongedtotheSocialSecurityOfficeofRetireesonMüdafaaStreetinKızılay
+andinthebarracksbehindtheNationalGrandAssembly(TBMM).Then,in1963,theuniversity
+movedtoitscurrentcampuslocation.In1956,theDepartmentofArchitecturebecamethefirst
+academicprogramtostartofferingeducation.Then,inthespringsemesterof1957,the2. STRATEGIC PLANNING PROCESS
+
+3.1.  INSTITUTIONAL BACKGROUND
+Education at our university started on November 15, 1956, when its name was the Middle East High 
+Technology Institute. The purpose of the foundation was to contribute to the development of Türkiye 
+and the Middle East and to train experts in the fields of Natural Sciences and Social Sciences, as 
+well as Architecture and Design. After the enactment of Law No. 6887 regarding the preparation 
+arrangements for the foundation of our university on January 29, 1957, the Foundation Act No. 7307 
+that set forth the official status of METU and rendered it as a juridical entity, entered into force on May 
+27, 1959. As a pioneering university, METU has introduced various new methods and innovations to 
+the Turkish higher education system. In its earliest years, METU was located in a small building that 
+belonged to the Social Security Office of Retirees on Müdafaa Street in Kızılay and in the barracks 
+behind the National Grand Assembly (TBMM). Then, in 1963, the university moved to its current 
+campus location. In 1956, the Department of Architecture became the first academic program 
+to start offering education. Then, in the spring semester of 1957, the Department of Mechanical 
+Engineering launched its academic program. At the onset of the 1957-1958 Academic Year, the 
+Faculty of Architecture, the Faculty of Engineering, and the Faculty of Administrative Sciences were 
+established. The establishment procedures of the Faculty of Arts and Sciences were completed in 
+1959. The Faculty of Education launched its academic program in 1982.
+In 1973, the METU Board of Trustees decided to establish campuses outside Ankara with the vision of 
+being a regional university in the Middle East instead of a local one, and the mission of spreading the 
+academic and scientific experiences obtained in Ankara to the rest of the country. Founded in 1973, 
+the METU Gaziantep Campus was the first campus of METU to be established outside of Ankara. In 
+Gaziantep, the Department of Mechanical Engineering affiliated to the METU Faculty of Engineering 
+was launched in 1973. Then, with the launch of the Department of Electrical Engineering in 1974, the 
+Gaziantep Faculty of Engineering was established. The Department of Basic Sciences was established 
+in 1974, the Department of Applied Chemistry in 1977, the Department of Civil Engineering in 1981, and 
+the Department of Food Engineering in 1982. Then, the Department of Basic Sciences was converted 
+into the Department of Physics Engineering. With Law No. 3389, the Gaziantep Campus gained a 
+different legal entity in 1987 and became Gaziantep University. In 1975, METU Graduate School of 
+Marine Sciences was established in Erdemli, a town located 45 kilometers west of the city center of 
+Mersin. Being the first campus of a Turkish university based abroad, METU Northern Cyprus Campus 
+was established upon the invitation of the Republic of Türkiye and the Turkish Republic of Northern 
+Cyprus to METU. Following the triple protocol signed in 2000, the law that officially established the 
+campus entered into force in 2003, and thus the METU Northern CyprusCampus started offering 
+education. As of 2021, there are approximately 30,000 students enrolled in the programs of METU in 
+the Ankara, Erdemli, and Northern Cyprus Campuses of the university. In the Ankara Campus, there 
+are 41 undergraduate programs affiliated to a total of 5 faculties. In the Northern Cyprus Campus, 
+there are 15 undergraduate and five graduate programs.   19
+SITUATION 
+ANALYSIS 
+3
+In the Erdemli Campus, there are three graduate programs within the Graduate School of Marine 
+Sciences. A total of 107 masters programs (with and without thesis) and 72 doctoral programs 
+currently offer education within the Graduate School of Natural and Applied Sciences, Graduate 
+School of Social Sciences, Graduate School of Applied Mathematics, Graduate School of Marine 
+Sciences, and the Graduate School of Informatics. The medium of instruction at METU is English. 
+English language education is provided to the students registered in the Preparatory School by the 
+School of Foreign Languages.
+3.2. EVALUATION OF THE 2018-2022 STRATEGIC PLAN
+In order to accomplish the vision and mission stated in the 2018-2022 Strategic Plan, a total of 24 goals, 
+59 objectives to realize these goals, and 134 performance indicators regarding these objectives were 
+determined. While preparing the strategic plan, the university determined its goals in accordance 
+with the top policy documents and the situation assessment and decided on objectives to realize 
+these goals.
+The difficulties experienced in the strategic plan monitoring and evaluation process were recorded in 
+evaluation reports. Therefore, the following situations have been evaluated as experiences obtained 
+in the strategic planning process.
+• Since the 3rd and 4th Performance Indicators (PI3: Number of students doing volunteer teaching) 
+(PI4: Number of institutions/foundations cooperating for the METU academic personnel to teach 
+at the level of secondary schools) of Objective 2 (O2: Supporting education at secondary level) 
+under Goal 2 (G2: To work towards increasing the quality of secondary education) in the field 
+of Education were not clear and easy enough to understand, the process of data collection was 
+adversely affected, and thus a conceptual change was made.
+• With the pandemic that started in 2020, various difficulties were experienced in reaching 
+the targeted performance values due to the fact that education had to continue online for a 
+long time, and social and cultural activities were limited during the pandemic. For instance, 
+Objective 1 (O1: Designing and offering a course [METU-101] specifically for incoming students’ 
+adaptation to the university) of the Goal 4 (G4: To ensure the incoming students’ adaptation 
+to the university and provide them with the advisory service they will need throughout their 
+education) was negatively affected due to the pandemic. Since distance education continued 
+actively throughout this period, the content planned to be included in the new scope of our 
+university had to be placed in different applications and assistance programs by the relevant 
+units; and through satisfaction surveys, students were asked to evaluate these activities and 
+processes. 
+• Because the 1st and 2nd Performance Indicators (PI1: Total area of land on which maintenance 
+work is performed) (PI2: Number of tree seedlings planted annually) under Objective 1 (O1: 
+Preserving the rich natural and ecological values of the campus) of Goal 16 (G16: To protect 
+the integrity and biodiversity of the campus’s rich forest, steppe, and lake ecosystem) were not 
+determined cumulatively, this led to an erroneous evaluation of the performance during the 
+monitoring and evaluation processes.3. SITUATION ANALYSIS 20
+Baseline Risks 
+ Interdisciplinary Approach
+•  Interdisciplinary staff and structure putting pressure on the disciplinary 
+departments 
+•  The negative perception of interdisciplinarity due to the workload that the 
+support provided to interdisciplinary programs could create in disciplinary 
+departments, and priority problems that may occur among departments while 
+sharing the workload among faculty members
+ Education 
+• Not being able to share the results of the studies with the relevant stakeholders 
+at a level that will affect the education policies, and the fact that it is not easy to 
+observe these effects created 
+• Inability to follow the effects of the supported projects adequately, not reaching 
+the annual number of volunteering students, and not reaching the annual 
+number of supporting institutions/organizations 
+• The compulsory courses determined by the Council of Higher Education (YÖK) 
+preventing the creation of a core program
+• The heavy workload of faculty members making it difficult to offer new elective 
+courses  
+ Research and Development 
+• Limitation of sharing due to copyright issues, and failure to establish 
+collaborations at the desired level  
+• Lack of communication and interaction among researchers, units, and external 
+stakeholders
+• Difficulty in coordination between different disciplines and departments
+• Insufficient understanding of the research conducted at METU in terms of social 
+benefits
+• Researchers sharing the research processes and results only in academic 
+environments, thus making it difficult for the society to be aware of the 
+scientific research that is closely related to them
+Financial Resources
+• Unforeseen legislative regulations, limited opportunities for funding and 
+providing staff to the research centers
+• Insufficient investments and previously planned administrative/technical 
+improvements
+• Low budget performance, not being able to use the budget when needed21
+3. SITUATION ANALYSIS 
+In addition to all these evaluations, some baseline risks were determined that emerged during the 
+current strategic plan period at our university and could possibly have adverse effects on the process 
+in terms of observation and sustainability.
+Human Resources
+• Working conditions and benefits offered by foundation universities, in particular, 
+creating competition in hiring qualified academics and preventing them from 
+leaving the institution 
+• Difficulties in career planning and hiring qualified administrative personnel
+• Difficulties in hiring qualified academic personnel as a result of the uncertainties 
+and slow progress of the employment processes 
+• Deterrent effects of regional conflicts and security problems on international 
+students, the negative image of Türkiye in international academic environments 
+and interruption of collaborations, the decrease in the interest of qualified 
+academics in working in Türkiye, and the increase in the number of academics 
+leaving METU 
+• Insufficient benefits and working conditions of international faculty members
+• The dissatisfaction of students caused by failing to benefit from the opportunities 
+adequately, the lack of units focusing on this, and the lack of coordination
+• Insufficient number of administrative personnel competent in English 
+• Not being able to renew and renovate some of the classrooms, laboratories, 
+libraries, infrastructures, etc., due to the lack of financial resources; inability to 
+conduct such arrangements for either maintenance reasons or as part of the 
+endeavors of the Office of Disability Support quickly enough due to budget 
+constraints.
+These aforementioned risks will be carefully and continuously monitored in the upcoming evaluation 
+periods. As a result of the conducted situation assessment, it has been determined that the 2018-
+2022 SP is sustainable. In accordance with the evaluations above;
+• The 2023-2027 Strategic Plan has been prepared in line with the principles set 
+forth in the Strategic Planning Guide (Version 1.1, 2021).
+• During its preparation, participatory and inclusive principles were taken into 
+consideration in line with the goals and objectives, as well as the mission and 
+vision of the university. 
+• Goals, Objectives, Strategies, and Performance Indicators have been prepared 
+in line with the principles of clarity, comprehensibility, and measurability 
+by addressing the difficulties experienced in the monitoring and evaluation 
+processes of the current strategic plan. 
+• The situation assessments have been made taking into account the effects of 
+the pandemic, and it has been kept in mind while determining the goals and 
+objectives in the activity domains.
+• Great importance has been given to participation and inclusiveness during 
+the preparation of the Strategic Plan, and it has been aimed to continue with 
+this approach in the monitoring and evaluation processes for this plan term to 
+become one embraced by all the stakeholders.22
+3. SITUATION ANALYSIS 
+3.3. ANALYSIS OF THE LEGISLATION
+The establishment, duties, and responsibilities of the higher education institutions are defined in 
+Article 130 of the Constitution of the Republic of Türkiye, dated November 7, 1982. The organization, 
+functioning, duties, and responsibilities of our university and the principles regarding education, 
+research, publications, academic personnel, students, and other personnel are regulated by Law No. 
+2547 dated November 4, 1981, whereas its administrative structure is regulated by the Decree Law 
+No. 124 on “Principles Concerning the Establishment and Duties of the Administrative Organization 
+of Supreme Higher Education Institutions and of Higher Education Institutions, ” dated November 
+21, 1983. All activities of our university are carried out in accordance with the provisions of the Civil 
+Servants Law No. 657, the Budget Law of the relevant year, the Public Procurement Law No. 4734, the 
+Public Financial Management and Control Law No. 5018, and the regulations drawn up based on the 
+rights specified by the aforementioned laws.
+ A list of laws and regulations related to the functioning of universities is available on the website 
+of the Council of Higher Education. In addition, the regulations and directives of our university can 
+be found on the web pages of the related units. The 2023-2027 Strategic Plan of our University has 
+been prepared in accordance with the provisions of the 11th Development Plan and the legislation 
+concerning institutions of higher education. An analysis of the legislation has been made by 
+examining the laws within the scope of the Strategic Plan by the SPFCs.23
+Table 4. Analysis of the Legislation3. SITUATION ANALYSIS 
+25Table2.AnalysisoftheLegislation
+LegalObligation Base Findings Needs
+Thislawregulatestheorganization,functioning,duties,andresponsibilitiesofallhighereducationinstitutionsandsupreme
+highereducationinstitutions,aswellastheprinciplesrelatedtoeducationandtraining,research,publishing,academicstaff,
+students,andotherpersonnel.HigherEducationLawNo.
+2547(Article1)
+Thereisno
+conflictofduties
+and
+responsibilities
+arisingfromthe
+legislationwith
+other
+administrations
+intheservices
+carriedoutby
+theuniversity.
+Thelegal
+obligations,as
+statedinthe
+legislation,are
+completely
+fulfilledThereisno
+needfor
+anychang e
+inthe
+legislation.Thepurposeofthislawistoregulatetheorganizationandfunctioningofpublicfinancialmanag ement,thepreparationand
+implementationofpublicbudgets,and theaccounting,reporting,and financialcontrolofallfinancialtransactionsby
+ensuringtheeffective,economicandefficientacquisitionanduseofpublicfunds,accountabilityandfinancialtransparencyin
+linewiththepoliciesandtargetsasstipulatedbydevelopmentplansandprograms.PublicFinanc ial
+Manag ementandControl
+LawNo.5018(Article1)
+ThepurposeofthisLawistosupportand encourage,throughR&Dand innovation,theproductionoftechnological
+knowledge,innovationintheproductandproductionprocesses,enhanc ementinproductqualityandstandards,increasein
+productivity,reductionofproductioncosts,commercializationoftechnologicalknowledge,developmentofpre-competition
+cooperation,technology-intensiveproduction,accelerationoftechnology-intensiveproduction,entrepreneurshipand
+investmentsintheseareasand inflowsofforeigndirectinvestmentsinR&Dand innovationand enhanc ementofR&D
+personnelandqualifiedstaffemploymentforrestoringthestructureofthenationaleconomytobecomeinternationally
+competitive.LawNo.5746on
+SupportingResearch,
+DevelopmentandDesign
+Activities(Article1)
+Thepurposeofthislawistoregulatetheissuesregardingtheprovisionofsupportinordertoensurethemoreeffectiveuse
+and sustainabilityofresearchinfrastructures.Alistoflaws and regulationsrelatedtothefunctioningofuniversitiesis
+availableonthewebsiteoftheCouncilofHigherEducation.Inaddition,theregulationsanddirectivesofouruniversitycan
+befoundonthewebpagesoftherelatedunits.LawNo.6550on
+SupportingResearch
+Infrastructures(Article1)
+Thepurposeofthislawistoproducetechnologicalknowledgeinordertobringthecountry’sindustryintoaninternationally
+competitiveand export-orientedstructurebyenablingcooperationamonguniversities,researchinstitutionsand
+organizationsand productionsectors,todevelopinnovationsinproductsand productionmethods,toraisequalityor
+standardsinproducts,toincreaseproductivity,todecreaseproductioncosts,tocommercializetechnologicalknow-how,to
+supporttechnology-intenseproductionand entrepreneurship,toenabletheadaptationofsmall-and medium-sized
+enterprisestonewandadvancedtechnologies,createnewopportunitiesforsmallandmedium-sizedenterprisestoadaptto
+newandadvancedtechnologies,tocreateinvestmentopportunitiesintechnology-intensiveareasbytakingintoaccountthe
+decisionsoftheSupremeBoardofScienceandTechnology,tocreatejobsforresearchersandskilledpersons,toassistin
+technologytransferand toprovidetechnologicalinfrastructurethatwillacceleratetheentryofforeigncapitalthatwill
+providehigh/advancedtechnology.LawNo.4691on
+TechnologyDevelopment
+Zones(Article1)
+Thepurposeofthislawistocontributetotheprotectionofrightsrelatedtotrademarks,geographicalsigns,designs,patents,
+namesofutilitymodels,andtraditionalproducts,andthus,totherealizationoftechnological,economic,andsocialprogress.IndustrialPropertyLawNo.
+6769(Article1)
+3.4. ANALYSIS OF THE TOP POLICY DOCUMENTS  
+The goals, objectives, policies and similar directions regarding higher education in the top policy 
+documents were examined by the SPFCs, and an analysis of the top policy documents was made. 
+In this regard, National Science and Technology Policies Strategy Document (2003-2023), the 
+Internationalization in Higher Education Strategy Document (2018-2022), the Medium Term 
+Program, and Eleventh Development Plan (2019-2023) were examined. Below are the items of the 
+11th Development Plan which are benefited from during the preparation of METU SP .
+ 24
+Table 5. Analysis of the Top Policy
+27TopPolicy
+DocumentRelevantSection/
+ReferenceDutiesandNeeds
+Eleventh
+Development
+Program(2019-2023)HumanResources/
+331.1Education-industrycooperationprotocolswillbesignedto
+strengthentherelationshipbetweeneducation-
+employment-production.
+HumanResources/
+331.6Thelaborforceprofilerequiredbytheindustrywillbe
+determinedandthecurriculumofvocationalandtechnical
+education,secondaryeducation,sciencehighschoolsand
+highereducationinstitutions’willbeupdatedtorespond
+totheseneeds.
+HumanResources/
+332.3Aprojectpoolwillbeestablishedbytheindustrialsector
+intheprioritysectorsareas,andincaseofselectionof
+doctorateandmasterthesissubjectsfromthispool;
+studentandthesisadvisorswillbesupportedwiththe
+contributionoftherelevantprofessionalorganizationsand
+companieswithintheframeworkofthestandards
+establishedbytheCouncilofHigherEducation(YÖK).
+R&DandInnovation/
+350.1Researchuniversitieswillbematchedwithprioritysectors
+takingintoaccounttheircompetencies,andbusiness
+modelswillbeimplementedbasedonprojectscreatedto
+achievethespecifiedtargets,andthesecollaborationswill
+besupported.
+R&DandInnovation/
+350.5TheefficiencyoftheTechnologyTransferOffices(TTO)will
+beanalyzed,anddomesticandinternationalbestpractices
+willbeidentifiedanddisseminated.
+R&DandInnovation/
+350.7Legislationwillbeimprovedtoenablethe
+commercializationofintellectualpropertyrightsregistered
+onbehalfofhighereducationinstitutionsbyTTOswith
+differentstatuses,andtoensuretheallocationofincome
+bothtotheuniversityandtheinventor,andtomaintain
+thefinancialsustainabilityofTTOs.
+CriticalTechnologies/
+355InordertoachieveNationalTechnologyAct,roadmaps
+willbepreparedforartificialintelligence,theinternetof
+things,augmentedreality,bigdata,cybersecurity,energy
+storage,advancedmaterial,robotics,
+micro/nano/optoelectronics,biotechnology,quantum,
+sensortechnologiesandadditivemanufacturing
+technologiesandthenecessaryinfrastructureswillbe
+established,thequalifiedhumanresourcesinneedwillbe
+trained,andthesocialorientationwillbeensuredtofocus
+ontheseareas.
+CriticalTechnologies/
+358.4StrategiccountriestocooperatewithforR&Dand
+innovationincriticaltechnologyareaswillbeidentified,
+andbilateralandmultilateralR&Dandinnovation
+collaborationsinvolvingprivatesector-universityand
+private-privatepartnershipswillbesupportedwiththese
+countries.
+DefenseIndustry/421Inordertostrengthenthedefenseindustryecosystemand
+ensuresustainability;thetraininginfrastructurewillbe
+strengthenedsothatqualifiedhumanresourcesneedcan
+bemet,supportwillbeprovidedtosectorcompanies,
+primarilySMEs,and measureswillbetakentoincrease3. SITUATION ANALYSIS 
+25
+28TopPolicy
+DocumentRelevantSection/
+ReferenceDutiesandNeeds
+CriticalTechnologies/
+358.4StrategiccountriestocooperatewithforR&Dand
+innovationincriticaltechnologyareaswillbeidentified,
+andbilateralandmultilateralR&Dandinnovation
+collaborationsinvolvingprivatesector-universityand
+private-privatepartnershipswillbesupportedwiththese
+countries.
+DefenseIndustry/421Inordertostrengthenthedefenseindustryecosystemand
+ensuresustainability;thetraininginfrastructurewillbe
+strengthenedsothatqualifiedhumanresourcesneedcan
+bemet,supportwillbeprovidedtosectorcompanies,
+primarilySMEs,andmeasureswillbetakentoincrease
+cooperationinexportsandecosystems.
+Science,Technology
+andInnovation/440.1Thebudgetaryresourcesallocatedtouniversitieswillbe
+increasedtostrengthentheirR&Dinfrastructureand
+improvetheirscientificresearchprojectsbothqualitatively
+andquantitatively.
+Science,Technology
+andInnovation/440.3TheResearchUniversityProgramwillbestrengthenedfor
+theuniversitiestocarryoutR&Dandinnovationactivities
+thatwillsupporthighvalue-addedproduction.Also,the
+capacitiesofuniversitiesincludedinthisprogramwillbe
+increasedthroughspecialsupport.
+Science,Technology
+andInnovation/442.3Amechanismwillbeestablishedinwhichlaboratory
+infrastructureandresearchfundswillbeprovidedtothe
+leadingTurkishscientistsabroad,enablingthemtocarry
+outpart-timetrainingandresearchactivitiesinTürkiye.
+Science,Technology
+andInnovation/443.1Theamountofscholarshippaymentsandthenumberof
+beneficiarieswillbeincreasedforgraduatescholarship
+programsinbasicsciences.
+Science,Technology
+andInnovation/444.1Promotion,informationandcapacitybuildingactivities,
+support,andrewardprogramswillberealizedinorderto
+ensureourparticipationintheEUResearchandInnovation
+FrameworkProgramsthroughqualifiedprojectsandto
+increasethereturnratesoftheprograms.Thenational
+supportprogramswillbeimplementedinaharmonized
+andcomplementarymannerwiththeEUFramework
+ProgramsinordertointegrateintotheEuropeanResearch
+Area.
+Science,Technology
+andInnovation/445.2Scienceworkshopsandmobilescienceexhibitionswillbe
+expandedandmademoreaccessible.
+IntellectualProperty
+Rights/456.12Withregardtotheindustrialpropertyrightsdeveloped
+withinuniversitiesorthroughthecooperationof
+universitiesandotherpublicinstitutionsortheprivate
+sector,thelegalbarriersreducingtheefficiencyofrevenue
+sharingandcommercializationstageswillbeeliminated.
+IntellectualProperty
+Rights/458.3Aninventoryofintellectualpropertiessuchaspatents,
+utilitymodels,designs,etc.,belongingtopublic
+institutionsandorganizations,includinguniversities,will
+beprepared,andinformativeactivitieswillbecarriedout
+inordertoenabletheprivatesectortobenefitfromthis
+inventory,and,prioritywillbeassignedtotheincentives3. SITUATION ANALYSIS 
+26
+3. SITUATION ANALYSIS 
+28TopPolicy
+DocumentRelevantSection/
+ReferenceDutiesandNeeds
+beprepared,andinformativeactivitieswillbecarriedout
+inordertoenabletheprivatesectortobenefitfromthis
+inventory,and,prioritywillbeassignedtotheincentives
+forthecommercializationoftheserightsifprivatesector
+sorequests.
+Informationand
+Communication
+Technologies/476.3Cybersecurityundergraduateandgraduateprogramswill
+beestablishedinuniversities,andcybersecuritycurriculum
+ofexistingundergraduateinformaticsprogramswillbe
+improved.
+Informationand
+Communication
+Technologies/483Digitaltransformationecosystemwillbeestablishedby
+improvingcooperationamongthepublicsector,private
+sector,universitiesandNGOs.
+Energy/489.2Measurestoreducecarbonemissionswillbedeveloped
+throughadditionalmeasuressuchasenergyefficiency
+gainsandincreasingforestassets.
+Energy/492.4EnergyEfficiencyinPublicBuildingsProjectwillbe
+implemented.
+Education/560 Diversityinhighereducationwillbeincreased.
+Education/561Highereducationsystemwillbeequippedwithhavinga
+globallycompetitive,quality-focusedandadynam ic
+structure;andpracticesforincreasingthequalityofhigher
+educationinstitutionswillbecontinued.
+Education/561.1Itwillbeprovidedby2023thatatleast2ofouruniversities
+willberankedamongthetop100,andatleast5ofour
+universitieswillberankedamongthetop500universities,
+intheworldacademicachievementranking.
+Education/561.2ThenumberofPhDgraduateswillbeincreasedto15
+thousandonaverageannu ally,particularlyinthepriority
+sectorsovertheplanperiod.
+Education/561.3Thecomplianceofuniversitieswiththeopenaccess
+infrastructureswillbeprovidedinordertomakethe
+universitieskeepupwiththedigitalage,togetherwiththe
+implementationofopensciencepracticesandopenaccess
+toinformation.
+Education/561.4Thelowerlimitoftheappointmentandpromotioncriteria
+ofacademicstaffwillbeincreasedcentrally.
+Education/561.5Thequotasofhighereducationinstitutionswillbe
+determinedbyconsideringthesectoralandregionalskills
+needs,capacitiesoftheuniversities,supplyanddemand
+equilibriumandminimumoccupancyratesofexisting
+programs;thelinkagesbetweeneducationand
+employmentwillbestrengthened.
+Education/561.6Theminimumachievementscorerequirementapplication
+willbeexpandedinthehighereducationprogramsthat
+authorizeprofessingdirectlyafterthegraduation.
+Education/561.7Thegraduatemonitoringsystemwillbeestablishedto
+followthecareerprocessesofthegraduatesandto
+strengthenthealumni-universitycooperation.
+27
+3. SITUATION ANALYSIS 
+29TopPolicy
+DocumentRelevantSection/
+ReferenceDutiesandNeeds
+Education/563Ourcountry’slevelofinternationalizationinthefieldof
+highereducationwillbeincreased.
+Education/563.1Internationalaccesstothehighereducationsystemwillbe
+facilitatedthrougheffectivepromotionalactivities.
+Protectionof
+Environment/716Identification,registration,protection,sustainableuse,
+development,monitoringandpreventionofillegal
+traffickingofbiologicaldiversityandgeneticresourceswill
+beensuredandthebenefitsobtainedfromgenetic
+resourcesandrelatedtraditionalinformationwillbe
+broughttoourcountry.
+Protectionof
+Environment/716.1Thenationalinventoryonbiologicaldiversitywillbe
+regularlyupdatedthroughresearchandmonitoring
+studies,andtraditionalinformationbasedonbiological
+diversitywillberegisteredandmadeavailableforR&D
+purposes.
+Protectionof
+Environment/716.2Legislationwillbedevelopedfortheprotection,
+sustainableuseanddevelopmentofbiologicaldiversity
+andgeneticresourcesandpreventionofillegaltrafficking.
+Protectionof
+Environment/717Inordertoensuretheconservation,restorationand
+sustainableuseofecosystemsandecosystemservices,the
+amountofterrestrialandmarineprotectedareaswillbe
+increasedandeffectivemanagementofnature
+conservationareaswillbeachieved.
+CivilSociety/779.4Theparticipationofhighereducationstudentsin
+volunteeringandcivilsocietyactivitiesandfacilitating
+internshipopportunitiesinCSOswillbeencouraged.
+CivilSociety/779.5Effortswillbecarriedouttoexpandcivilsocietycentersat
+theuniversitiesandtoopencivilsocietycertificateand
+graduateprograms.
+MediumTerm
+Program(2022-
+2024)Section3:Employment/
+PolicyandMeasures/5Thediversityoflifelonglearningprogramswillbe
+increased,occupationalstandardswillbedeterminedin
+coordinationwiththeVocationalQualificationsAuthority,
+andthequalificationsofindividualswillbeincreasedand
+certifiedinaway thatwillbevalidinbothnationaland
+internationalarena.
+Section3:Employment/
+PolicyandMeasures/3Inordertostrengthentheeducation-employment-
+productionrelationship,innovativeeducation-industry
+collaborationswillbeincreasedwhilevocationaltraining
+programswillbeharmonizedtomeetthechang ing
+requirementsofthedigitaleconomy.
+Section1:Growth/
+PolicyandMeasures/6Studiesonvaluationofintellectualpropertyassetswillbe
+accelerated.Thecontributionofintangibleassets(suchas
+patentrights)tocompanybalancesheetsandtothe
+nationaleconomywillbeincreased.Industrialuseof
+patentedtechnologiesdevelopedinuniversities,research
+institutionsandTechnologyDevelopmentZoneswillbe
+ensured.
+28
+3. SITUATION ANALYSIS 
+30TopPolicy
+DocumentRelevantSection/
+ReferenceDutiesandNeeds
+Section7:Public
+Finance/Policyand
+Measures/1DuringtheProgramperiod,thefiscaldisciplinewillbe
+resolutelymaintained,resourceswillbeusedefficiently,
+expenditurecutswillbemadeindesignatedareas,
+structuralchang eswillbeimplemented,thepublicsector
+borrowingrequirementand thepublicdebtstocktoGDP
+ratiowillbereducedand thesustainabilityofthefiscal
+policywillbestrengthened.
+Section7:Public
+Finance/Policyand
+Measures/5Specialaccountimplementationswillbelimitedtourgent
+and obligatorycasesduetothenatureoftheservice.
+Implementationsthatdonotmeetthesecriteriawillbe
+graduallyremoved,and revolvingfundswillbegradually
+includedinthecentralgovernmentbudget.
+NationalScience
+andTechnology
+PoliciesStrategy
+Document(2003-
+2023)Türkiye2023 Visionand
+SocioeconomicGoals/
+VisionofEducationDevelopinggenuinelearningtechnologies,freefromtime
+and spaceconstraints,thatimprovethecreativityand
+imaginationoftheindividual,enablingeachindividualto
+improvethemselvesatthehighestlevelinlinewiththeir
+characteristicsbyobservingand evaluatingindividual
+differences;creatingalearning-focused,individual-
+orientededucationsystemthathasthecapabilityof
+renewingitselfflexibly.
+Internationalization
+inHigherEducation
+StrategyDocument
+(2018-2022)Internationalizationin
+HigherEducationInternationalizationaimstocontributetotheincreaseof
+institutionalqualityand capacitybysharingknowledgein
+academicand scientificfields.Teamworkefforts,joint
+projectsand publicationsattheinternationallevel
+contributetotheinternationalrecognitionofhigher
+educationinstitutionsand formasolidbasisforthe
+internationalpropertiesoftheseinstitutions.
+3.5. ANALYSIS OF PROGRAMS AND SUB-PROGRAMS
+Within the program budget system, analyses on programs and sub-programs were conducted by the 
+SPFCs considering the relation of the programs and sub-programs operating under our university 
+with the current SP .29
+Table 6. Analysis of Programs and Sub-Programs3. SITUATION ANALYSIS 
+32Table4.AnalysisofProgramsandSub-Programs
+RESEARCH,
+DEVELOPMENT
+AND
+INNOVATIONResea rch
+InfrastructuresThenumberofpersonnelworkinginresearch
+laboratoriesisinsufficient.Thecurrentinfrastructure
+needsimprovement(maintenance,re-licensing,
+calibration,laboratoryfacilities).Increasingfinancialandhumanresourcesfor
+maintenanceandrenovationofresearch
+laboratoryinfrastructure
+Scientific
+Resea rchand
+Development
+inHigher
+EducationMETUhasthevisionoftransformingitsregionandthe
+world.Theuniversityhastheabilitytoconduct
+effectiveresearchinmanydifferentdisciplines.Inthis
+context,consideringaddressingcurrentissuesasa
+responsibilitytowardssociety,METU,whichobtainsat
+leastone-quarterofitsbudgeteveryyearfrom
+researchrevenueswiththebenefitofpublic-industry-
+universitycollaborations,shouldhavesufficient
+infrastructureandresourcestomakeadifferencein
+theworldofscience.Multidimensionalresearch,collaborationsfor
+theseresearches,internalandexternalresearch
+supports,moreprojectsthatwillbringincome
+fortheuniversityandsupporttheR&D
+infrastructure
+LIFELONG
+LEARNINGContinuing
+Education
+Activitiesin
+Higher
+Education
+InstitutionsTheprocessesandresultsoftheresearchconductedat
+METUaresharedinacademicandnon-academic
+environments.ItisimportantforMETUthatdifferent
+segmentsofsocietyareawareoftheexistenceof
+scientificresearcheffortsthatarecloselyrelatedto
+them.The"ScienceatHome"series,mid-term
+seminars,andthetrainingprogramsofferedbythe
+CenterforContinuingEducationheldatMETUarein
+highdemand.Sharingthesocialbenefitsofscientificresearch
+activitiesconductedatMETUwiththeentire
+publicaswellasthenationalandinternational
+academic circles; creating sufficient
+infrastructureandmechanismstoopenthe
+contentsoftheongoingactivitiestoawider
+audience
+HIGHER
+EDUCATIONScholarship
+andSupport
+Providedto
+Academic
+PersonnelThereisinsufficientsupportforincreasingthenumber
+andqualityofinternationalpublicationsbyour
+universitypersonnel.Itisnecessarytoincreasethe
+pedagogicalawarenessoffacultymembersand
+researchassistants.Establishingmechanismstoincreasetheimpact
+oftheoutputsofresearchactivitiescarriedout
+atMETU;conductingstudiestoincreasethe
+pedagogicalawarenessoffacultymembers
+Academic
+Lifeof
+Studentsin
+Higher
+EducationSomeofthenewly-registeredstudentsofMETU,
+especiallyintheirfirstyear,havedifficultiesin
+adaptingtotheuniversityculture,benefitingfromits
+socialandculturalopportunities,andEnglishmedium
+ofinstruction.Rapidlychangingconditions(suchas
+theCOVID-19pandemicandtheonlineeducation
+requirementitbrought)causethecurrenteducation
+andtrainingpracticestobecomeold-fashionedvery
+quickly,andthenecessityofprovidingbasiceducation
+courses(servicecourses)moreeffectivelyand
+efficientlyinallfieldsemergesEffectivebasiceducationcoursesshouldbe
+preparedwithpracticesthatsupportthe
+academicandpersonaladaptationofincoming
+studentstotheuniversity,classrooms,course
+contents,departments,andtheacademic
+personnelofferingthesecourses.Effectivecore
+programsupdatedaccordingtosuccessful
+approachesintheworldshouldbeoffered;the
+qualityassuranceoftheeducationshouldbe
+provided,mechanisms/programsthatwill
+ensure the active participation of
+undergraduatestudentsinscientificresearch
+activitiesanddisseminatethemindifferent
+fieldsshouldbeestablished.
+StudentLife
+inHigher
+EducationByallowingstudentstopickupnewfieldsofinterest,
+opportunitiesshouldbeprovidedthatwillenable
+studentstoimprovehealthandsocialconditions,and
+todeveloptheirabilitiesandpersonalitieshealthily.It
+isalsonecessarytoeducatestudentsasindividuals
+whotakecareoftheirmentalandphysicalhealthand
+togainhabitsofworkingregularlyanddisciplined
+work,restingadequately,andhavingfun.Increasing the quality offood and
+accommodationservicesofferedtostudentsin
+highereducationinstitutionsandoverall
+increasingthequalityoflifebysupportingthe
+personalandsocialdevelopmentofstudentsProgram Findings NeedsSub-
+Program
+3.6. ACTIVITY DOMAINS, PRODUCTS AND SERVICES
+With the analysis of the top policy documents, the relation between them and METU SP has been 
+comprehended, and the tasks and needs have been determined. The activity domains, products and 
+services of METU can be seen in Table 7. 
+Table 7. Activity Domains, Products and Services of METU3. SITUATION ANALYSIS 
+30
+34Table5.ActivityDomains,ProductsandServicesofMETU
+ActivityDomain Products/Services
+A)EducationEnglishPreparatorySchoolEducation
+UndergraduateEducation
+GraduateEducation
+InternationalCollaborationPrograms(SUNY,Humboldt)
+ExchangePrograms(Erasmus,etc.)
+DistanceEducationPrograms
+TeachingStaffTrainingProgram(ÖYP)
+ContinuingEducationPrograms
+AcademicDevelopmentProgram(ADP)
+AdministrativePersonnelDevelopmentProgram(APDP)
+Alumni
+B)Researchand
+DevelopmentResearchandApplicationCenters
+CentralLaboratory
+Researchunits/laboratoriesinacademicunits
+FundedR&Dprojects(fundedbythePresidencyofStrategyandBudget,TÜBİTAK,EU,etc.)
+Projectsfundedwithuniversityresources(OfficeofScientificResearchProjects)
+R&Dand innovationprojectsconductedwiththecontributionoftheindustry(revolvingfund
+projects)
+Researchertrainingprograms(SAYP:ResearcherTrainingProgramforDefenseIndustry,MİGEP:
+CooperationDevelopmentProgramforCenters,etc.)
+ActivitiesofResearchsupportingunits(OfficeofResearchCoordination,OfficeofScientificResearch
+Projects,TTO,etc.)
+CollaborationsofTEKNOKENT
+Publications
+Patents
+Conference/WorkshopParticipation
+3. SITUATION ANALYSIS 
+35ActivityDomain Products/Services
+C)Social
+ContributionCenterforSocietyandScienceResearch(TBM)
+CenterforContinuingEducation(SEM)
+CenterforScience,Technology,Engineering,andMathematicsEducation(BİLTEMM)
+Communicationactivities(sharingtheresearchactivitiescarriedoutattheuniversitywiththepublic
+viapublicationsandconferences,etc.)
+Socialcontributionactivities(activitiescarriedoutbytheFacultyofEducationaspartoftheir
+communityservicecourse,organizationssuchas"ScienceisFun,"and"ScienceatHome")
+Activitiesaimingatpopularizingscienceinsociety,conductedjointlywithorganizationssuchasthe
+NGOs31
+3.7.  ANALYSIS OF STAKEHOLDERS
+Throughout the SP preparation process, each SPFC received suggestions and feedback from their 
+internal and external stakeholders through questionnaires and interviews conducted either online 
+or face-to-face. Our stakeholders also participated in the Situation Analysis and Sharing Conference 
+on June 24-25, 2021, and shared their opinions.32
+Table 8. Internal Stakeholders3. SITUATION ANALYSIS 
+36Table6.InternalStakeholders
+StakeholderInternal/
+ExternalSignifiance
+LevelInfluence
+Level Priority
+ResearchCenters,OfficeofResearch
+CoordinationInternal High Strong Cooperate
+CoordinatorsofExchangeUnits Internal High Strong Cooperate
+Faculties,GraduateSchools,Departments Internal High Strong Cooperate
+AdministrativeUnits Internal High Strong Cooperate
+AdministrativePersonnel Internal High Strong Cooperate
+METUTechnologyTransferOffice(TTO) Internal High Strong Cooperate
+AcademicPersonnel Internal High Strong Cooperate
+CommissiononInternationalExchange
+ProgramsInternal High Strong Cooperate
+CenterforDistanceEducation(ODTUZEM) Internal High Strong Cooperate
+Table7.ExternalStakeholders
+33
+Table 9. External Stakeholders3. SITUATION ANALYSIS 
+37StakeholderInternal/
+ExternalSignifiance
+LevelInfluence
+Level Priority
+AnkaraMetropolitanMunicipality External Low Weak Observe
+AnkaraChamberofCommerce-Departmentof
+ForeignRelationsandFairsExternal Low Weak Observe
+ASEL SAN DirectorateforCommunicationsand
+InformationTechnologiesExternal High Strong Cooperate
+OtherUniversities External High Weak Include
+UnitedNationsDevelopmentProgram(UNDP) External High Strong Cooperate
+ÇankayaMunicipality External Low Weak Observe
+FULBRIGHTProgram External Low Weak Observe
+GoetheInstitute External High Weak Include
+HAVEL SAN External High Strong Cooperate
+ChamberofProfessions External Low Weak Observe
+Alumni External High Weak Include
+MinistryofNationalEducation External Low Weak Observe
+METUDevelopmentFoundation External High Strong Cooperate
+ODTÜTEKNOKENT External High Strong Cooperate
+Students External High Strong Cooperate
+PresidencyoftheRepublicofTürkiye External High Strong Inform
+DefenseTechnologiesEngineeringandTrade
+(STM)External High Strong Cooperate
+SUNYBinghamtonUniversity External High Strong Cooperate
+SUNYNewPaltzUniversity External High Strong Cooperate
+SUNYTürkiyeOffice External High Strong Cooperate
+GovernorshipofAnkara External Low Weak Observe
+PresidencyofStrategyandBudget External High Strong Cooperate
+MinistryofEnvironment,Urbanizationand
+ClimateChangeExternal Low Weak Observe
+MinistryofForeignAffairs External Low Weak Observe
+MinistryofEnergyandNaturalResources External Low Weak Observe
+MinistryofTreasuryandFinance External High Strong Cooperate
+MinistryofIndustryandTechnology External High Strong Cooperate
+PresidencyofDefenseIndustries External High Strong Cooperate
+MinistryofTransportandInfrastructure External Low Weak Observe
+TÜBİTAK External High Strong Cooperate
+UnionofMunicipalitiesofTürkiye External Low Weak Observe
+TurkishNationalAgency External Low Weak Observe
+YÖK-DepartmentofProjectDevelopmentand
+SupportinHigherEducationExternal High Strong Cooperate
+TurkishHigherEducationQualityCouncil
+(YÖKAK)External High Strong Cooperate
+CoordinationOfficeofHigherEducation External High Strong Cooperate
+CouncilofHigherEducation(YÖK) External High Strong Cooperate
+34
+3. SITUATION ANALYSIS 
+Table 10. Stakeholder – Product/Service Matrix 
+41KoreanCulturalCenter X X
+TÜBİTAK XX X X X
+FULBRIGHT X X
+PresidencyofStrategyandBudget X
+AnkaraMetropolitanMunicipality X
+HAVELSAN,DirectorateofTechnologyandProductManagement XX
+SUNYTürkiyeOffice X X
+SUNYBinghamtonUniversity X X
+Students XXXXX X X X
+Alumni X
+MinistryofNationalEducation,DirectorateofGeneralMeasurement,
+AssessmentandExaminationServicesXXX X
+MinistryofEnvironment,UrbanizationandClimateChange,Directorate
+GeneralofProtectionofNaturalAssetsXX X
+MinistryofForeignAffairs,DirectorateofCenterforEUEducationand
+YouthProgramXX X X
+STMDirectorateofStrategicManagement XX
+ASELSANDirectorateforCommunicationsandInformation
+TechnologiesXX
+YÖK-DepartmentofProjectDevelopmentandSupportinHigher
+EducationXX XXX
+MinistryofEnergyandNaturalResources XX X
+MinistryofTransportandInfrastructure X
+ÇankayaMunicipality X
+MiddlesexUniversity XX X
+UnitedNationsDevelopmentProgram(UNDP)UnitofEnvironmentand
+ClimateChangeXX X
+UnionofMunicipalitiesofTürkiye X
+SUNYNewPaltzUniversity XXX X X
+TurkishNationalAgency X X40Table8.Stakeholder–Product/ServiceMatrix
+Stakeholder
+Education
+Research&
+Development
+HumanResources
+FinancialResources
+PhysicalResources
+Information
+Resources
+SocialContribution
+Internationalization
+G1
+O1G1
+O2G1
+O3G2
+O1G2
+O2G3
+O1G3
+O2G3
+O3G4
+O1G4
+O2G4
+O3G5
+O1G5
+O2G5
+O3
+AcademicPersonnel XXXXX XXX X X XX X X
+AdministrativePersonnel XXXXX XXX X X XX X X
+METUTechnologyTransferOffice(TTO) XX XXX X X X X
+Faculties,GraduateSchools,Departments XXXXX XXX X X XX X X
+ResearchCenters,OfficeofResearchCoordination XXXXX XXX X X XX X X
+AdministrativeUnits XXXXX XXX X X XX X X
+CenterforDistanceEducation(ODTUZEM) XXXXX XXX X X
+CommissiononInternationalExchangePrograms XXXXX XXX X X XX X X
+CoordinatorsofExchangeUnits XXXXX XXX X X XX X X
+CouncilofHigherEducation(YÖK) XXXXX XXX X X X X
+TurkishHigherEducationQualityCouncil(YÖKAK) XXX XXX X
+MinistryofTreasuryandFinance X
+MinistryofIndustryandTechnology&AffiliatedInstitutions XX X
+PresidencyofDefenseIndustries XX X
+GovernorshipofAnkara X
+METUDevelopmentFoundation X X
+ODTÜTEKNOKENT XX X X
+ChamberofCivilEngineers X
+MinistryofForeignAffairs,PresidencyofTurksAbroadandRelated
+CommunitiesX X
+GoetheInstitute X X
+3.8.  INTERNAL ANALYSIS OF THE INSTITUTION
+The last two years of the 2018-2022 SP and the preparation process for the 2023-2027 SP coincided 
+with the COVID-19 pandemic. For this reason, institutional evaluation processes were conducted 
+with online methods. In this section, there is information regarding the organizational structure of 
+our university, the evaluation of the activities being conducted, and the resources. 
+3.8.1. Administrative and Academic Structure
+3.8.2. Human Resources 
+Our university hires qualified personnel who hold doctoral degrees obtained from the top-ranking 
+universities all over the world or those who have completed their post-doctoral studies at one of 
+these universities as faculty members, provided that they meet the appointment criteria.35
+Table 11. Human Resources3. SITUATION ANALYSIS 
+REKTÖR KALİTE KOMİSYONU
+ÜNİVERSİTE KOMİSYONU ÜNİVERSİTE YÖNETİM KURULU
+İÇ DENETİM BİRİMİ
+REKTÖR
+YARDIMCISIREKTÖR
+YARDIMCISIREKTÖR
+YARDIMCISIGENEL
+SEKRETERREKTÖR
+DANIŞMANIREKTÖR
+DANIŞMANIREKTÖR
+DANIŞMANIREKTÖR
+DANIŞMANIREKTÖR
+DANIŞMANIREKTÖR
+DANIŞMANI
+İDARİ
+BİRİMLER
+FAKÜL TELER ENSTİTÜLER YÜKSEKOKUL-
+LARBÖLÜMLER MERKEZLER
+TEKNOKENT   
+                                 PRESIDENTQUALITY COMMISSION
+UNIVERSITY SENATE
+INTERNAL CONTROL UNITUNIVERSITY ADMINISTRATIVE BOARD
+PRESIDENTVICE
+PRESIDENTVICE
+PRESIDENTVICE
+SECRETARYGENERAL
+ADMINISTRATIVE 
+UNITSADVISOR
+TO THE
+PRESIDENTADVISOR
+TO THE
+PRESIDENTADVISOR
+TO THE
+PRESIDENTADVISOR
+TO THE
+PRESIDENTADVISOR
+TO THE
+PRESIDENTADVISOR
+TO THE
+PRESIDENT
+GRADUATE 
+SCHOOLSFACUL TIES DEPARTMENTS CENTERSVOCATIONAL
+ SCHOOLS OF
+ HIGHER 
+EDUCATION
+43Yüksekokullar–VocationalSchoolsofHigherEducation
+Bölümler–Departments
+Merkezler–Centers
+3.8.2.HumanResources
+Ouruniversityhiresqualifiedpersonnelwhoholddoctoraldegreesobtainedfromthetop-ranking
+universitiesallovertheworldorthosewhohavecompletedtheirpost-doctoralstudiesatoneof
+theseuniversitiesasfacultymembers,providedthattheymeettheappointmentcriteria.
+Table11.HumanResources
+Personnel 2021
+Totalnumberoffacultymembers 765
+Professor 386
+AssociateProfessor 162
+AssistantProfessor 217
+Lecturer(teaching) 332
+Lecturer(non-teaching) 153
+ResearchAssistantperArticle35(includingÖYP) 181
+ResearchAssistant 731
+NumberofInternationalFacultyMembers 45
+NumberofAdministrativePersonnel 2.527
+3.8.3.PhysicalResources
+ExceptfortheNorthernCyprusCampuslocatedintheTurkishRepublicofNorthernCyprusandthe
+GraduateSchoolofMarineScienceslocatedinErdemli,Mersin,allthefacultiesanddepartmentsof
+ouruniversityarelocatedinAnkara,ontheMETUcampus.
+Table12.PhysicalResources
+Place 2021
+Campusarea(km2) 45
+Forest(km2) 33
+Numberofclassroomsandlecturehalls 374
+Numberoflaboratories 465
+Indoorandoutdoorsportsfacilities(m2) 60.635
+Numberofdormitories 19
+Capacityofdormitories(person) 7.322
+3.8.3. Physical Resources
+Except for the Northern Cyprus Campus located in the Turkish Republic of Northern Cyprus and the 
+Graduate School of Marine Sciences located in Erdemli, Mersin, all the faculties and departments of 
+our university are located in Ankara, on the METU campus
+3.8.4.  Information and Technology Resources
+Our university aims to provide all its members with the most efficient and up-to-date IT infrastructure 
+that can be used by the students and academic units in creative and collaborative works, while the 
+administrative personnel can make the utmost use of information technologies in their works.36
+Table 12. Physical Resources
+Table 13. Information Resources3. SITUATION ANALYSIS 
+443.8.4.InformationandTechnologyResources
+Ouruniversityaimstoprovideallitsmemberswiththemostefficientandup-to-dateIT
+infrastructurethatcanbeusedbythestudentsandacademicunitsincreativeandcollaborative
+works,whiletheadministrativepersonnelcanmaketheutmostuseofinformationtechnologiesin
+theirworks.
+Table13.InformationResources
+Information 2021
+Numberof"metu.edu.tr"domains 874
+Ratioofcourseswithavailablelearningmanagementsystem(%) 87
+Numberofactivewirelessdevices 1.981
+Percentageofwirelessconnectioncoverageoncampus(%) 98
+Internetoutputcapacityoncampus 10Gbit/s
+Library
+PrintBooks 528.664
+Numberofboundjournals 198.840
+Contemporaryprintjournals 52
+E-books 588.060
+Electronicjournals 77.091
+3.8.5.FinancialResources
+OuruniversityisaspecialbudgetadministrationasdefinedinthePublicFinancialManagement
+andControlLawNo.5018.ThebudgetofMETUconsistsoftreasuryaidsanditsownrevenues.In
+ordertoguidethebudgetproposalsandinvestmentprogrampreparationprocessesofpublic
+institutions,theBudgetCallandtheBudgetPreparationGuide,aswellastheInvestmentCircular
+andtheInvestmentProgramPreparationGuide,arepreparedbythePresidencyofStrategyand
+BudgetandpublishedintheOfficialGazettenolaterthanSeptember15.Thebudgetproposalof
+ouruniversityispreparedbytakingintoaccountthedevelopmentplan,policies,objectivesand
+priorities,strategicplanandperformancecriteria,andcost-benefitanalyses.43Yüksekokullar–VocationalSchoolsofHigherEducation
+Bölümler–Departments
+Merkezler–Centers
+3.8.2.HumanResources
+Ouruniversityhiresqualifiedpersonnelwhoholddoctoraldegreesobtainedfromthetop-ranking
+universitiesallovertheworldorthosewhohavecompletedtheirpost-doctoralstudiesatoneof
+theseuniversitiesasfacultymembers,providedthattheymeettheappointmentcriteria.
+Table11.HumanResources
+Personnel 2021
+Totalnumberoffacultymembers 765
+Professor 386
+AssociateProfessor 162
+AssistantProfessor 217
+Lecturer(teaching) 332
+Lecturer(non-teaching) 153
+ResearchAssistantperArticle35(includingÖYP) 181
+ResearchAssistant 731
+NumberofInternationalFacultyMembers 45
+NumberofAdministrativePersonnel 2.527
+3.8.3.PhysicalResources
+ExceptfortheNorthernCyprusCampuslocatedintheTurkishRepublicofNorthernCyprusandthe
+GraduateSchoolofMarineScienceslocatedinErdemli,Mersin,allthefacultiesanddepartmentsof
+ouruniversityarelocatedinAnkara,ontheMETUcampus.
+Table12.PhysicalResources
+Place 2021
+Campusarea(km2) 45
+Forest(km2) 33
+Numberofclassroomsandlecturehalls 374
+Numberoflaboratories 465
+Indoorandoutdoorsportsfacilities(m2) 60.635
+Numberofdormitories 19
+Capacityofdormitories(person) 7.322
+3.8.5. Financial Resources
+Our university is a special budget administration as defined in the Public Financial Management and 
+Control Law No. 5018. The budget of METU consists of treasury aids and its own revenues. In order to 
+guide the budget proposals and investment program preparation processes of public institutions, the 
+Budget Call and the Budget Preparation Guide, as well as the Investment Circular and the Investment 
+Program Preparation Guide, are prepared by the Presidency of Strategy and Budget and published 
+in the Official Gazette no later than September 15. The budget proposal of our university is prepared 
+by taking into account the development plan, policies, objectives and priorities, strategic plan and 
+performance criteria, and cost-benefit analyses.
+3.9. ANALYSIS OF ACADEMIC ACTIVITIES
+3.9.1. Education Activities
+There are 41 undergraduate programs under a total of 5 faculties at METU. A total of 107 masters 
+programs and 72 doctoral programs currently offer education within the Graduate School of Natural 
+and Applied Sciences, Graduate School of Social Sciences, Graduate School of Applied Mathematics, 
+Graduate School of Marine Sciences, and the Graduate School of Informatics. The Graduate School 
+of Marine Sciences carries out its studies in Mersin-Erdemli. English language education is provided 
+to the students registered in the Preparatory School by the School of Foreign Languages. Regarding 
+the masters degrees, METU has the widest variety of programs among the universities that offer 
+education in a foreign language in our country. Middle East Technical University prepares annual 
+strategic plans in the fields of Education, Research and Development, and Social Contribution. The 
+university carries out all of its activities in line with this plan. In accordance with the latest seven-year 
+strategic plan in the field of education, METU has made efforts to focus on masters and doctoral 
+programs in order to respond to the increasing need for academic personnel in the field of education 
+in our country. On the other hand, it aimed to adjust the number of students in undergraduate 
+programs to a more sustainable and balanced level. 37
+Table 14. Analysis of Financial Resources3. SITUATION ANALYSIS 
+45Table12.Analys/i.dotsofF/i.dotnanc/i.dotalResources
+TABLEOFESTIMATEDRESOURCESFOR2023-2027STRATEGICPLAN(TL)
+Resources 2023 2024 2025 2026 2027 Totalof5Years
+Spec/i.dotalBudget
+(Internal
+Budgetary)1.033.478.000 1.141.993.000 1.233.352.000 1.332.021.000 1.438.583.000 6.179.427.000
+Revolv/i.dotngFunds
+(Extra
+Budgetary)100.232.000 108.251.000 116.912.000 126.266.000 136.365.000 588.026.000
+Nat/i.dotonalProjects
+(Extra
+Budgetary)62.696.000 67.712.000 73.129.000 78.979.000 85.297.000 367.813.000
+Internat/i.dotonal
+Projects(Extra
+Budgetary)116.808.000 126.153.000 136.245.000 147.145.000 158.917.000 685.268.000
+TEKNOKENT
+(Extra
+Budgetary)8.100.000 8.500.000 8.950.000 9.400.000 9.870.000 44.820.000
+Foundat/i.doton
+(Extra
+Budgetary)1.745.000 1.832.000 1.925.000 2.023.000 2.121.000 9.646.000
+TOTAL 1.323.059.000 1.454.441.000 1.570.512.000 1.695.831.000 1.831.153.000 7.874.996.000
+3.9.Analys/i.dotsofAcadem/i.dotcAct/i.dotv/i.dott/i.dotes
+3.9.1.Educat/i.dotonAct/i.dotv/i.dott/i.dotes
+Thereare41undergraduateprogramsunderatotalof5facult/i.dotesatMETU.Atotalof107masters
+programsand72doctoralprogramscurrentlyoffereducat/i.dotonw/i.dotth/i.dotntheGraduateSchoolof
+NaturalandAppl/i.dotedSc/i.dotences,GraduateSchoolofSoc/i.dotalSc/i.dotences,GraduateSchoolofAppl/i.doted
+Mathemat/i.dotcs,GraduateSchoolofMar/i.dotneSc/i.dotences,andtheGraduateSchoolofInformat/i.dotcs.The
+GraduateSchoolofMar/i.dotneSc/i.dotencescarr/i.dotesout/i.dottsstud/i.dotes/i.dotnMers/i.dotn-Erdeml/i.dot.Engl/i.dotshlanguage
+educat/i.doton/i.dotsprov/i.dotdedtothestudentsreg/i.dotstered/i.dotnthePreparatorySchoolbytheSchoolofFore/i.dotgn
+Languages.Regard/i.dotngthemastersdegrees,METUhasthew/i.dotdestvar/i.dotetyofprogramsamongthe
+un/i.dotvers/i.dott/i.dotesthatoffereducat/i.doton/i.dotnafore/i.dotgnlanguage/i.dotnourcountry.M/i.dotddleEastTechn/i.dotcal
+Un/i.dotvers/i.dottypreparesannualstrateg/i.dotcplans/i.dotnthef/i.doteldsofEducat/i.doton,ResearchandDevelopment,
+andSoc/i.dotalContr/i.dotbut/i.doton.Theun/i.dotvers/i.dottycarr/i.dotesoutallof/i.dottsact/i.dotv/i.dott/i.dotes/i.dotnl/i.dotnew/i.dotthth/i.dotsplan.In
+accordancew/i.dotththelatestseven-yearstrateg/i.dotcplan/i.dotnthef/i.doteldofeducat/i.doton,METUhasmade
+effortstofocusonmastersanddoctoralprograms/i.dotnordertorespondtothe/i.dotncreas/i.dotngneedfor
+academ/i.dotcpersonnel/i.dotnthef/i.doteldofeducat/i.doton/i.dotnourcountry.Ontheotherhand,/i.dotta/i.dotmedtoadjust
+thenumberofstudents/i.dotnundergraduateprogramstoamoresusta/i.dotnableandbalancedlevel.
+W/i.dotth/i.dotnthepasttenyears,successfulstepshavebeentakentokeepthenumberofundergraduate
+studentsconstantandtofocusonmastersanddoctoralprograms.Th/i.dotsdec/i.dots/i.dotonwasmade
+Within the past ten years, successful steps have been taken to keep the number of undergraduate 
+students constant and to focus on masters and doctoral programs. This decision was made considering 
+several aspects such as the demand and issues regarding the employment of academic personnel, 
+the infrastructure of the departments, the current number of teaching staff, the compatibility of the 
+department programs with the incoming student levels, and the efficiency of the departments.
+3.9.2. Research Activities
+The prioritized research fields of METU, as specified in the 2018-2022 Strategic Plan, are Energy, 
+Aerospace, Electronics-MEMS, and Biomedicine. While determining the prioritized fields of study, the 
+compliance of our university and the national development goals were taken into consideration. Our 
+activities in these priority fields are also valid for the 2023-2027 Strategic Plan. Conducting research 
+with a multidisciplinary, interdisciplinary, and collaborative approach on regional and global, major 
+and challenging problems; increasing comprehensive research that addresses these problems with 
+their social, political, economic, psychological, and technological dimensions and produces solutions; 
+developing national and international cooperation in this direction in R&D and innovation projects 
+and expanding the extent of current cooperations are points of priority for Türkiye.
+Activities that serve the purpose of increasing international recognition have been carried out. One 
+of the several steps taken to realize this goal has been receiving the “HR Excellence in Research 
+Award (HR Logo), ” an award given by the European Commission to institutions focused on being 
+a Researcher Friendly University. METU became the first university in Türkiye to receive the Human 
+Resources Excellence in Research Certificate (HR Logo), which is an important symbol of the credibility 
+and international visibility of universities. Accordingly, METU will undergo a mid-term evaluation in 
+two years and will provide more equal and facilitating opportunities to researchers by ensuring the 
+implementation of the Action Plan submitted at the application stage.
+3.9.3. Student  
+In recent years, METU has seriously endeavored to increase the number and quality of its international 
+students in line with its founding purposes. Apart from the ÖSYS quotas (in addition to the students 
+from Türkiye and Northern Cyprus), approximately 300 new international students are admitted to 
+METU every year, which makes up about 10% of the general YKS quota. As a result of the significance 
+attributed to this issue by our university, the number of international undergraduate and graduate 
+students at METU has been increasing gradually every year. The number of international students 
+reached 1,482 in the 2020-2021 Academic Year. The number of joint undergraduate programs 
+conducted in partnership with the world’s leading prominent universities is four, while the number 
+of joint masters programs is six, and the number of joint doctoral programs is 12. In addition, there is 
+one joint doctoral program. The expectations and attempts to increase the number of joint programs 
+have been seriously interrupted due to the outbreak of the COVID-19 pandemic. As of the end of 
+2021, the number of universities with which METU signed student and academic staff exchange 
+agreements as part of international exchange programs increased to 971. The increase in the 
+number of students going abroad for short-term education within Mevlana, ICM, European and Non-
+European Erasmus (Erasmus+ International Credit Mobility-ICM), and other exchange agreements 
+has also been interrupted by the COVID-19 pandemic. As of the end of 2021, a total of 217 METU 
+students were able to go abroad within an international program.38
+3. SITUATION ANALYSIS 
+
+
+3.10. ANALYSIS OF THE HIGHER EDUCATION SECTOR
+Results of the Political Economic Social Technological Legal and Environmental 
+(PESTLE) Analysis
+ Political  
+• There are rapid changes in the bureaucratic staff with whom METU cooperates.
+• There is a need to develop strategies that ensure that METU will be affected by these 
+changes as little as possible. At this point, it is crucial that the university is not too late 
+to follow current political developments in the field of climate and environmental 
+research, mass migration and informatics, in addition to keeping up with the latest 
+innovations. There are changes in global policies due to both mass migrations and 
+climate changes. METU needs to include global changes in its future projections and 
+keep up with these changes.
+• Universities cannot employ as many international academic personnel as they want 
+in accordance with their needs.
+• There is a decrease in the interest of international students in Türkiye as they tend to 
+prefer to go to other countries.
+• ERASMUS and similar program partners refrain from sending their students to 
+Türkiye.
+• There is a decrease in the interest of qualified academics in Türkiye, while some 
+current faculty members leave METU.
+• There are severe limitations in human resource development based on qualified 
+informatics personnel due to the contraction trend in the employment of personnel.
+• Commercialization of scientific knowledge significantly affects graduate education.
+• There are no such practices as prioritizing some universities by the state in the 
+accreditation of distance education programs, and these programs have negative 
+effects on the processes.
+• Institutions started to develop policies to continue using distance education 
+methods and tools in the post-pandemic period – The incentive policies for (Open 
+Education Resources, Open Courseware) have increased both in our country and in 
+the world, and thus the need for creating a roadmap that will emphasize this aspect 
+of educational processes has emerged.
+• Government policies regarding the use and allocation of staff. 
+• Legal factors; laws, regulations, rules, circulars, court decisions and legal precedents.
+• Policies of YÖK regarding the operation and processes of universities.
+• Changes made in financial policies.
+• Changes made in employment policies.
+• Employment in different statuses.
+• Legal regulations regarding the rights of all academic/administrative employees.
+• Legal regulations on student rights.40
+3. SITUATION ANALYSIS 
+ Economic
+• Availability of public resources (e.g., the Presidency of Strategy and Budget, Ministry 
+of Science, Industry and Technology, TÜBİTAK) and foreign resources (e.g., EU, 
+World Bank, United Nations) for different activities and purposes such as research, 
+education, and renewal of physical resources. 
+• Difficulty in accessing competitive research funds with METU Centers of Excellence, 
+research infrastructure, and qualified researcher profile.
+• The increasing number of universities in our country causes the share of funds to 
+decrease. There is difficulty in finding resources to improve physical resources. Public 
+resources in particular have become quite difficult to benefit from. The global and 
+national economic crises pose a threat to further restricted access to resources.
+• Insufficient financial support for academic personnel to participate in activities 
+abroad. 
+• Bureaucratic difficulties in payments to the academic personnel for their activities 
+abroad.
+• Inadequate scholarship opportunities for full-time international students. 
+• Inability to provide international students with funding for research
+• The closure of the companies with which the university cooperates for educational 
+purposes due to economic reasons, and thus the elimination of a possible way of 
+supporting international students, which results in a decrease in the number of 
+interns. 
+• The elimination of funding provided to international students due to the decrease in 
+the funds of the institutions that support international education.
+• Since state universities are funded publicly and operate with these budgets, they are 
+affected by the changes in the public financial budget structure.
+• The effects of increasing unemployment rates on university students and alumni.
+• The decrease in Türkiye’s growth rate directly affects the share of education and 
+research within the budget, and the resources allocated for both undergraduate and 
+graduate education have been reduced. 
+• It is economically challenging to develop technology-based, distance-educated-
+themed digital content.
+• Difficulties of competing against foundation universities in order to attract qualified 
+national and international students. 
+• There is a need to develop necessary infrastructure opportunities for students and 
+personnel with limited access to the necessary technologies and infrastructure.41
+3. SITUATION ANALYSIS 
+ Social 
+• The need to define research topics in line with the needs at the international and 
+national levels (such as energy, health, and education) and the need to define them 
+according to basic fields of science, as well.
+• Due to unpredictable global conditions such as the COVID-19 pandemic, or 
+interruption of research because of various reasons related to social or individual 
+issues, research processes may be prolonged or may not be completed at all.
+• The newly emerging tendency in Türkiye of universities integrating with society, 
+developing research and social responsibility projects to solve social problems, and 
+sharing the knowledge not only with the academia and students but also with all 
+segments of society.
+• The need for lifelong education, the increase in the information demand of different 
+segments of society from universities and other sources.
+• Rapid access to information, change in the profile of personnel, change in education 
+processes due to the pandemic, and as a result, a change in the expectations of all 
+stakeholders (university personnel, families, alumni, society, industry, other public 
+institutions, and organizations).
+• The necessity of examining the social changes brought about by the use of distance 
+education technologies and determining how they can be transformed into benefits.
+• Quick change of working patterns (remote, rotational, etc.).
+• Increasing awareness of the importance of health.
+• Increasing awareness of the importance of Occupational Health and Safety and its 
+related processes.
+• Increasing expectations from scientists due to the pandemic.
+• The effects of the pandemic on the personnel.
+• The effects of sports activities and social activities on the personnel.42
+3. SITUATION ANALYSIS 
+Technological 
+• The technological infrastructure and experience gained as a result of the distance 
+education period due to COVID-19.
+• The fact that in addition to the conveniences (Integrated Information System, Cloud 
+Technology, etc.) that were brought to our lives with the developments in the field 
+of information resources, there is also a negative side to it, as well (such as cyber-
+attacks).
+• The fastest change in the world takes place in the conditions of technological 
+environment. Considering that adaptation to rapid changes is possible with 
+convenient human resources and budget, this interaction is negatively affected due 
+to insufficient budgets. 
+• Internet infrastructure has gained importance in recent years with the development 
+of technology and the effects of the pandemic. 
+• The necessity of planning and implementing technological developments in order 
+to meet the new needs for (distance) education that arise during the pandemic 
+within the university and may affect future education and training periods. 
+• The technological environment in some of the rival universities or even some high 
+schools is more advanced than METU.
+• Remote working system implemented for the first time in public institutions due to 
+the pandemic.
+• Remote access to management and administrative services.
+• The need for new automation software and information systems.
+• Transfer of processes to an online medium, increasing the need for new products 
+and services.
+• Competency of all employees, including the personnel working in the field, in 
+technology.
+• Increasing threat of cyber-attacks, necessary technologies for data security, the 
+necessity of taking precautions about information security 
+• The research and education information produced at our university is one of our 
+most important assets.  For this reason, in order to protect research and education-
+related data, the necessary infrastructural improvements must be made regarding 
+the synchronization and backup of data on the computers of users.
+• As the concepts such as Industry 4.0, the Internet of Things, 3D printers, drones, 
+virtual reality/augmented reality devices, and Cloud Computing become more 
+and more widespread and affordable, there is a need for a rapid transformation of 
+educational technologies and tools regarding research and social contribution.43
+3. SITUATION ANALYSIS 
+ Legal 
+• The necessity of reflecting the changes made on the basis of daily needs in the 
+regulations of YÖK to our education system properly. 
+• The effect of the adaptation processes with the European Union in the field of 
+education (such as the Bologna Process) on education programs. 
+• The need to monitor and prevent the unlicensed use of educational technologies 
+and digital broadcasts.
+• Legal uncertainties and gaps in the distance education period due to KVKK.
+• Employment of public personnel (officials, workers, and contractually employed 
+personnel) through central exams such as the Public Personnel Selection Examination 
+(KPSS).
+• The significant effect (percentage-wise) of central exams such as the Academic 
+Personnel and Graduate Education Entrance Exam (ALES) on the appointments for 
+Lecturer and Research Assistant positions.
+• Due to different disciplinary legal regulations and processes for employees of 
+different statuses, there are different processes for the personnel doing the same 
+work (officials, workers, and contractually employed personnel).
+• Lack of disciplinary provisions in the legal regulations for international academic 
+personnel.
+• Lack of disciplinary provisions in the working principles of those who work as 
+contractually employed personnel within Article 4/B of the Civil Servants Law No. 
+657.
+• Compliance of the personnel placed in public institutions and organizations within 
+the Law on Fight Against Terrorism No. 3713 with the peace of labor and working life
+• Regulations declared and entered into force through circular letters during the 
+pandemic.
+ Environmental
+• The METU Forest being one of Ankara’s natural resources. 
+• The Ankara Campus being an essential point of biodiversity in Ankara in terms of 
+endemic butterflies and birds, in addition to the biodiversity and richness of steppe 
+plants. 
+• The Erdemli Campus is home to a very important, nationally protected breeding area 
+for endangered sea turtles. In addition, because it is a well-managed and protected 
+coastal area, the Erdemli Campus has vast biodiversity, which is why the campus 
+administration is in close contact with the relevant Ministries and local governments.
+• The natural environment and the campus, together with its culture and history, 
+create a positive effect on the employees of METU.44
+3. SITUATION ANALYSIS 
+3.11. ANALYSIS OF STRENGTHS, WEAKNESSES, OPPORTUNITIES, AND  
+            THREATS (SWOT)
+As mentioned before, during the preparation efforts carried out by the SPFCs, various analyses were 
+made to evaluate the current situation of our university. The USPST brought together all the analyses 
+made by the SPFCs. The results of the SWOT Analysis, which constitutes one of the core elements of 
+the 2023-2027 Strategic Plan, are listed below. 
+ Strengths
+• High rate of job satisfaction among most of the academic and administrative 
+personnel
+• METU being the leading university in many fields, and thus having a positive 
+perception in the public, which reinforces the prestige of the institution
+• The overall high quality of education offered at our university
+• Institutional culture / the METU brand and prestige in education and research
+• Accreditation of many of our units by national/international accreditation bodies 
+• National/international recognition and global competition capacity
+• The positive effect of the institutional culture, which attributes importance to 
+academic freedom and critical thinking, on raising creative and original researchers, 
+as well as the creation of high-quality scientific outputs
+• The fact that METU is one of the leading universities in our country that receives 
+the highest number of project fundings (e.g., TÜBİTAK 1001), establishes research 
+centers on new technologies, and conducts successful studies in prioritized fields
+• Ensuring cooperation with ODTÜ TEKNOKENT that results in significant and 
+meaningful contributions to research and technology development
+• METU having the required graduate programs to provide the human resources that 
+can support the fields where it is strong such as the defense industry, information 
+technologies, MEMS, and energy
+• High student satisfaction rates regarding information services offered by the 
+university (Mobile application, ODTÜClass, Student Portal, Licensed Software, VPN 
+Service, Library Resources, etc.)45
+3. SITUATION ANALYSIS 
+• The fact that the university buildings are old, and the number of students and 
+employees per square meter is quite high due to the architectural structure of 
+buildings and overall the increasing number of students and personnel.
+• The increase in the population of the campus and the fact that the campus is located 
+in the city.
+• Security problems on campus, which is located in the middle of a large forest, due to 
+insufficient human resources and limited technological resources.
+• The diversity of the methods used in the courses and assessments 
+• Receiving feedback from students through course evaluation surveys that have 
+been conducted consistently for a long time, being able to evaluate the unit-specific 
+feedback and make necessary improvements 
+• The ability of METU to develop quick and practical solutions to newly arising 
+problems due to unforeseen circumstances (for instance, the interactive course 
+registration was turned into a completely online process during the pandemic, and 
+the P/F system (pass/fail) entered into force quickly, as well)
+• Increase and diversification of national scholarship programs aimed at funding 
+postdoctoral researchers, which are one of the most crucial components that 
+contribute to increasing R&D performance (e.g., TÜBİTAK BİDEB 2232 and 2236)
+• The natural environment and the campus, together with its culture and history, 
+creating a positive effect on the employees of METU
+• The social facilities and benefits such as personnel housing, kindergarten, primary 
+and secondary school, and health services making METU attractive compared to 
+other state universities
+• The fact there are academic personnel at METU with high academic prestige and 
+research potential attracts qualified undergraduate and graduate students to the 
+university, as well as other qualified academics from other universities
+• Presence of a qualified academic staff who can follow and contribute to the 
+contemporary scientific developments in the world, since the language of instruction 
+is English
+• Access to international projects that will make METU a prioritized preference
+• Having experienced individuals working in the sector or industry and willing to 
+teach part-time at METU
+• The easily accessible programs and projects that support career development 
+(Academic Development Program, Administrative Personnel Development Program)
+• In-service training opportunities for the administrative personnel
+• The academic performance evaluation, a highly comprehensive system in which 
+academic activities in a pretty wide range can be assessed
+• Components of the Integrated Information System (IIS) such as the Scientific Research 
+Projects Process Management System (BAPSİS) and Strategy Quality Management 
+Information System (SKYBİS)
+• Supporting participation in academic events such as conferences and seminars with 
+various resources
+• Effective legislation follow-up and protection of rights thanks to competent 
+personnel
+• Feeling privileged to be working at METU with a sense of belonging to the institution 
+thanks to the positive perception of METU, its culture, and institutional branding.46
+3. SITUATION ANALYSIS 
+• The emergence of new funds against the problems caused by the COVID-19 
+pandemic, and the capacity of METU to contribute to the solution of these problems
+• The Zero Waste Unit and the Zero Waste Management System in compliance with 
+the legislation
+• The fact that the task of creating a waste management plan and implementing it has 
+been assigned to the municipalities in accordance with the legislation (Regulation 
+on Controlling Packaging Wastes)
+ Weaknesses
+• Inability to employ a sufficient number of personnel in accordance with the needs, 
+and inability to employ personnel with the desired qualifications
+• Bureaucratic difficulties and lack of resources in both employing qualified 
+international faculty members and researchers and having them to participate in 
+research studies 
+• Inability to inform the public regarding the conducted research projects and failure 
+to emphasize the social aspect of these projects
+• Insufficient human resources in terms of academic, administrative, and international 
+personnel 
+• Constraints in financial resources: insufficient classrooms, laboratories, and 
+technological equipment
+• Outdated physical infrastructure and buildings 
+• The fact that not all the units have been through an international evaluation 
+• Lack of communication, sharing, and promotion: failure to share academic outputs 
+with the families, society, and media, and promote them enough
+• Inability of the personnel to adapt to the rapid changes and developments of 
+technology quickly enough
+• Central exams (e.g., KPSS, ALES) restricting the chances of selecting the personnel to 
+be employed and preventing the effective distribution of human resources within 
+the institution
+• The narrow and uncomfortable working spaces, especially in the old buildings, 
+negatively affecting the motivation of the personnel
+• The low number of administrative personnel with proficiency in a foreign language
+• Adaptation of new technologies to the university practices taking time
+• Distance to industry and technology centers
+• Lack of defined ethical codes regarding the professional life
+• Academic mid-level administrators (e.g., Chairs of Departments, Assistant Chairs of 
+Departments) learning about administrative processes by experimenting with the 
+trial and error method instead of receiving the necessary training on basic legal 
+regulations and administrative processes47
+3. SITUATION ANALYSIS 
+• Lack of an APDP-like development program for the mid-level and senior 
+administrators (e.g., Office Heads, Dormitory Managers, Faculty Secretaries, 
+Graduate School Secretaries, and Division Directors) and thus the failure of these 
+administrators to meet the expectations of the administrative personnel that 
+participated in the APDP in the light of what they learned in the program, particularly 
+in terms of administration
+• Lack of events and activities where academic and administrative personnel can 
+interact socially
+• Insufficient number of administrative personnel, because while the “research 
+university” status provides the institution with some academic personnel utilization 
+opportunities, these cannot be used for employing administrative and technical 
+personnel
+• Lack of personnel who are trained to replace those who hold critical positions
+• The fact that the responsibilities of the information systems used in the university 
+(e.g., METUSIS, ODTÜPASS) and the rights related to social facilities (e.g., services of 
+the Medical Center, meal fees at the Cafeterias) are not known to the personnel who 
+work at the university with different statuses
+• The current performance evaluation systems being criticized by the administrative 
+personnel as problematic or insufficient
+• Insufficient amount of housing allocated to the administrative personnel
+• The lack of defined rights regarding performance awards and housing for the 
+academic personnel who hold the title of “Lecturer” despite not teaching but 
+working in other fields within the university
+• The low level of satisfaction of the personnel with the infrastructure, maintenance, 
+and renovation services
+• The majority of the administrative personnel thinking their chances of being 
+promoted in their position are limited
+• The widespread perception of inequality and discrimination among employees 
+with different statuses within the university (e.g., administrative-academic, worker-
+officer)
+ Opportunities
+• Academic personnel utilization opportunities that the “research university” status 
+provides (e.g., YÖK Future Project)
+• Research budget opportunities brought by the status of “research university”
+• The academic candidate pool consisting of the alumni who wish to continue their 
+careers in academia and also have a sense of belonging to METU
+• Research and incentive awards given by institutions such as TÜBİTAK and TÜBA
+• Project supports of international institutions
+• The increase of young faculty members both by number and percentage
+• Being a point of attraction for successful young academics as part of the Marie Curie 
+and TÜBİTAK’s reintegration fellowship programs48
+3. SITUATION ANALYSIS 
+• Improvements that the Office of Scientific Research Projects has made on the 
+research projects processes
+• The potential of METU to have Türkiye’s leading technopark (ODTÜ TEKNOKENT) 
+with a high level of cooperation
+• The contribution of research activities such as H2020, TÜBİTAK, and YÖK 100/2000 
+doctoral scholarship calls to the quality of education
+• Cooperations with national and international institutions, in addition to Erasmus 
+and Mevlâna Programs
+• The fact that our university is quite popular among students coming from Middle 
+Eastern, Balkan, and Asian countries
+• Contribution of the high number of international students to the cultural 
+development and language skills of our students
+• Increasing efforts to provide scholarships and dormitories to all the students in need 
+of financial aid
+• Endeavors to improve the services provided to students with disabilities (In 2019, our 
+university was evaluated by YÖK and awarded the Orange Flag in the “Accessibility of 
+Physical Areas” category within the “Barrier-Free University Awards”).
+• Endeavors to increase the studying and socialization areas provided to the graduate 
+students
+• Career planning course 
+• Efforts of the Center for Continuing Education, as well as the education activities 
+conducted by some of the other research centers 
+• Distance education system being integrated and rich in terms of software resources
+• Advancement of digital transformation during the pandemic and even becoming 
+sustainable
+ Threats
+• Deterrent effects of regional conflicts and security problems on international 
+students, the negative image of Türkiye in international academic environments and 
+the interruption of collaborations 
+• The decline in the analytical/critical thinking skills of the newly-registered students 
+due to the decrease in the quality of high school education, in addition to an 
+inadequate level of English 
+• Negative effects of the news in various media outlets claiming that the departments 
+of basic sciences will be shut down on the preferences of prospective students
+• Outdated physical infrastructure and inadequacy of modern education environments
+• A decrease in the base scores over the years due to the increasing quotas of some 
+undergraduate programs for student placements by YKS scores
+• Increasing quotas of undergraduate programs
+• Not allocating the required budget for the projects planned to be carried out within 
+the scope of physical resources, and not getting the necessary permissions and 
+approvals in this regard 49
+3. SITUATION ANALYSIS 
+• The recent economic crises on both national and global scales having adverse 
+effects on the budgets of public institutions, in addition to decreasing purchasing 
+power due to high inflation rates 
+• Failure to complete some processes successfully due to fluctuations in purchasing 
+costs caused by global and national economic crises
+• Negative reflection of focusing on the fields of priority to other fields (e.g., social 
+sciences, basic sciences); because of the allocation of funds such as TÜBİTAK and EU 
+to certain fields, other fields are adversely affected in finding financial support 
+• Absence of dynamic structures to handle compelling problems
+• Lacking or inadequacy of the policy documents such as the “Gender Equality Plan, ” 
+which became mandatory with the Horizon Europe program (for instance, they are 
+only in Turkish)
+• The possible negative effects of the pandemic period on the personnel
+• The participation of the administrative personnel in the remote working system 
+during the pandemic is low due to the lack of necessary technological equipment
+• Due to the administrative permissions issued with circulars during the pandemic, 
+the operation of some administrative offices with relatively fewer personnel is 
+negatively affected
+• The 2/3 ratio regarding the academic titles that has been implemented in the 
+departments has caused the career paths to be closed for many academic personnel. 
+As a result of it, it has become difficult for qualified academics to remain in their 
+positions at the university
+• The fact that the norm staff regulation is a disadvantage for the well-established 
+universities
+• Negative effects of the changes in research assistant position policies (especially the 
+student amnesty)
+• The fact that the numbers regarding the employment of administrative personnel 
+do not even meet half of the number of personnel that have left the university in the 
+last ten years
+• Due to the fact that appointments made with special laws (No. 3713-2828) are made 
+by central placement, personnel selection cannot be made, making it difficult to 
+employ qualified personnel
+• In addition, no statement has been made about the main purpose of the legal 
+regulation regarding the privileges given to the personnel placed by the relevant 
+laws on subjects such as job description and change of titles. There is hesitation about 
+which personnel will be provided with this opportunity, and the need for an opinion 
+to be given by the relevant authorities causes a loss of time in the operation of the 
+relevant process. The said privilege also negatively affects the peace of the working 
+environment among the personnel, and it is possible that there will be long court 
+processes between the personnel and the institution regarding the implementation 
+of the provisions of the article, which are interpreted differently.
+• Limited governmental contribution to research funding, which has a negative effect 
+on the efforts of attracting and retaining young researchers in particular50
+3. SITUATION ANALYSIS 
+3.12. FINDINGS AND NEEDS
+The duties and needs within the Analysis of the Top Policy Documents can be found in Table 5. Within 
+the program budget system, analyses on programs and sub-programs were conducted by the SPFCs 
+considering the relation of the programs and sub-programs operating under our university with 
+the current Strategic Plan. The study is based on the PESTLE analysis. The analysis of programs/sub-
+programs conducted by the SPFCs can be found in Section 3.5, and the PESTLE analysis can be found 
+in Section 3.10. 51
+Table 15. Findings and Needs3. SITUATION ANALYSIS 
+• Increasing number of foundation universities, and heating of the competition in 
+attracting faculty members by offering various benefits
+• Inability to balance the early retirements and increased workloads of administrative 
+personnel within the units
+• Inability to meet the increasing need of personnel especially with the new fields of 
+service at the university (e.g., Research Park, METU Student Center)
+61Table13.FindingsandNeeds
+StagesofSituationAnalysisFindings/
+AreasofIssuesNeeds/
+AreasofImprovement
+EvaluationoftheCurrentStrategic
+Plan-
+AnalysisoftheLegislationFindingsandNeedsaccordingtotheanalysisofLegislation
+canbefoundinTable4.
+AnalysisoftheTopPolicy
+Documents*ThedutiesandneedslistedaspartoftheAnalysisoftheTop
+PolicyDocumentscanbefoundinTable5.
+AnalysisofProgramsandSub-
+ProgramsTheanalysisofprogramsandsub-programsconductedby
+theSPFCsconsideringtherelationoftheprogramsandsub-
+programsoperatingunderouruniversitywithinthecurrent
+StrategicPlancanbefoundinTable6.
+AnalysisofStakeholders ThestakeholderanalysescanbefoundinTables8,9,and10.
+AnalysisofHumanResources
+CompetencyAnalysisoftheCompetencyofHumanResources
+CompetencycanbefoundinTable11.
+AnalysisofInstitutionalCultureItcanbefoundinSection3.8underthetitle"Internal
+AnalysisoftheInstitution"andSection3.8.1.underthetitle
+"AdministrativeandAcademicStructure."
+AnalysisofPhysicalResourcesAnalysisoftheCompetencyofPhysicalResourcescanbe
+foundinTable12.
+AnalysisofInformationand
+TechnologicalResourcesAnalysisofInformationandTechnologicalResourcescanbe
+foundinTable13.
+AnalysisofFinancialResources AnalysisofFinancialResourcescanbefoundinTable14.
+AnalysisofAcademicActivitiesItcanbefoundinSection3.9.underthetitle"Analysisof
+AcademicActivities."
+AnalysisoftheHigherEducation
+SectorItcanbefoundinSection3.10.underthetitle"Analysisofthe
+HigherEducationSector."
+4.FUTUREOUTLOOK
+Withinthe“METUSpirit”studycarriedoutbytheMETUCenterforAppliedEthicsin2012,several
+corevaluesrepresentingMETUweredeterminedthroughqualitativemethods.Atotalof9focus
+groupinterviewswereconductedwith72participantsrepresentingdifferentcomponents,
+includingundergraduateandgraduatestudents,administrativeandacademicpersonnel,and
+alumni.The“values”mentionedbytheparticipantsweredeterminedviathecontentanalysis
+method.OuruniversitywillcontinuetofollowtheMission,Vision,andValuesdefinedinthe
+previousStrategicPlanforthe2023-2027StrategicPlan,aswell
+
+Within the “METU Spirit” study carried out by the METU Center for Applied Ethics in 2012, several 
+core values representing METU were determined through qualitative methods. A total of 9 focus 
+group interviews were conducted with 72 participants representing different components, including 
+undergraduate and graduate students, administrative and academic personnel, and alumni. The 
+“values” mentioned by the participants were determined via the content analysis method. Our 
+university will continue to follow the Mission, Vision, and Values defined in the previous Strategic 
+Plan for the 2023-2027 Strategic Plan, as well
+4.1. MISSION
+ 
+The mission of Middle East Technical University is to conduct research, provide education and serve 
+society, humanity, and nature at a level of excellence by encouraging creative and critical thinking, 
+innovation, and leadership within the universal values.
+4.2. VISION
+To be an internationally pioneering university that develops and transforms both its region and the 
+entire world. 
+4.3. CORE VALUES
+Within the “METU Spirit” study conducted by the METU Center for Applied Ethics in 2012, several core 
+values representing METU were determined and listed as follows:
+     Scientific Freedom
+The METU Family deems the conduct of scientific research and development, education and training 
+activities without being subject to pressures and influences other than scientific criteria, and the 
+creation of free discussion environments to this end, as the invariable conditions of scientific freedom. 
+     Informed Self-Confidence 
+With an awareness of the boundaries of their knowledge, ability, and authority, members of the 
+METU Family take bold and determined steps while fulfilling their responsibilities and solving the 
+issues they encounter, and when necessary, they do not refrain from self-criticizing. 
+     Cooperative Individualism
+When expressing their individual opinions and values, students, as well as administrative and 
+academic personnel at METU, act regardless of their titles, positions, and units, and exhibit readiness 
+to meet the challenges with their libertarian attitudes. 53
+FUTURE 
+OUTLOOK
+4
+.
+.
+.
+     Sensitivity to the Natural Environment
+METU Family regards the forest cultivated on the university’s land and the ecological diversity 
+within as a value; they take great care of its conservation and improvement, and they strive to raise 
+awareness regarding the natural environment and the necessity of protecting it.
+     Credibility
+Members of the METU Family make their decisions based on objective data and information, 
+independent of external manipulations and without allowing conflicts of interest; they fulfill their 
+duties with a sense of responsibility in light of ethical values, scientific criteria, and the rule of law. 
+     Respect for Humanity
+While protecting the rights and freedoms of others, members of the METU Family regard diversity as 
+wealth, oppose any discrimination, and exhibit an unbiased, egalitarian approach based on respect 
+for humanity in all their relations.
+     Merit  
+Embracing the fact that their success and the positions they hold are their deserved rights as a 
+consequence of their competence and perseverance, members of the METU Family make sure that 
+employment and other evaluation processes are conducted on the basis of objective standards and 
+self-efficacy.
+     Investigative Approach
+METU Family adopts an investigative/critical approach while making a judgment, reaching 
+information, conducting scientific research, or when social issues are in question, and they come to a 
+conclusion by analyzing cases in an objective manner. 
+     Social Responsibility
+METU Family is responsive to social problems. Members of this family provide solutions to these 
+problems, conduct social responsibility projects and engage in outreach activities for the widespread 
+internalization of science and the scientific approach by the society. 
+     Innovativeness and Leadership
+Members of the METU Family follow and implement novel methods and approaches in technology, 
+education, research, and management, and develop unique systems, programs, and constructs that 
+will serve as models in line with the needs of society and universities. 
+     Commitment to the Campus Heritag
+METU Family devotes itself to the METU campus and protects it as a cultural heritage, which ensures 
+the internalization of the sense of aesthetics with its unique architecture, landscape, works of art and 
+activities, in addition to its relatively autonomous location in a human-grown forest, its structure that 
+brings all its units together in spatial continuity, its places in the social memory and its deep-rooted 
+history allowing the production and institutionalization of a common culture.
+     High Academic Quality
+METU Family sees the academic environment which provides the competence to follow and 
+contribute to scientific developments at the international level and motivates the desire to learn 
+and do research as basic components of the high academic quality of METU, in addition to the high 
+standards of scientific research and education carried out at the university within the universal ethical 
+principles, and the high-quality community of students and academic personnel.4. FUTURE OUTLOOK54
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+5.1.  POSITIONING PREFERENCES
+METU has always been a leading university across the nation in the fields of Education, Research 
+and Development, University-Industry Cooperation, Internationalization, and Social Contribution. 
+As a research university with 41 undergraduate programs, 107 masters programs, and 72 doctoral 
+programs, it maintains its strong position in national and international research and development 
+projects.
+Just as in the previous years, our university once again obtained the highest score and remained in 
+the first place in 2020 in the “Performance Monitoring Index of Research Universities, ” in which the 
+performances of universities included in the “Research-Oriented Mission Differentiation Program” 
+carried out by YÖK as part of the “Mission Differentiation and Specialization in Higher Education 
+Project. ” It also ranked first according to the Entrepreneurial and Innovative University Index 2021, 
+created by the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
+With the new regulations made by YÖK in the “Mission Differentiation and Specialization on the 
+Basis of Research” Program, research universities were divided into three performance groups as 
+A1, A2, and A3, including candidate research universities, as well. In this new classification system, 
+the Middle East Technical University was included in group A1 (universities with high-level research 
+performance), in which there are three research universities with the highest performance.
+In the international arena, METU has been the most successful Turkish research institution in the 7th 
+Framework Program and also in terms of the number of projects funded in Horizon 2020 (H2020). 
+METU currently hosts 53 Horizon2020 projects. According to the 2022 ranking of the UK-based 
+Quacquarelli Symonds (QS) announced in 2021, METU was placed in the 551-560 band. In addition to 
+an increase by 50 places, in the ranking compared to the previous year, our university also achieved 
+an improvement of more than 8% at the percentile level. Furthermore, METU is the coordinator of 4 
+European Research Council (ERC) projects and 2 Twinning projects.
+5.2.  FIELD OF SUCCESS PREFERENCES
+Within the studies carried out for the 2023-2027 Strategic Plan, our university has set strategic 
+priorities that will differentiate its fields of success in order to strengthen its position, especially in the 
+field of research and development. Therefore, four strategic priorities have been determined. 
+These strategic priorities, determined by the contributions of stakeholders, have guided the SPFCs in 
+their efforts to work on the Goals, Objectives, and Strategies.57
+DIFFERENTIATION 
+STRATEGIES 
+5
+Strategic Priority 1: A Holistic Approach
+METU is a strong education and research institution, offering a wide range of undergraduate and 
+graduate programs, and attracting qualified academics and students. An important element on which 
+this strength is based is the rich content and diversity of programs. On the other hand, many concepts, 
+problems, and issues are so multidimensional that they can be best understood when studied at 
+the intersection of multiple disciplines. An interdisciplinary and supra-disciplinary approach will 
+make significant contributions to the comprehension of the whole in relation with these concepts, 
+gaining an in-depth understanding of the whole, creative and critical thinking, enhancement of 
+knowledge, and utilization of this knowledge at the international level. It is important to strengthen 
+the interaction between different disciplines as well as disciplinary studies in our university. For this 
+reason, it is one of our strategic priorities to provide the necessary infrastructural investments, prepare 
+the legislative amendments, and use the resources for this purpose effectively and efficiently. In line 
+with this priority, it is aimed to increase research that has interdisciplinary and supra-disciplinary 
+contributions, diversify and strengthen undergraduate and graduate programs in accordance with 
+this understanding, remove the obstacles to active participation in these activities, and provide the 
+necessary human, information, physical and financial resources.
+At our university, it is important to reinforce education by integrating it with research. Therefore, 
+it is planned to use the current research results to enrich the course alternatives and contents and 
+make arrangements that will enable undergraduate students to take part in research projects and 
+studies. For the efficient and effective use of all the resources, especially the information and physical 
+resources, all aspects of campus life, but the academic dimension, in particular, will be supported 
+with more integrated, more durable, more accessible, more sustainable, and smarter systems.
+Strategic Priority 2: Cooperation and Interaction 
+With its vision of making pioneering contributions to the social, cultural, and economic development 
+and transformation of its region and the entire world, METU will conduct and lead activities in the 
+fields of research, education, and social contribution. One of the most important strategic priorities in 
+this regard is to understand critically important local, regional and universal problems as well as the 
+needs of the society, and to cooperate and interact with the relevant stakeholders for the solution of 
+these problems.
+In addition to contributing to the solutions to the world’s major issues, such as sustainable 
+development, water resources, income distribution, gender, energy, health, disasters, security, and 
+technological developments, our university also contributes to the issues of Ankara and its region 
+such as education, urbanization, transportation, and migration. Developing effective solutions to 
+these critical problems, as well as creating innovation and value for society, humanity and nature, will 
+only be possible if the university participates in bodies such as ecosystems, networks, and clusters 
+created in cooperation with the public and the private sector, TEKNOKENT and other components at 
+a national and an international level. In order to understand the problems and needs, and to produce 
+and implement effective and applicable solutions, it is important that both those in need and the 
+external stakeholders who want to be a part of the solution act in coordination and interaction. 
+Priority will be given to the development of new models and to the provision of resources to support 
+them in order to establish and strengthen these cooperation and interaction mechanisms.5.  DIFFERENTIATION STRATEGIES58
+METU aims to maintain its approach of cooperation and interaction with its external stakeholders, as 
+well as with all its components, by increasing the mobility and exchange of students, researchers, and 
+academic personnel especially at the international level. In addition to providing its students with a 
+strong vocational education, METU will benefit from the power of network-based cooperation and 
+interaction with its learner-centered education approach to further develop students’ skills such as 
+creativity, innovation, critical thinking, communication, and leadership.
+METU attributes great importance to effective science communication and open access in sharing its 
+knowledge with society and the world. For this reason, sharing knowledge with the public and the 
+world in a way that covers all age segments of society and increasing cooperation and interaction 
+with the alumni is another priority that will strengthen the university in all aspects.
+The improvement and renovation of the physical environment of our campus, which is one of the 
+most important assets of our university, within a stakeholder-participatory process that promotes 
+joint efforts and innovation in a way that supports cooperation and interaction, is among our 
+strategic priorities.
+Strategic Priority 3: Reinforcing the Foundation
+A wide experience in teaching and research in the fields of natural and social sciences is a crucial 
+prerequisite for achieving the desired high impact in the fields of applied sciences and design, as 
+well as interdisciplinary education and research. Strengthening the core programs within the general 
+curriculum is a priority in this regard. Similarly, in order to carry out research with a high impact on 
+society and international recognition, it is necessary to support the promotion of basic sciences to 
+the society and theoretical research, in addition to the regulations that will increase the contribution 
+of basic sciences.
+Strategic Priority 4: Strengthening Resources
+In order for our university to reach its goals in line with its strategic priorities, it is vital to increase and 
+diversify all its resources, particularly the financial and human resources. In this respect, it is a priority 
+to improve the working and living conditions along with the elimination of employment constraints 
+that may damage the pioneering role of the university and the emergence of new development 
+areas. On the other hand, taking initiatives to increase financial resources through activities such 
+as research, development, training, and consultancy, as well as supplementing them with external 
+resources such as donations and other fund-raising mechanisms in line with the core values of METU, 
+are prioritized points.
+With the further strengthening of human resources, faster and more effective results will be achieved 
+in improving information and physical resources.
+Increasing the number of qualified graduate and post-doctoral minds is an important requirement 
+for increasing research and development activities, as well as innovation. Additionally, it is equally 
+important to support this human power with qualified undergraduate students and alumni. Once 
+these steps are successfully taken, it will be possible for our university to further progress regarding 
+information, technology, and solutions for its research goals, as well as to create resources and value 
+to realize its other goals.59
+5.  DIFFERENTIATION STRATEGIES
+60
+5.3. VALUE PRESENTATION PREFERENCES
+Our university has determined its strategic priorities in the fields of success, set forth its differentiation 
+strategies, and has always aimed to increase academic and scientific quality to accomplish these 
+goals. It dynamically manages differentiation strategies by determining factors and preferences in 
+order to improve its preferences of positioning and fields of success, as well as adding further value 
+to the presentation of services.
+Table 16. Value Presentation Preferences
+68andpreferencesinordertoimproveitspreferencesofpositioningandfieldsofsuccess,aswellas
+addingfurthervaluetothepresentationofservices.
+Table14.ValuePresentationPreferences
+Preferences
+Factors EliminateDecreaseIncreaseInnovate
+SocialFacilities + +
+FinancialAids(Scholarshipsetc.) + +
+NumberofUndergraduateStudents +
+NumberofStudentsinMasters
+Programs+
+NumberofStudentsintheVocational
+SchoolofHigherEducation+
+EveningEducation +
+Quality + +
+EducationPrograms +
+AcademicPersonnel +
+ForeignResearchers +
+ResearchCenters + +
+Collaborations + +
+Projects + +
+InstitutionalIdentityandBranding + +
+Publication +
+Patent/Innovation + +
+Entrepreneurship + +
+InternationalStudents +
+University’sOwnRevenues +
+RelationswithInternationalUniversities + +
+6.STRATEGYDEVELOPMENT:STRATEGIESWITHGOALS,OBJECTIVES,AND
+PERFORMANCEINDICATORS
+6.1.UnitsResponsibleforObjectivesandUnitstoCooperatewith
+Table15.UnitsResponsibleforObjectivesandUnitstoCooperatewith5.  DIFFERENTIATION STRATEGIES
+61
+6.1. UNITS RESPONSIBLE FOR OBJECTIVES AND UNITS TO   
+         COOPERATE WITHSTRATEGY DEVELOPMENT: 
+STRATEGIES WITH GOALS, OBJECTIVES, 
+AND PERFORMANCE INDICATORS 6
+Table 17. Units Responsible for Objectives and Units to Cooperate with
+69STRATEGICFIELD
+Goal-Object/i.dotve
+Sen/i.dotorAdm/i.dotn/i.dotstrat/i.doton
+Off/i.dotceoftheGeneral
+Secretary
+Academ/i.dotcUn/i.dotts
+Facult/i.dotes
+GraduateSchools
+Departments
+ÖGEM
+Adm/i.dotn/i.dotstrat/i.dotveUn/i.dotts
+SGDB
+İMİDB
+ÖİDB
+PDB
+BİDB
+YİTDB
+KDDB
+SKSDB
+DÖSİM
+SRM
+Off/i.dotceofResearchCoord/i.dotnat/i.doton
+Off/i.dotceofSc/i.dotent/i.dotf/i.dotcResearchProjects
+Off/i.dotceofInternat/i.dotonalCooperat/i.doton
+Off/i.dotceofProspect/i.dotveStudents
+Off/i.dotceofD/i.dotsab/i.dotl/i.dottySupport
+ODTÜTEKNOKENT
+METUDevelopmentFoundat/i.doton
+Educat/i.dotonG1
+O1C C C
+G1
+O2C C C
+G1
+O3C C C C
+Researchand
+DevelopmentG2
+O1C C CC
+G2
+O2C C CC
+HumanResourcesG3
+O1C
+G3
+O2C
+G3
+O3CC C C C
+F/i.dotnanc/i.dotal
+ResourcesG4
+O1C CC CC C CC
+Phys/i.dotcalResourcesG4
+O2C C C CC C C
+Informat/i.doton
+ResourcesG4
+O3C C C C CC
+Soc/i.dotalContr/i.dotbut/i.dotonG5
+O1C C C C CC
+Internat/i.dotonal/i.dotzat/i.dotoG5
+O2CCC CC C C CC
+G5
+O3C C C C
+R:Respons/i.dotble C:Cooperat/i.doton
+6.2.Object/i.dotveCards
+GoalG1To/i.dotncreasethequal/i.dottyofeducat/i.dotonfornat/i.dotonaland/i.dotnternat/i.dotonalstudentssusta/i.dotnably
+O1.1. Updat/i.dotngtheeducat/i.dotonalpol/i.dotc/i.dotesthatdeterm/i.dotnethefunct/i.doton/i.dotngoftheun/i.dotvers/i.dotty’s
+educat/i.dotonprograms;develop/i.dotngand/i.dotmplement/i.dotngnewpol/i.dotc/i.dotesR
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+RnR C C C
+C C C
+C C C C
+C C CC
+C C CC
+C C CCC
+C
+C CC CC C CC
+C C C C CCC C C CC C CC
+C C C C CC
+CCCC CC C C CC
+C C CR
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R: Responsible C: Cooperation
+6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 62
+6.2. OBJECTIVE CARDS 
+Goal G1
+To increase the quality of education for national and international students sustainably
+O1.1.
+Updating the educational policies that determine the functioning of the university’s education 
+programs; developing and implementing new policies
+70GoalG1Toincreasethequalityofeducationfornationalandinternationalstudentssustainably
+O1.1. Updatingtheeducationalpoliciesthatdeterminethefunctioningoftheuniversity’s
+educationprograms;developingandimplementingnewpolicies
+Program/Sub-ProgramHigherEducation/VocationalSchoolofHigherEducation,Undergraduate
+Education,andGraduateEducation
+Sub-ProgramObjectiveEducatingstudentswho haveprofessionalcompetenceandareopento
+development
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI1.1.1.Numberof
+nationally/internationally
+accreditedprograms(the
+numberofundergraduate
+programsthatarelistedinthe
+YKSGuideamongtheaccredited
+programs)100 14 15 16 17 18 19
+ResponsibleUnit SeniorAdministratorResponsibleforEducation
+Unit(s)toCooperatewith ÖİDB,ÖGEM,AlltheAcademicUnits
+RisksNotbeingabletosharetheresultsofthestudieswiththerelevantstakeholders
+atalevelthatwillaffecttheeducationpolicies,andthefactthatitisnoteasyto
+observetheseeffectscreated
+StrategiesS1:Currenteducationprogramswillbeevaluatedwiththeparticipationof
+internalandexternalstakeholdersinlinewiththestrategicgoalsofMETUand
+intermsofcompliancewiththeNationalQualificationsFrameworkforHigher
+EducationinTürkiye(TYYÇ).
+S2:Attheendoftheevaluationandupdatingprocessesofeducationpolicies,
+policiesandpracticeswillbedevelopedthatwillenablethecreationof
+innovativemethodsandpractices,andthecontinuationofeducationwith
+mixedanddistancemethods,ifneedbe,byupdatingtheeducationpoliciesof
+theprogramswhennecessary.
+S3:Guidancewillbeprovidedforexternalevaluationofundergraduateand
+graduateprograms.
+CostEstimate 569.205.000-TL
+FindingsUpdatingtheeducationpoliciesoftheprograms,ifnecessary,attheendofthe
+evaluationandupdatingprocessesofeducationpolicies
+NeedsProvidinginstitutionalsupportfortheparticipationofundergraduateand
+graduateprogramsinexternalevaluationprocesses
+
+64
+Goal G1 
+To increase the quality of education for national and international students sustainably
+O1.2.
+Making basic education courses (service courses) and elective courses in all fields, as well as the 
+courses focusing on academic writing and speaking skills in English, more effective and efficient6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+71GoalG1Toincreasethequalityofeducationfornationalandinternationalstudentssustainably
+O1.2. Makingbasiceducationcourses(servicecourses)andelectivecoursesinallfields,as
+wellasthecoursesfocusingonacademicwritingandspeakingskillsinEnglish,more
+effectiveandefficient
+Program/Sub-ProgramHigherEducation/VocationalSchoolofHigherEducation,Undergraduate
+Education,andGraduateEducation
+Sub-ProgramObjectiveEducatingstudentswho haveprofessionalcompetenceandareopento
+development
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI1.2.1.Theratioofthenumber
+ofcoursestakenbystudents
+fromprogramsotherthanthe
+programtheyareenrolledinto
+thetotalnumberofcourses
+taken*30 0,43 0,44 0,45 0,46 0,47 0,48
+PI1.2.2.Theratioofthenumber
+ofstudentswhoqualifytobegin
+theirintendedprogramby
+passingtheEnglishProficiency
+Examadministeredattheendof
+thepreparatoryschooltothe
+totalnumberofstudents
+enrolledinthepreparatory
+schoolintherelevantacademic
+year*30 0,50 0,53 0,53 0,55 0,55 0,55
+PI1.2.3.Numberofelective
+coursesthatallstudentsinthe
+universitycantake40 125 130 135 140 145 150
+ResponsibleUnit SeniorAdministratorResponsibleforEducation
+Unit(s)toCooperatewith ÖİDB,ÖGEM,AlltheAcademicUnits
+Risks Heavyworkloadofthefacultymembers
+StrategiesS1:Inordertoprovidethebasiceducationcourseseffectively,evaluationson
+thebasisofdepartmentsandimprovementswillbemadeifnecessary.
+S2:Improvementsandarrangementswillbemadetoofferelectivecourses
+thatstudentsincertainacademicprogramsand/orallthestudentsatthe
+universitycanregisterfor.
+S3:SFLcurriculawillbeevaluatedontheirimpactonwritingandreadingin
+English,andnecessaryupdateswillbemade.
+CostEstimate 498.053.000-TL
+FindingsTheheavyworkloadoffacultymembersmakesitdifficulttooffernewelective
+courses
+Needs-Determiningthecoursesthatstudentscanberegisteredforthroughoutthe
+university
+-EnsuringthecontinuityofassessmentintheSFLcurriculum
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+65
+6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+Goal G1 
+To increase the quality of education for national and international students sustainably
+O1.3.
+Attracting qualified students to METU through effective information and establishing a student 
+counseling system that guides the new students according to their needs and enhances rapport
+72GoalG1Toincreasethequalityofeducationfornationalandinternationalstudentssustainably
+O1.3. AttractingqualifiedstudentstoMETUthrougheffectiveinformationandestablishinga
+studentcounselingsystemthatguidesthenewstudentsaccordingtotheirneedsand
+enhancesrapport
+Program/Sub-ProgramHigherEducation/VocationalSchoolofHigherEducation,Undergraduate
+Education,andGraduateEducation
+Sub-ProgramObjectiveEducatingstudentswho haveprofessionalcompetenceandareopento
+development
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI1.3.1.Thenumberofstudents
+reachedthroughinformation
+activities(thousand)*30 25 27 29 30 32 35
+PI1.3.2.Thenumberofstudents
+enrolledinMETUandrankedin
+thetop1,000atYKS*20 140 142 145 150 155 160
+PI1.3.3.Thenumberof
+internationalstudents30 1.425 1.550 1.600 1.650 1.650 1.650
+PI1.3.4.Thenumberofstudents
+benefitingfromtheconsultancy
+systemtobeestablished*10 10 15 20 25 30 35
+PI1.3.5.Thenumberof
+consultantsintheconsultancy
+systemtobeestablished10 2 3 4 5 6 7
+ResponsibleUnit SeniorAdministratorResponsibleforEducation
+Unit(s)toCooperatewith ÖİDB,ÖGEM,AlltheAcademicUnits,OfficeofProspectiveStudents
+RisksThepotentialofsituationswithwide-rangeandlong-termeffectssuchas
+pandemicsandeconomiccrisestonegativelyaffectthedecisionsofstudents
+who arelikelytocomefromabroad
+StrategiesS1:Itwillbeensuredthatthepromotionofopportunities,educationpolicies,
+anddistanceeducationactivitieswillbeincreasedbyprovidingthestudents
+who areabouttostartuniversitywithinformationregardingpromotional
+activitiesandscholarshipopportunities.
+S2:Inadditiontotheresponsiblefacultymemberinthestudentcounseling
+system,researchassistantsandexperiencedstudentsfromwhomstudents
+cangetinformationandconsultwillalsotakepartinthisprocessona
+voluntarybasis.
+S3:Socialandacademicactivitieswillbedevelopedtoenablestudentsto
+integratewithcampuslife.
+CostEstimate 355.753.000-TL
+FindingsThepromotionalactivitiesconductedattheuniversitylevelarenotcarried
+outaseffectivelyatthelevelofsomedepartments.Someofthe
+department/unitwebsitesarenotup-to-datenorattractiveenough.The
+departments’useofsocialmediaislimitedorineffective.
+Prospectiveinternationalstudentsdonothaveenoughinformationabout
+TürkiyeandMETU.Promotionalactivitiesandscholarshipopportunitiesare
+insufficientforinternationalstudents.
+Needs-Increasingtheuseoftechnologiessuchasmobiletechnologies,social
+media,virtualrealityinpromotionalactivities.
+-Moreresourcesforpromotionalevents.
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+66
+Goal G2 
+To develop sustainable and innovative research studies that can adapt to changes and needs at 
+national and international scales
+O2.1.
+Improving the multidisciplinary, interdisciplinary, and collaborative research studies in terms of 
+quantity and quality and enabling them to be used for the benefit of the society6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+73GoalG2Todevelopsustainableandinnovativeresearchstudiesthatcanadapttochangesand
+needsatnationalandinternationalscales
+O2.1. Improvingthemultidisciplinary,interdisciplinary,andcollaborativeresearchstudiesin
+termsofquantityandqualityandenablingthemtobeusedforthebenefitofthe
+society
+Program/Sub-ProgramResearch,DevelopmentandInnovation/ScientificResearchand
+DevelopmentinHigherEducation
+Sub-ProgramObjective Increasingscientificstudiesforinnovationinhighereducationinstitutions
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI2.1.1.Numberofprojects
+fundedby
+national/internationalpublicor
+privateinstitutionsor
+organizations30 1.230 1.235 1.240 1.245 1.250 1.255
+PI2.1.2.Theratiooftheproject
+budgetbasedoninternational
+fundsreceivedbytheacademic
+personneloftheuniversityto
+thenumberofprojects(in
+millions)*30 5 5,5 6 6,5 7 7,5
+PI2.1.3.Numberofpublications
+inSCI,SCI-Expanded,SSCI,and
+AHCIjournalsperacademic
+personnel*40 1,60 1,65 1,67 1,69 1,71 1,75
+ResponsibleUnit SeniorAdministratorResponsibleforResearchandDevelopment
+Unit(s)toCooperatewithOfficeofResearchCoordination,OfficeofScientificResearchProjects,KDDB,
+AlltheAcademicUnits
+Risks Difficultyincoordinationbetweendifferentdisciplinesanddepartments
+StrategiesS1:Thequantitativeandqualitativedevelopmentofresearcheffortsthatwill
+servetopreventandsolvesocial,environmental,andsimilarproblemsthat
+Türkiyealsofaces,andthosethatwillalsoadoptsustainabledevelopment
+valueswillbesupported.
+S2:Developmentofbasicscienceresearchintermsofquantityandqualitywill
+besupported.
+S3:Thequantitativeandqualitativedevelopmentofappliedresearchfocused
+onentrepreneurshipandinnovation,supportingthedevelopmentof
+knowledge-intensiveproductsandsmartsystemsolutions,willbesupported.
+CostEstimate 1.305.006.000-TL
+FindingsMETUresearchersarenotwillingtopubliclyanno uncetheirresearchand
+publications.AcademicsocialnetworkssuchasResearchgateorAcademiaare
+notusedeffectivelyenough.
+NeedsEstablishinganeffectivemechanismfortheanno uncementandfollow-upof
+researchconductedatMETU
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+67
+Goal G2 
+To develop sustainable and innovative research studies that can adapt to changes and needs at 
+national and international scales
+O2.2.
+Increasing and disseminating the social, economic, and academic effects of the outputs of research 
+studies to be carried out through collaborations with national and international public/private sector, 
+and non-governmental organizations at national and international scales6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+74GoalG2Todevelopsustainableandinnovativeresearchstudiesthatcanadapttochangesand
+needsatnationalandinternationalscales
+O2.2. Increasinganddisseminatingthesocial,economic,andacademiceffectsoftheoutputs
+ofresearchstudiestobecarriedoutthroughcollaborationswithnationaland
+internationalpublic/privatesector,andnon-governmentalorganizationsatnational
+andinternationalscales
+Program/Sub-ProgramResearch,DevelopmentandInnovation/ScientificResearchand
+DevelopmentinHigherEducation
+Sub-ProgramObjective Increasingscientificstudiesforinnovationinhighereducationinstitutions
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI2.2.1.Numberofpatents,
+utilitymodels,andregistered
+designsobtainedaccordingto
+theR&Doutputs*20 20 22 24 26 28 30
+PI2.2.2.Thenumberofproducts
+commercializedasaresultof
+R&D*20 7 8 9 10 11 12
+PI2.2.3.Numberofscientific
+publicationsbyacademic
+personnelinQ1andQ2
+journals*20 874 890 900 920 925 930
+PI2.2.4.Thenumberof
+internationalconferences
+attendedbyacademic
+personnel*20 80 85 90 95 100 120
+PI2.2.5.Thenumberofacademic
+personnelinvolvedinprojects
+ascoordinators20 290 295 300 305 310 315
+ResponsibleUnit SeniorAdministratorResponsibleforResearchandDevelopment
+Unit(s)toCooperatewithOfficeofResearchCoordination,OfficeofScientificResearchProjects,KDDB,
+AlltheAcademicUnits
+RisksLimitationofsharingduetocopyrightissues,andfailuretoestablish
+collaborationsatthedesiredlevel
+StrategiesS1:Internalhorizontalmechanismsrequiredinresearchprocesseswillbe
+strengthened,andnewmechanismswillbecreated.
+S2:Necessaryexternalcollaborationsinresearchprocesseswillbedeveloped.
+S3:Digitalmanagementtoolswillbedevelopedtomonitorandevaluatethe
+outputsofresearchanddevelopmentstudies.
+CostEstimate 1.067.732.000-TL
+FindingsResearchconductedatMETUisnotsufficientlyunderstoodintermsoftheir
+socialbenefits.Researchersshareresearchprocessesandtheirresultsonlyin
+academicenvironments.Differentsegmentsofsocietyarenotawar eofthe
+existenceofscientificresearchactivitiesthatarecloselyrelatedtothem.
+NeedsStrengtheninginternalhorizontalmechanismsrequiredinresearch
+processes,andcreatingnewmechanismsinthisregard
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+68
+Goal G3 
+To create a qualified academic and administrative workforce and to ensure its sustainability
+O3.1.
+Attracting national and international human resources in quantities and qualities that will meet the 
+needs of the institution 6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+75GoalG3Tocreateaqualifiedacademicandadministrativeworkforceandtoensureits
+sustainability
+O3.1. Attractingnationalandinternationalhumanresourcesinquantitiesandqualitiesthat
+willmeettheneedsoftheinstitution
+Program/Sub-Program Manag ementandSupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI3.1.1.Theratioofthe
+numberofinternational
+facultymembersand
+lecturerstothetotalnumber
+offacultymembersand
+lecturers(teaching)*50 0,04 0,05 0,06 0,07 0,08 0,09
+PI3.1.2.Numberof
+undergraduatestudentsper
+facultymember*50 21 21 20 19 18 17
+ResponsibleUnit SeniorAdministratorResponsibleforHumanResources
+Unit(s)toCooperatewith DivisionofPersonnelManag ement
+RisksThefactthatstaffleavesarenotunderthecontroloftheinstitutionmakesit
+difficulttomakehumanresourcesplanningwithintheuniversity
+StrategiesS1:Withintheframeworkofthestaffpracticesnorm,staffplanningwillbedone
+onthebasisoftheneedsoftheunits.
+S2:Inordertoattractqualifiedpersonnelandensuretheircontinuityinthe
+institution,studieswillbecarriedouttoimprovetheopportunitiesandbenefits
+offeredtothepersonnel(socialbenefits,health,school,travel,projects,
+scholarship,education,careerplanning,appreciationmechanisms,etc.).
+CostEstimate 237.170.000-TL
+Findings Therearedifficultiesintheprocessofhiringinsomefields
+Needs Employmentoftherequiredhumanresourceintheinstitution
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+69
+Goal G3 
+To create a qualified academic and administrative workforce and to ensure its sustainability
+O3.2.
+Supporting the professional and personal development of the personnel 6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+76GoalG3Tocreateaqualifiedacademicandadministrativeworkforceandtoensureits
+sustainability
+O3.2. Supportingtheprofessionalandpersonaldevelopmentofthepersonnel
+Program/Sub-Program Manag ementandSupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI3.2.1.Thenumberoffaculty
+membersparticipatinginADP+
+administrativepersonnel
+participatinginAPDP*50 84 85 86 87 88 90
+PI3.2.2.Thenumberoftraining
+programsonbasiclegal
+regulationsandadministrative
+processesfordifferentacademic
+andadministrativemid-level
+administrators50 0 1 2 3 4 5
+ResponsibleUnit SeniorAdministratorResponsibleforHumanResources
+Unit(s)toCooperatewith DivisionofPersonnelManag ement
+Risks Noriskhasbeenidentifiedforthisobjective.
+StrategiesS1:Thedevelopmentprogramsforacademicandadministrativestaffwillbe
+maintainedandupdatedwhennecessary.Preparatorytrainingprogramson
+basiclegalregulationsandadministrativeprocesseswillbeplanne dfor
+variousacademicandadministrativemid-leveladministrators(e.g.,Chairsof
+Departments,AssistantChairsofDepartments,Directors,Heads).
+S2:Theparticipationofacademicandadministrativestaffinshortorlong-
+terminternationalmobilityactivitieswillbeincreased,diversifiedandmade
+visible.
+S3:Objectiveawar enesstrainingprogramswillbeplanne dfornaturaland
+man-madedisasters.
+CostEstimate 118.584.000-TL
+FindingsItisnecessarytosupporttheprofessionalandpersonaldevelopmentof
+employees
+NeedsEnsuringthesustainabilityofdevelopmentprogramsforacademicand
+administrativestaff
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+70
+Goal G3 
+To create a qualified academic and administrative workforce and to ensure its sustainability
+O3.3.
+Introducing practices to protect the general well-being of employees6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+77GoalG3Tocreateaqualifiedacademicandadministrativeworkforceandtoensureits
+sustainability
+O3.3. Introducingpracticestoprotectthegeneralwell-beingofemployees
+Program/Sub-Program Manag ementandSupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI3.3.1.Thesatisfactionrate
+ofthepersonnelwiththe
+opportunitiesprovidedby
+theuniversity(%)50 55 58 62 66 70 75
+PI3.3.2.Thenumberof
+personnelapplyingtounits
+providingpsychological
+counseling*50 500 525 545 560 580 600
+ResponsibleUnit SeniorAdministratorResponsibleforHumanResources
+Unit(s)toCooperatewithOfficeoftheGeneralSecretary,AlltheAcademicandAdministrativeUnits,
+DivisionofPersonnelManag ement,MedicalandCounselingCenter
+RisksEmployees’lackofinterestinthemethodsspecifiedasperformance
+indicators
+StrategiesS1:Trainingprogramswillbeplanne dtomaintaingeneralwell-being.
+S2:Theawar enessofpsychologicalcounselingservicesprovidedbythe
+universitywillbeincreased.
+S3:Effortswillbemadetoexpandparticipationinsocial,culturaland sports
+activities.
+CostEstimate 118.584.000-TL
+FindingsThemethodsusedtosolvetheproblemsthatmayariseamongthe
+employeestakemoretimethannecessary
+NeedsEstablishingeffectivemechanismsforsolvingproblemsthatmayarise
+amongemployees
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+71
+Goal G4 
+To prioritize and strengthen institutional resources
+O4.1.
+Increasing own revenues and revolving fund revenues6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+78GoalG4Toprioritizeandstrengtheninstitutionalresources
+O4.1. Increasingownrevenuesandrevolvingfundrevenues
+Program/Sub-Program Manag ementandSupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI4.1.1.Therevolvingfund
+income(inmillionTL)60 92 100 108 116 126 136
+PI4.1.2.Theratiooftheyear-
+endownincomerealization
+tothetotalbudget(%)40 15 16 17 18 19 20
+ResponsibleUnit SeniorAdministratorResponsibleforFinancialResources
+Unit(s)toCooperatewithDivisionofFinanc ialStrategyDevelopment,DivisionofHealth,Cultureand
+Sports,OfficeofRevenues,OfficeofResearchCoordination,Relevant
+AcademicandAdministrativeUnits,ODTÜTEKNOKENT,METUDevelopment
+Foundation
+RisksUnforeseenlegislativeregulations,limitedopportunitiesforfundingand
+providingstafftotheresearchcenters.
+Insufficientinvestmentsandpreviouslyplanne dadministrative/technical
+improvements.
+StrategiesS1:Revolvingfundrevenueswillbeincreasedbyestablishinglong-term
+income-generatingapproachesinrevolvingfundprojects,andinternal
+revenueswillbeincreasedasaresultofthecommercializationof
+intellectual/industrial/commercialrightswithintheuniversity.
+S2:MechanismswillbedevelopedtogenerateincomethroughTEKNOKENT
+andMETUDevelopmentFoundation,aswellastoincreasedonation
+revenues,andtousetherevenuesgeneratedbyTEKNOKENTintechnology
+transfer,research,andentrepreneurshipactivities.
+CostEstimate 71.151.000-TL
+FindingsRevolvingfundrevenuesarenotatthedesiredlevel.Sectorandservice
+diversityislimited(thecapacityindifferentsectorscanno tbeused).Thereare
+onlyalimitednumberofmechanismsfortransformingtheprojectsproduced
+attheuniversityintoincome-generatingactivities.
+Theexistingfacilitiescanno tbebenefitedfromduetovariousdifficulties.
+NeedsAdequatefinancialresources,morefundingforfieldsofpriority
+MakingMETUmoreself-sufficientintermsoffinancialresources
+72
+Goal G4 
+To prioritize and strengthen institutional resources
+O4.2.
+Protecting the unique spatial and architectural structure of our campuses, as well as the rich forest, 
+steppe, sea, and lake ecosystem integrity and biodiversity; meeting the spatial requirements within 
+sustainable, smart, enduring and accessible campus approaches6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+79GoalG4Toprioritizeandstrengtheninstitutionalresources
+O4.2. Protectingtheuniquespatialandarchitecturalstructureofourcampuses,aswellasthe
+richforest,steppe,sea,andlakeecosystemintegrityandbiodiversity;meetingthe
+spatialrequirementswithinsustainable,smart,enduringandaccessiblecampus
+approaches
+Program/Sub-Program Manag ementandSupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Value
+atthe
+Beginni
+ng2023 2024 2025 2026 2027
+PI4.2.1.Realizationbudgetof
+architectural,static,mechanical,
+andelectricalimprovement
+projectsinindoorareas
+(buildings)throughoutthe
+campus(inMillionTL)25 0 5 10 15 20 25
+PI4.2.2.Realizationbudgetof
+infrastructureprojectsfor
+mechanical,communication,and
+electricalimprovementinopen
+areasthroughoutthecampus(in
+MillionTL)25 0 2 4 6 8 10
+PI4.2.3.Budgettobespentfor
+smart,accessible,andsustainable
+campusprojects(ThousandTL)20 0 250 500 750 1.000 1.250
+PI4.2.4.Thebicyclelane
+constructionthroughoutthe
+campus(inkilometers)15 6 8 10 12 12 12
+PI4.2.5.Theamountofrenewable
+energysourcesconsumed
+throughoutthecampus(inkW)15 75 575 825 1.325 1.575 1.825
+ResponsibleUnit SeniorAdministratorResponsibleforPhysicalResources
+Unit(s)toCooperatewithDivisionofConstructionandMaintenanc e,OfficeofTechnicalServices,
+OfficeofCampusPlanning,OfficeofForestationandLandscapePlanning,
+OfficeofCentralHeatandWaterSupply,OfficeofElectricitySupply,Officeof
+BuildingMaintenanc e,OfficeofTelecommunications,DivisionofHealth,
+CultureandSports,DivisionofFinanc ialServicesandAdministration,
+DivisionofInformationTechnology,OfficeofCampusServicesandSecurity,
+OfficeofOccupationalHealthandSafety,OfficeofDisabilitySupport,
+DepartmentsintheFacultyofArchitecture,DepartmentsintheFacultyof
+Engineering
+73
+6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+80RisksNotbeingabletoprovidethenecessarysourcesadequatelyand intimefor
+theprojects
+StrategiesS1:Improvementofourcampusesinlinewiththeprinciplesofeco-friendly,
+healthyand safe,energy-efficient,sustainable,and smartcampuses,while
+preservingtheiroriginalarchitecturalqualities.Renewingtheoldand worn-
+outinfrastructureinstallations,makingthemcompatiblewiththe
+developingtechnology,and bringingnewstructurestoourcampusesinline
+withthecurrentOccupationalHealthand Safety(OHS)legislationregarding
+accessibility,fire,and energy.
+S2:Researchingtheecologicaland biodiversityvaluesofourcampusesand
+promotingthembyconsideringtheprotection-usebalance,continuingand
+increasingforestationeffortsand thetreeplantingfestival.
+S3:Improvementofthetransportationsystemsinaneco-friendly,energy-
+efficiency,smart,accessible,and safeway,reducingthetrafficofprivate
+vehiclesand improvingtheoveralltrafficwithafocusonpublic
+transportation.
+S4:Improvementofthepedestrianconditions,ensuringpedestriansafetyby
+reducedspeedlimitswithelevatedpedestriancrossingplatforms.
+S5:Completionoftheon-campusbicyclenetworkprojectand puttingitinto
+practicestagebystage,supportingthisnetworkwithaprojectofbicycle-
+sharingsystem.
+CostEstimate 355.753.000-TL
+FindingsTherearevariousobligationsregardingtheOHSlegislationonaccessibility,
+fire,energy,etc.
+Theuniversityneedsnewindoorareasinordertocontinueproviding
+educationand researchservices,and atthesametime,itisnecessaryto
+preservetheoriginalspatialtexture.
+NeedsConstructingnewbuildingstomeettheneedswhilepreservingtheoriginal
+textureofthecampus
+74
+Goal G4 
+To prioritize and strengthen institutional resources 
+O4.3.
+Increasing the efficiency and impact of information services management by taking stakeholder 
+expectations into account 6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+81O4.3. Increasingtheefficiencyandimpactofinformationservicesmanagementbytaking
+stakeholderexpectationsintoaccount
+Program/Sub-Program Manag ementand SupportProgram
+Sub-ProgramObjective -
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI4.3.1.Thesatisfactionrateof
+studentswithITsupportservices
+(%)30 75 80 85 90 95 95
+PI.4.3.2.Thesatisfactionrateof
+personnelwithITsupport
+services(%)30 77 80 85 90 95 95
+PI.4.3.3.Thenumberofdata
+entriestoOpenMetuplatform
+(Numberofentries)20 2 3 5 7 8 10
+PI.4.3.4.Thenumberofrisks
+relatedtoinformationsecurity
+abovetheacceptablelevel*20 51 45 40 35 30 25
+ResponsibleUnit SeniorAdministratorResponsibleforInformationResources
+Unit(s)toCooperatewithDivisionofHealth,Cultureand Sports,OfficeofResearchCoordination,
+RelevantAcademicand AdministrativeUnits,ODTÜTEKNOKENT,METU
+DevelopmentFoundation
+RisksEnsuringinformationsecurity,insufficientbudget,lackofcontinuityinthe
+employmentoftrainedhumanresources
+StrategiesS1:Theeffectivenessofadministrativeprocessesthatwillsupportthe
+improvementwillbeincreasedbydevelopingIT-supportedservices
+S2:Inlinewithbasicprinciplesand priorities,precursorinformationservices
+willbetransformedintoproductsthatwillcreateaddedvalueand generate
+income,and willbebroughttosociety.
+S3:Itwillbeensuredthatnewinformationsystemsand servicesareoffered
+byusingthelatesttechnologiesinthedevelopmentofasmart,sustainable,
+durable,and accessiblecampus.
+S4:Withthecontinuousand effectiveincreaseinacademicperformance,the
+qualityofpublications,and thenumberofaccessibleinformationsourcesper
+capita,anincreaseindiversityand continuitywillbeensured.
+S5:Necessarytechnicaland administrativeinfrastructureregardingthe
+manag ementand sharingofresearchdatawillbestrengthenedinorderto
+supportscientificdevelopment,and diversifyandsustaininformation-
+sharingmechanisms.
+CostEstimate 793.273.000-TL
+FindingsExchangeratedifferenceshaveamajorimpactonthebudget.Increasing
+challengesinensuringinformationsecurity.Therearedifficultiesin
+maintaininginternationalcooperationwithotherinstitutions.Open-source
+applicationsareusedexcessivelywithintheorganization.Thetaxratesare
+highontheelectronicsourceofinformationsubscriptionsorpurchases
+NeedsSupportisrequiredwithITinfrastructureforeducationalapproachessuchas
+lifelonglearningand onlineeducationprograms.Technologiessuchas
+Industry4.0,theinternetofthings,virtual/augmentedreality,cloud
+computingrequirerapidtransformationswhenitcomestoeducational
+technologies,research,and socialcontribution.TheneedforinvestmentinIT
+infrastructureand humanresourceshasincreasedduetotheemergenceofa
+necessitytoensuretheaccessibilityofphysicaland web-basedinformatics
+environmentsbydisadvantagedgroupsasrequiredbynationaland
+internationallegislation.ExpertsinthefieldofITlawshouldbetrainedwithin
+institutionsofhighereducation.
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+75
+Goal G5
+To maintain and strengthen the internationalization of the university and its impact on social contribution
+O5.1.
+Continuing the social contribution activities by diversifying them on national and international scales6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+83*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.Program/Sub-ProgramLifelongLearning/ContinuingEducationActivitiesofHigherEducation
+Institutions
+Sub-ProgramObjectiveProvidingtrainingtoallsegmentsofsocietyinthefieldstheyneed,
+contributingtothedevelopmentofcooperationwithpublicinstitutionsand
+organizations,theprivatesector,and internationalorganizations
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI5.1.1.Numberofcertificates
+issuedbytheCenterfor
+ContinuingEducation,Bilge-İş,
+andSFL*20 850 900 950 1.000 1.050 1.100
+PI5.1.2.Numberofinternaland
+externalawardsgiveninthefield
+ofsocialcontribution*40 0 1 2 3 3 3
+PI5.1.3.Numberofprojectsthat
+includeCitizenScienceintheir
+researchphase*40 1 1 2 2 3 3
+ResponsibleUnit SeniorAdministratorResponsibleforSocialContribution
+Unit(s)toCooperatewithDivisionofHealth,Cultureand Sports,OfficeofResearchCoordination,
+RelevantAcademicand AdministrativeUnits,ODTÜTEKNOKENT,METU
+DevelopmentFoundation
+RisksUnanno uncedand frequentpolicyand systemchang esintheinstitutions
+and organizationstowhichMETUisadministrativelyaffiliatedand closely
+related;lackofpersonnelinprojectscarriedoutinthefieldofsocial
+contribution;inabilitytosufficientlyincludethesocietyinprojectsregarding
+theconceptofCitizenScience;and inabilitytocarrytheprojectsinthefield
+ofsocialcontributiontotheinternationalarena
+StrategiesS1:Aneffectiveinstitutionalstructureinordertosupportand coordinate
+socialcontributioneffortsand facilitateprocessesinthisregardwillbe
+created.
+S2:Attentionwillbedrawn tothesignificantpotentialofCitizenSciencein
+termsofacademicresearchactivities,and itwillbeensuredthatthisconcept
+isincludedinresearchactivitiesconductedatMETU.
+S3:Membersand studentsofMETUwho workinthefieldofsocial
+contributionwillbeprovidedwithbothmaterialand moralsupportinorder
+toincreasethesustainabilityofthesestudiesand projects.
+S4:ThesocialcontributionactivitiescarriedoutatMETUwillbebroughtto
+aninternationallevel.
+CostEstimate 474.337.000-TL
+FindingsItisnecessarytofollowthecurrentpolicydevelopmentsinthefieldof
+climateand environmentalresearch,massmigration,and informatics.The
+taxesonprojectexpendituresarehigh.Therehasbeenanemphasison
+appliedsciences(forinstance,thedefenseindustry)inprojectincentivesin
+recentyears,and socialentrepreneurshipstudiesshouldbefollowed,as
+well.
+NeedsCompliancewiththenewregulationsbroughtunderthePersonalData
+ProtectionLaw(KVKK)shouldbeaccelerated.Collaborationsand projects
+thatwouldnotbeaffectedbythechang ingbureaucraticpersonnelshould
+beexecuted.Non-EUinternationalfundsshouldbefocusedon.Contribution
+tothenormsthathavenotyetbeenagreeduponasacountryonsocial
+issuessuchasimmigration,unemployment,employment,and women’s
+rightsshouldbeincreased.MoresupportshouldbeprovidedbyUNESCO
+and similarinstitutionsforsocialentrepreneurshipprojects,especiallyfor
+disadvantagedwomenand children.
+76
+Goal G5 
+To maintain and strengthen the internationalization of the university and its impact on social contribution 
+O5.2.
+Developing the internationalization structure of the university 6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+84GoalG5Tomaintainandstrengthentheinternationalizationoftheuniversityanditsimpacton
+socialcontribution
+O5.2. Developingtheinternationalizationstructureoftheuniversity
+Program/Sub-ProgramHigherEducation/VocationalSchoolofHigherEducationand Graduate
+Education
+Sub-ProgramObjectiveEducatingstudentswho haveprofessionalcompetenceand areopento
+development
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI5.2.1.Numberofpromotional
+activitiesforinternationalization*20 0 1 3 3 4 5
+PI5.2.2.Numberofmeetings
+regardingthedevelopmentof
+theregistrationandcontrol
+systemforthecoordinationof
+theunitsoperatinginthe
+university*40 0 4 4 3 3 3
+PI5.2.3.Numberofattendanceat
+annualmeetingsofthecurrent
+collaborationnetworks*10 0 2 3 3 4 4
+PI5.2.4.Numberofsocialand
+academicactivitiesthatwill
+enableinternationalstudentsand
+academicstointegrateinto
+campuslife*15 0 5 5 6 6 6
+PI5.2.5.Ratioofthenumberof
+generalannouncementsmadein
+bothEnglishandTurkishtothe
+totalnumberofgeneral
+announcements(%)15 30 50 60 70 80 90
+ResponsibleUnit SeniorAdministratorResponsibleforInternationalization
+Unit(s)toCooperatewithOfficeofInternationalStudents(underÖİDB),OfficeofProspectiveStudents
+(undertheOfficeofPublicRelations),OfficeofScholarshipand Financ ialAid,
+OfficeofInternationalCooperation,Faculties,GraduateSchoolsand
+Departments,DivisionofPersonnelManag ement,OfficeofResearch
+Coordination
+Risks Failuretoprovidethenecessaryqualificationsand numberofpersonnel
+StrategiesS1:Toworkonthedevelopmentofastatisticalregistrationand control
+systeminordertoensurecoordinationamongtheunitsworkingon
+internationalizationwithintheuniversity.
+S2:Tomaintaintheuniversity’sexistinginternationalizationcapacityby
+strengtheningitthroughpromotionalactivitiesand collaborationsatthe
+levelofinternaland externalstakeholders.
+S3:Tocarryoutsocialand academicactivitiesthatwillenableinternational
+studentstointegrateintocampuslife.
+CostEstimate 237.168.000-TL
+FindingsThereisalackofcoordinationamongtheunitsregarding
+internationalization.Itisnecessarytomanageand monitor
+internationalizationstrategiesand alltherelatedactivitiesfromasingle
+source
+NeedsInstitutionalsupportmechanismsshouldbecreatedtoprovidecoordination
+betweentheunitsinouruniversityoninternationalizationand supportthe
+formationand developmentofinternationalcollaborations
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+77
+Goal G5 
+To maintain and strengthen the internationalization of the university and its impact on social contribution
+O5.3.
+Increasing the internationalization capacity of the university6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+85GoalG5Tomaintainandstrengthentheinternationalizationoftheuniversityanditsimpacton
+socialcontribution
+O5.3. Increasingtheinternationalizationcapacityoftheuniversity
+Program/Sub-ProgramHigherEducation/VocationalSchoolofHigherEducationandGraduate
+Education
+Sub-ProgramObjectiveEducatingstudentswho haveprofessionalcompetenceandareopento
+development
+PerformanceIndicatorsInfluence
+onthe
+Objective
+(%)Valueat
+the
+Beginning2023 2024 2025 2026 2027
+PI5.3.1.Numberofpersonnel
+comingtotheuniversityaspart
+ofinternationalmobility*20 20 25 25 35 50 60
+PI5.3.2.Numberofstudents
+comingtotheuniversityaspart
+ofinternationalmobility*30 130 140 155 180 210 230
+PI5.3.3.Numberofoutgoing
+personnelaspartofinternational
+mobility*10 25 30 35 45 60 80
+PI5.3.4.Numberofoutgoing
+studentsaspartofinternational
+mobility*30 350 380 400 430 450 480
+PI5.3.5.Numberoftheactively
+ongoingeducation-based
+internationalcollaborationsof
+theuniversity10 380 390 410 430 440 450
+ResponsibleUnit SeniorAdministratorResponsibleforInternationalization
+Unit(s)toCooperatewithOfficeofInternationalStudents(underÖİDB),OfficeofInternational
+Cooperation,alltheacademicandadministrativeunits
+RisksSafetyconcernsintheregionandtheworldnegativelyaffecting
+internationalmobilityinourcountry
+StrategiesS1:Toincreasetheratioofthenumberoffacultymembersandstudentsin
+internationalmobilitytothetotalnumberoffacultymembersandstudents
+oftheuniversity.
+S2:Toincreasethenumberoftheuniversity’sactiveagreements,
+educationalcollaborations,andeducation-basedprojects.
+CostEstimate 237.168.000-TL
+FindingsThenumberofincomingandoutgoingstudents,facultymembers,and
+administrativepersonnelaspartofmobilityprogramsisnotatthedesired
+level.Thereisaneedtoincreaseinternationalexchangeagreementsand
+facilitateparticipation
+NeedsThenumberofincomingandoutgoingstudents,facultymembers,and
+administrativepersonnelaspartofinternationalmobilityprogramsshould
+beincreased
+*Theperformanceindicatorvaluehasnotbeendeterminedcumulatively.
+78
+6.3. RISKS AND CONTROL ACTIVITIES FOR OBJECTIVES
+Table 18. Risks and Control Activities for Objectives6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+86Goal-
+ObjectiveRisks ControlActivities
+G1O1Notbeingabletosharetheresultsofthe
+studieswiththerelevantstakeholdersatalevel
+thatwillaffecttheeducationpolicies,and the
+factthatitisnoteasytoobservetheseeffects
+createdProvidinginstitutionalsupportforthe
+participationofundergraduateand graduate
+programsinexternalevaluationprocesses
+G1O2 HeavyworkloadofthefacultymembersDeterminingthecoursesthatstudentscanbe
+registeredforthroughouttheuniversity,and
+ensuringthecontinuityofassessmentinthe
+SFLcurriculum
+G1O3Variousnegativeoccurrencesintheregionand
+thecountryhavingadverseeffectsonthe
+decisionsofstudents,especiallythosewho are
+fromWesterncountriesCreatingresourcesforpromotionalactivities,
+and increasingtheuseoftechno logiessuchas
+mobiletechnologies,socialmedia,and virtual
+realityinpromotionalactivities
+G2O1Difficultyincoordinationbetweendifferent
+disciplinesand departmentsEstablishingeffectivemechani smsforthe
+anno uncementand follow-upofresearch
+conductedatMETU
+G2O2Limitationofsharingduetocopyrightissues,
+and failuretoestablishcollaborationsatthe
+desiredlevelStrengtheninginternalhorizontalmechanisms
+requiredinresearchprocesses,and creating
+newmechanismsinthisregard
+G3O1Thefactthatstaffleavesarenotunderthe
+controloftheinstitutionmakesitdifficultto
+makehumanresourcesplanni ngwithinthe
+universityEnsuringhumanresourceemploymentthatis
+neededintheinstitution
+G3O2 Noriskhasbeenidentifiedforthisobjective.Sincenoriskhasbeenidentified,acontrol
+activityhasnotbeendeveloped.
+G3O3Employees’lackofinterestinthemethods
+specifiedasperformanceindicatorsEstablishingeffectivemechani smsforsolving
+problemsthatmayariseamongemployees
+G4O1-Unforeseenlegalregulations,
+-Limitedopportunitiesforfundingand
+providingstafftotheresearchcenters,
+-Insufficientinvestmentsand previously
+planne dadministrative/technical
+improvements.Adequatefinancialresources,morefundingfor
+fieldsofpriority,and makingMETUmoreself-
+sufficientintermsoffinancialresources
+87Goal-
+ObjectiveRisks ControlActivities
+G4O2Notbeingabletoprovidethenecessary
+sourcesadequatelyand intimefortheprojects-Constructingnewbuildingstomeetthe
+needswhilepreservingtheoriginaltextureof
+thecampus
+-Makingsureofthepublicawar enessofthe
+ecologicalvaluesand biodiversityofour
+universitycampuses
+G4O3-Failuretoensureinformationsecurity
+-Insufficientbudget
+-Lackofcontinuityintheemploymentof
+trainedhumanresources-Completionofopenaccesspolicies
+-IncreasinginvestmentintheITinfrastructure
+and humanresources
+-ExperttraininginthefieldofITlawwithin
+institutionsofhighereducation
+G5O1-Unanno uncedand frequentpolicyand system
+chang esintheinstitutionsand organizationsto
+whichMETUisadministrativelyaffiliatedand
+closelyrelated
+-Smearcampaignscarriedoutbysomemedia
+organizationstodiscreditMETU
+-Lackofpersonnelinprojectscarriedoutinthe
+fieldofsocialcontribution
+-Inabilitytosufficientlyincludethesocietyin
+projectsregardingtheconceptofCitizen
+Science
+-Inabilitytocarrytheprojectsinthefieldof
+socialcontributiontotheinternationalarena-Compliancewiththenewregulationsbrought
+underthePersonalDataProtectionLaw(KVKK)
+-Establishinglong-termpoliciesand
+cooperations
+-Focusingonthenon-EUinternationalfunds
+and makinganno uncementsonthemtoinform
+themembers
+-Providingsupportforsocialentrepreneurship
+projectsfordisadvantagedgroups
+G5O2Failuretoprovidethenecessaryqualifications
+and numberofpersonnelCreatinginstitutionalsupportmechanismsto
+providecoordinationbetweentheunitson
+internationalizationand supporttheformation
+and developmentofinternational
+collaborations
+G5O3Safetyconcernsintheregionand theworld
+negativelyaffectinginternationalmobilityin
+ourcountryCreatinginstitutionalsupportmechanismsto
+supporttheformationand developmentof
+internationalcollaborations
+79
+6.4. COSTING
+The distribution of the financial resources required for the realization of the 2023-2027 Strategic Plan 
+to goals and objectives can be found in Table 19.
+Table 19. Costing6. STRATEGY DEVELOPMENT: STRATEGIES WITH GOALS, OBJECTIVES, AND PERFORMANCE INDICATORS 
+886.4.Cost/i.dotng
+Thed/i.dotstr/i.dotbut/i.dotonofthef/i.dotnanc/i.dotalresourcesrequ/i.dotredforthereal/i.dotzat/i.dotonofthe2023-2027Strateg/i.dotc
+Plantogoalsandobject/i.dotvescanbefound/i.dotnTable19.
+Table17.Cost/i.dotng
+Costsof2023-2027Strateg/i.dotcPlanObject/i.dotveCards(TL)
+Goalsand
+Object/i.dotves2023 2024 2025 2026 20272023-2027
+Total
+Goal1Educat/i.doton 238.009.000 262.977.000 284.015.000 306.735.000 331.275.000 1.423.011.000
+Object/i.dotve1.1 95.204.000 105.191.000 113.606.000 122.694.000 132.510.000 569.205.000
+Object/i.dotve1.2 83.303.000 92.042.000 99.405.000 107.357.000 115.946.000 498.053.000
+Object/i.dotve1.3 59.502.000 65.744.000 71.004.000 76.684.000 82.819.000 355.753.000
+Goal2Research&
+Development 401.047.000 437.860.000 472.691.000 510.278.000 550.862.000 2.372.738.000
+Object/i.dotve2.1 220.576.000 240.823.000 259.980.000 280.653.000 302.974.000 1.305.006.000
+Object/i.dotve2.2 180.471.000 197.037.000 212.711.000 229.625.000 247.888.000 1.067.732.000
+Goal3Human
+Resources 79.336.000 87.659.000 94.672.000 102.245.000 110.426.000 474.338.000
+Object/i.dotve3.1 39.668.000 43.829.000 47.336.000 51.123.000 55.212.000 237.170.000
+Object/i.dotve3.2 19.834.000 21.915.000 23.668.000 25.561.000 27.606.000 118.584.000
+Object/i.dotve3.3 19.834.000 21.915.000 23.668.000 25.561.000 27.608.000 118.586.000
+Goal4Inst/i.dottut/i.dotonal
+Resources 205.878.000 225.223.000 243.156.000 262.511.000 283.409.000 1.220.177.000
+Object/i.dotve4.1
+(F/i.dotnanc/i.dotalResources) 11.900.000 13.149.000 14.201.000 15.337.000 16.564.000 71.151.000
+Object/i.dotve4.2
+(Phys/i.dotcalResources) 59.502.000 65.744.000 71.004.000 76.684.000 82.819.000 355.753.000
+Object/i.dotve4.3
+(Informat/i.doton
+Resources) 134.476.000 146.330.000 157.951.000 170.490.000 184.026.000 793.273.000
+Goal5Soc/i.dotal
+Contr/i.dotbut/i.dotonand
+Internat/i.dotonal/i.dotzat/i.doton 158.672.000 175.317.000 189.344.000 204.491.000 220.849.000 948.673.000
+Object/i.dotve5.1(Soc/i.dotal
+Contr/i.dotbut/i.doton) 79.336.000 87.659.000 94.672.000 102.245.000 110.425.000 474.337.000
+Object/i.dotve5.2
+(Internat/i.dotonal/i.dotzat/i.doton) 39.668.000 43.829.000 47.336.000 51.123.000 55.212.000 237.168.000
+Object/i.dotve5.3
+(Internat/i.dotonal/i.dotzat/i.doton) 39.668.000 43.829.000 47.336.000 51.123.000 55.212.000 237.168.000
+Spec/i.dotalBudget 793.363.000 876.588.000 946.715.000 1.022.453.000 1.104.249.000 4.743.368.000
+Extra-Budgetary 289.581.000 312.448.000 337.160.000 363.810.000 392.570.000 1.695.569.000
+General
+Adm/i.dotn/i.dotstrat/i.doton
+Expenses 240.115.000 265.405.000 286.637.000 309.568.000 334.334.000 1.436.059.000
+TOTAL 1.323.059.000 1.454.441.000 1.570.512.000 1.695.831.000 1.831.153.000 7.874.996.000
+
+81
+One of the most significant strategies of METU 2023-2027 SP is to strengthen the strategic management 
+of the university and the participation of administrators in the process of monitoring and evaluation.   
+For this purpose, a management information system, which was among the objectives of the 2018-
+2022 Strategic Plan and established within this term, will be used. Accordingly, the achievement of 
+the objectives within the SP will be monitored via the Strategy Quality Management Information 
+System (SKYBİS) in 6-month and annual periods, and improvement activities will be initiated and 
+directed according to the identified shortcomings. 
+Although the performance indicators used in monitoring have been defined to a considerable 
+extent, they will be reviewed as the system operates, and any necessary changes will be made. The 
+collection of data according to these indicators, as well as the derivation and presentation of reports 
+will be supported by information technologies. This system will be expanded to support performance 
+monitoring and evaluation at all administrative levels. Additionally, it will be able to provide data 
+assistance to the activities of identifying and improving the quality problems related to the processes 
+of the university.
+A key step in the SP implementation is to make sure that the activities of the SPFCs are not limited 
+to the SP preparation process only and that they continue to contribute during the processes of 
+monitoring and evaluation. For this purpose, the duties and responsibilities of the SP preparation 
+teams are shared.
+Working Principles of the University Strategic Planning Support Teams (USPSTs)
+Following the approval of the President of METU, the SP draft is sent to the Presidency of Strategy 
+and Budget for evaluation. Necessary corrections are made in the plan in line with the issues pointed 
+out in the evaluation report of the Presidency of Strategy and Budget. The plan is then put into effect 
+with the approval of the President of METU. 
+Monitoring is an iterative process in which quantitative and qualitative data are collected and 
+analyzed on an ongoing and systematic basis, before and during implementation, in order to track 
+progress regarding the goals and objectives. Monitoring processes can be defined as follows:
+1. With the monitoring report that is prepared every six months and the evaluation report 
+that is prepared annually, the Strategic Plan in force, together with its goals, objectives, 
+and performance indicators, are evaluated. 
+2. Monitoring and Evaluation Reports prepared with the coordination of the Office 
+of Institutional Development and Planning and the Division of Financial Strategy 
+Development are submitted to the USPB. Following the preparation of these reports, 
+the Strategy Development Board holds follow-up meetings every six months and 
+evaluation meetings every year.
+3. Predetermined risks regarding the SP are monitored, and possible revision efforts are 
+carried out when necessary.MONITORING AND 
+EVALUATION
+7
+7. MONITORING AND EVALUATION82
+Fields of responsibility and authorization of the USPB:
+1. Examining the situation analyses and evaluations submitted by the USPSTs and the 
+SPFCs.
+2. Giving feedback to the USPST regarding the information and documents that should 
+be taken into account in the situation analysis, and, if necessary, requesting additional 
+materials (data and document analyses, stakeholder interviews, etc.) from the USPST. 
+3. Participating in the SP Sharing Conference.
+4. Evaluating the university’s Situation Analysis Report and submitting it to the Senate.
+5. Discussing the proposed changes to the mission, vision, and core values of the 
+university and submitting them for the approval of the President and the Senate.
+6. Examining the draft of the Strategic Plan and finalizing it.  
+Fields of responsibility and authorization of the USPST:
+1. Carrying out the organization, reporting, deciphering, and analysis processes as part of 
+the Strategic Plan preparation efforts. 
+2. Building the Strategic Planning process, ensuring the classification and analysis of 
+archives, and preparing/updating the web page for the new SP . 
+3. Updating the SP Preparation Guide.    
+4. Examining SP deployment, monitoring, and evaluation processes; summarizing and 
+reporting the current status for each SPFC. In addition, carrying out studies to reveal the 
+SP relationship between the performance indicators in specific fields and identifying 
+the indicators that do not work.
+5. Assisting the efforts of SPFCs, reporting meetings and notes. 
+6. Contributing to the SPFC Situation Analysis Reports. 
+7. Making the logistical and organizational preparations for the Situation Analysis 
+Conference and conducting the conference.   
+8. Classifying the notes, records, and documents during the conference and submitting 
+the Situation Analysis Report and the newly proposed strategy and objective, goal, and 
+performance indicators to the USPB for approval.
+9. Creating the objective cards that include the strategies, the targeted values of the 
+performance indicators during the term of the plan, the units to be in charge of 
+cooperation, risks, findings, needs, and costs for each target.
+10. Following the discussions on the Mission and Values, creating the draft of the SP and 
+submitting it to the USPB by making the necessary changes according to the received 
+feedback. 
+11. Sharing the documents created throughout the process in its main file. In addition, 
+enabling the documents open to sharing with the public to be posted on www.kalite.
+metu.edu.tr.
+83
+7. MONITORING AND EVALUATION
+Members of the Field Committees formed within the 2023-2027 METU Strategic Plan are selected 
+among the people recommended by the administrators of academic and administrative units of the 
+university since they are thought to contribute to the situation analysis and developing strategies 
+in the relevant fields. The responsibilities and authorization of the field committees, the faculty 
+members responsible for the coordination of these committees, and the fields that the committees 
+are primarily responsible for are briefly listed below.
+Fields of responsibility and authorization of the SPFCs: The field committees formed within 
+the 2023-2027 METU Strategic Plan have duties that include the preparation of the SP as well as 
+contribution to the monitoring and evaluation stages.
+1. Contributing to SP preparation and monitoring processes through regular meetings.
+2. Establishing working groups when necessary. 
+3. Examining field-specific situation analyses within the 2018-2022 SP after the USPST 
+summarizes and reports the current situation for each SPFC by examining the 
+monitoring and evaluation processes of the SP . 
+4. Conducting new studies if necessary (Field-specific analysis may include SWOT, PESTLE, 
+online stakeholder interviews, online surveys, and analysis of performance indicators.).
+5. Completing the situation analysis report for their own field until the Situation Analysis 
+Conference.
+6. Determining the performance indicators related to the field strategies and making 
+suggestions about the objectives. 
+7. Submitting reports and feedback to the USPST in accordance with the SP preparation 
+calendar and presenting them at SP conferences and workshops.
+8. Determining the newly proposed strategies, field-specific goals, objectives, performance 
+indicators, and risks in line with the Situation Analysis Report to be prepared by the 
+USPST after the conference and checking their relevance. 
+9. Checking the measurability of performance indicators. 
+10. Examining and editing the Mission, Vision, and Values according to the principle of 
+relevance mentioned above.
+11. Checking the Objective Cards, examining the first draft of the SP and giving feedback, 
+and working with the USPST in finalizing the report.
+

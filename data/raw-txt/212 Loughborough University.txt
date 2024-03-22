@@ -1,0 +1,2872 @@
+Estates Strategy  
+2020-2040
+January 2020
+
+02Contents
+Executive summary 03
+1.0 Introduction 07
+1.1 Summary of the University Strategic Plan 07
+1.2 Purpose of the Estate Strategy 07
+1.3 Aims of the Estate Strategy 07
+1.4 Overview of the current estate 07
+1.5 Governance 08
+1.6 Key responsibilities 08
+2.0 Estate strategy 09
+2.1 Key estate issues and objectives 09
+2.2  Contextual background 10
+3.0 The estate 11
+3.1 Overview of the Campuses 11
+3.2 The character and performance of the estate 12
+3.3 The size of the estate 12
+3.4 Age of the estate 12
+3.5 Condition of the estate 12
+3.6 Operating Costs 14
+3.7 Non-Residential accommodation
+3.8 Student Accommodation 14
+3.9 Commercial estate 15
+3.10 Service Charges 15
+3.11 Procurement 15
+3.12 Construction sector strategy 15
+3.13 Information Technology 16
+3.14 Digital Campus  16
+3.15 Energy 16
+3.16 Sustainability 18
+3.17 Zero-carbon 18
+3.18 Sustainable Travel 194.0 Future requirements 20
+4.1 Academic Space (Teaching & Learning) 20 
+4.2 Research Space  20 
+4.3 Loughborough Science & Enterprise Park 20 
+4.4 Sports Development Centre 21 
+4.5 Student Requirements 22 
+4.6 Future IT Infrastructure Requirements 22 
+4.7 Future Digital Campus 22 
+4.8 Generation ‘Z’ 23
+5.0 Estates Master Plan 2020-2040  
+ 
+Appendices 25
+A Loughborough Estates Strategy Framework 26
+B Estates Strategy Planning Framework 2020-2024 27
+C Estates Strategy Planning Framework 2025-2030 28
+D Estates Strategy Planning Framework 2030-2040 29
+E Estates Capital Framework Major and Minor  30 
+ Projects (June 2019)
+F Campus Parks 31
+G East Park Strategy 2020-2040 32
+H New Loughborough Students’ Union 33
+I Central Park Strategy 2020-2040 34
+J Student Village Strategy 2020-2040 35
+K West Park Strategy 2020-204 36
+L LUSEP Strategy 2020-2040 37
+M Energy Demand 38
+N Pedestrianisation and Sustainable Travel 39
+Loughborough University Estates Strategy 2020-2040 
+Executive summary
+03Loughborough University’s strategy
+The University’s ‘Building Excellence’ strategy has four core 
+drivers – Investing in our staff, Educating for Success, Growing 
+capacity and influence, and Raising standards and aspirations – 
+with research, teaching, enterprise and sport embedded in each. 
+As the University’s strategy evolves so will this strategy.
+Loughborough University’s ambitions
+The Plan has five strategic themes:
+• A distinctive international reputation for excellence
+• A life-shaping student experience
+• Outstanding partnerships to deliver social, economic and 
+cultural prosperity
+• A culture of delivering excellence in everything that we do
+• One outstanding University: two vibrant campuses
+Estates vision
+To create quality environments in which teaching, research, sport, 
+enterprise and living can thrive. 
+Estate strategy
+The Estate Strategy supports the delivery of the key objectives in 
+the University’s Strategic Plan and provides a roadmap to 2040. 
+The campus should be a reflection of the University’s values. The 
+strategy aims to develop and maintain an attractive, cohesive, 
+sustainable environment supporting two excellent campuses 
+which provide an effective setting combining technology, 
+people, place and pedagogy. The strategy will cover the period 
+from 2020-2040 and be divided into three epochs, two of five 
+years and one of ten years. It will adopt a comprehensive and 
+integrated approach to capital investment, maintenance and 
+asset utilisation. All investments should be tested to ensure 
+that they deliver a tangible improvement for campus users. The 
+University’s School of Architecture, Building and Civil Engineering 
+(ABCE) will be utilised to harness expert knowledge and research 
+to provide support and challenge. The Dean of ABCE has stressed 
+the importance of investing in aesthetics and has proposed 
+investment in an iconic building on the campus which would be a 
+source of inspiration which could attract visitors to the University. 
+The estate will be used as a ‘living laboratory’ by ABCE who will 
+cover and embed sensors in buildings to provide information and 
+data enabling the department to become intelligent custodians of the estate and make decisions based on information. By 2030, a 
+decision support centre should be established, fed by predictive 
+analytics drawing on data from the University’s ‘living laboratory’ 
+to enable forward looking, evidence based decision making to 
+manage and improve performance of the estate. 
+This strategy will build upon the ‘Construction Sector Deal’ 
+principles between industry and the government that aims to 
+deliver better-performing buildings that are built more quickly 
+at lower cost and lower energy use. These goals will be met by 
+focusing on three strategic areas: digital techniques, off-site 
+manufacturing technologies and whole life asset performance 
+that shifts the focus from the costs of construction to the costs  
+of a building across its life cycle, particularly its use of energy. 
+The Loughborough estate
+The University Council has recognised the unique estate as a 
+significant asset: ‘The outstanding campus and halls community/
+facilities, excellent student experience and unrivalled sports 
+ecosystem emerged as clear strengths .The continued investment 
+and support to maintain these assets should be an ongoing 
+priority.’
+Loughborough University (LU) campus has 440 acres is located 
+close to a market town and is minutes away from the motorway 
+network. The estate is in a sylvan setting, with a huge variety 
+of academic, residential, commercial and sports facilities and 
+is 373,000sq.m in total. There are 154 buildings as well as a 
+further 85 acres that is agricultural land adjoining the campus. 
+It has planning permission for the further development of the 
+Loughborough University Science and Enterprise Park (LUSEP) 
+which is part of an Enterprise Zone. 
+The campus is an attraction for both staff and students, and the 
+green setting provides a beautiful environment for the well-being 
+of staff, students and tenants and supports a cohesive community 
+and unrivalled student experience. The estate has grown ad-hoc 
+and this strategy presents an opportunity to achieve a coherent 
+vision and masterplan with a strong landscape and public realm at 
+its heart. The Loughborough campus presents a unique opportunity 
+as the environment cannot be replicated by any of our competitors 
+and our London Campus provides a city location as an attractive 
+alternative Postgraduate offer.Executive summary
+The Estates Strategy sets out a development framework for Loughborough University covering a  
+twenty-year period from 2020 to 2040 focusing on providing the appropriate physical infrastructure  
+to meet the University’s ‘Building Excellence’ strategy. 
+Estates Management Committee (EMC) is the owner of the Estate Strategy’ and the Director Estates and Facilities Management  
+is accountable for its future development and operational delivery.
+It offers the opportunity to consider options that go beyond the short-term planning horizon in the capital framework where the  
+near-term financial strategy drives decisions on the estate. 
+It is important to stress that this strategy represents an aspirational view and is not a policy commitment endorsed by the University 
+Council and Estates Management Committee. 
+Loughborough University Estates Strategy 2020-2040 
+Executive summary
+04The University’s land-bank can accommodate growth for the next 
+50 years at current and known projected growth rates. LUSEP 
+provides the opportunity for significant long-term development of 
+the University and the main campus could accommodate a further 
+10,000sq.m on vacant sites and up to 40,000sq.m on potential 
+demolition sites. There are around 80 LUSEP tenant partners 
+linked to our Enterprise and Research strategy occupying 
+c60,000sq.m of the estate and providing £2.5-3m income p.a.
+LUSEP development should seek to gain maximum benefit from 
+the external funding by being cohesive with the LLEP Enterprise 
+Zone Implementation Plan that LU has helped develop. Our goal 
+is to place LU in a dominant position to ensure that it has control 
+over the whole estate and has the freedom to implement an agile 
+masterplan for the development of the LUSEP sites that prioritise 
+the use of LU land.
+Loughborough London was opened in 2015 in 7,700sq.m of 
+accommodation that was home to the 2012 Olympics and part of 
+the International Broadcast Centre. An expansion of the facilities 
+is planned to enable London growth to 1,400 full-time PGT and 
+500 part-time students (at steady state). 
+The facilities
+The Facilities have been voted the best in the UK for the last four 
+years in the Time Higher Student Satisfaction survey and voted 
+the best in the ‘WhatUni’ 2018 and 2019 awards.
+Capital plan
+There has been an ambitious estates transformation over the 
+last 10 years with over £350m of investment from a vibrant 
+capital programme. Future priorities for investment identified 
+in the capital framework include a Creative Arts Building and a 
+new Students’ Union Building. The success of the strategy will 
+be measured through comparison of achievement against the 
+five strategic themes set out in the Estates Strategy Framework: 
+or what goals the strategy is trying to achieve: building for 
+the future, making the most of the current assets, affordable 
+and sustainable campus, integrated campus planning and 
+infrastructure and finally, healthy environment and thriving 
+communities. 
+A strategic conversation regarding the University’s priorities and 
+ambitions and how they relate to the development of the estate 
+should be held once a year between Operations Committee and 
+the Estates and Facilities leadership team to help inform the 
+development of the Capital Framework. EMC will continue to 
+provide independent challenge as owners of the strategy. 
+Estates strategy performance ambition
+The Estates Strategy is aligned to the University’s strategy and 
+has been developed to provide synergy between the Strategic 
+vision and long-term ambitions with the planning and delivery of 
+estates projects. It considers Research, Teaching and Enterprise 
+developments envisaged by the Pro-Vice Chancellors to align 
+visions. The success of the strategy will be measured against a 
+set of quantified set of KPIs and a route map will be produced 
+showing progress against the plan endorsed by EMC and 
+Operations Committee.
+Masterplan planning assumptions
+• The quality of the estate will continue to be a significant factor 
+in helping the University to maintain its leading position in the 
+NSS;
+• The number of students, staff and tenants using both 
+Campuses will continue to grow; 
+• Resist the urge to build on available land and risk making the 
+estate bigger, older and more expensive to maintain;
+• The future residential strategy is to provide more en-suite self-
+catered rooms with four foot beds where opportunity exists.
+• Requirement to build ‘flexible and adaptable’ buildings;
+• Major Projects will contribute to the realisation of the 
+University’s net zero carbon ambitions;
+• The ‘green natural asset campus’ will be improving the 
+landscape, public realm and bio-diversity;
+• The proportion of the University’s spend on the estate will 
+reduce in real terms;
+• Limit yearly capital spend to a maximum of £30m and be 
+prepared to present prioritised options if the University needs 
+to reduce yearly capital spending to a level below £30m. The 
+underlying rationale for the assumed real terms reduction in 
+the proportion of the University’s spend on the estate in the 
+coming years will need to be effectively communicated.
+• In the first epoch (2019-2024), prioritise the Capital Programme 
+to deliver ‘Must Do’ projects prioritised by HSE, Legislative and 
+Compliance;
+• Acknowledge that the Operations and EMC have accepted 
+the risk that ‘Buildings will be safe but without making 
+improvements to underlying mechanical services (i.e. plant, 
+heating, electric) and that building operations will become 
+temperamental;
+• Hybrid/zero emission vehicles will have replaced most petrol/
+diesel vehicles by 2030 – a sufficient charging infrastructure 
+will be required.
+Loughborough University Estates Strategy 2020-2040 
+Executive summary
+05Masterplan principles
+Whole life costs • The University’s project approval process for major capital building projects > £1m should be changed 
+from consideration of acquisition/build costs only to include whole life/through life costs in order to 
+understand the full costs of a building across its life cycle, particularly its use of energy. 
+• The whole life approach should consider whether refurbishment or new-build is most appropriate  
+when a capital project is proposed.
+Building  
+standards• BREEAM excellent standard and EPC A rating to be considered in all future designs.
+• Where possible, Passivhaus EnerPHit to be the standard for the design and refurbishment of all major 
+capital projects.
+• Minimal heating requirement to be included as criteria in design specifications.
+• ABCE & CREST to work with E&FM to develop an impact case study around a ‘living lab’ in a school  
+to demonstrate LU’s world class expertise in Energy and the Built Environment. 
+• Avoidance of flooding risk through design to minimise flat roofs and penetration of roofs for plant.  
+All major refurbishments will inspect and replace internal drainage as required. 
+• All major projects to incorporate a rainwater recovery process as standard. 
+• Improve indoor air quality and CO2 levels
+Leases • The University’s approach to all leases should be to ‘maintain control’ of the estate. The University will 
+not normally grant leases to third parties for development options for longer than 40 years.
+• The University’s default position will be to retain control of the freehold for all LUSEP land. In exceptional 
+circumstances, on a case-by-case basis, the University may consider granting long leases. Where leases 
+of this type are granted explicit clauses will be included within the contract that protect the University’s 
+position. The University will need to ensure that a thorough counter-party risk assessment is undertaken 
+before granting a long-term lease.
+Funding models • The University should self-fund capital projects where possible. 
+• The University will seek professional advice on the best funding models to develop and maintain 
+accommodation. The solution for the refurbishment of the residential estate may be a mixed funding 
+model, supported by an attractive steady income stream. Not all capital projects would have a clear 
+payback incentive, such as academic buildings, infrastructure and IT upgrades.
+• The University must maintain the quality of UG and PG accommodation. Where the capital investment 
+programme does not allow investment in the 2020-2030 time frame, joint ventures with third party 
+providers such as UPP and Unite could be entered into in order to provide good quality on-campus 
+accommodation. However the preference would be for the University to self-fund capital projects  
+through borrowing which would be more appropriate to secure the long-term income stream.
+UG, PG student 
+and Visitor 
+accommodation 
+masterplan• E&FM will develop a masterplan to redevelop the Student Village concentrating on the essential 
+infrastructure first. The cycle of redevelopment/refurbishment should start with the estate which is  
+in the worst condition. The future residential strategy is to deliver more en-suite self-caterered rooms  
+and a better ratio of kitchens and bathrooms in catered halls. 
+• The masterplan for the development and maintenance of undergraduate accommodation will be 
+prioritised and costed options developed.
+• JV partners to develop dedicated PG single and family accommodation.
+• JV partners to develop executive serviced accommodation for senior visitors requiring short term 
+accommodation (up to 3 months).
+IT • Provide two resilient fibre connections to each building through two diverse duct routes.
+• IT should be considered at the design phase of projects.
+• Wireless should integrate seamlessly with the built environment. 
+Energy • Increase the Bulk Supply Point (BSP) supplying LUSEP from 2 MVA to 4.0 MVA to provide energy for 
+LUSEP development.
+• In the mid-longer time frame, construction of a renewable solar PV energy array to supply 10 MVA  
+to the University and sell excess capacity to the grid. 
+• The two campus Combined Heat & Power Plants (CHP) are approaching the end of their life. A 
+strategic balance of investment decision will be required to replace the CHP’s with green sustainable 
+technologies, or the University will be locked out of achieving the zero-carbon target by 2050.
+• On campus renewables – consideration of solar PV array, ground source heat pumps and wind 
+generation on all new and refurbished buildings.
+• Identify energy and carbon hot-spots and produce mitigation plans.
+• Incentivise schools and professional services to realise energy savings.
+• Charging for electric/hybrid vehicles to meet demand.
+Space and asset 
+management• Aim to grow capacity and capability, but to use less space through better space efficiency. 
+• Capital projects approval process should assess viability of multi-use spaces as far as possible. 
+• Incentivise schools and professional services to improve the efficiency of building utilisation by imposing 
+an efficiency tax similar to the 2% annual measure on staff costs.
+Study space • Consider proposals to provide a 24/7 study space for 300 students in the Library Building and give 24/7 
+access to study space in the library for PGs outside of term time.
+• Ensure each school has a dedicated study space within each school building.
+Pedestrianisation 
+and car parking• Pedestrianisation of the West, Village and Central parks and construction of new multi-storey car parks 
+on LUSEP and East Park to reduce vehicle traffic on campus and create a green central spine. 
+• Introduction of autonomous electric buses.
+Loughborough University Estates Strategy 2020-2040 
+Executive summary
+06High level roadmap – capital plan
+2019-2024
+• School of Design and Creative Arts Building, incorporating  
+F Building
+• A new Students’ Union Building 
+• Construct Large Lecture Theatres
+• Demolish/refurbish Whitworth Tower
+• Re-develop/refurbish Student Village accommodation to 
+minimum B grade standard 
+• LTA & Squash courts
+• London 2.0
+• Sport Park Pavilion 4
+• Extension to the School of Business and Economics  
+(Sir Richard Morris)
+• LUSEP infrastructure inc Grow on Building
+• Holywell Building BMS
+• Net zero carbon initiatives
+• W Building penthouse potential conversion into Graduate 
+Accommodation provision (inc for families)
+• Car Parking infrastructure
+• Options to provide Campus Nursery provision
+• Public Realm
+• Rolling refurbishment of learning and teaching space
+• Creation of an IT Super-lab on each park
+• Rehabilitative Sciences Research and Innovation Centre 
+• Demolition of buildings
+• Holywell pitch 4
+• Stadium synthetic pitch 
+• Re-purpose of EHB squash courts
+• Improve campus signage/way finding2030-2040
+• By 2040 all campus buildings either constructed or 
+refurbished prior to 2015 will likely require refurbishment  
+or demolition
+• For this iteration of the Estates Strategy, it has been assumed 
+that the priorities in the University’s ‘Building Excellence’ 
+strategy will endure to cover the period 2030-2040
+• ABCE have been requested to support the development of 
+the capital programme with expert advice on technologies 
+and schemes that will help LU to meet its de-carbonsiation 
+targets
+• Research Facilities enabled by external funding
+• Further phases of Student Village new-build/refurbishment
+• Development of LUSEP phases 3 & 4
+• Refurbishment of Hazlerigg & Rutland
+• Redevelopment of Central Park: Brockington, Wavy Top, 
+Geography and EHB 
+• SDC projects not delivered in 2025-30 plus: Indoor rugby 
+and football facility, Football stadium enhancements
+• Global sports hub 
+• Renewal of the Loughborough University London Lease2025-2030
+• Re-develop/Refurbish Student Village accommodation to 
+minimum B grade standard (includes data cabling)
+• Manzoni major refurbishment
+• Refurbish David Collett & Towers
+• Services infrastructure upgrade and investment in 
+sustainable technologies
+• Demolish: 3D design, Edward Barnsley, Fine Art, Sir Arnold 
+Hall, Campus Services offices
+• Pedestrianise main campus, construct large capacity car 
+parks on LUSEP, E&W parks and introduce park & ride
+• Public realm and landscape improvements
+• Brockington extension refurbishment
+• T - Building internal refurbishment
+• LUSEP Phase 3 & 4 sites – phased development
+• Rolling refurbishment of learning and teaching space 
+• Research Facilities enabled by external funding
+• SDC major projects categorized as game changers, 
+enhancements and replacements: 
+- Game Changers: 7,000 seat arena, 25m swimming pool, 
+sports pavilion/coaching hub inc spectator seating to 
+Rugby facility
+- Enhancements: Performance centre upgrade - creating 
+SDC hub and increased space for Powerbase 
+- Replacements: Paula Radcliffe Building - track, upgrades 
+to changing spaces and reception facilities
+Note: the cost to deliver a comprehensive refurbishment of the student 
+accommodation is estimated at >£87m and the Operations Committee 
+considered this unaffordable – Nov 18.
+Loughborough University Estates Strategy 2020-2040 
+Executive summary
+071.1 Summary of the University Strategic Plan 
+The estate was established in 1909 as a technical institute and 
+has developed into a top ten UK University with more than 3,800 
+staff, 15,500 students, 110 campus partners and an annual 
+turnover in excess of £300m. The overall aims, objectives and 
+targets can only be achieved if the facilities and infrastructure 
+can support and sustain world-class activity and business needs. 
+This strategy identifies how the University’s ‘Building Excellence’ 
+strategy will be supported. 
+1.2 Purpose of the Estate Strategy
+The Estate Strategy supports the delivery of the key objectives  
+in the University’s Strategic Plan and provides a roadmap  
+out to 2040.
+This Estates Strategy will underpin the continued realisation 
+of University strategy and goals and will be a key contributor to 
+sustain the ‘Top 10’ position in major league tables. The estate 
+has evolved on the main site in Loughborough gradually over 
+many decades and now consists of two vibrant campuses in 
+Loughborough and the second in London on the site of the former 
+Olympic Park.
+The focus for the development of the estate has been operational 
+and tactical rather than strategic. The aim of this Strategy is 
+to develop a 20-year vision to 2040. Since 2008 the University 
+has invested £350m in the estate and facilities. Assuming the 
+annual capital expenditure continues at £30m per annum, a 
+further £600m could be invested over the next twenty years. 
+This Strategy enables the development of vibrant, attractive, 
+adaptable and financially sustainable environments that support 
+teaching, research, enterprise and sport. This can be achieved 
+through understanding the needs of all stakeholders and planning 
+for resilience by examination of potential scenarios. A flexible 
+integrated approach to capital investment, maintenance and 
+space management will optimise the benefit of investments now 
+and in the future.
+1.3 Aims of the Estates Strategy
+In broad terms the aims of the Estates Strategy are to: 
+• Align the Estates Strategy with the University Strategy;
+• Build on the investment, the estate will be developed and 
+maintained in a phased approach over the next 20 years;
+• Provide a basis for capital planning and identify priorities  
+for investment;
+• Provide a flexible and adaptable estate that delivers 
+consistently high customer satisfaction levels;
+• Plan for an affordable and sustainable estate; 
+• Create a more cohesive Estate to give a stronger identity;
+• Deliver a digitally informed strategy;
+• Improve the quality of residential accommodation;
+• De-carbonise the estate to meet the Government’s zero-carbon 
+target by 2050;
+• Provide a structured building/renewal programme based on  
+the University Strategy and the needs of the aging estate;
+• Exploit the full potential of LUSEP by working with partners;
+• Provide a development context and urban design framework  
+to manage future development;• Improve the landscape and public realm of the main campus 
+and capitalise on the natural asset and attractiveness of the 
+green self-contained campus and its unique eco-system;
+• Better utilise existing space, increase efficiency and 
+sustainability, reduce costs;
+• Ensure that the estate complies with all HSE statutory and 
+regulatory requirements;
+• Provide a sustainable infrastructure for grey water recycling 
+and capture to sustain the grounds.
+1.4 Overview of the current estate
+The Loughborough campus in the heart of Leicestershire is a 
+large green site of 440 acres, providing a supportive and enriching 
+environment with first-rate facilities for both staff and students. 
+The estate is located close to a market town and is minutes away 
+from J23 of the M1 and 20 minutes from East Midlands Airport. 
+The Loughborough campus has a variety of academic, residential, 
+commercial and sports facilities and is 373,000sq.m in total.
+Loughborough University London postgraduate campus on Queen 
+Elizabeth Olympic Park is the former site of the 2012 London 
+Olympics, offers education, research and enterprise opportunities 
+in London’s newest innovation quarter.
+Since 2000 expenditure on capital infrastructure projects has 
+exceeded £350m. There are 154 buildings as well as a further 85 
+acres that is currently agricultural land adjoining the campus. 
+There is planning permission for the further development of the 
+Loughborough University Science and Enterprise Park (LUSEP) 
+and is part of an Enterprise Zone.
+The estate is divided into Parks comprising: East, Central, Village, 
+West and LUSEP.
+The importance of the estate is acknowledged in the University’s 
+risk register. Expenditure on the estate is the second largest 
+expense after salaries and pensions and estates and Facilities 
+Management is a critical area in the Business Continuity Plan. 
+The Estates Strategy will enable the development of a prioritised 
+plan that will inform lower spend if requested in line with the 
+budget available.1.0 Introduction
+Rutland Hall constructed in 1938 for £42,000Loughborough University Estates Strategy 2020-2040 
+1.0 Introduction
+08The Estates Strategy aims to support the University’s strategic 
+plan through analysis of the existing estate and consideration of 
+the Teaching, Research, Enterprise and Sport agendas for new-
+build or refurbishment projects.
+Based on known and projected requirements the size of the 
+University’s land bank should be capable of supporting projected 
+growth in the University’s strategic plan for the next fifty years. 
+Improvements will need to be made to the quality of the existing 
+estate to achieve a greater output from assets to provide the best 
+quality environment to maintain the excellent reputation. 
+Key priorities are to:
+1.5 Governance
+University committees are a core component of the University’s 
+governance structure and decision-making processes. In 
+addition to ensuring decisions are fully considered and formally 
+recorded, they are used for consultation and communication.
+Committees draw members from across the University, 
+continuing to make a key contribution to collegiality at 
+Loughborough, and are essential for the effective handling 
+of much University business. Discussing issues and making 
+decisions through committees ensures that the University is 
+operating transparently and is accountable for its activities. 
+In appropriate circumstances, to support speedy handling of 
+business, certain committee powers have been delegated to 
+individual officers.
+There are a number of University committees and project 
+management boards (PMB’s) that provide governance and policy 
+direction for all estates matters. These Committees and PMB’s 
+report to Senate, and Council.• Estates Management Committee: chaired by the COO, 
+supported by lay members, provides expert estates advice 
+relating to the estate management strategy and long-term 
+strategic plan.
+• Operations Committee: approves the relevant stages of major 
+and minor projects and provides appropriate management and 
+independent review.
+• Long-Term Maintenance PMB: chaired by the Finance 
+Director, the LTM PMB approves the prioritised rolling 3-year 
+maintenance programme and submits this to the Operations 
+and Estate Management Committees for approval.
+1.6 Key responsibilities
+Estates and Facilities Management is responsible for the
+development and maintenance of the infrastructure of the 
+University categorised as:
+• Capital Projects
+• Property Management
+• Statutory and Compliance Maintenance
+• Long Term Maintenance (LTM)
+• Planned Preventive Maintenance
+• Reactive Maintenance
+All works will be carried out in accordance with standards set 
+by the University which will be fully compliant with all statutory 
+and regulatory requirements. All planned maintenance will be 
+informed by detailed condition survey, the condition based LTM 
+programme, and in compliance with the priorities set by the EMC. 
+It will be important to work closely with the local planning 
+authority and Charnwood Borough Council to prepare 
+masterplans and development frameworks, particularly for  
+pre-application planning, option appraisals, feasibility studies  
+and individual project implementation.
+Loughborough University Estates Strategy 2020-2040 
+1.0 Introduction
+092.1 Key estate issues and objectives 
+Loughborough is an exceptional University. The combination 
+of an excellent student experience, enterprising outlook, 
+world class research and unparalleled sporting achievement 
+gives rise to something that’s truly special and distinctive 
+among the UK’s universities. The Estates Strategy aims to 
+support the development of vibrant, attractive, adaptable and 
+financially sustainable environments that support teaching, 
+research enterprise and sport. This has to be achieved through 
+understanding the needs of all campus users now and planning 
+for potential scenarios into the future. A flexible integrated 
+approach to capital investment, maintenance and space 
+management optimise the benefit of investment. 
+Delivering a coherent estate strategy means listening to the 
+needs of our customers to achieve the University’s objectives. 
+In operationalising this strategy it will be important for delivery 
+agents to work closely with all campus partners to understand 
+their requirements and develop and deliver investment that meets 
+their needs in terms of teaching, research, enterprise and sport. 
+We also work collaboratively with key services to ensure delivery 
+of a coherent campus masterplan.
+The Estates Strategy has five key themes:
+• Building for the future
+ The pace of change will be significant and a major priority 
+in this strategy is to introduce a digital Building Information 
+Modelling (BIM) based approach. Adaptability and flexibility 2.0 Estate Strategyfor all major capital investments is paramount, such that the 
+facilities can respond to changing and as yet unknown needs. 
+For example, the role of the library, is now a collaborative study 
+space, whereas 10 years ago it was a book repository. The pace 
+of technological change will also be a significant factor and 
+buildings will need to be adapted to support a digitally-enabled 
+learning environment. Security and stability of power supply 
+and other essential infrastructure will be essential to meet 
+future demands.
+• Making the most of our current assets
+ The size of the University’s land bank should support projected 
+growth in the University’s strategic plan for the next fifty years. 
+There should be no need to expand the physical size of the 
+estate; instead the University should seek to improve the quality 
+of the existing estate to achieve a greater output from assets. 
+This should be achieved by renovating and refitting existing 
+buildings to meet changing needs, improving performance and 
+reducing the environmental impact.
+• Affordable and sustainable estate
+ The University has a number of policies dedicated to 
+environmental sustainability and these have developed and 
+evolved over the last decade. All of these can be linked to 
+the Estates Strategy and used to inform and support its 
+delivery. The development and future operations of the 
+University must be underpinned by sound sustainability 
+principles. It will become a core value and principle that runs 
+throughout all aspects of university businesses and will be 
+visible to all and integrated into operations, processes and 
+procedures. The University has made a commitment to meet 
+the government’s net zero carbon target by 2050 and will 
+demonstrate a consistent and meaningful engagement with 
+Loughborough Estates Strategy Framework
+Loughborough University Strategic Pillars
+Loughborough University Strategic Ambitions
+Estates Strategic ThemesTeaching
+A distinctive international 
+reputation for excellenceAn outstanding university;  
+two vibrant campusesOutstanding partnerships 
+to deliver social, economic 
+and cultural prosperity
+The Strategy for the University’s estate is to develop and maintain an attractive, cohesive, sustainable environment  
+supporting the provision of two excellent campuses that will be a combination of technology, people and place.
+Building for the future
+School of ABCE  |   Academic Schools  |   Professional Services  |   LLEP/CBC/EZ  |   CREST  |   Students’ Union  |   Loughborough College1.
+Emphasis on adaptability 
+and flexibility
+Responsive to  
+changing needs
+Security of power and 
+essential infrastructure2.
+Exploiting the unique  
+green nature of our 
+Campus
+Renovating and refitting 
+our existing buildings  
+and infrastructure3.
+Deriving maximum value 
+from our estate
+Flexible and responsive  
+to change
+Agile and adaptable, Open 
+Systems Architectures 5.
+An environmentally 
+compliant and sustainable 
+estate
+Trajectory to achieve  
+a zero-carbon footprint  
+by 2050
+Maintaining the  
+green campus
+Sustainability  
+audit of projects4.
+Master planning
+Integrated and  
+connected campusMaking the most  
+of the current assetsIntegrated  
+campus planning  
+and infrastructureAffordable and  
+sustainable campusHealthy environment and 
+thriving communitiesA life shaping  
+student experienceA culture of delivering 
+excellence in  
+everything we doResearch Enterprise Sport
+Delivered through a professional Estates and Facilities Management teamUniversity Estates Strategy
+PartnersLoughborough University Estates Strategy 2020-2040 
+2.0 Estate Strategy
+10sustainability through the capital development programme, 
+campus operations and academic activities. Sustainability 
+considerations will be evident throughout activities and be a 
+common thread in forged partnerships. Active consideration 
+of environmental sustainaibility including carbon reduction 
+strategies will need to be tensioned against the affordability  
+of projects.
+• Integrated campus planning and infrastructure
+ To be effective, planning must deliver a physically connected 
+estate campus and the external environment through 
+consideration of all factors when considering a project, e.g. 
+public realm, energy, sustainability, inclusivity, footpaths, cycle 
+routes, car parking and access. In endorsing the strategy, 
+Senate stressed that all decisions on estates spending should 
+be accompanied by a consideration of investment in IT and 
+digital infrastructure. The capital programme should be 
+reviewed annually to take account of new priorities, risks and 
+changing economic circumstances. Planning for future mobility 
+to integrate autonomous vehicle infrastructure should be built 
+into plans now.
+• Healthy environment and thriving communities
+ The University aims to be a ‘good neighbour’ and the operation 
+and future development of the campus(s) must be done 
+sensitively and with respect for the local community and 
+borough.
+The Estate Strategy must: 
+• Comply with the law; 
+• Build, maintain and operate infrastructure in compliance with 
+all Health, Safety and Environmental legislation.
+• Operate within the terms of the Office for Students mandate; 
+• Continuously improve economy and efficiency as well as 
+effectiveness;
+• Transform the estate through the deployment of buildings 
+powered by the sun to create energy resilience and to 
+contribute to electric vehicle and decarbonisation targets.
+• Provide access for everybody and ensure that inclusivity and 
+Disability Discrimination Act requirements are considered in all 
+future plans;
+• Maintain the ability to respond flexibly to external opportunities; 
+• Acknowledge our social, civic, environmental and sustainability 
+obligations. 2.2 Contextual background
+The University continues to go from strength to strength. The 
+estates and facilities are integral to the success of the University 
+and have received numerous awards over the past few years. 
+The pace of change for the HE sector is greater than ever. Social, 
+economic and technological advancements are changing both 
+what students learn as well as their learning environment. Digital 
+learning and global connectivity expand opportunities for learning 
+but require high investment in shortening cycles to keep at the 
+forefront of practices. This technology is required and demanded 
+by students to support pedagogy. 
+One differentiating factor that drives much of Loughborough’s 
+success is the co-located student community and facilities’ that 
+provide lessons for life as well as work. The strategy must deliver 
+places and spaces that support and promote study, collaboration 
+and activity. It should also identify options to optimise use of the 
+estate through reduction in the size of buildings made possible  
+by flexible, adaptable, accessible design and operation. 
+The University has a robust governance and assurance regime 
+and committees exercise strict financial discipline overseen by 
+the Finance Committee. Wherever possible, capital projects will 
+be self-funded, and any leases granted to third-parties to build 
+on University land may be capped at 40 years with the exception 
+of LUSEP where longer leases may be considered to aide viability 
+of some projects. A full assessment of the infrastructure costs 
+should be considered in any lease negotiation.
+The post Brexit impact is likely to be significant and the effects 
+could include considerable inflation in construction costs, skills 
+shortages in the construction industry and longer supply chain 
+pipeline times. 
+The unquantified impact of the Augar Review means that the 
+University revenue could be less, and further efficiency savings 
+may have to be delivered. With estates and facilities being the 
+second largest area of expenditure, it is likely that the capital 
+programme could be targeted in any efficiency round and 
+therefore have an impact on any major expansion of the University 
+during the next decade.
+Loughborough University Estates Strategy 2020-2040 
+2.0 Estate Strategy
+113.0 The estate
+3.1 Overview of the campuses 
+London Campus consists of 7,700sq.m of leased accommodation 
+on Queen Elizabeth Park. This is one of the few buildings leased 
+as an institution and by 2021 will be home to 1,400 post graduate 
+students. The building will require refitting over time and the cost 
+of rental will increase in line with the agreement with the landlord.
+Loughborough Campus is a single site of 440 acres divided 
+into geographical zones and a Science and Enterprise Park. A 
+summary of the character and needs of each zone is set out below:
+East Park
+The redevelopment of the Student Union Building has been 
+identified as one of the two large projects within the capital 
+framework over the next 5 years. The Park also contains 
+academic departments, extensive sport facilities and two halls 
+of residence: Butler Court and Towers. Most buildings have 
+benefited from refurbishment over the past 15 years although 
+there are some legacy buildings identified for demolition or 
+refurbishment. The relocation of the School of the Arts from 
+the site shared with Loughborough College will provide an 
+opportunity for development or disposal. There are extensive 
+sport facilities that vary in age and condition, but all are evaluated 
+as sound for the next ten years. Several of the sports facilities 
+were provided by lottery funding between 2001 and 2004 and will 
+revert to LU ownership prior to 2027.
+Loughborough campus: parks key facts (2019)Central Park
+Has been developed over the years to provide co-located teaching 
+spaces and student support functions. Major refurbishments of 
+Schofield and Haslegrave has benefited academic departments 
+though Brockington and Manzoni Buildings remain in need of 
+refurbishment in the short to medium term. F Building, previously 
+occupied by the Chemistry Department, will be refurbished 
+and extended to provide a new building for part of the School of 
+Design and Creative Arts. Teaching accommodation in EHB will be 
+supplemented by the conversion of Quorn Hall by 2020 into large 
+lecture theatres. The condition of the teaching spaces is varied 
+and will require investment before 2030. An extension to the 
+School of Business and Economics and a new sports pavilion have 
+been proposed on Central Park. 
+Student Village 
+Provides accommodation for 3,768 students including the 
+new Claudia Parsons Hall. Some 2,537 rooms are provided by 
+third-parties. Standards of the accommodation varies across 
+the Village, ranging from the newer en-suite accommodation 
+under 10 years old to legacy accommodation including; Cayley, 
+Telford, Whitworth at circa 50 years old. Much of the supporting 
+infrastructure is in need of major refurbishment and adaptation 
+or redevelopment. The demolition or redevelopment of Whitworth 
+Tower, including the medical centre and the relocation of essential 
+utilities services, the Student Union owned Purple Onion shop and 
+other student facing services will be necessary. Furthermore, the 
+demolition would remove 67 bedrooms which should be replaced 
+as part of future redevelopment. Once complete this project will 
+enable an improved landscaped entrance to the Village and create 
+opportunity for development in a key location of the campus. 
+LLUUSSEEPPWWEESSTTVVIILLLLAAGGEECCEENNTTRRAALL
+EEAASSTT
+LUSEP West Village Central East Off 
+CampusLondon 
+CampusTotal site
+Residential sqm 0 9,080 43,379 8,617 15,738 3,467 0 80,279
+Non residential sqm 28,645 68,039 473 68,326 56,785 2,678 7,254 232,199
+Commercial sqm 46,984 10,753 563       578 3,395 5,527 1,203 69,005
+Overall park size sqm 75,629 87,872 44,415 77,520 75,917 11,672 8,458 381,483Loughborough Campus: Parks Key Facts (2019)
+LLOONNDDOONN  CCAAMMPPUUSS
+LUSEP West Village Central EastOff 
+CampusLondon 
+CampusTotal site
+Residential sq m 0 9,080 43,379 8,617 15,738 3,467 0 80,279
+Commercial sq m 46,984 10,753 563 578 3,395 5,527 1,203 69,005Non residential sq m 28,645 68,039 473 68,326 56,785 2,678 7,254 232,199
+Overall size sq m 75,629 87,872 44,415 77,520 75,917 11,672 8,458 381,483Loughborough University Estates Strategy 2020-2040 
+3.0 The estate 
+12To meet student expectations and ensure that the University 
+remains an attractive choice against increasingly attractive offers 
+from competitors, the future residential strategy should deliver 
+more en-suite self-catered rooms with 4’ beds. Dining halls will 
+be examined as an opportunity to create more innovative multi-
+use space to maximise their utilisation. Provision of improved 
+landscape and public realm infrastructure through the centre of 
+the legacy village would enhance a sense of community and safety 
+for pedestrians, cycling and socialising.
+West Park
+Traditionally this park contains engineering activities and 
+has been developed over the past 10 years to provide sport, 
+fitness and teaching facilities as well as a refurbished library. 
+The majority of the 1960’s Arup buildings will have been fully 
+refurbished by the end of 2019 leaving T Building comparatively 
+tired internally but sound in terms of external fabric and services. 
+The David Collett student accommodation requires refurbishment 
+and essential maintenance works are being undertaken, desirable 
+cosmetic works have been deferred.
+LUSEP 
+The development of the Science and Enterprise Park and external 
+partnerships are objectives that must be tensioned against 
+University uses and affordability. LUSEP phase 1 comprises the 
+original buildings purchased from British Gas in 2005 that are 
+occupied by a mixture of LU academic research and tenants. 
+These buildings will be in need of LTM investment during 2025-
+2030 to meet the standards required by tenants. The long-term 
+aim will to relocate office-based LU activity from LUSEP onto the 
+main campus through a mixture of redevelopment and better 
+utilisation of space. Phase 2 land is currently being developed 
+with LCC for a third-party tenant and outline planning permission 
+is being sought for the development of the phase 3 land up to 
+Snells Nook Lane. The availability of power in the quantities 
+required by tenants is already a factor that could limit the 
+growth of the Science Park until major infrastructure upgrades 
+by Western Power are implemented or LU sources or develops 
+alternative energy sources. 
+3.2 The character and performance  
+of the estate
+There has been an estates transformation over the last 10 
+years with over £350 million investment from a vibrant capital 
+programme. Some of the major estates projects >£3m delivered 
+since 2000 can be seen in Figure 1 overleaf.
+The campus is attractive for both staff and students, the sylvan 
+setting provides a beautiful environment for the well-being of 
+staff, students and tenants and supports a cohesive community 
+and unrivalled student experience. 
+The Loughborough campus presents a unique opportunity as 
+the environment cannot be replicated by any of our competitors 
+and our London Campus provides a city location as an attractive 
+alternative Postgraduate offer.3.3 The size of the estate 
+Every University estate is different, and the size of the estate 
+measured by the Gross Internal Area (GIA) metric demonstrates 
+that Loughborough is in the middle of the comparator group.  
+See Figure 2. 
+The Space Allocation Sub Committee, in consultation with 
+the Planning Office have selected a suitable group of 17 other 
+Universities1 against whom to compare ourselves in respect 
+of performance. Out of the many statistics submitted the main 
+subjects reported to our EMC are as follows.
+3.4 Age of the estate
+Although the capital programme has changed the profile of the 
+age range of the estate there remains a considerable number 
+of residential and non-residential buildings constructed in the 
+period 1960-79 and 1980-1999. Circa 50% of the buildings are 
+between 40-60 years old. Buildings of this age are of poor quality 
+and whilst many have been refurbished, there is still a significant 
+amount of the estate that needs major work to extend its physical 
+life. Where major replacements are needed this includes heating 
+and ventilation systems, compliance with statutory building 
+regulations and new government zero legislation. See Figure 3.
+3.5 Condition of the estate
+The department regularly evaluates and reviews the condition 
+maintenance and compliance needs of the estate and use Estates 
+Management Return (EMR) statistics to measure and benchmark 
+the performance of the estate against all the HE institutions that 
+submit a return to HESA. Whilst it is accepted that institutions 
+assess metrics differently, it does provide a useful comparison 
+and illustrates trends across the sector. 
+The condition of the estate is reported annually by the EMR 
+though this mechanism is currently under review by the Office  
+for Students (OfS). A simple standard assessment methodology  
+is used to assess the condition:
+• A: As new condition;
+• B: Sound, operationally safe and exhibiting only minor 
+deterioration;
+• C: Operational, but major repair or replacement needed in  
+the short to medium term.
+• D: Inoperable, or serious risk of major failure or breakdown.
+Building Condition (Residential)
+Loughborough
+UniversityBenchmark Comparison
+group (Median)
+A 1.4 8.2
+B 68.5 68.9
+C 26.5 8.3
+D 3.6 0
+Building Condition (Non-Residential)
+Loughborough
+UniversityBenchmark Comparison
+group (Median)
+A 3 9.65
+B 77 68.5
+C 19.7 19.7
+D 0.3 0.9
+  1 Comparator group is detailed in the table.Loughborough University Estates Strategy 2020-2040 
+3.0 The Estate 
+13Figure 1: major estates projects >£3m delivered since 2000
+Figure 2: 2018/18 Non-residential GIA insq.m
+Figure 3: Construction date of the estate (2018)‘00   ‘01   ‘02   ‘03   ‘04   ‘05   ‘06   ‘07   ‘08   ‘09   ‘10   ‘11   ‘12   ‘13   ‘14   ‘15   ‘16   ‘17   ‘18   ‘19   ‘20Long lease on 
+Queen Elizabeth 
+Olympic ParkLU London£20m    6,194m2National Centre for Sport 
+& Exercise Medicine
+LU Science & Enterprise Park
+£100m+m    85 hectaresDesign School
+£21m    7,920m2STEMLab (new build)
+£17m    5,162m2
+Falkner/Eggington Refurb
+£12m    573 bedsFootball Stadium
+£3m    3,000 seatsFitness Centre
+£6m    860m2W&S Building Refurb
+£50m    20,000m2Elite Athlete Centre & Hotel
+£7m    44 beds
+Student Village  
+Claudia Parsons (new build)
+£37m    617 bedsNottingham100,000200,000300,000400,000500,000600,0002017/18 Non-Residential GIA in sq m
+0
+Sheffield
+Birmingham
+Leeds
+Bristol
+Warwick
+York
+Southhampton
+Loughborough
+Leicester
+Reading
+Exeter
+Bath
+East Anglia
+Surrey
+Lancaster
+Bangor
+Aston
+20,00040,00060,00080,000100,000120,000Construction date of the estate (2018)
+0GIA in sq m
+Since 2000 1980-1999 1960-1979 1940-1959 1915-1939 Before 1840
+Residential Non-ResidentialLoughborough University Estates Strategy 2020-2040 
+3.0 The Estate
+14The breakdown of pool teaching rooms by size (the above table includes the new 
+EHB theatres but does not include London).
+3.8 Student accommodation
+It is an important part of the University Strategy to guarantee a 
+place in halls for all first-year students and this will be placed 
+under pressure should student numbers rise. The portfolio 
+consists of a mixture of on and off campus University and third 
+party owned properties. The residential estate consists of 6,305 
+bedrooms in total of which 3,768 are owned and managed by the 
+University with the remainder provided by third parties: Unite, 
+UPP and Beehive. 2,441 bedrooms are in catered halls and 3,864 
+in self-catered accommodation. 
+University Owned Halls 2019/20
+Catered Halls Beds
+Cayley 329
+David Collett 322
+Faraday 367
+Royce 373
+Rutherford 334
+Towers 310
+Self Catered Halls Beds
+Butler Court 251
+Claudia Parsons 480
+Falkner Eggington 519
+Telford 483
+Total University 3,768
+Third Party Partnership Halls 2019/20
+Catered Halls Beds Handback Partner
+Elvyn Richards 406 2044 UPP
+S/C Halls Beds Handback Partner
+John Phillips 298 2044 UPP
+Hazlerigg Rutland 196 2044 UPP
+Robert Bakewell 400 2044 UPP
+Harry French 389 2101 Unite
+The Holt 261 2103 Unite
+William Morris 478 2042 Unite
+Highfield, Ashby, Clavering, 
+Somerton38 2102 Unite
+Forest Court 71 2098 put 
+option at 2020Beehive
+Total Third Party 2019/20 2,537In 2018 the University Council approved a change of ambition for 
+the University to be in the upper half of the comparison group 
+rather than the upper quartile. The percentage of the non-
+residential estate in conditions A and B is median for the group. 
+The condition has improved from 16/17 but unless investment 
+is maintained then building condition will fall and the backlog 
+of maintenance will grow. The Capital Framework approved in 
+February 2019 has helped by increasing the overall LTM allocation 
+to compensate for the reduction in cyclical refurbishment works. 
+It will be important to monitor carefully building condition and 
+fitness for purpose considering the available budget.
+Space efficiency is improving having fallen from 14.4sq.m per 
+staff/student in 14/15 to 12.9sq.m in 16/17 and then risen to 
+13.01sq.m in 17/18. The median for the comparison group is 
+11.77sq.m. A reasonable adjustment of 10% in space to make 
+allowance for the additional footprint of many sports buildings 
+would bring the estate near to the median at 11.7sq.m. Reduction 
+of space and increased utilisation will continue to be a focus to 
+help improve quality and affordability of facilities. The absolute 
+measure of carbon for the estate has remained static over the 
+past few years as a result of investment in heating, lighting and 
+controls infrastructure off-setting the requirement of several  
+new facilities on campus.
+The future reporting of these statistics is currently under review 
+by Office for Students (OFS) since these may no longer be 
+reported to HESA.
+3.6 Operating costs
+In the EMR 17/18 return, the total property costs persq.m (GIA) 
+were £120.17, this is above the upper quartile of the comparison 
+group of £115.29; however, due to the inconsistency of what is 
+included across the sector it is more useful to consider how this 
+figure changes over time for LU rather than comparing against 
+the comparison group or the sector.
+3.7 Non-Residential accommodation
+The teaching space (school and pool teaching) comprises 
+33,400sq.m, of which 15,000sq.m is pool teaching space, 
+the balance being dedicated to school teaching use. The 
+apportionment of space allocated to each school and for pooled 
+use is shown in table x. The demand for larger teaching spaces 
+to meet the increased module sizes is being addressed by the 
+construction of two large lecture theatres. Analysis conducted 
+by the University timetabling team shows that the trend for more 
+large teaching spaces will increase; the strategy and masterplan 
+will need to adapt to meet future recruitment profiles.
+These figures are based on the information in CMIS  
+(Timetable system) and new School structures. School Approximate  
+total area M2
+Loughborough University London 2000
+Pool Teaching 15000
+School of Aeronautical, Automotive,  
+Chemical and Materials Engineering2000
+School of Architecture, Building and  
+Civil Engineering 500
+School of Business and Economics 900
+School of Design and Creative Arts 6000
+School of Science 2000
+School of Social Sciences and Humanities 1000
+School of Sport, Exercise and Health Sciences 1000
+Wolfson School of Mechanical, Electrical and 
+Manufacturing Engineering3000
+Total University 33400Loughborough University Estates Strategy 2020-2040 
+3.0 The Estate
+15The condition survey of the residential estate illustrates that 
+facilities range in condition from excellent (new-build) to 
+poor (aging infrastructure and buildings). Apart from the new 
+build, the general standard of accommodation maintenance 
+and refurbishment is below that of our competitors. Evidence 
+suggests that hall accommodation can be the deciding factor 
+in choosing a course at Loughborough. Whilst Loughborough 
+continues to win the ‘WhatUni’ award for best student 
+accommodation, the University should not be complacent. The 
+risk could come from other Universities or more likely, local third-
+party providers which are increasing the size of their operation in 
+Loughborough town. 
+The condition of the legacy estate in the Student Village is 
+poor in many areas and in need of refurbishment. The level of 
+investment planned until 2023/24 will be adequate to maintain 
+the accommodation but no more. Medium to long term strategies 
+for replacement are now required and it is necessary to consider 
+balancing the needs for generation of surplus income against the 
+deteriorating quality of the accommodation offering. 
+There is currently no planned rolling refurbishment programme 
+beyond the next 3 years. The existence of a rolling programme 
+is recognised as professional good practice in the provision of 
+residential accommodation. This is a stipulated requirement 
+when the University enters into third party residential agreements 
+where a lease of its land is involved.
+This strategy recommends a programme of investment. Firstly, 
+to reduce failure to the basic utilities i.e. water, power, heat 
+and IT. Secondly to deliver a more flexible residential estate 
+which students desire and thirdly offer the option of increased 
+bed numbers. The current cost of providing a bedroom in 
+new accommodation at 2019 prices is c.£70k per bed-space. 
+Suggested investment in total is in excess of £90m over a ten-year 
+period. There is flexibility and options within this figure to extend 
+or shorten the investment period dependent upon availability of 
+finance at the time. A study to identify a funded plan should be 
+undertaken by 2021. Stages two and three could be self-funded 
+or alternatively, a third-party provider could be contracted 
+to fund and build the accommodation on the estate. Third-
+party providers are already well established in the HE sector 
+providing a one-stop capability for the design, build, finance and 
+operation (DBFO) of new and existing student accommodation for 
+concession periods ranging in length from 40 years to 125 years. 
+The University’s stated preference is to self-fund capital projects 
+if funding can be secured. An important assumption that will be 
+applied to the study is that the University will not lease land in 
+excess of 40 years. It takes substantial time to conclude financial 
+arrangements for DBFO deals, often up to 2 years from inception 
+to contract award.
+3.9 Commercial estate
+The commercial property accounts for 19% of our space and 
+generates income of £2.5-3m per annum. The University has 
+increased the level of rent recently, in exchange tenants expect 
+suitable property in a good condition. 
+Within the University’s commercial portfolio, sufficient priority 
+and resource must be afforded to Imago’s conferencing, hotel and 
+events venues3.10 Service charges 
+The governance for LUSEP has emerged over time, moving from 
+primarily a single building with one or two large occupiers, to 
+a multi-building site with numerous tenants on different terms 
+and leases. This process of development meant that a ‘working 
+arrangement’, short of normal property management systems 
+for an estate of this scale, was adopted for service charges. This 
+arrangement has sufficed, although it has meant that there 
+has been some lost income which has impacted the recovery 
+of LTM costs. The University Property Office will establish a 
+legally compliant rigorous service charge system that can be 
+independently audited and complies with the industry standard 
+RICS Service Charge Code.
+3.11 Procurement
+The University has a collaborative approach to procurement and 
+has partnered with the University of Leicester. The current estates 
+procurement modus operandi has served the University well but 
+might not support future needs. This is because the procurement 
+landscape is shifting as budgets are placed under increasing 
+pressure by external factors including Brexit and Augar. The 
+University’s procurement strategy is reviewed regularly to ensure 
+that it offers best value via development and implementation of 
+category strategies, such as framework agreements for minor 
+and LTM works and estates consultancy.
+ 
+In order to optimise the procurement functions effectiveness four 
+principles have been adopted:
+• Procurement is engrained within the University’s planning 
+processes.
+• Fully worked up category strategies will cover 100% of the 
+procurement spend.
+• Optimum use shall be made of e-Procurement technology.
+• Procurement policies and procedures will continue to reflect 
+the latest legislation and best practice, whilst staying clear and 
+proportionate.
+3.12 Construction sector strategy
+The intention in this strategy is to build on the ‘Construction 
+Sector Deal’ between industry and the government that seeks to 
+transform the delivery of construction and infrastructure support. 
+It aims to deliver better performing buildings that are built more 
+quickly at lower cost and lower energy use. These goals will be 
+met by focussing on three strategic areas:
+• Digital techniques deployed at all phases of design will deliver 
+better, more certain results during the construction and 
+operation of buildings. Design teams, construction teams and 
+the supply chain working more closely together will improve 
+safety, quality and productivity during construction, optimise 
+Non-Re sidential
+58% Residential
+21%Commer cial 
+19%
+Vacant
+2%Gross internal area of the estateLoughborough University Estates Strategy 2020-2040 
+3.0 The Estate
+16performance during the life of the building and better the ability 
+to upgrade and ultimately dismantle and recycle buildings. 
+• Off-site manufacturing technologies can help to minimise the 
+inefficiencies and delays that affect on-site construction and 
+enable production to happen in parallel with site preparation 
+thereby speeding up the construction of higher performing 
+buildings and reducing disruption. 
+• Whole life asset performance will shift the focus from the 
+costs of construction to the costs of a building across its life 
+cycle, particularly its use of energy. In order to meet the net 
+zero carbon target, it will be important to assess the viability of 
+refurbishment with retrofit technologies versus demolition and 
+new-build. Whichever option is chosen the active technologies 
+should be proven and affordable in both terms of capital and 
+ongoing maintenance costs.
+3.13 Information technology 
+IT infrastructure has become a business critical utility for the 
+University over the last 20 years. In 1999 there was no wireless 
+network, not every office had a network point, and the student 
+Hallnet service was in its infancy.
+In 2019 there are now over 5,000 wireless access points, nearly 
+40 of which are outdoors supporting the estate landscaping 
+aspirations, and providing the connectivity required for: sporting 
+events, training, and research.
+IT and FM colleagues together manage over 350 communication 
+locations linked by underground ducts using 750 fibre optic 
+cables, providing network access to 67,000 wired network points 
+and the wireless network.
+Increasingly the network does not just connect computers, it 
+links: 4,000 telephones, 400 CCTV cameras, gym equipment, door 
+access, alarms, and even the swimming pool floor.
+The campus IT infrastructure is a key element for NSS 
+satisfaction, in particular, question 18 “The IT resources and 
+facilities provided have supported my learning well.” In 2019, 
+Loughborough were number one in England with an increase in 
+satisfaction from 91.47% to 92.4% in 2018.
+3.14 Digital campus 
+Existing processes are diverse and considerable effort and 
+complexity is required to deliver informed investment decisions 
+and generate the data to provide the end-to-end flow of 
+information from building design through to handover and 
+operation. Digital technology is about making processes as 
+frictionless as possible and decisions as effortless as possible. 
+Leading estates and facilities management organisations 
+are investing in digital Building Information Modelling (BIM) 
+technologies and processes. A BIM based approach enables the 
+creation of digital twins of the estate that can provide
+the information and data required by the University to optimise 
+the strategic governance of the estate.
+BIM supports the planning and tendering of capital projects and 
+enables contractors to handover high quality digital information, 
+3D models and structured asset data that can be used for on-
+going maintenance of the estate. 
+In the future, the University should not be procuring any newbuild 
+major capital projects without a BIM model with sufficient intelligence to inform through life management of the asset. The 
+benefits of a BIM based digital approach to estate management 
+are that it provides:
+• Cost analysis: commission new capital projects considering 
+whole lifecycle costs; 
+• A single source of truth for searchable and secure ‘as built’ data;
+• Safety: confidence in the reliability and traceability of safety 
+critical asset data;
+• Budget control: accurate profiling of capital, minor and  
+long-term maintenance budgets;
+• Improved estate utilisation: maximise the use of the estate by 
+coordinating activity based on digital asset utilisation data;
+• Reduced costs: diagnose and resolve maintenance issues 
+rapidly with easy access to ‘as built’ and manufacturer 
+information;
+• Improved project outcomes: control deliverables and costs by 
+specifying only useful asset information on capital schemes. 
+Use 3D simulation software to optimise design for use and 
+sustainability;
+• Shared vision: a joint organisational understanding of the 
+bigger picture to remove inefficient information management 
+practices; 
+• Becoming smart: deliver the digital agenda by accessing 
+accurate estates data.
+3.15 Energy 
+Council and Senate highlighted that the Strategy provides an 
+excellent opportunity to set the agenda within the sector on 
+reducing energy consumption, creating healthier buildings, 
+and improving the student experience. Figure 4 shows that 
+whilst energy consumption is steady the costs have increased 
+exponentially. In the future the University must reduce its 
+dependence on energy suppliers and drive down energy costs and 
+carbon emissions. 
+Further, the reliance on fossil fuel must be reduced in favour 
+of meeting heating, lighting and other power requirements 
+through environmentally sustainable options. Alternative ways of 
+procuring energy to supply the campus will be pursued to reflect 
+best practice and future infrastructure investments should be 
+based on low carbon solutions.
+Measure Loughborough Comparison Group Mean
+Energy cost per m2 
+GIA residential13.4 15.93
+Energy cost per m2 
+GIA non-residential8.28 10.87
+This will be supported by an Energy Strategy that will be 
+developed by the Energy and Sustainability Working Group 
+drawing on expertise from ABCE and CREST. The demand for 
+energy, particularly on the west of the campus and on LUSEP will 
+grow exponentially and further development on these sites will 
+require additional clean energy supplies to be provided. 
+• An assessment of the current load across the four main HV 
+rings and the future electrical demand has been mapped 
+against known requirements – see Appendix M. High level initial 
+analysis of the potential requirement is providing indicative 
+loads of between 5 and 7.5 MVA. It should be noted that there 
+are many unknowns in terms of what future buildings will be 
+used for and loads required for manufacturing on LUSEP. 
+• Options that should be considered and adopted to increase 
+energy capacity are limited. Two credible options have been 
+identified and will be developed. Loughborough University Estates Strategy 2020-2040 
+3.0 The Estate
+HV Supply
+Sir Richard  
+Morris
+Towers
+Holywell Park
+LUSEP
+Students’  
+Union2019 Capital Framework to 2024
+Authorised 
+supply capacity
+5,000
+2,000
+4,400
+2,000
+650kVAAuthorised 
+supply capacity
+5,000
+2,000
+4,400
+2,000
+650Spare  
+capacity
+620
+721
+65
+1,923
+350Spare  
+capacity
+260
+501
+25
+1,708
+300Projected 
+maximum 
+demand
+4,380
+1,279
+4,335
+77
+300Projected 
+maximum 
+demand
+4,740
+1,499
+4,375
+292
+350
+17Figure 4: Energy consumption
+Figure 6: Total scope 1&2 carbon emissions – 2010 baselineFigure 5: Current and predicted electrical loads2017/18 2016/1720,000,000
+10,000,00040,000,00060,000,00080,000,000100,000,000120,000,000140,000,000
+2018/19Total energy consumption (kWh)
+GasElectricity
+2017/18 2016/172,000,000
+1,000,0003,000,0004,000,0005,000,0006,000,0007,000,0008,000,000
+2018/19Total energy cost (£)
+GasElectricity
+2010/17 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/205,000
+-10,00015,00020,00025,00030,00035,00040,000Total scope 1&2 carbon emissions (tonnes CO 2)
+33,820
+tonnes  
+CO 225,330
+tonnes  
+CO 2target 
+amount
+tonnes  
+CO 2target 
+amount
+tonnes  
+CO 2Loughborough University Estates Strategy 2020-2040 
+3.0 The Estate
+18• Increase the Bulk Supply Point (BSP) supplying LUSEP from  
+2 MVA to 4 MVA to provide energy for LUSEP development.
+• A strategic decision is required to forgo any decision to dispose 
+of the Moat Farm site as it could be used to construct a 
+renewable solar PV energy farm on Moat Farm to supply c. 10 
+MVA which will meet the projected energy requirements for the 
+next 10 years and reduce the amount of the budget spent on 
+energy over the same period. 
+• In the 5-15 year time frame the opportunities associated with 
+the emerging Vehicle to Grid (V2G) technologies should be 
+exploited.
+The University will seek to draw on its very considerable in-house 
+research and teaching expertise on issues relating to climate 
+change, energy efficiency and environmental sustainability. The 
+aim is to contribute to national and international understanding 
+of these issues, to educate current students, regardless of their 
+discipline, and to inform and guide the University in its own 
+international management of its environmental responsibilities. 
+Active Building Centre (ABC) will be a national centre of excellence 
+working with supply chains from energy and construction 
+supported by 10 universities, including Loughborough. The ABC 
+vision is to transform the UK construction and energy sectors, 
+through the deployment of buildings powered by the sun to create 
+energy resilient communities and to contribute to electric vehicle 
+and decarbonisation targets.
+University buildings consume a great deal of energy giving rise 
+to high levels of carbon emissions. The potential exists to create 
+and operate buildings using materials that use heat and light 
+to make and store energy that can be released through ‘smart 
+energy systems.’ New technologies and methods of construction 
+will enable the cost effective production of highly energy efficient 
+walls, roofs and windows. Active buildings can reduce energy 
+costs by combining the use of solar cells and battery storage to 
+draw solar heated air into buildings as well as ground source 
+heating to provide warmth in the winter. A balance has to be 
+achieved between the benefits of active measures vs the capital 
+and ongoing support costs of the technologies.
+The capital approval process requires a business case for each 
+project including a section on carbon impact/reduction benefits. 
+The amount of energy/carbon consumed/saved will be a primary 
+driver in considering whether a project can proceed. All future 
+approvals should seek climate modelling and risk assessments 
+and net zero carbon projects/proposals as these will all have a 
+critical impact on the University’s ability to meet the 2050 net zero 
+carbon target.
+The European energy market has been extremely volatile in recent 
+years and a different approach to procurement has been adopted. 
+Electricity and gas supply contracts are procured through a 
+flexible purchasing product, rather than the more traditional fixed 
+price contract arrangement, allowing direct purchases from the 
+wholesale markets, daily, weekly or several months in advance 
+during the contract period thereby spreading the risk.3.16 Sustainability
+The University is committed to sustainable outcomes and the 
+University’s strategy ‘Building Excellence’ states that ‘we will 
+embed sustainability and social responsibility considerations  
+into all of our processes, operations and developments.’  
+The Sustainability Action Plan is built on three strategic 
+principles.
+• Embedded
+ Demonstrate a consistent and meaningful engagement with 
+sustainability through the capital development programme, 
+campus operations and academic activities and embed 
+sustainability considerations in school and services 
+management processes.
+• Visible
+ Sustainability considerations will be evident throughout our 
+activities and be a common thread in the partnerships that we 
+forge. The University will continue to have an important role 
+in enhancing the social and economic wellbeing of the town 
+and the wider region, working closely with key stakeholders 
+and organisations, including residents, local authorities and 
+businesses.
+• Integrated
+ Management of environmental impact in operational activity to 
+protect and enhance the surrounding environment. ISO 14001 
+provides the framework to meet increasingly high customer 
+expectations of corporate responsibility as well as legal and 
+regulatory requirements.
+These principles are underpinned by a number of strategic aims 
+and objectives covering teaching, research, enterprise, sport and 
+living. Operationally the University is committed to delivering 
+targets and objectives in the following areas: 
+• Waste Management 
+• Water Management 
+• Construction and Refurbishment 
+• Sustainable Travel and Campus Travel Infrastructure 
+• Emissions to Air & Discharges to Water 
+• Sustainable Procurement 
+• Carbon Management 
+3.17 Zero carbon 
+With the UK Government having ratified the COP21 agreement, 
+UK Universities need to prepare to be net zero carbon by 2050. LU 
+has a responsibility to meet the targets and aims set; and also, to 
+demonstrate to the students and academics that living, learning 
+and teaching on the campuses is delivered sustainably.
+The University emits approx. 27,500 tonnes p.a. from the estate. 
+In the EMR 2017/18 return, the Scope 1 and 2 carbon emissions 
+per student and staff full-time equivalent (FTE) (non-residential) 
+for LU are 0.9 against the median for the comparison group of 
+0.7. There is potential to influence the generations that will be 
+steering businesses, governments and organisations towards 
+the global 2050 targets. Setting a strong example now, in the way 
+universities approach reaching net zero carbon has the potential 
+to empower students to become responsible global citizens and 
+ensure the future resilience of the University.Loughborough University Estate Strategy 2020-2040 
+3.0 The Estate
+19
+Since 2008 the University has invested £350m in the estate. 
+Assuming the annual capital expenditure continues at £30m per 
+annum, a further total £600m will have be invested in the estate 
+over the period covered by this strategy to 2040. It is vital that this 
+capital spend contributes towards zero-carbon. The University 
+is well positioned to respond to the climate change agenda as 
+owners, developers, occupiers and operators of the buildings. The 
+cost benefit of investing in zero-carbon buildings can be realised 
+many times over during the building’s lifetime and the University 
+is in a unique position to become an exemplar of best practice.
+To be able to meet the net zero carbon target by 2050, the 
+University should demonstrate that it is on the trajectory to 
+achieve this by 2040. Unless new-build is the default approach 
+to future capital projects it will be difficult to meet energy and 
+sustainability targets. By 2040 the estate should have seen a 75% 
+reduction in our carbon emissions. This could be achieved by:
+• Achieving Passivhaus EnerPHit Certification. 
+• Reducing long term deterioration of the building fabric. 
+• A flexible services strategy for future energy generation, 
+storage and consumption. 
+All modern building refurbishments should consider adopting 
+retrofit technologies during project evaluation and must aim 
+to achieve a relevant and appropriate level of certification, this 
+could be: BREEAM, Passivhaus EnerPHit or a bespoke standard. 
+Where this is not possible, it must be demonstrated that this 
+approach has been considered, explain why it is not possible and 
+incorporate the best standard possible. 
+There is a risk associated with including the latest energy saving 
+technology and devices in building projects and the University 
+will therefore, be in the vanguard of the late adoption of new 
+technologies. Maximising the potential benefits from in-house 
+world leading academic experts in ABCE and CREST who are 
+best placed to advise on these new technologies should mitigate 
+the University’s exposure to risk. For example, including digital 
+building efficiency measures into all new buildings could 
+transform our understanding and management of the estate, 
+particularly in relation to energy efficiency.The refurbishment must consider the reduction of embodied 
+carbon in the project through considering the whole life cycle of 
+chosen materials, transportation and the proposed building works 
+and techniques. There remains limited guidance on achieving 
+whole life net zero carbon and ABCE will provide guidance.
+3.18 Sustainable travel
+The overall aim of the Travel Plan is to ensure that Loughborough 
+University is an accessible University for staff, students and 
+visitors without negatively impacting on the surrounding area.  
+The University will continue to actively persuade staff, students 
+and visitors to change their travel habits, especially single 
+occupancy vehicle use, in favour of more ‘active’ travel modes.
+Emphasis is placed on the health and wellbeing of all staff, 
+students and tenants by continuing to encourage ‘active’ travel 
+(walking and cycling) and reducing the environmental impact of 
+necessary vehicle travel.
+Our ambition is to pedestrianise the central spine of the campus 
+and to reduce the number of vehicles travelling to and from the 
+campus through the provision of efficient and reliable public 
+transport linking the transport modes and hubs. 
+The campus is not an inner-city location therefore it is likely that 
+there will be a requirement for 50% of staff to arrive by car for at 
+least the medium-term future. There are approximately 4,300 car 
+parking spaces across the campus with the majority of parking 
+to the West on the LUSEP. East Park parking provision does not 
+meet the current demand.
+The increased demand for spaces is driven by increased student 
+and staff numbers and the expansion of LUSEP with tenant 
+permits now accounting for 50% of all permits. The number of 
+visitors to the campus, particularly those sponsored by SDC, 
+continues to grow. It is estimated that the implementation of the 
+capital framework up to 2024 will result in a loss of approximately 
+100 spaces.
+A review of the travel management and Car Park Management 
+Strategy proposals will need to consider how to meet the 
+challenge of insufficient parking and an aspiration to reduce 
+the total number of cars on site in the longer term. Priority will 
+be given to initiatives to reduce demand through investment in 
+sustainable travel alternatives including the bus service and cycle 
+facilities. A strict enforcement and application of fines together 
+with proposal for charging of visitors for parking is proposed.
+The University could pedestrianise large areas of the campus  
+and eliminate all but essential delivery and emergency vehicles 
+to the centre of campus. Parking could be concentrated at West 
+Park as existing and the East Park could be served by a new 
+multi-storey car park on the site vacated by the School of Design 
+and Creative Arts in 2024.Loughborough University Estate Strategy 2020-2040 
+3.0 The Estate
+20Key factors that will influence the design and operation of  
+the estate:
+• Increasingly diverse student demographics will have specific 
+expectations. Rising demand for life-long learning will require 
+skills to be renewed during working careers. The estate will 
+need to engage in the ways required by the different groups 
+through continuous adaption of the learning environment to 
+support qualifications on a skill by skill modular basis.
+• On campus quality student experience of learning and 
+community will remain key. Increasing ‘blended and active 
+learning as part of the University’s digital strategy will be 
+important. The learning environment is required to be dynamic 
+and accessible and inspire participation and innovation.
+• Greater understanding of user needs in terms of spatial context 
+and conditions that allow students to thrive in the learning 
+environment.
+• A permeable estate and facilities that promote internal and 
+external synergies between academic schools and external 
+partners to drive innovation.
+• Priority in EZ implementation is to remove (current and future) 
+barriers to progress by achieving consistent availability of land 
+for development to enable the best opportunities to be realised 
+where a deal is in the commercial and academic interests of the 
+University.
+4.1 Academic space (teaching and learning) 
+A Learning and Teaching Space Strategy was approved in 2014 to 
+build capacity within the teaching space provision by maximising 
+the quality, flexibility, utilisation and operational support of all 
+teaching space to ensure that the ideal number, size, location and 
+layout fulfils all the University’s learning and teaching needs to 
+enhance the ‘student experience’. 
+The objectives included:
+• Optimum quality and geographical stock of teaching space 
+through the creation of 2 main teaching ‘hubs’ on Central and 
+West Park;
+• Encouragement of students to learn by conversation not 
+isolation;
+• Appropriate and future proofed provision of learning and 
+support technologies that are intuitive and consistent across all 
+teaching space;
+• Appropriate environments with diversity of design and layout to 
+support blended and informal learning
+Learning and teaching activities have been consolidated into key 
+locations on Central and West Parks. There remains a number of 
+opportunities to improve the quality of teaching spaces including 
+Matthew Arnold, John Cooper, John Pickford and Edward 
+Barnsley. These should be removed / replaced and re-purposed. 
+There is an allowance in the capital framework for a rolling 
+programme of pool space refurbishments that will focus upon 
+maintaining functional suitability and increase quality wellbeing 
+and inclusivity. Governance for this work is channelled through 
+the Learning Environment Innovation Group chaired by the PVC(T). 4.0 Future requirements
+Student surveys and qualitative data from the NSS have identified 
+the key criteria to effectively support the learning experience as:
+• Space for collaboration
+• Natural light
+• Adequate provision of power and data
+• Comfort, inclusivity and wellbeing
+ 
+These criteria have been incorporated into an approved learning 
+and teaching space design guidelines for use in all new 
+developments and refurbishments.
+It is important to retain a variety of teaching room styles to suit 
+the preferences for both delivery and learning. If student numbers 
+increase, facilities must respond through the creation of agile 
+and flexible infrastructure. The definition of ‘flexible’ should 
+be defined at the start of the design process for each proposed 
+project. There is the option to extend the teaching day and further 
+utilise the building assets. Teaching delivery will continue evolve 
+to align with technology which is supported through the Digital 
+Strategy.
+Students value spaces for independent study both within the 
+school as a base and within ‘neutral buildings.’ In particular, 
+they want increased capacity in the library with longer opening 
+hours and more communal study spaces & IT hubs. The 
+Digital Strategy for Learning and Teaching has examined the 
+provision of IT Labs across the campus. The IT Lab Review has 
+identified the requirement of a ‘Superlab’ to provide a holistic 
+space incorporating appropriate hardware, software, support, 
+appropriate amenities and social engagement. These criteria 
+have been included in an IT Lab design guidelines document for 
+use in all new developments and refurbishments. Virtualisation of 
+software is being progressed to aid flexible and agile learning to 
+support the physical environment.
+4.2 Research space 
+The immediate priority for the research agenda is to create 
+single and family accommodation for postgraduate research 
+students, academic visitors and newly appointed staff in order 
+to attract the most talented people to the University. This will 
+be on a commercial basis and will form part of the residential 
+accommodation strategy. Proposed projects which could be 
+externally funded include:
+• Rehabilitative Sciences Research and Innovation Centre
+• Centre for Advanced Automotive Research and Simulation
+• Centre for Arctic Studies
+•  Low carbon technology demonstrator within the LUSEP 
+development.
+In total these projects could have a value in the region of £40m 
+and require a 10% university funding of c£4m.Loughborough University Estates Strategy 2020-2040 
+4.0 Future Requirements
+21Figure 7: LUSEP growth potential 4.3 Loughborough Science & Enterprise Park 
+Requirements 
+LUSEP is currently home to over 2,000 staff and tenants. 
+Continued development is a key part of the University Strategy to 
+build upon partnerships with commerce, industry and national 
+research facilities. There is a science park area allocated in the 
+Charnwood Borough Council core strategy. The University land 
+identified for phase 3 of the LUSEP development is within this 
+zone along with adjacent land owned by several other parties. The 
+route to development of road and services infrastructure to serve 
+this land is not clear due to competing interest of all parties. The 
+table in Figure 7 highlights the significant growth potential that 
+exists on LUSEP with 85% of the space on phase 3 and 100% on 
+phase 4 available for future development.
+LUSEP development should seek to gain maximum benefit 
+from the external funding by being cohesive with the LLEP EZ 
+Implementation Plan that LU has helped develop. The goal is 
+to place LU in a dominant position to ensure that it has control 
+over the whole estate and has the freedom to implement an agile 
+masterplan for the development of the LUSEP sites. 
+ 
+The rate of growth of the Park will be organic and opportunistic as 
+external investment from tenants and development organisations 
+becomes available. Letting land on a long lease basis to secure 
+investment from tenants will depend upon the land availability 
+for longer term future use by the University. Development will 
+be limited by the availability of power until additional electrical 
+infrastructure is available from either Western Power or a 
+different provider of green energy.
+The long-term plan is to consolidate much as of the University 
+activity on LUSEP, making more commercial space available 
+for rental income. A recent review has culminated in 1,500sq.m 
+identified for relocation. The short-term ambitions would provide 
+growth of space for the innovation centre and an additional block 
+of accommodation for SportPark. Medium and longer-term 
+aims are to achieve security of power for future development of 
+facilities to support partnerships. A further option to consider for 
+the land could be the development of major sport facilities that 
+may include facilities of national significance.4.4 Sports Development Centre 
+Loughborough is the premier University for sport, with an 
+outstanding record of achievement in performance at every level 
+and in sport’s underpinning academic disciplines of exercise and 
+health sciences.
+The campus has the UK’s largest concentration of world-class 
+training facilities and support services across a wide range of 
+sports, including an indoor athletics centre, outdoor stadium and 
+a 50m swimming pool. Bases for a number of sports are located 
+on campus, including national performance centres for athletics
+and cricket.
+Recreational sport is equally important and there is a popular 
+programme of opportunities for sports enthusiasts of all levels 
+and abilities. The University has the largest intramural hall 
+sport programme for those students who enjoy being part of a 
+team with an element of competition. The University’s sporting 
+excellence is crucially underpinned by internationally renowned 
+teaching and research in sports science, engineering and 
+technology.
+SDC has a sports capital framework that sets out ambitions in 
+three categories:
+• Replacements funded through the LTM programme to deliver 
+artificial replacements such as change of EHB to a 2nd 
+waterbase surface, track and sports hall replacements and 
+upgrading of changing and storage spaces and reception 
+facilities.
+• Enhancements to improve the capability of current facilities 
+include: Performance Exercise Centre (PEC) improvements to 
+increase capacity within Powerbase; creating an SDC hub for 
+staff; Sir David Wallace – upgrade facility to deliver to current 
+needs; Holywell pitch 4 and stadium enhancement; increase 
+meeting / seminar space and provide additional sporting facility 
+including refurbishment of the Paula Radcliffe pavilion building 
+and potential relocation of gymnastics facility.
+• Game Changers are defined as projects that develop a 
+step change to creates a unique environment that ensures 
+Loughborough remains at the forefront of university sport and 
+grow the reputation global. Major investment is planned for 
+the development of new squash facilities and an enlarged LTA 
+Phase
+1
+2b
+4
+*Possible grow-on building adjacent to ATIC **Gross development parcels: excludes estate infrastructure and green space etc.  
+***Nemaura Pharma and Project X requirementsStatus
+Developed
+Outline 
+planning
+Approval to 
+purchaseSize (Gross) 
+hectares
+15.1
+7.2
+42% used inc. 
+infrastructure% plannedBalance 
+hectaresComments
+95
+47
+00
+11*
+00.75
+3.0
+42Limited opportunities for in-fill  
+e.g.. reuse of contractors car park
+Council approval to purchase2a
+3Developed
+Planning 
+application4.8
+26.13**95
+05
+15***0
+22.4Loughborough University Estates Strategy 2020-2040 
+4.0 Future Requirements
+22centre. SDC have ambitions for a new Sport Pavilion on East 
+Park, a 25m swimming pool, a 7,000-seater arena, a sports 
+pavilion and indoor football and rugby facility. These are not 
+currently funded and would be beyond the scope of the capital 
+framework.
+4.5 Student requirements
+The planned redevelopment of the Student Union Building by 
+2024 must provide for students needs now and into the future. 
+The location adjacent to the existing LSU Building will allow for 
+continuity of SU operations during construction and will ultimately 
+provide a welcoming pedestrian connection to the town. The brief 
+is currently under development and will consider the inclusion of 
+a variety of student services currently located elsewhere. 
+4.6 Future IT infrastructure requirements
+The planned Network 2020 project will provide a next generation 
+(Software Defined) network for the forthcoming eight to ten years. 
+This will provide the foundation of the digital campus of the future 
+and providing the opportunity to turn the University into a living 
+laboratory supporting global challenges in: energy, changing 
+environments, and infrastructure.
+Wireless network technology is a rapidly developing area, 2023 
+is predicted as a tipping point where some locations in the estate 
+can be deployed as wireless only areas. Wired networking will 
+still be required to connect the data intensive users, the actual 
+wireless access points and other devices like printers, BMS, etc.
+Ubiquity, Agility, and Capacity:
+• Martini networking (Any time, any place, anywhere) will be an 
+expectation for data-driven everything;
+• Increased recognition of the importance of video;
+• IT should be considered at the design phase of projects and 
+should integrate seamlessly with the built environment (not an 
+afterthought);
+• Increasing cellular technology in 5G and beyond will require an 
+increased density of mobile masts, and may require allocation 
+of space on the estate;
+• Ensure that copper and fibre network cabling is included in the 
+building condition survey;
+• Increase flexibility of buildings through dense wireless 
+deployments when technology matures.Resilience and Security:
+• To ensure two resilient fibre connections to each building 
+through two diverse duct routes;
+• To use a next generation network to automatically detect and 
+mitigate threats to service availability;
+• To use opportunities to migrate data and services into cloud 
+services in a response to changes in the estate and increases in 
+energy costs;
+• Ensuring a joint IT and FM infrastructure business continuity 
+plan is regularly reviewed and tested;
+• Continuing investment in infrastructure and robust project 
+management capability.
+4.7 Future Digital campus
+Looking to the future, the digital campus will support the 
+University ‘Digital Strategy for Learning and Teaching’ where 
+students of the future will benefit from the same disruptive 
+technology that has transformed our daily lives using platforms 
+like: Uber, Netflix, and Bitcoin.
+A next generation network facilitates the connection and 
+integration of intelligent building technology. This requires well 
+integrated, well managed, and highly functional information 
+systems underpinning the estate, improving the campus 
+experience and driving cost optimisation: 
+• Smart energy control of telephones, laptop chargers, and 
+any connected appliances in response to building occupancy, 
+timetables, control of energy demand, and time of day related 
+tariffs;
+• Smart maintenance can provide cleaning rotas specific to 
+building use, and generate just in time Planned Preventative 
+Maintenance requests;
+• Smart lighting can replace traditional 240v lighting circuits in 
+buildings with network connected LEDs;
+• Smart reporting of room occupancy with timetable integration 
+and associated environment controls;
+• Smart alerting and tailored support for building occupants in an 
+emergency situation.
+The future vision for intelligent buildings will require the control 
+of cyber security risks. The next generation network is critical to 
+implement mitigations including micro segmentation rules that 
+control access across the network and estate depending who you 
+are, what you are, and where you are.Figure 8: Sports capital framework 2018-2023
+Sports capital framework 2018-2023
+Game Changers Enhancements Replacements (LTM)
+ 
+Arena (7000) 
+Swimming Pool (25m)
+Tennis and Squash development 
+Sports Pavilion 
+HFC upgrade 
+Powerbase commercial 
+Holywell artificial 
+Holywell stadium 
+HiPac adaptions 
+Artificial tender 
+Waterbased pitch 
+PEC pitch 
+Badminton Centre 
+Holywell American Football 
+EHB sand-dressed 
+Rugby artificialLoughborough University Estates Strategy 2020-2040 
+4.0 Future Requirements
+234.8 Generation Z 
+The Association of University Director of Estates (AUDE) produced 
+a report looking at how universities need to develop to meet the 
+needs of Generation Z.
+This challenges the historic higher education learning process 
+in a world that has drastically changed from when it began. To 
+remain successful, universities must understand how to teach the 
+next generation of students. The report aims to understand what 
+today’s 10-year old’s will want from university and how the sector 
+caters for this.
+Within UK higher education the term ‘student experience’ has 
+become ubiquitous and embedded within discussions at every 
+level. Following the 2012 decision to increase student fees in 
+England, there has been a shift to a more demanding culture 
+among students as they bear the increased burden for the cost 
+of tuition. Universities are confronted with a new generation 
+of students who, with legitimacy, are stating, ‘I expect a better 
+quality university experience.’ This is a reasonable request as 
+students positively challenge the status quo as both consumers 
+and partners in their education.
+Today’s 10-year olds are ‘digitally dependent’, meaning they were 
+born into a world surrounded by advanced technology, their entire childhood will have been shaped by technology and the internet. 
+Generation Z will have higher expectations for their university 
+experience and this imbalance between generations will place a 
+greater demand on the sector.
+Over 77 per cent of students rate their learning experience 
+as better in innovative, new spaces. Advances in artificial 
+intelligence, internet connectivity and augmented and 
+virtual reality are due to transform estates into immersive 
+learning spaces. Universities will need to upgrade their digital 
+infrastructure to cater for this.
+The report identified eight key themes estate professionals should 
+consider to effectively address the challenges of educating today’s 
+10-year old’s. 
+• Prepare for the changing demographic of students
+• Ensure that technology and technology-based learning 
+approaches are suitable for future students
+• Adapt the physical space
+• Explore innovative partnerships with organisations
+• Utilise the vast potential to gather and analyse data
+• Co-locate with corporations, markets and new clusters of 
+business
+• Start investigating models of smart buildings
+• Blur boundaries between campus and non-campus
+Loughborough University Estates Strategy 2020-2040 
+4.0 Future Requirements
+245.0 Estates Master Plan 2020-2040
+Since 2008 the University has invested £350m in the estate. Assuming the annual capital expenditure continues at £30m per annum, 
+a further £630m could be invested in the estate over the period covered by this Strategy to 2040. 
+The project approval process for major capital building projects should consider: 
+• A strategic categorisation of capital projects, to ensure alignment with the University strategy, as well as operational needs.
+• A formalised ‘condition of each building’ for current and future investment considerations and planning purposes.
+• A robust whole-life based cost estimation process (3-point estimate) to inform financial planning.
+• Clear connection with other university committees and PMB’s to map dependencies e.g. IT and enterprise.
+2019-2024
+• School of Design and Creative Arts Building, incorporating  
+F Building
+• A new Students’ Union Building 
+• Construct Large Lecture Theatres
+• Demolish/refurbish Whitworth Tower
+• Re-develop/refurbish Student Village accommodation to 
+minimum B grade standard 
+• LTA & Squash courts
+• London 2.0
+• Sport Park Pavilion 4
+• Extension to the School of Business and Economics  
+(Sir Richard Morris)
+• LUSEP infrastructure inc grow on building
+• Holywell Building BMS
+• Net zero carbon initiatives
+• Car Parking infrastructure
+• Options to provide Campus Nursery provision
+• Public Realm
+• Rolling refurbishment of learning and teaching space  
+and assets
+• Creation of an IT Super-lab on each park
+• Rehabilitative Sciences Research and Innovation Centre 
+• Demolition of buildings
+• Holywell pitch 4
+• Stadium synthetic pitch 
+• Re-purpose of EHB squash courts
+• Improve campus signage/way finding2030-2040
+• By 2040 all campus buildings either constructed or 
+refurbished prior to 2015 will likely require refurbishment  
+or demolition
+• For this iteration of the Estates Strategy, it has been assumed 
+that the priorities in the University’s ‘Building Excellence’ 
+strategy will endure to cover the period 2030-2040
+• ABCE have been requested to support the development of 
+the capital programme with expert advice on technologies 
+and schemes that will help LU to meet its de-carbonisation 
+targets
+• Research Facilities enabled by external funding
+• Further phases of Student Village new-build/refurbishment
+• Development of LUSEP phases 3 & 4
+• Refurbishment of Hazlerigg & Rutland
+• Redevelopment of Central Park: Brockington, Wavy Top, 
+Geography and EHB 
+• SDC projects not delivered in 2025-30 plus: Indoor rugby 
+and football facility, Football stadium enhancements
+• Global sports hub 
+• Renewal of the Loughborough University London Lease2025-2030
+• Re-develop/Refurbish Student Village accommodation to 
+minimum B grade standard (includes data cabling)
+• Manzoni major refurbishment
+• Refurbish David Collett & Towers
+• Services infrastructure upgrade and investment in 
+sustainable technologies
+• Demolish: 3D design, Edward Barnsley, Fine Art, Sir Arnold 
+Hall, Campus Services offices
+• Pedestrianise main campus, construct large capacity car 
+parks on LUSEP, E&W parks and introduce park & ride
+• Public realm and landscape improvements
+• Brockington extension refurbishment
+• T - Building internal refurbishment
+• LUSEP Phase 3 & 4 sites – phased development
+• Rolling refurbishment of learning and teaching space 
+• Research Facilities enabled by external funding
+• SDC major projects categorized as game changers, 
+enhancements and replacements: 
+- Game Changers: 7,000 seat arena, 25m swimming pool, 
+sports pavilion/coaching hub inc spectator seating to 
+Rugby facility
+- Enhancements: Performance centre upgrade - creating 
+SDC hub and increased space for Powerbase 
+- Replacements: Paula Radcliffe building - track, upgrades 
+to changing spaces and reception facilitiesLoughborough University Estates Strategy 2020-2040 
+5.0 Estates Master Plan 2020-2040
+25Appendices
+A Loughborough Estates Strategy Framework
+B Estates Strategy Planning Framework 2020-2024
+C Estates Strategy Planning Framework 2025-2030
+D Estates Strategy Planning Framework 2030-2040
+E Estates Capital Framework Major and Minor  
+ Projects (June 2019)
+F Campus Parks
+G East Park Strategy 2020-2040
+H New Loughborough Students’ Union
+I Central Park Strategy 2020-2040
+J Student Village Strategy 2020-2040
+K West Park Strategy 2020-2040
+L LUSEP Strategy 2020-2040
+M Energy Demand
+N Pedestrianisation and Sustainable TravelLoughborough University Estates Strategy 2020-2040 
+Appendices
+26
+A: Loughborough Estates Strategy Framework
+Loughborough University Strategic Pillars
+Loughborough University Strategic Ambitions
+Estates Strategic ThemesTeaching
+A distinctive international 
+reputation for excellenceAn outstanding university;  
+two vibrant campusesOutstanding partnerships 
+to deliver social, economic 
+and cultural prosperity
+The Strategy for the University’s estate is to develop and maintain an attractive, cohesive, sustainable environment  
+supporting the provision of two excellent campuses that will be a combination of technology, people and place.
+Building for the future
+School of ABCE  |   Academic Schools  |   Professional Services  |   LLEP/CBC/EZ  |   CREST  |   Students’ Union  |   Loughborough College1.
+Emphasis on adaptability 
+and flexibility
+Responsive to  
+changing needs
+Security of power and 
+essential infrastructure2.
+Exploiting the unique  
+green nature of our 
+Campus
+Renovating and refitting 
+our existing buildings  
+and infrastructure3.
+Deriving maximum value 
+from our estate
+Flexible and responsive  
+to change
+Agile and adaptable, Open 
+Systems Architectures 5.
+An environmentally 
+compliant and sustainable 
+estate
+Trajectory to achieve  
+a zero-carbon footprint  
+by 2050
+Maintaining the  
+green campus
+Sustainability  
+audit of projects4.
+Master planning
+Integrated and  
+connected campusMaking the most  
+of the current assetsIntegrated  
+campus planning  
+and infrastructureAffordable and  
+sustainable campusHealthy environment and 
+thriving communitiesA life shaping  
+student experienceA culture of delivering 
+excellence in  
+everything we doResearch Enterprise Sport
+Delivered through a professional Estates and Facilities Management teamUniversity Estates Strategy
+PartnersLoughborough University Estates Strategy 2020-2040 
+Appendices
+New 
+Loughborough 
+Students’ Union√ √ √ √ √ √ √ High 2021- 24Existing facility 
+condition£35m
+W and S Building 
+Refurbishment√ √ √ √ √ High 2016-19 £43m
+Demolition √ Medium £0.50 
+Tenant led D and 
+B (LCC – Access 
+bldg)Medium 0
+Grow on Building √ √ √ Medium 2021> £6m (£3m LU)
+Sport Park 
+Pavilion 4√ √ √ High 2021> £5.5m (£nil LU)
+Extension to 
+School of 
+Business and 
+Economics (Sir 
+Richard Morris)√ √ √ √ √ √ Medium 2021- 24 £5m (nil LU)Capital 
+Framework 2019 
+to 2024Building for the 
+FutureMaking the most 
+of our current 
+assetsAffordable and 
+sustainable 
+campusIntegrated campus 
+planning and 
+InfrastructureHealthy 
+environment and 
+thriving 
+communitiesTeaching Research Enterprise Sport Priority programme RiskStrategic themes Strategic pillars Project Criteria
+2022 - 24Structural 
+adequacy check£30m √ √ √ √ √ √ √Capital 
+Framework 
+AllocationStudent & Staff 
+experience
+2019 -20 £2.3m
+LTA and Squash 
+Academy√ √ HighLarge Lecture 
+theatres√
+High 20219-20 £4.3m √ √
+£15m (£2m LU) Medium
+Projects X, Y & Z √√ RRR √
+√25m swimming 
+pool√ √NCARRS Lab √Key Project with existing capital framework allocation Projects with Zero capital framework allocation Estate Strategy Planning Framework 2020 to 2024 
+Whitworth Tower
+Medium LLEP/EZ √
+Nil
+24/7 Library 
+Learning Zone √√ √
+Nil
+√
+NilPVC/SDC potential projects not listed on capital frameworkLondon 2.0 √
+√Nil
+7,000 seat arena √Increased scope 
+and costNew Arts 
+Development 
+Building
+£2.5m
+√√ √ 2020-21
+2022-23 £4.5m √ √ High√ High
+27B: Estates Strategy Planning Framework 2020-2024Loughborough University Estates Strategy 2020-2040 
+Appendices
+Refurbish 
+Manzoni ✓ ✓ ✓ ✓ ✓ Medium Major Low Nil
+David Collett - 
+Refurbish✓ ✓ ✓ ✓ High Major Low
+Telford - 
+Redevelop✓ ✓ ✓ ✓ High Major High Nil
+Faraday - 
+Redevelop✓ ✓ ✓ ✓ High Major High Nil
+25m Swimming 
+Pool✓ ✓ ✓ ✓ High Major Medium Nil
+Arena (7k seat) ✓ ✓ ✓ ✓ ✓ High Major Medium Nil
+Sports pavilion / 
+coaching hub✓ ✓ ✓ ✓ ✓ High Major Medium Nil
+Performance 
+centre 
+upgrade/SDC hub✓ ✓ ✓ ✓ High Major Medium Nil
+Campus library - 
+refurbish✓ ✓ ✓ ✓ High Major Low Nil
+Upgrade IT 
+infrstructure✓ ✓ ✓ ✓ ✓ ✓ ✓ High Major High Nil
+Public realm. And 
+pedestrian links to 
+student village✓ ✓ ✓ ✓ Medium Major Low Nil
+Grade II listed 
+building in FM 
+Yard - refurbish✓ Medium Minor High Nil
+T-Building - 
+Refurbishment✓ ✓ ✓ ✓ ✓ High Major High Nil
+Increased energy 
+infrastructure to 
+LUSEP✓ ✓ ✓ ✓ High Major High NilRutherford - 
+RedevelopMediumTowers - 
+Refurbish/replace
+Nil Medium MajorMatthew Arnold / 
+John Cooper 
+Refurbish / 
+replace✓ ✓ ✓
+Major High Nil
+✓ ✓Capital 
+Framework 
+AllocationStudent & Staff 
+experienceKey Project with existing capital framework allocation Projects with Zero capital framework allocation Estate Strategy Planning Framework 2025 to 2030 
+Wavytop 
+Replacement✓ High Major High Nil ✓Research Enterprise
+Major Medium Nil ✓ ✓ MediumEHB - 
+Refurbishment✓ ✓ ✓ ✓✓ ✓ ✓ ✓
+✓ ✓ ✓✓ ✓Capital 
+Framework 2025 
+to 2030Building for the 
+FutureMaking the most 
+of our current 
+assetsAffordable and 
+sustainable 
+campusIntegrated campus 
+planning and 
+InfrastructureHealthy 
+environment and 
+thriving 
+communitiesTeaching
+Cayley - 
+RedevelopSport Priority Programme RiskStrategic themes Strategic pillars Project Criteria
+✓ HighMajor Medium Nil Medium
+High Major High Nil ✓
+28
+C: Estates Strategy Planning Framework 2025-2030Loughborough University Estates Strategy 2020-2040 
+Appendices
+Major investments de-
+carbonisation projects and 
+use of all resources✓ ✓ ✓ High Major Medium Nil
+Cost of keeping technology 
+current for connectivity and 
+partnerships ✓ ✓ ✓ ✓ ✓ ✓ High Major Medium Nil
+Development of LUSEP and 
+partnerships✓ ✓ ✓ ✓ ✓ High Major Medium Nil
+Major refurbishment or 
+replacement of all sports 
+buildings and facilities and 
+reduction in space✓ ✓ ✓ ✓ ✓ ✓ ✓ High Major High Nil
+Refurbishment programme 
+for all academic buildings not 
+refurbished over the past 25 ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ High Major High Nil
+Campus pedestrianisation 
+projects and new transport 
+technology✓ ✓ ✓ ✓ ✓ High Major Low Nil
+Public Realm and landscape 
+improvements✓ ✓ ✓ ✓ ✓ High Major Low Nil
+Centre for Artic Studies ✓ ✓ ✓ High Major Medium Nil
+Low Cardon demonstrator ✓ ✓ ✓ ✓ High Major Medium Nil
+LUSEP Infrastructure 
+Development✓ ✓ ✓ ✓ ✓ ✓ High Major High Nil
+Indoor rugby and football 
+facility✓ ✓ ✓ ✓ High Major Medium Nil
+Football stadium 
+enhancements✓ ✓ ✓ ✓ High Major Medium Nil
+Sports Pavilion ✓ ✓ ✓ ✓ High Major Medium Nil
+25m swimming pool ✓ ✓ ✓ ✓ High Major Medium Nil
+7000 seat arena ✓ ✓ ✓ ✓ High Major Medium NilPotential projects identified by PVC’s and SDC (carried over from 2030)Capital 
+Framework 
+AllocationStudent & Staff 
+experienceKey Project with existing capital framework allocation Projects with Zero capital framework allocation Estate Strategy Panning Framework 2030 to 2040 
+Research EnterpriseCapital Framework 2030 to 
+2040Building for the 
+FutureMaking the most 
+of our current 
+assetsAffordable and 
+sustainable 
+campusIntegrated campus 
+planning and 
+InfrastructureHealthy 
+environment and 
+thriving 
+communitiesTeaching
+A University academic strategy vision to 2040 is required to inform the requirements of the estate to support strategic and operational activities. There are no new major project committed for the period and those suggest are based on estates needs only since there is no 
+academic strategy or projects other than the potential for the very speculative PVC (E) projects and the ‘game changer’ potential projects of SDC. We only know that will have an aging estate with constant need for maintenance.  Assuming a IRV of £1.5bn. A 2% allowance 
+for refurbishment would equate to the £30m total annual capital budget.  RICS recommend a combination of new build and refurbishment of 4 to 5% of IRV invested annually.  The size of the campus will have to reduce.Sport Priority Programme RiskStrategic themes Strategic pillars Project Criteria
+29D: Estates Strategy Planning Framework 2030-2040Loughborough University Estates Strategy 2020-2040 
+Appendices
+30
+E: Estates Capital Framework Major and Minor Projects (June 2019)
+Estate Capital Framework
+Major capital projects with financial allocation  
+@ Sept 2019Loughborough University Estates Strategy 2020-2040 
+Appendices
+SNELLS    NOOK    LANESNELLS NOOK LANESNELLS NOOK LANE
+                         A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD
+EHB Sports TurfWater Based Hockey Pitch
+Haslegrave Cricket GroundPaula Radcliffe
+Athletics Stadium
+Ball Park & 
+ECB Nets
+1st XV Rugby PitchPEC Sports Turf
+Brockington Pitches 
+& Cricket Nets
+Towers Rugby Pitch
+Tennis Courts
+Outdoor Courts
+Paddock Park
+and Run Trails
+Loughborough University
+StadiumRubber CrumbHolywell 1 Pitch 
+Holywell 2 Pitch 
+Steve Backley National
+Throws Centre (Holywell 3) 
+Holywell 4 Football Pitch
+Holywell 5 Football Pitch
+Holywell 6 Football Pitch
+Holywell 7 Football PitchBeach ParkGames Park
+1
+2 34
+5
+68
+71112
+141319
+1618
+17232221
+24
+1527
+2629
+28
+43
+4530
+433232
+42
+3131
+413833
+49 4834
+39
+37
+468081
+7978
+77828485
+86
+76
+75 74
+706972
+7164
+62
+6153
+54
+55565760A6768
+59
+5958
+5866
+6573
+108115
+116
+117107
+104103102
+106105 114113
+112100969798
+99959491939292125125
+125
+123
+118119
+120121
+34
+3383
+63
+10
+10B41
+9
+Holywell
+Wood
+Hurst 
+Farm
+Jamson’s
+PlantationBurleigh Brook
+Longcliffe Golf ClubGarendon
+Park
+Shepard’s
+HillShortcliff Brook
+10A1A60B
+11A35
+36
+9A40
+20
+7
+                                                               
+   A512        N
+EW
+ ASHB
+Y ROAD    
+ 
+ 
+ 
+  A512        N
+EW
+ ASHBY ROAD
+                         A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROADA512   ASHBY ROAD  A6004 EPINAL WAY                      A6004 EPINAL WAY       A6004 EPINAL WAY                                                                                                  A6004 EPINAL 
+M1
+M1JUNCTION
+23To Forest Court 132
+The Holt 133To Frederick Street 131
+A60 NottsA6 Derby
+M1, J23To Nottingham
+To Leicester
+West entranceEast entrance
+West ParkVillage ParkCentral Park
+East Park
+LUSEP
+Published under License by Location Maps Limited PU100029016 all rights reserved. 0800 7314 084  www.locationmaps.comA6 Derb y
+A60 Notts
+M1, J23
+31For estates planning purposes the campus is divided into five zones:
+East Park, Central Park, Student Village Park, West Park and LUSEPF: Campus ParksLoughborough University Estates Strategy 2020-2040 
+Appendices
+Future Capital Projects 2019 to 2024
+• Construction of new Students’ Union Building
+• Demolish: John Hardie, John Clements and possibly John 
+Cooper to create public realm/future developments
+• Provide standby power
+• Provide external power and storage on Shirley Pearce Square 
+Future Capital Projects to 2031 to 2040
+• Power generation – solar/PV
+• Replacement or major refurbishment of Performance 
+Education CentreFuture Capital Projects to 2025 to 2030
+• Refurbish/Replace Towers and Butler Court student 
+accommodation
+• Development of land on other side of Epinal Way
+• Construction of multi-storey car park with solar generated 
+electric charging and vehicle to grid(V2G) storage
+• Refurbish/replace Matthew Arnold and possibly John Cooper 
+• New 25m swimming pool 
+• Sports pavilion/Coaching hub inc spectator seating for Rugby
+LSU to be demolished 
+and redeveloped  
+(2021-2024)
+John Hardie to be 
+demolished in 202025m swimming pool
+John Clements used 
+for temporary space 
+or demolished for 
+development site
+John Cooper used 
+for temporary space 
+or demolished for 
+development site
+Art buildings dispose 
+or redevelop as 
+multi-storey car park 
+with bridge to main 
+campusSports pavilion/
+Coaching hub inc 
+spectator seating for 
+Rugby
+Refurbish Towers  
+and Butler Court
+New LTA academy  
+and Squash 2020Projects with potential 
+capital framework 
+allocationsProjects have no capital  
+framework allocations
+32
+G: East Park Strategy 2020-2040Loughborough University Estates Strategy 2020-2040 
+Appendices
+The new LSU will be set back from 
+existing mature trees framing  
+views from the Bastard Gates.Create views to the  
+administrative and student hubsProposed vista and paths create  
+links between LU and town.
+The task is to create a new Student Union Building that is fit for a 21st century Student Union of the present day that is adaptable and flexible to accommodate the yet  
+unknown needs into the future. The working brief is for the new building to be the gateway to the student experience on campus; a campus living room.  
+An indicative allocation of £5m (including £5m from philanthropic donations) has been allocated for the project.
+33H: New Loughborough Students’ UnionLoughborough University Estates Strategy 2020-2040 
+Appendices
+Refurbish Hazlerigg 
+& Rutland and reduce 
+energy/carbon 
+footprint
+Manzoni - refurbish
+Sir Arnold Hall - 
+demolish
+Wavytop - demolish 
+and replace with new 
+building in 2030-2040 Future Capital Projects 2019 to 2024
+• Large lecture theatres
+• New School of Design and Creative Arts
+• Improved Public Realm linking to new Students’ Union
+• Pedestrianisation of area around Hazlerigg, Rutland and  
+new Students’ Union
+• Demolish Sir Arnold Hall
+• Provide standby power
+• Provide charging points for Electric Vehicles
+Future Capital Projects to 2025 to 2030
+• Wavytop replacement
+• EHB refurbishment
+• Manzoni refurbishment
+• Demolish Campus Living & GP Surgery and relocate services
+• Refurbish sports pitches
+• Improved Public Realm and pedestrian/cycle links  
+to student village 
+• Refurbish Grade II listed building in E&FM yard
+Future Capital Projects to 2031 to 2040
+• Replace CHP with alternative power generation and  
+storage facility
+• Real investment required for de-carbonisation and security  
+of power plus other services
+Projects with potential 
+capital framework 
+allocationsProjects have no capital  
+framework allocationsEHB- new large 
+lecture theatres and 
+repurposed squash 
+courts
+G. Oldham - demolish 
+as part of new Arts 
+developmentG Block - refurbished 
+as parts of Arts 
+development
+F Building - major 
+refurbishment and 
+new build to create 
+new Arts development Extension to the 
+School of Business 
+and Economics
+34
+I: Central Park Strategy 2020-2040Loughborough University Estates Strategy 2020-2040 
+Appendices
+35J: Student Village Strategy 2020-2040
+Future Capital Projects 2020 to 2024
+• Requirement to balance maintenance of student bedroom numbers and associated income for LU with challenge  
+of not having the capital to improve the standard of LU accommodation to meet student expectations.
+• Provision of postgraduate accommodation 
+• Phases 1-3 of a 7-phase programme to redevelop the Student Village:
+• Phase 1: Upgrade the services & IT Infrastructure to improve resilience and improve Public Realm and landscaping.
+• Phase 2: Demolish/Refurbish Whitworth Tower and relocate services incl 67 student bedrooms.
+• Phase 3: Redevelop Cayley and create an Accommodation Services hub, retail facility and medical centre. Future Capital Projects to 2025 to 2030
+• Phase 4 - Redevelop Rutherford.
+• Phase 5 – Redevelop Royce.
+Future Capital Projects to 2030 to 2040
+• Phase 6 – Redevelop Telford.
+• Phase 7– Redevelop Faraday.
+UPP
+ROYCECAYLEYCLAUDIA PARSONS
+RUTHERFORD
+TELFORDFARADAYLoughborough University Estates Strategy 2020-2040 
+Appendices
+W & S Building 
+- refurbished  
+investment in STEM 
+for research and 
+teaching.
+Complete Nov 19
+Stadium -  
+synthetic pitch Refurbish  
+David Collett
+Pitch no 4 -  
+synthetic surface
+Future Capital Projects 2019 to 2024
+• Refurbish David Collett accommodation
+• Provide Uninterrupted Powers Supply (UPS) and  
+standby power 
+• Convert ‘Penthouse’ into student IT and self-study/learning 
+space 
+• Reconfigure West Park access to accommodate LUSEP  
+phase 3 and 4 development and prevent congestion
+Future Capital Projects to 2025 to 2030
+• Refurbish T Building
+Future Capital Projects to 2031 to 2040
+• Potential relocation onto LUSEP of Imago conference  
+and hotel facilities
+• Replace CHP with alternative power generation and  
+storage facility
+• Refurbish/demolish John Pickford/Sir Frank Gibb labs
+• Refurbish Stewart Miller 
+• Refurbishment of West Park Teaching Hub
+Projects with potential 
+capital framework 
+allocationsProjects have no capital  
+framework allocationsT Building - essential 
+refurbishment to 
+fabric and services
+36
+K: West Park Strategy 2020-2040Loughborough University Estates Strategy 2020-2040 
+Appendices
+Phase
+1
+2b
+4
+*Possible grow-on building adjacent to ATIC **Gross development parcels: excludes estate infrastructure and green space etc.  
+***Nemaura Pharma and Project X requirementsStatus
+Developed
+Outline 
+planning
+Approval to 
+purchaseSize (Gross) 
+hectares
+15.1
+7.2
+42% used inc. 
+infrastructure% plannedBalance 
+hectaresComments
+95
+47
+00
+11*
+00.75
+3.0
+42Limited opportunities for in-fill  
+e.g.. reuse of contractors car park
+Council approval to purchase2a
+3Developed
+Planning 
+application4.8
+26.13**95
+05
+15***0
+22.4
+37
+Future Capital Projects 2019 to 2024
+• Enterprise Office to publish options for  
+25 year plan.
+• Development should seek to gain maximum 
+benefit from external funding by being cohesive 
+with the LLEP EZ Implementation Plan.
+• Goal is to place LU in a dominant position to 
+ensure that it has control over the whole estate 
+and freedom to implement an agile masterplan 
+for the development of the LUSEP sites.  
+• Migration of LU academic Schools to main 
+campus (with the exception of some research 
+facilities) to release space for rental.
+• Planning for PVC (R): speculative projects of 
+NCAARS, Centre for Arctic studies, Low Carbon 
+Technology demonstrator.
+• Planning for PVC (E): priority for grow on space, 
+Sport Park pavilion 4, infrastructure and power,. 
+Other potential large projects of Nemaura 
+Pharma, Project X, global sports hub sport 
+cluster. 
+• EZ Infrastructure to open-up 27 hectares of 
+space in Phase 3 creating 2,850 jobs.
+• New floorspace at LUSEP EZ (two pre-lets and 
+move-on space).
+Future Capital Projects to 2025 to 2030
+• 17,000 sq m of additional space in three projects 
+delivering up to 1,000 jobs.
+• Creation of 3,500 m2 of move on space at LUSEP 
+EZ Phase 2.
+• Increased Power infrastructure to cover 
+additional phases of LUSEP EZ.
+• Development of International Sports Hub 
+focussed on sports technology and advanced 
+manufacturing.
+Future Capital Projects to 2031 to 2040
+• Consideration for major sporting facilities 
+envisioned  
+by SDC.
+• Potential revenue projects to support extended 
+marketing and promotion and the development 
+of enhanced business start-up and growth 
+support.LUSEP in numbersL: LUSEP Strategy 2020-2040Loughborough University Estates Strategy 2020-2040 
+Appendices
+SNELLS    NOOK    LANESNELLS NOOK LANESNELLS NOOK LANE
+                         A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD
+EHB Sports TurfWater Based Hockey Pitch
+Haslegrave Cricket GroundPaula Radcliffe
+Athletics Stadium
+Ball Park & 
+ECB Nets
+1st XV Rugby PitchPEC Sports Turf
+Brockington Pitches 
+& Cricket Nets
+Towers Rugby Pitch
+Tennis Courts
+Outdoor Courts
+Paddock Park
+and Run Trails
+Loughborough University
+StadiumRubber CrumbHolywell 1 Pitch 
+Holywell 2 Pitch 
+Steve Backley National
+Throws Centre (Holywell 3) 
+Holywell 4 Football Pitch
+Holywell 5 Football Pitch
+Holywell 6 Football Pitch
+Holywell 7 Football PitchBeach ParkGames Park
+1
+2 34
+5
+68
+71112
+141319
+1618
+17232221
+24
+1527
+2629
+28
+43
+4530
+433232
+42
+3131
+413833
+49 4834
+39
+37
+468081
+7978
+77828485
+86
+76
+75 74
+706972
+7164
+62
+6153
+54
+55565760A6768
+59
+5958
+5866
+6573
+108115
+116
+117107
+104103102
+106105 114113
+112100969798
+99959491939292125125
+125
+123
+118119
+120121
+34
+3383
+63
+10
+10B41
+9
+Holywell
+Wood
+Hurst 
+Farm
+Jamson’s
+PlantationBurleigh Brook
+Longcliffe Golf ClubGarendon
+Park
+Shepard’s
+HillShortcliff Brook
+10A1A60B
+11A35
+36
+9A40
+20
+7
+                                                               
+   A512        N
+EW
+ ASHB
+Y ROAD    
+ 
+ 
+ 
+  A512        N
+EW
+ ASHBY ROAD
+                         A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROADA512   ASHBY ROAD  A6004 EPINAL WAY                      A6004 EPINAL WAY       A6004 EPINAL WAY                                                                                                  A6004 EPINAL 
+M1
+M1JUNCTION
+23To Forest Court 132
+The Holt 133To Frederick Street 131
+A60 NottsA6 Derby
+M1, J23To Nottingham
+To Leicester
+Holywell Park
+Supply Capacity: 4400 kVA
+Maximum Demand: 4375 KVA
+Spare Capacity: 25kVALUSEP - Phase 1 & 2
+Supply Capacity: 2000 kVA
+Projected MD: 292 kVA
+Spare Capacity: 1708 kVA Sir Richard Morris
+Supply Capacity: 5000 kVA
+Projected MD: 4740 kVA
+Spare Capacity: 260 kVA 
+Towers
+Supply Capacity: 2000 kVA
+Maximum Demand: 1499kVA
+Spare Capacity: 501 kVA
+West entranceEast entrance
+West ParkVillage ParkCentral Park
+East Park
+LUSEP
+Published under License by Location Maps Limited PU100029016 all rights reserved. 0800 7314 084  www.locationmaps.comA6 Derb y
+A60 Notts
+M1, J23Electrical Demand – Projected Electrical Demands to 2024
+38
+M: Energy DemandLoughborough University Estates Strategy 2020-2040 
+Appendices
+39
+SNELLS    NOOK    LANESNELLS NOOK LANESNELLS NOOK LANE
+                        A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD
+EHB Spor ts TurfWater Based Hocke y Pitch
+Haslegrav e Cricket GroundPaula Radcliffe
+Athletics Stadium
+Ball Pa rk & 
+ECB Nets
+1st XV Rugby PitchPEC Spor ts Turf
+Brockington Pitches 
+& Cricket Nets
+Towers Rugby Pitch
+Tennis Cour ts
+Outdoor Court s
+Paddock Pa rk
+and Run Trails
+Loughborough Univ ersity
+StadiumRubber Cr umbHolyw ell 1 Pitch 
+Holyw ell 2 Pitch  
+Steve Backley National
+Throws Centre (Holywell 3) 
+Holywell 4 Football Pitch
+Holywell 5 Football Pitch
+Holywell 6 Football Pitch
+Holywell 7 Football PitchBeach ParkGames Pa rk
+20
+7                  
+     
+                
+       
+      
+          
+    A512    
+    
+NEW
+ AS
+HBY
+ ROAD
+    
+  
+ 
+  A512   
+     NEW
+ ASH
+BY
+ ROAD
+                        A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROAD 
+ 
+ 
+ 
+                                           A512        ASHBY ROADA512 
+  ASHB
+Y ROAD  A6004 EPINAL WAY                      A6004 EPINAL WAY       A6004 EPINAL WAY                                                                                                  A6004 EPINAL 
+M1
+M1JUNCTION
+23To Forest Court 13 2
+The Holt 133To Frederick Str eet 131
+A60 NottsA6 Derb y
+M1, J23To Nottingha m
+To Leicester
+Holywell Park
+Car Park - Priority for 
+technology demonstratorsPedestrian and  
+cycle zone
+West entranceEast entrance
+West ParkVillage ParkCentral Park
+East Park
+LUSEP
+Published under License by Location Maps Limited PU100029016 all rights reserved. 0800 7314 084  www.locationmaps.comA6 Derb y
+A60 Notts
+M1, J23Park and Ride (West)
+Park and Ride (East)Pedestrianisation of the West, Central and Village parks and construction of new  
+multi-storey car parks on LUSEP and East Park to create a green central spine to 
+generate green public spaces.  
+New multi-storey car parks (500)
+Quality public realm spaceRestricted vehicular routes
+Green pedestrian spineMain vehicular routes
+N: Pedestrianisation and Sustainable TravelLoughborough University Estates Strategy 2020-2040 
+Appendices
+77165/C&PS/Jan2020

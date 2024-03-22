@@ -1,0 +1,948 @@
+Strategic Plan
+CTU 2021  +
+Strategic Plan
+CTU 2021  +
+Contents
+FOREWORD FROM THE CTU RECTOR 5
+MISSION, VISION, KEY PRINCIPLES AND VALUES 81 STUDIES  12
+1.1 Increase interest of talented domestic and for eign secondary school students in enrolling at CTU  14
+1.2 Enhance the quality and success rate of studies 151.3 Include practice in the instruction process 171.4 De ﬁ ne roles and goals of lifelong learning 18
+2  SCIENCE, RESEARCH AND INNOVATION 20
+2.1 Achieve excellence in research through establishment of quality management methods,  provision of an optimum environment and internationalization  222.2 Provide strong support for doctoral programmes 24
+2.3 Build and upgrade research infrastructure 25
+3  HUMAN RESOURCES AND THE ENVIRONMENT    26
+3.1 Increase the university’s attractiveness as a place to work for quali ﬁ ed domestic and foreign sta ff   28
+3.2 Create a pleasant and friendly place for work and learning  303.3 Digitize activities and operations, make data-based decisions 313.4 Improve the quality of library, housing , catering and leisure facilities and services 32
+4  FINANCIAL MANA GEMENT , ORGANIZATION AND PROCESSES  34
+GLOSSARY 36
+ACKNOWLEDGMENTS 38
+Strategic Plan CTU 2021+
+Prepared by: Ing. Veronika Krama říková, MBA, 
+Vice-rector for Development and Strategy, CTUPhoto: Ji ří Ryszawy
+Graphic design: Lenka Klimtová
+© Czech Technical University in Prague, 2020 
+www.cvut.cz
+Foreword from the CTU rector  |5
+Foreword from 
+the CTU Rector
+The Strategic Plan CTU 2021+  is a fundamental document setting out development 
+priorities of the university’s education policy through 2030. It describes university-
+wide activities planned in coordination with f aculties, higher-education organizations 
+and other CTU components in order to meet the plan’s targets, and it also presents 
+targeted measures that need to be implemented by speci ﬁ c units with regard to their 
+respective mission and pro ﬁ le. The Strategic Plan draws on the de ﬁ nition and detailed 
+description of the process of reinfor cing the strengths and minimizing the weaknesses 
+of the university. This document may be updated in line with the progress of its 
+implementation, whereby a major revision may be required in the event of a signi ﬁ cant 
+change in the external environment. The outcomes of our ongoing evaluation may also 
+provide an impetus for revising the document.
+The signi ﬁ cance of this document is highlighted by the fact that it will create brand 
+new opportunities for CTU’s development. Its drafting and completion were a ff ected 
+by the Covid-19 pandemic, which unambiguously demonstrated CTU’s preparedness 
+to take action when, in cooperation with businesses, it designed literally overnight 
+working models of protective masks and shields. The CoroVent lung ventilator, 
+developed by a professional team of Pr ofessor Karel Roubík from the Faculty of 
+Biomedical Engineering of Czech Technical University in cooperation with the 
+COVID19CZ initiative and other experts, is of global importance. The pandemic helped 
+accelerate change and progress at all universities and signi ﬁ cantly in ﬂ uenced the 
+additional internationalization of the education process. The need to rapidly respond 
+to an unexpected situation also showed the merit of ﬂ exibility and agility in decision-
+making by CTU bodies on the basis of analytical data and empirical research. I believe 
+that the necessary and often unbidden adaptation to new conditions will in the future 
+bring us e ff ective possibilities for combining contact and distance learning through 
+use of multiple communication methods and tools that are available to us. I believe that technologies will enable CTU to maintain excellence in education, science and 
+innovation and thus contribute to bettering the quality of society. If we succeed in 
+continuing to observe the motto ‘peace and unity is strength’, together we will emerge 
+from each crisis stronger.
+CTU’s eight faculties and six higher-education organizations cover a broad range 
+of educational, research and other creative ﬁ elds, representing a typical university 
+with a balanced mix of engineering, natural sciences, arts, medical and economic 
+learning. Despite the unfavourable demographic trend in recent years, demand for 
+studying at specialized CTU faculties has been unwavering. The key prerequisite 
+for successful development of the university is primarily professionally competent 
+academicians and internationally recognized experts in scienti ﬁ c ﬁ elds, applied 
+research and development disciplines and in other creative activities, including 
+liberal arts disciplines. Good human resources practice, motivational programmes 
+and collaboration with graduates in accordance with the HR Award principles will be 
+indispensable for the university’s journey toward academic excellence. The knowledge 
+gained during teaching, scienti ﬁ c work and creative activities, combined with students’ 
+engagement in practice, will lead to a continuous improvement of the quality of studies 
+and the performance of our graduates. The preparation of new study programmes will 
+6 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+ Foreword from the CTU rector  |7
+provide an opportunity to link several faculties of the university and to enhance inter-
+faculty cooperation. CTU, as an open and societally bene ﬁ cial university, will consistently 
+participate in the lifelong learning of our citizens on an increasing scale and in keeping 
+with technological development and societal demand.
+We view openness to international cooperation in the broadest sense as a matter of 
+course and, personally, I consider it essential to open up to partner universities, research 
+institutes and other universities both abroad and in the Czech Republic. Such openness 
+is motivated by expectations of a qualitative enrichment of all partners involved in 
+collaboration. I perceive this approach as the only way to better the quality and prestige 
+of doctoral study programmes and habilitation and professorship appointment 
+procedures. The internationalization of the univ ersity and fostering of relations with 
+internationally recognized education and scienti ﬁ c organizations will also enhance our 
+competitiveness on a transnational scale. The participation of our students, doctoral 
+candidates and researchers in international con ferences, research projects, along with 
+their related study trips and other activities, will ultimately make us more competitive 
+and, in tandem with organizing our own scienti ﬁ c conferences, seminars or thematic 
+summer schools and courses, will help increase interest from gifted domestic and 
+foreign applicants to enrol at CTU and will bring top scientists and educators to teach 
+a modern generation of professionals. 
+In recent years, CTU has built state-of-the-art laboratories and unique specialized 
+workplaces, which have helped to rank us as a competitive and open organization on 
+an international scale in a variety of r esearch areas. An undisputed prerequisite for 
+excellent science will also be sharing of research infrastructure, its further expansion 
+and modernization, including well-equipped ancillary facilities. It is critical to focus on 
+science and innovation excellence in addressing global challenges, in particular in the 
+ﬁ elds of digitization, arti ﬁ cial intelligence, robotics, cybernetics, quantum technology, 
+nanotechnology, defence technologies, space , aerospace and automotive industries, 
+and in other areas in line with dynamically changing societal demands. Talented young 
+men and women with postgraduate degrees from CTU and other reputed universities, 
+in collaboration with foreign scientists, will be a necessary condition for achieving the 
+goals set by our university. Support for publishing in reputable professional journals 
+and setting up a transparent and simple technology transfer operation will also be of paramount importance.
+To recruit and retain quality human resources, we must establish a new Merit-based 
+Career System and Conditions of Employment that will strengthen employees’ 
+security and de ﬁ ne transparent rules for their pr ofessional growth. Administrative 
+processes will need to be gradually streamlined by promoting digitization of our 
+operations.
+Commercial funding, combined with internal, na tional, European and other sources, 
+help stabilize ﬁ nancing of our research. Together with an e ff ective management 
+system, they provide the necessary ﬂ exibility and the ability to rapidly respond to the 
+needs of society and implement new solutions into practice. The rapid development 
+that we have recently seen in this regard is evidenced by the emergence of several 
+successful spin-o ff  companies and production licencing. These revenues and close 
+ties with industrial partners facilitate and will sustain our ability to continuously 
+ﬁ nance our development in terms of both material and human resources. E ff ective 
+and transparent use of all those resources and extensive engagement of commercial 
+entities will result in increased ﬁ nancial self-su ffi  ciency of the university in the future. In 
+addition, such funding will help maintain one of the university’s important social roles, 
+notably its active engagement in the public sphere with the aim of promoting and 
+popularizing science, research and innovation in the broadest sense, in an educative 
+and comprehensible way, for children, primary and secondary school students and 
+the general public.
+For the coming decade, CTU has all prerequisites for maintaining and signi ﬁ cantly 
+improving its reputation as a respected public university at home and abroad. We all 
+need to make the most of that most valuable potential of the very essence of the 
+university; our people – colleagues, students, educators and other representatives of 
+academia, and other sta ff .
+doc. RNDr. Vojt ěch Petráček, CSc.
+Rector of CTU in Prague
+8 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+  Mission, Vision, key Principles and Values  |9
+MISSION, VISION, 
+KEY PRINCIPLES AND VALUES
+Vision
+1 CTU8
+Mission
+International excellence and 
+competitiveness in education, 
+science, technology, 
+innovation and application for 
+the betterment of lifeCzech Technical University1 meets the criteria for international excellence and 
+competitiveness in education, science, technology and innovation . It has been 
+building a university that relies on data, is open and looks into the future. It encourages 
+curiosity and smart solutions, follows trends, addresses challenges and responds 
+to societal demand for professional retr aining. It acts in accordance with the code 
+of ethics in a strong social context, cherishes truth-based values, and promotes 
+internationalization, diversity, inclusion and equal treatment. It disseminates scienti ﬁ c 
+knowledge uniquely and comprehensively on an interdisciplinary basis, at home and 
+abroad. Its strategic goal is to maintain in the long term internationally recognized 
+excellence in education, science, technology, innovation and application that 
+contributes to the betterment of society.  CTU aspires to remain a recognized centre of 
+excellence with international visibility, whose erudite, inspiring and ethical approach to 
+education, science and innovation continues the tradition of Czech technical university 
+learning, of which it is the historical standar d-bearer. Through the application of 
+expertise, scienti ﬁ c knowledge and international cooperation, CTU will contribute to 
+solving new problems and challenges. Support f or its students, researchers and other 
+employees and cooperation with domestic and foreign partners will facilitate CTU’s 
+engagement in the society-wide advancement of knowledge and education and their 
+use in practice. 
+CTU will maintain and solidify the hitherto acquired leading position of a research 
+university with the attributes of an international centre of excellence in the ﬁ elds of 
+science, innovation and education. As an important centre of technological progress, it 
+will partake in improving technological literacy and enhancing technical knowledge and 
+curiosity. It will promote digital skills and innovation by engaging in societal challenges 
+and strive to become one of the world’s leaders in education, science and research. It 
+will become a globally appealing academic organization that will attract internationally 
+recognized experts in a variety of ﬁ elds.
+CTU will continue to be an engaging organization providing a friendly and open 
+environment for its students, academicians and employees, both domestic and foreign. 
+It will guarantee quality teaching based on research and innovative approaches and 
+observe the need for ongoing technological progress and digitization. It will disseminate 
+knowledge gained through interdisciplinary cooperation amongst partners within and 
+outside of the university. It will endeavour to win awards in international competitions 
+and shape its image on the basis of research featured in internationally recognized 
+scienti ﬁ c journals. It will openly share knowledge through its strategic partnerships, 
+students, graduates and researchers and thr ough the participation of top experts in 
+international conferences and on professional scienti ﬁ c panels.CTU is committed to innovative, challenging, resear ch-led, transformational education 
+based on tradition and academic freedom. It engages in society-wide development 
+and promotes the betterment of life. It acts in accordance with the values   of an ethical 
+approach to scienti ﬁ c work and embodies freedom of research and thinking. As an 
+internationally recognized university, it cherishes the principles of humanity, human 
+dignity and individuality. It maintains a non-discriminatory environment and is well 
+aware of its social responsibility. It utilizes the latest scienti ﬁ c knowledge, employs 
+modern interactive and innovative methods of learning and engages students in 
+international science projects. It motivates its gr aduates to preserve curiosity, a lifelong 
+pursuit of knowledge and the ability to adapt to unforeseen, changing circumstances, 
+trends and societal challenges brought on by the development of modern technologies 
+and digitization and the advancement of society. CTU creates space for encouraging 
+creativity and critical thinking. It strategic ally manages, evaluates and reacts on the 
+basis of data, implements a quality management system for activities, instruction, 
+research and projects and fosters its strong position in international rankings.
+CTU ensures its further development through targeted communication and 
+collaboration with its students, academicians and sta ff  members, as well as graduates 
+and senior employees. It responds to suggestions and practical experience, forms 
+strategic partnerships and contributes to the dissemination and application of the 
+results of science and innovation activities. It is positively oriented and open, supporting 
+cooperation between faculties, higher-education organizations and departments, as 
+well as collaboration with students, researchers, university sta ff  and graduates, and 
+utilizes the expertise of senior members willing to continue to contribute knowledge 
+proven by years of experience.CTU is internationally oriented and it promotes the internationalization of instruction, 
+research and innovation, as well as foreign mobility of students and both academic 
+and non-academic staff. It engages students in all types of projects, including 
+international projects where it assumes responsibilit y for the outcomes of research 
+and innovation, their dissemination and application in practice. It imparts motivation 
+to achieve better work results and aims to keep the best talent. It provides ample 
+space and opportunities for career growth. It pays attention to the social aspect of 
+society, promotes diversity and participation of di ff erent groups, and engages in the 
+mitigation of social disparities. It provides equal opportunities within and outside of 
+the university, emphasizing transparency in all its activities. It is included in a network of 
+universities, professional platf orms, national and international scienti ﬁ c organizations. 
+It supports the activities of its employees in professional associations, panels and 
+scienti ﬁ c councils and on editorial boards of journals and publishers. It rejects any 
+form of plagiarism or unauthorized use of third-party intellectual property, while 
+developing supporting tools, such as licencing of technologies and ﬁ ling of domestic 
+and international patents for the pr otection of intellectual property.Key principles 
+and values
+10ČESKÉ VYSOKÉ U ČENÍ TECHNICKÉ V PRAZE  |  Strategický zám ěr ČVUT 2021+
+ 10 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+SCIENCE, RESEARCH 
+AND INNOVATIONSTUDIES  
+Strategic targets
+Increase interest of talented domestic and foreign secondary school 
+students in enrolling at CTUEnhance the quality and success rate of studies Include practice in the instruction processDeﬁ ne roles and goals of lifelong learning
+Strategic targets
+Achieve excellence in research through establishment of quality management methods, 
+provision of an optimum environment and internationalizationProvide strong support for doctoral programmesBuild and upgrade research infrastructure3
+4Strategic targets
+Increase the university’s attractiveness as a place to work for quali ﬁ ed domestic 
+and foreign sta ff 
+Create a pleasant and friendly place for work and learningDigitize activities and operations, make data-based decisionsImprove the quality of library, housing, catering and leisure facilities and servicesHUMAN RESOURCES 
+AND THE ENVIRONMENT
+FINANCIAL 
+MANAGEMENT, ORGANIZATION AND PROCESSES1
+2
+ Studies  |13 12 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+1 | STUDIESCTU , using its professionally managed organization and attractive environment, aims 
+to recruit talented students, researchers, teachers and other employees with high 
+potential, both domestic and foreign. The university endeavours to continuously 
+improve the quality of studies through knowledge gained in learning, scienti ﬁ c work 
+or creative activities and through engaging students in practice. It uses modern, 
+internationally recognized approaches in education. It applies open access to 
+learning and data sources. It supports interdisciplinary sharing of subjects among its 
+departments, higher-learning organizations and faculties, which assists in meeting the 
+strategic targets of studies. As an open, societally bene ﬁ cial university, it participates 
+in the lifelong learning of citizens.Preamble
+Funding will be provided  primarily within the scope of Decision on the Provision of 
+a Contribution or Subsidy from the State Budget of the Czech Republic for the relevant 
+year. The key focus will be on the su ffi  cient, e ff ective and transparent use of funding from 
+European Structural Funds and national programmes in order to ensure the bene ﬁ t of 
+improved study results achieved through introduc tion of innovative teaching methods. 
+It will be possible to make use of funding opportunities within the scope of European 
+and international programmes in the 2021+ period accenting digital and technological 
+skills for society, where CTU holds an important position. Funding can be supplemented 
+with revenues generated from courses organized for the public within the framework 
+of lifelong learning.Strategic targets
+1. 1 Increase interest of talented domestic and foreign secondary school 
+ students in enrolling at CTU1. 2 Enhance the quality and success rate of studies 1. 3 Include practice in the instruction process1. 4 De ﬁ ne roles and goals of lifelong learning
+Sources of funding
+ Studies  |15 14 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+1.2 Enhance the quality and success rate of studies
+Operating targets
+Measures
+ Tools1.1 Increase interest of talented domestic and foreign 
+secondary school students in enrolling at CTU
+CTU  creates space for students to become aware of the opportunities and potentials 
+of modern technologies. Through the educa tion process and preparation of study 
+programmes, it actively participates in the transformative and innovative learning processes of society. It observes the principles of internationalization and aims to 
+provide international experience to the majority of its students.
+• Be an open, recognized university with international engagement and quality 
+instruction
+• Ensure diversity of instruction in line with 21st century trends• Keep abreast of global challenges and trends in STEM (Science, Technology, 
+Engineering, Mathematics)
+• Assemble study programmes in accordance with the trends in technological 
+development and societal demand
+• Bolster the interest of domestic and foreign students in technical education• Aim to attract gifted students, thus ensuring the quality selection of applicants• Set rules for cooperation with secondary schools• Simplify the conditions for the transition to university studies
+• Actively reach out to potential applicants, seeking talented domestic and foreign 
+students
+• Structure the content of the admission procedure according to discipline 
+specializations 
+• Provide an engaging presentation of the university for potential applicants and 
+communicate it e ffi  ciently
+• Ensure feedback and transfer of the r esults of research and innovation into 
+teaching
+• Support scienti ﬁ c activities aimed at improving the quality of instruction
+• Provide students with clear and unambiguous information about the evaluation 
+process and study conditions
+• Provide system and data support for strategic management of studies and 
+education
+• Devise a methodology for lifelong learning of secondary school teachers of 
+vocational subjects
+• Accredit study programmes for teaching technical and science subjects at 
+secondary schools
+• Create a motivational system for CTU sta ff  to support students’ scienti ﬁ c and 
+professional work and similar activities for secondary school students as well as after-school activities for primary school students
+• Implement best practices in line with gender diversity
+• Methodology for cooperation with secondary schools
+• Preparatory courses for admission exams and equalization courses prior to the 
+start of studies
+• System for developing methods for regular assessments of the quality of 
+education
+• System for sharing of admission-related best practices between CTU components 
+and foreign universities
+• Communication strategy focused on students Operating targets
+MeasuresCTU is committed to providing education with a high level of quality and international 
+prominence. The university is focused on selecting gifted and positively motivated 
+students. It provides its students with the opportunity to work in an excellent 
+environment with highly quali ﬁ ed partners, including international ones. It will strive 
+to achieve a major contribution to society of its graduates with recognized professional 
+quali ﬁ cations. CTU engages students in research projects and the work process in 
+technical ﬁ elds within an international context.
+• Achieve excellent study results with a profound interest in learning and 
+knowledge
+• Reduce academic failures and promote adher ence to standard duration of studies
+• Prepare study programmes taught in English by quali ﬁ ed teachers and with 
+quality infrastructure
+• Enable open interdisciplinary crossover at CTU during studies• Support talented students• Use smart solutions, innovations and modern technologies and approaches in 
+student-centered learning
+• Internationalize learning by ensuring quality foreign experience for students and 
+teachers
+• Collaborate with leading foreign educators and researchers• Prepare for foreign mobility by becoming acquainted with the cultures of partner 
+organizations and their countries
+• Systematize methods of regular evaluation of the quality of education with an 
+emphasis on its improvement
+• Ensure conditions for professional grow th of domestic and foreign teachers in 
+accordance with the HR Award
+• Set up the accreditation process• Develop, guarantee the quality of, and use combined distance learning in 
+presentation programmes
+• Increase the proportion of online lectures and study materials in digital format
+• Streamline studies-related administrative processes by digitizing them
+ Studies  |17 16 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+Tools
+ToolsA key prerequisite  for successful studies is the use of knowledge in practice. 
+Undergraduate students are already provided an opportunity to collaborate with research teams, and the objective of educating doctoral students is to teach them how to conduct their own independent research. Students have a chance to apply 
+their knowledge in technological applications and innovations and thus participate 
+in solving new global challenges. Due to the quali ﬁ cations they acquire, graduates 
+become reliable leaders in society and ﬁ nd jobs across disciplines, including in the 
+international environment.
+• Improve students’ soft skills and general competencies
+• Improve students’ knowledge in the ﬁ eld of knowledge transfer in science and 
+innovation
+• Support cooperation with graduates, connect the university with renowned 
+foreign graduates
+• Engage external partners in the preparation of study programmes and teaching• Ensure collaboration of students with top companies• Deepen understanding of academic sta ff  and students of the cultures of partner 
+organizations and their countries
+• Involve students with very good performance in solving projects during their 
+studies at the university
+• Balance the ratio of lectures to practical and creative teaching in study 
+programmes
+• Methodically manage practice and internships, including foreign internships, 
+focused on top research
+• Set up a management process to utilize capabilities and resources to develop 
+skills in practice
+• Use the potential of graduates supporting the university as their Alma Mater
+• Infrastructure for skills development in practice
+• Platform for collaboration and work of graduates in practice• Consistent and targeted communication with graduates• Data collection and analyses of graduate s’ employment prospects in practice
+• Communication strategy targeting the private sectorOperating targets
+Measures
+1.3 Include practice in the instruction process• Create an open digital education pla tform for the public, including foreign public 
+users
+• Engage students in cooperation on common platforms, encourage quality 
+communication
+• Motivate students to achieve a B2 and higher level of knowledge in English or 
+another world language
+• Off er alternative teaching of subjects in a foreign language within Czech 
+programmes
+• Set rules for the crediting of subjects after returning from studies within the 
+Erasmus programme
+• Improve the mobility process focusing on top institutions• Within the framework of foreign mobility, prepare a concept for promoting 
+understanding of the cultures of partner organizations and their countries 
+• Create adequate conditions for mobilit y of foreign teachers and researchers
+• Introduce incentives to reduce academic failures• Provide adequate conditions for balancing studies with family and work life
+• Methodology for the evaluation of the quality of education 
+• Institutional accreditation• Methodology for monitoring student satisfac tion and for evaluation and follow-up 
+measures
+• Regular surveys, questionnaires, satisfaction polls conducted among employees 
+and students
+• Methodology for using and sharing best practice examples across the university• System of independent mentors to ensure students’ growth• Digitization of teaching materials in accordance with the Open Educational 
+Resources programme
+• Courses taught in English within Czech study programmes• Participation of a foreign lecturer in supervising semestral and ﬁ nal theses within 
+Czech programmes
+• Rules for assessing the quality of partner organizations• Courses and training aimed at understanding the cultures of partner 
+organizations and their countries 
+• Guidelines for using the EuroTeQ University programme• Non-semestral subjects and courses conducted outside of the teaching period in 
+the initial years of studies, camps, summer schools
+• Methodology for balancing studies with family and work life
+ Studies  |19 18 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU  supports the ongoing growth of graduates and the public within the framework 
+of lifelong learning, thus increasing the importance of the Third Mission in society and 
+ensuring progress through technical and t echnological education. CTU will provide 
+excellent lifelong learning courses and participate in improving professional training. 
+It will provide access to its Open Technology Lab to everyone, which is instrumental to 
+the advancement of a modern society based on technological progress and innovation.
+• Provide excellent lifelong learning courses• Expand the o ff er and improve the quality of vocational education in selected 
+disciplines
+• Off er specialized courses on the international market, summer schools, 
+e-learning, online education
+• Off er lifelong learning courses in accordance with technological development 
+and societal demand
+• Off er quality retraining courses re ﬂ ecting societal demand in the event of job 
+losses
+• Supplement the lifelong learning o ff ering with mentoring, coaching and 
+professional and personal growth
+• Improve, develop and promote education of teachers, as well as non-academic 
+staff 
+• Firmly establish lifelong learning as a source of important information for 
+specialized training
+• Develop interest-oriented courses within the scope of University of the Third Age, 
+provide certi ﬁ ed courses
+• Further develop and improve online teaching according to the needs of teachers 
+and students
+• Personalized services for graduates of lifelong learning courses
+• De ﬁ ned off ering based on market research and market consultation
+• Balanced courses combining theory and application in practice where candidates 
+are aware of why they are learning and what is the practical use of their knowledge
+• Micro-credentialing system• Comprehensive communication strategy in the ﬁ eld of lifelong learning and other 
+commercial courses
+• Inclusion of Open Technology Labs in the lifelong learning strategyOperating targets
+Measures
+Tools1.4 De ﬁ ne roles and goals of lifelong learning
+
+20ČESKÉ VYSOKÉ U ČENÍ TECHNICKÉ V PRAZE  |  Strategický zám ěr ČVUT 2021+ 21 Science, Research and Innovation  |
+2 | SCIENCE, 
+RESEARCH AND INNOVATION20 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU will strengthen its role as a research-or iented, internationally recognized university 
+by bolstering excellence and internationalization. It will be open to team collaboration 
+across its components to accelerate technological pr ogress. It will form new strategic 
+national and international partnerships in both academic and industrial environments 
+and respond to societal demand and the demands of its partners in order to create 
+interdisciplinary synergies with regard to technical focus and excellence. Within the 
+functional ecosystem, the university will endeavour to link research with business, with 
+an emphasis on transfer of knowledge from resear ch into practice. The modern digital 
+age and current global challenges are increasingly penetrating the natural and social 
+sciences. Openness, communication and cooperation at the international level are the 
+present challenges to achieve a synergistic e ff ect of scienti ﬁ c research. The key factor 
+is ongoing support for the development of technologies with a focus on ﬁ nal products 
+with high added value and on use of such potential in practice, in the application sphere, 
+in particular in industry and other sectors.Preamble
+Sources of funding
+Funding is primarily comprised of subsidy programmes of the Ministry of Education, 
+Youth and Sports of the Czech Republic within the state budget for the relevant 
+year. The second key source for dev elopment of science, research and innovation is 
+European Structural Funds and national programmes, the use of which depends on 
+the quality preparation, coordination and management of funded activities without 
+excessive administrative burden. The aim is to also use community and international 
+projects, programme calls and other t ools and resources, in particular funds acquired 
+from revenues from a transparently operated and newly created technology transfer 
+structure. Another important source of funding in the ﬁ eld of science, research and 
+innovation can be obtained from performance of contract research based on societal 
+demand or demand by industrial partners in line with objectives de ﬁ ned by national 
+strategies, especially in the ﬁ elds of digitization, arti ﬁ cial intelligence and Czech 
+industry development. Strategic targets
+2. 1 Achieve excellence in research through establishment of quality management 
+ methods, provision of an optimum environment and internationalization2. 2 Provide strong support for doctoral programmes2. 3 Build and upgrade research infrastructure
+23 Science, Research and Innovation  | 22 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU’s  focus on science and innovation must re ﬂ ect an increasing tendency to advance 
+scienti ﬁ c and creative excellence and interdisciplinary cooperation at home and 
+abroad. The results of such research and innovation will help expand knowledge 
+and tackle global challenges, in particular with regar d to environmental protection, 
+health and safety, adequacy of resources, climate change, energy saving measures, 
+and urban and landscape planning. Scienti ﬁ c research will focus on the advancement 
+of natural and technical sciences and their applications in areas such as digitization, 
+artiﬁ cial intelligence, robotics, cybernetics, quantum technology, nanotechnology, 
+Earth observation, satellite navigation, defence technologies, space, aerospace 
+and automotive industries, and many more ﬁ elds which are key to sustainability 
+and dynamically changing societal and industrial demands. Scienti ﬁ c activities 
+will comply with ethical rules and utilize the results of technological research and 
+innovation.
+• Contribute to expansion of scienti ﬁ c knowledge by pursuing excellence in 
+research and innovation
+• Ensure a leading position in project management, maximize the use of resources, 
+projects and platforms
+• Utilize the results of basic research in applications and innovations• Form strategic partnerships with interdisciplinary links• Identify priority areas, develop strategic foci in line with global technological 
+progress
+• Respond to societal demand by using knowledge potential and available 
+capabilities
+• Participate in addressing national and global societal challenges by innovating 
+approaches to and solving them
+• Target support for international cooperation to work with excellent foreign 
+scienti ﬁ c teams
+• Increase the degree of interna tional experience among researchers and also 
+among students and doctoral candidates
+• Increase the number of foreign science experts at the university• Support publishing activities and skills of researchers and students• Gain excellent knowledge in the ﬁ eld of patent and licencing protection
+• Set up a transparent and simple technology transfer process• Increase the proportion of interna tional sponsorship in research and innovation
+• Set up a system for ev aluating researchers with the help of an independent 
+committee, including international members
+• Establish smart and friendly administrative and support facilities for research, 
+development and innovation
+• De ﬁ ne the principles of ethics, prof essional responsibility and best practice in 
+research and dissemination of its results
+• Support the work of excellent and promising research teams and individuals
+• Originate top-rank international projects• Ensure participation in international scienti ﬁ c organizations, panels and 
+platforms
+• Strengthen leadership of academicians in the gatekeepers’ role• Engage foreign scienti ﬁ c experts in university steering and science committees2.1 Achieve excellence in research through establishment 
+of quality management methods, provision of an optimum environment and internationalization
+• Organize international conferences with the participation and under the auspices 
+of international professional organizations
+• Participate in the activities of editor ial boards of prestigious world-renowned 
+publishers
+• Introduce a remuneration system for outstanding foreign experts working at CTU
+• Promote mobility of doctoral students• Set a high level of quality, processes and indicators management in programmes• Improve the position of the university in international rankings according to the 
+indicators monitored for components
+• Include external and international elements in the assessment of research results• Link monitored data with the funding distribution system• Develop methods for assessing the quality of research and innovation of 
+academic sta ff 
+• Introduce a system of education in the ﬁ eld of knowledge and technology 
+transfer, set up an evaluation process
+• Create an adequate Merit-based Career System• Establish open, e ffi  cient, transparent, applicant-friendly and internationally 
+comparable admission procedures
+• Provide administrative support for scienti ﬁ c teams and sta ff  to ful ﬁ l their scienti ﬁ c 
+mission in a quality manner
+• Clearly de ﬁ ne the Code of Ethics
+• Interlinking of excellent project teams for access to future funding and 
+development of strategic research 
+• University-wide projects to support team excellence with central theses defence 
+and quality assessment
+• Quality management strategy for research• Strategy of excellence with a ﬂ exible project management system
+• Internationalization strategy • Adequate Merit-based Career System• Amended Recruitment Process Rules for employees and related faculty and 
+institutional guidelines
+• Procedure guidelines and informa tion system for sta ff  evaluation, faculty and 
+institutional guidelines
+• Transfer of results, including legal advisory,  intellectual property, standardized 
+licence agreements
+• Code of Ethics, Statute and Rules of Procedure of the Ethics Committee
+MeasuresTools
+Operating targets
+25 Science, Research and Innovation  | 24 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU’s mission  is to provide excellence in research, development and innovation 
+with international engagement. This goal must be achieved through bolstering 
+scienti ﬁ c teams with young aspiring researchers and through cooperation and work 
+with talented students. The university will provide resources with an open approach 
+supporting professional growth and will strive to acquire quali ﬁ ed domestic and foreign 
+doctoral students and to develop their skills by ensuring quality teaching, international 
+experience and internships. It will facilitate publishing activities, foreign internships 
+and participation in international teams.
+• Increase the number of talented domestic and foreign doctoral students
+• Improve skills in science and innovation work and in publishing activities• Increase the proportion of doctoral students’ mobility, create a system of post-
+doctoral job positions
+• Provide for every doctoral progr amme graduate to make use of foreign 
+internships or participation in international projects 
+• Facilitate balancing of family and work life for doctoral students• Improve quality by adding a strong element of independent external or 
+international evaluation
+• Create an industrial PhD programme 
+• Improve the quality and openness of doctoral studies by engaging international 
+elements in performance evaluation
+• Ensure an open, attractive scienti ﬁ c environment for science and innovation 
+activities
+• Off er premium motivational conditions to excellent applicants for doctoral studies
+• Consistently work with gifted undergr aduate students and help prepare them for 
+doctoral studies
+• Assess the quality of lecturers’ work• Ensure and promote collaboration and work of doctoral students and doctoral 
+graduates in practice
+• Facilitate interdisciplinary interactions within individual study programmes• Provide language and editorial support for publishing activities in major peer-
+reviewed journals
+• Improve the conditions for successful studies• Foster the social integration of doctoral students• Promote balancing of personal, family and work life• Maintain and require ethical values and ethical standards
+• Established and functional International Advisory Board
+• Admission procedure conditions with r egard to enhancing international 
+attractiveness
+• Admission procedure conditions with regard to interdisciplinary interactions 
+between study programmes
+• Adequate ﬁ nancial conditions for quality full-time studies
+• Formal and functional mentoring network for doctoral students• Assessment system for output quality comprising international indicators and an 
+independent external evaluator
+• Rules of doctoral studies, including quali ﬁ cation requirements for lecturers and 
+conditions of mutual cooperation
+• Open Data, Open Access policies• Consistent support for project funding across the university• Aff ordable accommodation in separate rooms in dormitoriesCTU  is involved in creating a national innova tion ecosystem attractive to research 
+partners and large national and international companies/ ﬁ rms. Making the university’s 
+research capacities, such as laboratories, t esting facilities and research infrastructure, 
+available for both domestic research and international projects, will ultimately ensure 
+proper conditions for further development. E ff ective use of the university’s research 
+infrastructure and its expansion and modernization is a necessary prerequisite for 
+excellent science.
+• Support the renewal and development of research infrastructure within and 
+outside of the university
+• Provide infrastructure for ne w technological challenges and societal progress
+• Maximize the utilization of national and international scienti ﬁ c infrastructure 
+projects
+• Prepare and well coordinate large international infrastructure projects with 
+excellent partners
+• Form partnerships within large interna tional infrastructure projects
+• Put societally important projects on the map of large research infrastructures in 
+the Czech Republic
+• Ensure the university’s operability as a research hub for domestic industry and 
+foreign companies
+• Implementation of the university’s strategic projects 
+• Engagement in international scienti ﬁ c networks and joint sharing of best practices
+• Increased awareness and sharing of opportunities for collaboration and 
+development across the university
+• Targeted cooperation between components in developing strategic projects• High-quality and e ff ective project pr eparation and project management
+• Eff ective use of human potential and the material and technical resources of the 
+university
+• Building the infrastructure necessary to implement the innovation and 
+entrepreneurship programme
+• Flexible project management system, cooperation with project teams from 
+among the university’s components
+• Fully functional CTU investment development programme, including the CTU 
+General Development Plan and the Investment Plan
+• Innovation and entrepreneurship programme• System for equipment sharing and internal rental 2.3 Build and upgrade research infrastructure
+Operating targetsMeasures
+Measures
+Tools
+Tools
+2.2 Provide strong support for doctoral programmes
+Operating targets
+Human Resources and the Environment  |27 26 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+3 | HUMAN RESOURCES 
+AND THE ENVIRONMENT26 CZECH TECHNICAL UNIVERSITY IN PRAGUE   |  Strategic Plan CTU 2021+
+CTU  will create conditions for recruiting excellent human resources and ensuring 
+a quality environment. It will set up a Merit-based Career System and Conditions of 
+Employment for its sta ff  aimed at enhancing the quality of services provided and 
+related outputs, and the streamlining of activities and operations at the university. The 
+use of human resources will be maximized by setting social, economic, environmental 
+and organizational standards and capacities . Digitization of activities and operations 
+will help simplify administrative processes and improve the quality of services. The 
+strategic goal is to create an optimum en vironment that will provide requisite facilities 
+for all domestic and foreign students, academicians and employees.Preamble
+Sources of funding
+This area of development  will be ﬁ nanced primarily within the scope of an institutional 
+plan and allocations of the Ministry of Education, Youth and Sports of the Czech Republic. 
+Other funding opportunities will be sought within the framework of programme funding 
+from the European Structural Funds and national and regional programmes. Additional 
+funding can be obtained mainly through participation in European and international 
+projects. All projects should meet sustainability and technological needs and all 
+possible non-academic sources for project ﬁ nancing should be explored.Strategic targets
+3. 1 Increase the university’s attractiveness as a place to work for quali ﬁ ed 
+ domestic and foreign sta ff 
+3. 2 Create a pleasant and friendly place for work and learning3. 3 Digitize activities and operations, make data-based decisions3. 4 Improve the quality of library, housing, catering and leisure facilities  and services
+Human Resources and the Environment  |29 28 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU  will create conditions facilitating career growth of all employees. In the long 
+run, this e ff ort will improve the performance of the university by taking into account 
+growing demands on employees and on applicants to join the academic community. 
+Decision-making will be based on the newly drafted Merit-based Career System and 
+Conditions of Employment. Emphasis will be placed on personal research performance 
+and the potential and ability to deliver key innovations. Improvement of the academic 
+community will take place step by step and will be conditioned by acknowledging the 
+extant status of existing academic sta ff . The university’s operability will be ensured 
+by quali ﬁ ed administrative sta ff . With regard to meeting CTU’s strategic targets, it is 
+critical to su ffi  ciently motivate employees and contribute to their sound personal and 
+professional growth in accordance with international standards.
+• Create a Merit-based Career Sy stem and draft Conditions of Employment for 
+university sta ff 
+• Create and improve conditions for personal and professional growth related to 
+teaching and innovation
+• Support professional growth of employees• Motivate academic sta ff  to improve their competencies for teaching and drawing 
+up study programmes
+• Remove obstacles identi ﬁ ed through analyses performed within the HR Award 
+project
+• Motivate employees to hone their professional skills in accordance with career 
+advancement and the Conditions of Employment
+• Ensure a top-notch HR management, evaluation and career advancement system• Hire the best applicants for CTU jobs• Present the goals and mission of CTU to help employees understand them and 
+identify with them
+• Respect the needs of speci ﬁ c groups
+• De ﬁ ne data for collection to assess the quality of university activities
+• Engage with university graduates• Engage with researchers, academicians, other university sta ff  and senior 
+members of the broader university community
+• Provide lifelong training for vocational secondary school teachers
+• Create conditions for professional growth in accordance with the Merit-based 
+Career System and Conditions of Employment
+• Develop methods for assessing the quality of education and learning of academic 
+staff  to meet international criteria
+• Create opportunities for sharing experience and discussing innovation in 
+education
+• Remove language barriers for foreign workers, draft bilingual documentsOperating targets
+MeasuresTools3.1 Increase the university’s attractiveness as 
+a place to work for quali ﬁ ed domestic and foreign sta ff • Aim to hire bilingual administrative sta ff 
+• Amend the Recruitment Process Rules in accordance with the HR Award principles• Improve the conditions for balancing work and family life• Support the university kindergarten and school• Establish processes of data collection for evaluations of quality indicators• Provide a system for the registr ation of graduates and senior researchers and 
+deﬁ ne the scope of care
+• Merit-based Career System for academic sta ff 
+• Conditions of Employment for university sta ff 
+• Streamlining the HR policy and overseeing strict compliance with the Merit-based 
+Career System
+• Development of language, digital and other skills of employees, using the Teach 
+the Teacher method
+• Better use of International Visiting Professors, PostDoc programmes• Regular evaluations, ful ﬁ lment of indicators, linking performance to remuneration 
+and career advancement
+• Participation of leading external experts in the internal evaluation process• Motivation of components to improve evaluation-related indicators to meet 
+international criteria
+• Publishing and implementation of best practices for sta ff  recruitment
+• Fully operable and updated database of graduates, researchers and senior 
+members of the broader university community
+• Methodology for engaging with graduates, researchers and senior members of 
+the broader university community
+
+Human Resources and the Environment  |31 30 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU  will modernize its buildings and premises and create a quality environment that 
+meets international standards to provide an attractive place for teaching all students. 
+The university will be inspiring and will provide requisite facilities allowing for the 
+enjoyment of everyday life and leisure at the campus.
+• Set up a functional and e ff ective ecosystem for educational, research, social, 
+leisure and sports activities
+• Create and develop campus spaces, university buildings and premises meeting 
+the needs of students
+• Establish an attractive cultural and leisure centre for students and the public• Encourage public interest in studies
+• Build modern and well-equipped classrooms and laboratories as part of the 
+development and ful ﬁ lment of the goal of excellence
+• Build quality infrastructure for interactive learning methods• Support activities for the development of common spaces• Develop hubs, laboratories, libraries, study rooms and other facilities for 
+extracurricular activities
+• Support student group activities • Promote events at the Bethlehem Chapel
+• CTU General Development Plan and the Investment Plan 
+• Project and ﬁ nancial management, including public procurement
+• Control and management mechanisms and direct links to operational quality 
+management
+• Collection of data re ﬂ ecting satisfaction, f eedback and follow-up measuresSupport for digitization  within and outside of the university is one of CTU’s key strategic 
+goals. We live at a time when the public is increasingly aware of the need for digitization 
+and its timely implementation in all sectors of the economy and society. A modern, smart, 
+digital society is built upon high-quality processing of available data, re ﬂ ecting the trend 
+to use Open Data policy methods. The success of digitization lies in the selection of 
+adequate methods and quality assessment, data  processing and related processes. 
+Human resources and their competences are instrumental to the implementation of 
+digitization. The university will support the use of digitization in strategic management, 
+administration, educational process and other activities, and it will focus on the quality of data gathering, processing and evaluation under international standards.
+• Digitize data relevant for strategic management and quality
+• Automate internal decision-making, management and change processes• Ensure the collection and evaluation of quality data and information for strategic 
+management and quality
+• Make full use of the Open Data policy
+• Systematize the collection of quality data and information on activities for 
+analytical evaluation
+• Ensure su ffi  cient computing power and data storage capacity
+• Implement measures compliant with the principles of cyber security• Digitize the processes of accreditation, labour relations, the Merit-based Career 
+System and the Conditions of Employment
+• Eff ective system for gathering and analysing quality university data and 
+information
+• Guidelines for the use of Open Data and Open Access • De ﬁ nition of data repository functionality and its extension according to current 
+needs
+• De ﬁ nition of the scope of data collected for evaluations required for both ﬁ scal 
+and non- ﬁ scal audit functions
+• Analytical centre for processing data  for university-wide strategic management 
+• Investment Development Programme, CTU General Development Plan and 
+Investment Plan
+• Development of applications for ﬁ nancial management and public procurement3.2 Create a pleasant and friendly place 
+for work and learning 
+3.3 Digitize activities and operations, 
+make data-based decisionsOperating targets
+Operating targetsMeasures
+MeasuresTools
+Tools
+
+Human Resources and the Environment  |33 32 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+3.4 Improve the quality of library, housing, 
+catering and leisure facilities and services
+Building  an enjoyable and smart environment, upgrading and developing the basic 
+infrastructure for students and university sta ff  is a key factor of attractiveness. Improving 
+the quality of services provided and their availability is essential for evaluation under 
+international standards. The university wants to provide excellent library, housing and 
+catering services, as well as opportunities f or leisure activities within the campus area. 
+Smart solutions and a high level of quality will contribute to meeting CTU’s strategic 
+targets and to sound personal growth of students and employees.
+• Implement smart solutions, build a smart campus
+• Develop basic infrastructure• Modernize library, housing, catering and leisure facilities• Build new and modernize existing accommodation for visiting foreigners• Elevate the quality standards of services provided to the international level• Reduce the proportion of multi-bed rooms in housing facilities• Modernize the existing catering facilities, ensure their su ffi  cient capacity
+• Increase the availability of quality literature and study materials, keeping in mind 
+the need to update them
+• Maintain a high standard of leisure facilities and services
+• Implement services and smart applications supporting student and campus 
+activities
+• Renew and expand the technological infrastructure shared by the university’s 
+components
+• Prepare an investment plan for housing, catering and leisure facilities
+• Develop library, housing and catering services and leisure activities• Set standards of services provided, including their control and evaluation 
+mechanisms
+• Support publishing of Czech textbooks by the CTU Publishing House• Expand library services, establish study rooms and other study facilities
+• Fully functional Investment Development Programme, including the CTU General 
+Development Plan and the Investment Plan
+• Merit-based Career System and remuneration system for all employees based on 
+the motivational element
+• Standards of services provided linked to the HR policy applied for service sta ff 
+• Control and management mechanisms and direct links to operational quality 
+management
+• Smart applications and services supplemented by adequate infrastructure• Quality project management
+Operating targets
+Measures
+Tools
+
+34ČESKÉ VYSOKÉ U ČENÍ TECHNICKÉ V PRAZE  |  Strategický zám ěr ČVUT 2021+  Financial Management, Organization and Processes  |35
+4 | FINANCIAL 
+MANAGEMENT, ORGANIZATION AND PROCESSES34 CZECH TECHNICAL UNIVERSITY IN PRAGUE  |  Strategic Plan CTU 2021+
+CTU  aspires to be an internationally recognized university with an effectively 
+implemented ﬁ nancial management system supported by quality management, 
+communication across functional organiza tional units and well-defined project 
+management processes. The management and assurance system within these 
+established processes will be based on transparent rules with clearly de ﬁ ned ﬁ nancial 
+models and a public procurement system. Further development presupposes stable, 
+but also ﬂ exibly set conditions for the use of internal, national, European and other 
+international existing and newly created financial resources. To fully meet the 
+strategic targets in the area of ﬁ nancial management, organization and processes are 
+instrumental to ensuring a positive evaluation of the university in order to become and 
+remain a true leader on an international scale.
+• Maximize utilization of project opportunities, enhance the success of submitted 
+project applications
+• Maximize technology transfer and revenues from the transfer of the results of 
+science and innovation activities
+• Support contractual research and licencing, build university capacity, e.g. in the 
+form of funds
+• Stabilize funding rules with a long-term impact on quality in international 
+rankings
+• Create a ﬂ exible and transparent funding structure using all sources of funding
+• Increase revenues from the university’s economic ventures• Seek new forms of ﬁ nancing of the university’s capital development 
+• Implement a fair and motivational system for redistributing funds to the 
+university’s components
+• Prepare the CTU General Development Plan and the Investment Plan on the basis 
+of an analysis of the current condition and use of CTU buildings, the needs of the university and the established priorities
+• Effi  ciently process data related to ﬁ nancial management 
+• Establish an information platform f or project opportunities across the university
+• Continuously analyse ﬁ nancing options, create appropriate and high-quality 
+funding instruments and models
+• Create conditions for drawing from the Future Fund• Actively manage the process of utilizing all available ﬁ nancial resources
+• Set up an e ff ective public procurement system, including bid processing
+• Set up an independent evaluation system, determine project indicators• Develop a system of project management or ﬁ nancial management and public 
+procurement
+• Strategically manage and support partners and legal entities in which CTU holds 
+a stakeholder interest
+• Methodology for funding long-term development 
+• Methodology for ﬁ nancing within the scope of the Future Fund, Research Seed 
+Fund and other emerging funds
+• Rules of administrative support for university project ﬁ nancing 
+• Guidelines for CRM, customer-oriented management within the university• Open Smart O ffi  ce project management strategy 
+• Flexible system of project management and technology transfer of innovations• Clear-cut procedures for spin-o ff s, legal advisory, intellectual property, licence 
+agreements
+• Public procurement management methodology • Eff ective and transparent system of internal audit and ﬁ nancial control meeting 
+international standards
+• Communication strategyOperating targets
+Measures
+ToolsPreamble
+ Glossary  |37 36ČESKÉ VYSOKÉ U ČENÍ TECHNICKÉ V PRAZE  |  Strategický zám ěr ČVUT 2021+
+CRM , Customer Relationship Management means a business 
+approach to management of customer relations characterized 
+by the active forming and maintaining of long-term useful 
+connections with customers.
+EuroTeQ University  means a joint project of international 
+cooperation launched under the European Universities’ Erasmus 
+programme where CTU collaborates with technical universities: 
+Technical University of Denmark, École Polytechnique, Eindhoven 
+University of Technology, Technical University of Munich, École 
+Polytechnique Fédérale de Lausanne, Technion - Israel Institute 
+of Technology and Tallinn University of Technology.
+Gatekeepers  means designated persons who play a key role in 
+ensuring that researchers have access to potential participants 
+and research sites. The positive e ff ects of gatekeepers, in the 
+sense of those who open the gates, i.e. opportunities, can be 
+invaluable to the research process by facilitating the smooth 
+running of a research projec t through to its completion.
+Industrial PhD Programme  aims to boost sharing of knowledge 
+between the university and private companies, support research 
+with commercial use prospects and utilize competencies and 
+research facilities for privat e business to increase the number 
+of doctoral students.
+International Advisory Board  means an independent 
+international science advisory body composed of internationally 
+recognized scientists with a focus on helping the university 
+develop scienti ﬁ c strategies, provide independent evaluation, 
+and advise on a range of science-related issues.
+International Visiting Professors  means a programme 
+promoting visits of foreign professors who lead courses that are currently unavailable at the university. The programme is perceived as an international scientific exchange of collaborations, which significantly contributes to the 
+development and internationalization of university life, improves 
+the quality of teaching under foreign standards through the 
+activities of visiting foreign educators, and is a very e ff ective tool 
+with which to break down cultural barriers.
+Micro-credentialing  means a digital form of certification 
+indicating a proven competence; i.e. mastery of a speci ﬁ c skill. 
+The competencies are de ﬁ ned by the teacher, along with the 
+requirements for obtaining the competence.
+Open Access  provides access to scienti ﬁ c information and is 
+a unique model of science-related communication that ensures 
+permanent, immediate and free-of-charge online access to full 
+texts of published scienti ﬁ c results without restric tion for anyone.
+Open Data  means data and information publicly available in an 
+open and readable format. The method and purpose of data use 
+are unrestricted and the source of data is usually required merely 
+to specify their origin. Open Data can be used free of charge or 
+at a minimum cost.Open Educational Resources  means openly licenced sources, 
+documents and media, freely accessible without restrictions, 
+used for teaching, learning and evaluation, and also for 
+research purposes with the option to modify them to serve as 
+textbooks, courses, software and other tools to support access 
+to knowledge.
+Open Smart O ffi  c e uses intelligent technologies and provides 
+maximum support for researchers in the ﬁ eld of technology, 
+knowledge and results transfer, coupled with legal tools for intellectual property protection. The Open Smart Office is 
+essentially based on an available o ff er of documents and steps 
+that can be quickly applied and, at the same time, personalized for users.
+Open Source Technology Lab  means a laboratory for scienti ﬁ c 
+research and development which supports technology-related 
+projects. It provides space, support, publicity and sharing, 
+including o ff ers of lifelong learning or excellent extracurricular 
+courses.
+PostDoc Programme  off ers post-doctoral positions to talented 
+new graduates of Ph.D. studies, and also to ambitious researchers 
+who are looking to pursue a second PostDoc classi ﬁ cation and 
+intend to assemble their own teams for their own projects.
+Research Seed Fund  is designed to support activities necessary 
+to promote competitive research projects.
+STEM  means a concept focused on four disciplines: science, 
+technology, engineering and mathematics. This concept is not 
+based on traditional education methods but aims to address real 
+world challenges and emphasizes critical and creative thinking. 
+Various teaching aids are often used to inspire students to take 
+up the foregoing four disciplines.
+Student-Centered Learning  means a process where the focus of 
+instruction is on the student and which uses teacher-to-student 
+learning methods.
+Teach the Teacher  means a professional development 
+programme for teachers and school staff conducted by a student-led group. The programme is designed and implemented by students with the support of teachers and 
+university management. The objective is to improve professional 
+skills of teachers and management, identify internal issues and 
+seek optimum solutions by supporting change. It represents 
+an internationally recognized innovation tool in education with 
+a focus on improving student performance and communication 
+within the school.
+Transformational education  means setting up an educational 
+process with a higher demand for theoretical and professional 
+activities using innovative solutions and alternative approaches 
+in order to enable educational excellence.| GLOSSARY36 CZECH TECHNICAL UNIVERSITY IN PRAGUE   |  Strategic Plan CTU 2021+
+Acknowledgments
+The Strategic Plan , comprising the intentions, as well as the steps 
+to meet the set targets, is a document of a great university-wide 
+importance. I would like to thank all of my colleagues in CTU 
+management for their e ff orts and for the very ardent cooperation 
+of members of all faculties, university organizations and other 
+CTU components. I also want to extend my thank you to the 
+members of the CTU Academic Senate and to the students who 
+jointly and very actively participated in drafting the ﬁ nal version 
+of this strategy.
+The Strategic Plan CTU 2021+ will accompany us in the long 
+term through 2030 and is, therefore, a key supporting document 
+for the future development of the university. We are entering the next period at a very di ffi  cult time, our actions are largely 
+influenced by the Covid-19 pandemic, where academia has 
+clearly demonstrated its importance and contribution. I believe 
+that the stated goals and measures will lead to the strengthening 
+of CTU’s position, that we will continue to actively participate in 
+major societal decisions: what is our path, which areas to treat as 
+priorities, what activities to discar d and where to focus on new 
+opportunities.
+I assume that in the coming period we will have enough vigour 
+and resources to support top science and research, scientists and 
+their teams. I also expect that we will be able to strive for the 
+development of the university as a whole to continue to attract 
+quali ﬁ ed students who will work in scienti ﬁ c ﬁ elds or will ﬁ nd jobs 
+in practical applications and will stay connected to CTU for the rest 
+of their professional lives. I believe that we will succeed in making 
+eff ective use of all available sources of funding to ensure further 
+upgrades of infrastructure and laboratories, the development of 
+centres of excellence, and improvement of testing laboratories 
+to foster the university’s key strengths and utilize its intellectual 
+property and historical tradition, which is of unquestionable value 
+today.Thank you to all those who, with their work, talent, faith and love 
+for science and education, want to participate in the development 
+of CTU by ful ﬁ lling the mission de ﬁ ned within this Strategic Plan 
+CTU 2021+.
+Ing. Veronika Krama říková, MBA
+Vice-rector for Development and Strategy, CTU, Prague
+
